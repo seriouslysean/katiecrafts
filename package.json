@@ -23,10 +23,15 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "devDependencies": {
-    "@11ty/eleventy": "^0.12.1",
+    "@11ty/eleventy": "^1.0.1",
+    "axios": "^0.21.1",
     "eslint": "^7.18.0",
     "eslint-config-airbnb-base": "^14.2.1",
+    "html-entities": "^2.3.2",
+    "lodash": "^4.17.21",
+    "prettier": "^2.3.2",
     "push-dir": "^0.4.1",
-    "rimraf": "^2.7.1"
+    "rimraf": "^2.7.1",
+    "yargs": "^17.0.1"
   }
 }
