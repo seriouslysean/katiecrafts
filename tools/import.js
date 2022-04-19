@@ -15,6 +15,7 @@ const { get } = require('lodash');
 const axios = require('axios').default;
 const { decode } = require('html-entities');
 const prettier = require('prettier');
+const { parse } = require('node-html-parser');
 
 //////////////////////////////////////////////////
 ///// SETUP
@@ -50,7 +51,18 @@ function logErrorAndExit(msg) {
     process.exit(1);
 }
 
+function getAdaptedImage(image, imageClass) {
+    const src = (image.getAttribute('src') || '').split('?')[0]; // .replace(/\.jpeg$/, '.jpg');
+    const alt = image.getAttribute('alt') || '';
+    const width = image.getAttribute('width') || '';
+    const height = image.getAttribute('height') || '';
+    return `<img class="${imageClass}" src="${src}" loading="lazy" alt="${alt}" width="${width}" height="${height}" />`
+}
+
 function formatAndSavePost(post) {
+    // Get the root domain
+    const baseUrl =  WPURL_PARSED.origin;
+
     // Split data on T to only get YYYY-MM-DD
     const date = post.date.split('T')[0];
     console.log(date);
@@ -61,6 +73,7 @@ function formatAndSavePost(post) {
     // Get the post content
     const content = get(post, 'content.rendered')
         .replace('<!--more-->', '');
+    const contentParsed = parse(content);
 
     // When using &_embed, linked data is stored in the _embedded object
     const embedded = get(post, '_embedded');
@@ -72,9 +85,6 @@ function formatAndSavePost(post) {
     if (WPSAVEIMAGES) {
         console.log('!!! Save image');
     }
-
-    // Post images
-    // TODO
 
     // Categories and tags
     const getAndFormatTaxonomy = (slug, taxonomy) => {
@@ -93,6 +103,38 @@ function formatAndSavePost(post) {
     const categories =  (get(embedded, 'wp:term.0') || []).map(({ slug }) => slug);
     const tags = (get(embedded, 'wp:term.1') || []).map(({ slug }) => slug);
 
+    // Convert galleries to non wp markup
+    const getAndMutateGalleries = (content) => {
+        const galleries = content.querySelectorAll('.gallery');
+        galleries.forEach((gallery) => {
+            // Fix class name of container
+            gallery.removeAttribute('id');
+            gallery.setAttribute('class', 'post__gallery');
+
+            // Fix the gallery items
+            const items = gallery.querySelectorAll('.gallery-item');
+            items.forEach((item) => {
+                const image = item.querySelector('img');
+                if (image) {
+                    const imageEl = getAdaptedImage(image, 'post__gallery-image');
+                    item.replaceWith(`<div class="post__gallery-item">${imageEl}</div>`);
+                }
+            });
+        });
+        return galleries;
+    }
+    const galleries = getAndMutateGalleries(contentParsed);
+
+    // Convert remaining lazy loaded images to standard images
+    const lazyImages = contentParsed.querySelectorAll('img[loading="lazy"]');
+    lazyImages.forEach((image) => {
+        const imageEl = getAdaptedImage(image, 'post__image');
+        image.replaceWith(imageEl);
+    });
+
+    // Post images
+    // TODO
+
     // Frontmatter meta information
     const frontMatter = `---
 title: >
@@ -108,6 +150,7 @@ tags: ${getAndFormatTaxonomy('tags', tags)}
     // body html with post content
     const bodyHtml = `
 <div class="post__title">${title}</div>
+
 <div class="post__featured-image">
     <img
         src="${featuredImage.source_url}"
@@ -118,7 +161,7 @@ tags: ${getAndFormatTaxonomy('tags', tags)}
 </div>
 
 <div class="post__content">
-    ${decode(content)}
+    ${decode(contentParsed.toString())}
 </div>
 
 `;
@@ -153,40 +196,6 @@ async function fetchAndParsePosts(parsedUrl, page, perPage) {
     } catch (err) {
         logErrorAndExit(err);
     }
-
-    // https.get(url, (response) => {
-    //     let data = '';
-
-    //     // called when a data chunk is received.
-    //     response.on('data', (chunk) => {
-    //         data += chunk;
-    //     });
-
-    //     // called when the complete response is received.
-    //     response.on('end', () => {
-    //         const items = JSON.parse(data);
-    //         items.forEach((post) => {
-    //             const date = post.date.split('T')[0]; // Split data on T to only get YYYY-MM-DD
-    //             transformAndWriteToFile({
-    //                 frontmatterMarkdown: {
-    //                     frontmatter: [
-    //                         { title: post.title.rendered },
-    //                         { date },
-    //                         // Must have trailing slash to if you want pretty URLs
-    //                         { permalink: `${post.slug}/` },
-    //                         { layout: 'layout/post' },
-    //                     ],
-    //                     body: post.content.rendered,
-    //                 },
-    //                 path: './src/blog', // Location to place the files
-    //                 fileName: `${date}-${post.slug}.md`,
-    //             });
-    //         });
-    //     });
-    // }).on('error', (error) => {
-    //     // eslint-disable-next-line no-console
-    //     console.log(`Error: ${error.message}`);
-    // });
 }
 
 fetchAndParsePosts(WPURL_PARSED, PAGE, PER_PAGE);
