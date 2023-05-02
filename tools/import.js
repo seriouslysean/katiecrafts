@@ -140,7 +140,7 @@ function formatAndSavePost(post) {
 title: >
     ${title}
 date: ${date}
-permalink: ${post.slug}/
+permalink: blog/${post.slug}/
 layout: post.njk
 categories: ${getAndFormatTaxonomy('categories', categories)}
 tags: ${getAndFormatTaxonomy('tags', tags)}
