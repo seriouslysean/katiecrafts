@@ -1,0 +1,53 @@
+{
+  "title": "All Moved In!",
+  "slug": "all-moved-in",
+  "date": "20140923",
+  "publishedDate": "2014-09-23",
+  "excerpt": "<p>All our stuff is officially moved in, and we handed in our keys to our old apartment with a half hour to spare on Saturday night. Lucky is loving the new house, but Mabel- not so much!</p>\n",
+  "content": "<p>All our stuff is officially moved in, and we handed in our keys to our old apartment with a half hour to spare on Saturday night. Lucky is loving the new house, but Mabel- not so much!</p>\n<p>Lucky is finding all the sunspots, intently watching birds outside the window and taking the stairs by storm hopping up three at a time. Such a brave little adventurer. Mabel, on the other hand, is terrified. It takes her 10 minutes and a lot of coaxing to get her to go down one flight- and there are three total! She’s hiding under every box and in every crevice she can find and is barely eating (which is her favorite activity) but there have been a couple times she looked a little at ease, and we managed to snap pics of them!</p>\n Lucky, sprawled out on his new fave blanket.\n Mabel found a sun spot!\n<p>I hope they both settle in soon. I know I won’t until all the unpacking is done- which probably won’t be til next year! Anyone want to help?? 😉</p>\n",
+  "featuredImage": {
+    "src": "/posts/all-moved-in/featured.png",
+    "width": 663,
+    "height": 250,
+    "alt": "All Moved In! on Katie Crafts; http://www.katiecrafts.com"
+  },
+  "categories": [
+    {
+      "id": 9,
+      "name": "Cats",
+      "slug": "cats"
+    }
+  ],
+  "tags": [
+    {
+      "id": 20,
+      "name": "cats",
+      "slug": "cats"
+    },
+    {
+      "id": 370,
+      "name": "kitty",
+      "slug": "kitty"
+    },
+    {
+      "id": 46,
+      "name": "lucky",
+      "slug": "lucky"
+    },
+    {
+      "id": 19,
+      "name": "mabel",
+      "slug": "mabel"
+    },
+    {
+      "id": 1002,
+      "name": "moving",
+      "slug": "moving"
+    },
+    {
+      "id": 1059,
+      "name": "new house",
+      "slug": "new-house"
+    }
+  ]
+}

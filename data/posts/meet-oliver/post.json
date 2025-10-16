@@ -1,0 +1,38 @@
+{
+  "title": "Meet Oliver!",
+  "slug": "meet-oliver",
+  "date": "20140611",
+  "publishedDate": "2014-06-11",
+  "excerpt": "<p>There is no featured Etsy shop for today, so no real post to share. Instead, enjoy meeting my friend’s new puppy, Oliver! Isn’t he adorable!?</p>\n",
+  "content": "<p>There is no featured Etsy shop for today, so no real post to share. Instead, enjoy meeting my friend’s new puppy, Oliver! Isn’t he adorable!?</p>\n<div class=\"post__gallery\"><div class=\"post__gallery-item\">\n          <img class=\"post__gallery-image post__image\" src=\"/posts/meet-oliver/img-3772-1.jpg\" alt=\"Meet Oliver! on Katie Crafts; https://www.katiecrafts.com\" width=\"600\" height=\"400\" loading=\"lazy\" decoding=\"async\">\n        </div><div class=\"post__gallery-item\">\n          <img class=\"post__gallery-image post__image\" src=\"/posts/meet-oliver/img-3765-2.jpg\" alt=\"Meet Oliver! on Katie Crafts; https://www.katiecrafts.com\" width=\"600\" height=\"400\" loading=\"lazy\" decoding=\"async\">\n        </div>\n\t\t</div>\n\n<div class=\"post__gallery\"><div class=\"post__gallery-item\">\n          <img class=\"post__gallery-image post__image\" src=\"/posts/meet-oliver/img-3773-3.jpg\" alt=\"Meet Oliver! on Katie Crafts; https://www.katiecrafts.com\" width=\"600\" height=\"400\" loading=\"lazy\" decoding=\"async\">\n        </div><div class=\"post__gallery-item\">\n          <img class=\"post__gallery-image post__image\" src=\"/posts/meet-oliver/img-3780-4.jpg\" alt=\"Meet Oliver! on Katie Crafts; https://www.katiecrafts.com\" width=\"600\" height=\"400\" loading=\"lazy\" decoding=\"async\">\n        </div>\n\t\t</div>\n\n",
+  "featuredImage": {
+    "src": "/posts/meet-oliver/featured.jpg",
+    "width": 1280,
+    "height": 1706,
+    "alt": "Meet Oliver! on Katie Crafts; http://www.katiecrafts.com"
+  },
+  "categories": [
+    {
+      "id": 1,
+      "name": "Hodgepodge",
+      "slug": "hodgepodge"
+    }
+  ],
+  "tags": [
+    {
+      "id": 761,
+      "name": "dog",
+      "slug": "dog"
+    },
+    {
+      "id": 762,
+      "name": "oliver",
+      "slug": "oliver"
+    },
+    {
+      "id": 760,
+      "name": "puppy",
+      "slug": "puppy"
+    }
+  ]
+}

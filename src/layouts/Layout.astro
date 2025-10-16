@@ -1,0 +1,122 @@
+---
+import Header from '~components/Header.astro';
+import Footer from '~components/Footer.astro';
+import '~styles/styles.css';
+
+interface Props {
+  title: string;
+  description?: string;
+  image?: string;
+  imageAlt?: string;
+  imageWidth?: number;
+  imageHeight?: number;
+  canonical?: string;
+  isArticle?: boolean;
+  noindex?: boolean;
+  publishedTime?: string;
+  modifiedTime?: string;
+  section?: string;
+  tags?: string[];
+}
+
+const {
+  title,
+  description = 'Katie Crafts blog - crafts, creativity, and handmade goodness',
+  image,
+  imageAlt,
+  imageWidth,
+  imageHeight,
+  canonical,
+  isArticle = false,
+  noindex = false,
+  publishedTime,
+  modifiedTime,
+  section,
+  tags = [],
+} = Astro.props;
+
+const SITE_LOCALE = 'en_US';
+const HTML_LANG = 'en-US';
+const site = Astro.site;
+const FALLBACK_SOCIAL_IMAGE = '/pattern-flowers-001.png';
+const FALLBACK_SOCIAL_ALT = 'Purple floral background featuring hand-drawn flowers.';
+const FALLBACK_SOCIAL_WIDTH = 900;
+const FALLBACK_SOCIAL_HEIGHT = 900;
+const socialImage = image ?? FALLBACK_SOCIAL_IMAGE;
+const canonicalHref = canonical
+  ? site
+    ? new URL(canonical, site).href
+    : canonical
+  : site && Astro.url
+    ? new URL(Astro.url.pathname, site).href
+    : undefined;
+const absoluteImage = socialImage && site ? new URL(socialImage, site).href : socialImage;
+const resolvedImageAlt = imageAlt ?? FALLBACK_SOCIAL_ALT;
+const resolvedImageWidth = imageWidth ?? FALLBACK_SOCIAL_WIDTH;
+const resolvedImageHeight = imageHeight ?? FALLBACK_SOCIAL_HEIGHT;
+const robots = noindex ? 'noindex, follow' : undefined;
+const twitterCard = absoluteImage ? 'summary_large_image' : 'summary';
+const TWITTER_HANDLE = '@imkatiecrafts';
+---
+
+<!doctype html>
+<html lang={HTML_LANG}>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content={description}>
+    {robots ? <meta name="robots" content={robots} /> : null}
+    <title>{title}</title>
+    <meta property="og:locale" content={SITE_LOCALE} />
+    {canonicalHref ? <link rel="canonical" href={canonicalHref} /> : null}
+    <link rel="icon" type="image/svg+xml" href="/katie-crafts-logo.svg">
+    <meta property="og:site_name" content="Katie Crafts" />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:type" content={isArticle ? 'article' : 'website'} />
+    {canonicalHref ? <meta property="og:url" content={canonicalHref} /> : null}
+    {absoluteImage ? (
+      <>
+        <meta property="og:image" content={absoluteImage} />
+        {resolvedImageWidth ? <meta property="og:image:width" content={String(resolvedImageWidth)} /> : null}
+        {resolvedImageHeight ? (
+          <meta property="og:image:height" content={String(resolvedImageHeight)} />
+        ) : null}
+        {resolvedImageAlt ? <meta property="og:image:alt" content={resolvedImageAlt} /> : null}
+      </>
+    ) : null}
+    {isArticle && publishedTime ? (
+      <meta property="article:published_time" content={publishedTime} />
+    ) : null}
+    {isArticle && (modifiedTime ?? publishedTime) ? (
+      <meta property="article:modified_time" content={modifiedTime ?? publishedTime} />
+    ) : null}
+    {isArticle && section ? <meta property="article:section" content={section} /> : null}
+    {isArticle && tags.length
+      ? tags.map(tag => <meta property="article:tag" content={tag} />)
+      : null}
+    <meta name="twitter:card" content={twitterCard} />
+    <meta name="twitter:site" content={TWITTER_HANDLE} />
+    <meta name="twitter:title" content={title} />
+    <meta name="twitter:description" content={description} />
+    {absoluteImage ? (
+      <>
+        <meta name="twitter:image" content={absoluteImage} />
+        {resolvedImageAlt ? <meta name="twitter:image:alt" content={resolvedImageAlt} /> : null}
+      </>
+    ) : null}
+  </head>
+  <body>
+    <a class="skip-link" href="#main">Skip to main content</a>
+    <div id="app">
+      <Header />
+
+      <main id="main" class="main">
+        <slot />
+      </main>
+
+      <Footer />
+    </div>
+
+  </body>
+</html>

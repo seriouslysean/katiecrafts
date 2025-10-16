@@ -1,0 +1,86 @@
+---
+import Layout from '~layouts/Layout.astro';
+import PostCard from '~components/PostCard.astro';
+import SectionHero from '~components/SectionHero.astro';
+import Paginator from '~components/Paginator.astro';
+import {
+  getAllPosts,
+  getCategorySummaries,
+  getPostsByCategory,
+  paginatePosts,
+  POSTS_PER_PAGE,
+} from '~utils/posts';
+
+interface Props {
+  slug: string;
+  name: string;
+  posts: Awaited<ReturnType<typeof getPostsByCategory>>;
+  pageNumber: number;
+  totalPages: number;
+  totalCount: number;
+}
+
+export async function getStaticPaths() {
+  const posts = await getAllPosts();
+  const categories = getCategorySummaries(posts);
+
+  return categories.map(category => {
+    const postsForCategory = getPostsByCategory(posts, category.slug);
+    const totalPages = Math.max(1, Math.ceil(postsForCategory.length / POSTS_PER_PAGE));
+    const { posts: pagePosts } = paginatePosts(postsForCategory, 1, POSTS_PER_PAGE);
+
+    return {
+      params: { slug: category.slug },
+      props: {
+        slug: category.slug,
+        name: category.name,
+        posts: pagePosts,
+        pageNumber: 1,
+        totalPages,
+        totalCount: postsForCategory.length,
+      },
+    };
+  });
+}
+
+const { slug, name, posts, pageNumber, totalPages, totalCount } = Astro.props as Props;
+const canonicalPath = `/category/${slug}/`;
+const title = `${name} | Katie Crafts`;
+const description = `Posts filed under ${name} on Katie Crafts.`;
+const countLabel = `${totalCount} ${totalCount === 1 ? 'post' : 'posts'}`;
+const leadPost = posts[0];
+const leadImage = leadPost?.data.featuredImage;
+const leadTitle = leadPost?.data.title;
+const makeHref = (page: number) => (page === 1 ? `/category/${slug}/` : `/category/${slug}/page/${page}/`);
+---
+
+<Layout
+  title={title}
+  description={description}
+  canonical={canonicalPath}
+  image={leadImage?.src}
+  imageAlt={leadImage?.alt ?? leadTitle}
+  imageWidth={leadImage?.width}
+  imageHeight={leadImage?.height}
+>
+  <SectionHero title={`Category: ${name}`} subtitle={countLabel} />
+
+  <section class="listing">
+    <h2 class="listing__title">Latest Posts</h2>
+
+    <div class="listing__grid">
+      {posts.map(post => (
+        <PostCard post={post} />
+      ))}
+    </div>
+
+    <Paginator
+      currentPage={pageNumber}
+      totalPages={totalPages}
+      makeHref={makeHref}
+      previousLabel="← Newer Posts"
+      nextLabel="Older Posts →"
+      label="Category pagination"
+    />
+  </section>
+</Layout>

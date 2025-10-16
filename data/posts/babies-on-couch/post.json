@@ -1,0 +1,48 @@
+{
+  "title": "",
+  "slug": "babies-on-couch",
+  "date": "20140909",
+  "publishedDate": "2014-09-09",
+  "excerpt": "<p>When their beds are compromised due to packing/moving/boxes, they FINALLY snuggle on the couch.</p>\n",
+  "content": "<p style=\"text-align: left\">When their beds are compromised due to packing/moving/boxes, they FINALLY snuggle on the couch.</p>\n<p style=\"text-align: left\">They really will be happy when the move is all over. Especially since they will get THREE sets of stairs to run up and down! They’ve never had stairs to play on before. Joyous times ahead!</p>\n",
+  "featuredImage": {
+    "src": "/posts/babies-on-couch/featured.png",
+    "width": 800,
+    "height": 800,
+    "alt": "Babies On Couch on Katie Crafts; http://www.katiecrafts.com"
+  },
+  "categories": [
+    {
+      "id": 9,
+      "name": "Cats",
+      "slug": "cats"
+    }
+  ],
+  "tags": [
+    {
+      "id": 1046,
+      "name": "couch",
+      "slug": "couch"
+    },
+    {
+      "id": 370,
+      "name": "kitty",
+      "slug": "kitty"
+    },
+    {
+      "id": 37,
+      "name": "loves cats",
+      "slug": "loves-cats-2"
+    },
+    {
+      "id": 46,
+      "name": "lucky",
+      "slug": "lucky"
+    },
+    {
+      "id": 19,
+      "name": "mabel",
+      "slug": "mabel"
+    }
+  ]
+}

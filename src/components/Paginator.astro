@@ -1,0 +1,105 @@
+---
+type MakeHref = (page: number) => string;
+
+interface Props {
+  currentPage: number;
+  totalPages: number;
+  makeHref: MakeHref;
+  label?: string;
+  previousLabel?: string;
+  nextLabel?: string;
+}
+
+type PageItem = number | 'ellipsis';
+
+const buildPageItems = (totalPages: number, currentPage: number): PageItem[] => {
+  const pages: PageItem[] = [];
+  const range: number[] = [];
+  const delta = 1;
+
+  for (let page = 1; page <= totalPages; page += 1) {
+    const isEdgePage = page === 1 || page === totalPages;
+    const isNearCurrent = Math.abs(page - currentPage) <= delta;
+    if (isEdgePage || isNearCurrent) {
+      range.push(page);
+    }
+  }
+
+  let previous = 0;
+  for (const page of range) {
+    if (previous !== 0) {
+      if (page - previous === 2) {
+        pages.push(previous + 1);
+      } else if (page - previous > 2) {
+        pages.push('ellipsis');
+      }
+    }
+    pages.push(page);
+    previous = page;
+  }
+
+  return pages;
+};
+
+const {
+  currentPage,
+  totalPages,
+  makeHref,
+  label = 'Pagination',
+  previousLabel = '← Newer Posts',
+  nextLabel = 'Older Posts →',
+} = Astro.props as Props;
+
+const hasPrevious = currentPage > 1;
+const hasNext = currentPage < totalPages;
+const previousHref = hasPrevious ? makeHref(currentPage - 1) : undefined;
+const nextHref = hasNext ? makeHref(currentPage + 1) : undefined;
+const pageItems = buildPageItems(totalPages, currentPage);
+---
+
+{totalPages > 1 ? (
+  <nav class="listing__pagination" aria-label={label}>
+    {hasPrevious ? (
+      <a class="listing__pagination-link" href={previousHref} rel="prev">
+        {previousLabel}
+      </a>
+    ) : (
+      <span class="listing__pagination-link listing__pagination-link--disabled">{previousLabel}</span>
+    )}
+
+    <div class="listing__pagination-pages" role="list">
+      {pageItems.map(item =>
+        item === 'ellipsis' ? (
+          <span class="listing__pagination-ellipsis" aria-hidden="true">
+            …
+          </span>
+        ) : item === currentPage ? (
+          <span
+            class="listing__pagination-page listing__pagination-page--current"
+            aria-current="page"
+            role="listitem"
+          >
+            {item}
+          </span>
+        ) : (
+          <a
+            class="listing__pagination-page"
+            href={makeHref(item)}
+            role="listitem"
+            aria-label={`Go to page ${item}`}
+          >
+            {item}
+          </a>
+        )
+      )}
+    </div>
+
+    {hasNext ? (
+      <a class="listing__pagination-link" href={nextHref} rel="next">
+        {nextLabel}
+      </a>
+    ) : (
+      <span class="listing__pagination-link listing__pagination-link--disabled">{nextLabel}</span>
+    )}
+  </nav>
+) : null}

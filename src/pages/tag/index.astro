@@ -1,0 +1,29 @@
+---
+import Layout from '~layouts/Layout.astro';
+import SectionHero from '~components/SectionHero.astro';
+import { getAllPosts, getTagSummaries } from '~utils/posts';
+
+const posts = await getAllPosts();
+const tags = getTagSummaries(posts);
+---
+
+<Layout
+  title="Browse by Tag | Katie Crafts"
+  description="Explore Katie Crafts blog posts grouped by tag."
+  canonical="/tag/"
+>
+  <SectionHero title="Browse by Tag" subtitle="Find posts by theme, season, and more." />
+
+  <section class="taxonomy-index">
+    <ul class="taxonomy-list">
+      {tags.map(tag => (
+        <li class="taxonomy-card">
+          <a href={`/tag/${tag.slug}/`}>{tag.name}</a>
+          <span class="taxonomy-card__count">
+            {tag.count} {tag.count === 1 ? 'post' : 'posts'}
+          </span>
+        </li>
+      ))}
+    </ul>
+  </section>
+</Layout>

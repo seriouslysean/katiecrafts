@@ -1,0 +1,67 @@
+---
+import Layout from '~layouts/Layout.astro';
+import PostCard from '~components/PostCard.astro';
+import Paginator from '~components/Paginator.astro';
+import { getAllPosts, paginatePosts, POSTS_PER_PAGE } from '~utils/posts';
+import type { PostEntry } from '~utils/posts';
+
+interface Props {
+  pageNumber: number;
+  posts: PostEntry[];
+  totalPages: number;
+}
+
+export async function getStaticPaths() {
+  const posts = await getAllPosts();
+  const totalPages = Math.max(1, Math.ceil(posts.length / POSTS_PER_PAGE));
+  const paths = [];
+
+  for (let page = 2; page <= totalPages; page++) {
+    paths.push({
+      params: { page: String(page) },
+      props: {
+        pageNumber: page,
+        posts: paginatePosts(posts, page, POSTS_PER_PAGE).posts,
+        totalPages,
+      },
+    });
+  }
+
+  return paths;
+}
+
+const { pageNumber, posts, totalPages } = Astro.props as Props;
+const canonicalPath = `/blog/page/${pageNumber}/`;
+const leadPost = posts[0];
+const leadImage = leadPost?.data.featuredImage;
+const leadTitle = leadPost?.data.title;
+const makeHref = (page: number) => (page === 1 ? '/blog/' : `/blog/page/${page}/`);
+---
+
+<Layout
+  title={`Blog - Page ${pageNumber} | Katie Crafts`}
+  description={`Page ${pageNumber} of the Katie Crafts blog archives.`}
+  canonical={canonicalPath}
+  image={leadImage?.src}
+  imageAlt={leadImage?.alt ?? leadTitle}
+  imageWidth={leadImage?.width}
+  imageHeight={leadImage?.height}
+>
+  <section class="listing">
+    <h1 class="listing__title">Blog Archives – Page {pageNumber}</h1>
+    <div class="listing__grid">
+      {posts.map(post => (
+        <PostCard post={post} />
+      ))}
+    </div>
+
+    <Paginator
+      currentPage={pageNumber}
+      totalPages={totalPages}
+      makeHref={makeHref}
+      previousLabel="← Newer Posts"
+      nextLabel="Older Posts →"
+      label="Blog pagination"
+    />
+  </section>
+</Layout>

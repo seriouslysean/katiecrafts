@@ -1,0 +1,62 @@
+---
+import Layout from '~layouts/Layout.astro';
+import PostCard from '~components/PostCard.astro';
+import SectionHero from '~components/SectionHero.astro';
+import { getAllPosts, HOME_POSTS_LIMIT, getCategorySummaries } from '~utils/posts';
+
+const posts = await getAllPosts();
+const featuredPosts = posts.slice(0, HOME_POSTS_LIMIT);
+const categories = getCategorySummaries(posts).slice(0, 6);
+const primaryFeatured = featuredPosts[0];
+const primaryImage = primaryFeatured?.data.featuredImage;
+const primaryTitle = primaryFeatured?.data.title;
+---
+
+<Layout
+  title="Katie Crafts | Handmade Inspiration, DIY Projects, and Creative Living"
+  description="Explore Katie Crafts for handmade projects, recipes, and inspiration from Katie's creative world."
+  canonical="/"
+  image={primaryImage?.src}
+  imageAlt={primaryImage?.alt ?? primaryTitle}
+  imageWidth={primaryImage?.width}
+  imageHeight={primaryImage?.height}
+>
+  <SectionHero title="Handmade goodness from Katie Crafts">
+    <p class="hero__subtitle">
+      DIY projects, crafty ideas, tasty recipes, and glimpses behind the scenes. Browse the latest posts below or dive into the <a href="/blog/">full blog archive</a>.
+    </p>
+  </SectionHero>
+
+  <section class="listing listing--home">
+    <h2 class="listing__title">Latest Posts</h2>
+    <div class="listing__grid">
+      {featuredPosts.map(post => (
+        <PostCard post={post} />
+      ))}
+    </div>
+    <div class="listing__cta">
+      <a class="listing__cta-link" href="/blog/">View All Posts →</a>
+    </div>
+  </section>
+
+  {categories.length ? (
+    <section class="taxonomy-index">
+      <h2 class="listing__title">Browse by Category</h2>
+      <ul class="taxonomy-list">
+        {categories.map(category => (
+          <li class="taxonomy-card">
+            <a class="taxonomy-card__link" href={`/category/${category.slug}/`}>
+              <span class="taxonomy-card__name">{category.name}</span>
+              <span class="taxonomy-card__count">
+                {category.count} {category.count === 1 ? 'post' : 'posts'}
+              </span>
+            </a>
+          </li>
+        ))}
+      </ul>
+      <div class="listing__cta">
+        <a class="listing__cta-link" href="/category/">View All Categories →</a>
+      </div>
+    </section>
+  ) : null}
+</Layout>

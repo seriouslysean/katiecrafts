@@ -1,0 +1,32 @@
+{
+  "title": "",
+  "slug": "marshmallow",
+  "date": "20140712",
+  "publishedDate": "2014-07-12",
+  "excerpt": "<p>Marshal is the loveliest in all the land. He also loves selfies.</p>\n",
+  "content": "<p><img loading=\"lazy\" decoding=\"async\" class=\"aligncenter size-medium wp-image-3568\" src=\"https://i2.wp.com/www.katiecrafts.com/wp-content/uploads/2014/07/IMG_4561-663x884.jpg?resize=663%2C884&ssl=1\" alt=\"Marshmallow on Katie Crafts; http://www.katiecrafts.com\" width=\"663\" height=\"884\" data-recalc-dims=\"1\" ></p>\n<p style=\"text-align: center;\">Marshal is the loveliest in all the land. He also loves selfies.</p>\n",
+  "categories": [
+    {
+      "id": 9,
+      "name": "Cats",
+      "slug": "cats"
+    }
+  ],
+  "tags": [
+    {
+      "id": 20,
+      "name": "cats",
+      "slug": "cats"
+    },
+    {
+      "id": 370,
+      "name": "kitty",
+      "slug": "kitty"
+    },
+    {
+      "id": 790,
+      "name": "marshal",
+      "slug": "marshal"
+    }
+  ]
+}

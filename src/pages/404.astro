@@ -1,0 +1,57 @@
+---
+import Layout from '~layouts/Layout.astro';
+import SectionHero from '~components/SectionHero.astro';
+import { getAllPosts, getCategorySummaries } from '~utils/posts';
+
+const ETSY_URL = 'https://www.etsy.com/shop/katiecrafts';
+const posts = await getAllPosts();
+const recentPosts = posts.slice(0, 3);
+const categories = getCategorySummaries(posts);
+---
+
+<Layout
+  title="Page not found | Katie Crafts"
+  description="The page you requested could not be found. Explore popular categories instead."
+  canonical="/404/"
+  noindex
+>
+  <script is:inline>
+    if (typeof window !== 'undefined') {
+      const path = window.location.pathname;
+      if (path.startsWith('/shop/') && path !== '/shop/') {
+        window.location.replace('https://www.etsy.com/shop/katiecrafts');
+      }
+    }
+  </script>
+
+  <SectionHero title="Page Not Found" subtitle="Let’s get you back to something crafty." size="narrow" />
+
+  <article class="post">
+    <div class="post__content">
+      {recentPosts.length ? (
+        <>
+          <h2>Latest Posts</h2>
+          <ul>
+            {recentPosts.map(item => (
+              <li>
+                <a href={`/blog/${item.data.slug}/`}>{item.data.title}</a>
+              </li>
+            ))}
+          </ul>
+        </>
+      ) : null}
+      {categories.length ? (
+        <>
+          <h2>Categories</h2>
+          <ul>
+            {categories.map(category => (
+              <li>
+                <a href={`/category/${category.slug}/`}>{category.name}</a>
+              </li>
+            ))}
+          </ul>
+        </>
+      ) : null}
+    </div>
+  </article>
+</Layout>

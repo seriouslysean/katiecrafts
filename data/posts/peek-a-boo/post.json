@@ -1,0 +1,42 @@
+{
+  "title": "Peek-a-Boo!",
+  "slug": "peek-a-boo",
+  "date": "20150514",
+  "publishedDate": "2015-05-14",
+  "excerpt": "<p>My Husband has been gone all week for work, so it’s been just me and the kitties hanging out together. This one, Mabel, has been an extreme brat. Usually when the Husband is gone, she is a sweet little thing who curls up next to me and sleeps til all hours. THIS WEEK, however, she’s [&hellip;]</p>\n",
+  "content": "<p>My Husband has been gone all week for work, so it’s been just me and the kitties hanging out together. This one, Mabel, has been an extreme brat. Usually when the Husband is gone, she is a sweet little thing who curls up next to me and sleeps til all hours. THIS WEEK, however, she’s been scratching <em>everything</em> and going crazy! She is also following me from room to room. . . and being a creeper spying on me from behind the chair. I guess she misses her Papa!</p>\n<p>Do your pets have any weird behaviors that make you crazy?</p>\n",
+  "featuredImage": {
+    "src": "/posts/peek-a-boo/featured.jpg",
+    "width": 1280,
+    "height": 1280
+  },
+  "categories": [
+    {
+      "id": 9,
+      "name": "Cats",
+      "slug": "cats"
+    }
+  ],
+  "tags": [
+    {
+      "id": 20,
+      "name": "cats",
+      "slug": "cats"
+    },
+    {
+      "id": 270,
+      "name": "kitties",
+      "slug": "kitties"
+    },
+    {
+      "id": 19,
+      "name": "mabel",
+      "slug": "mabel"
+    },
+    {
+      "id": 1180,
+      "name": "pets",
+      "slug": "pets"
+    }
+  ]
+}

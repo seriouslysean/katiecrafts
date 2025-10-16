@@ -1,0 +1,17 @@
+---
+interface Props {
+  title: string;
+  subtitle?: string;
+  size?: 'default' | 'narrow';
+}
+
+const { title, subtitle, size = 'default' } = Astro.props;
+---
+
+<section class="hero" class:list={{ 'hero--narrow': size === 'narrow' }}>
+  <div class="hero__inner">
+    <h1 class="hero__title">{title}</h1>
+    {subtitle ? <p class="hero__subtitle">{subtitle}</p> : null}
+    <slot />
+  </div>
+</section>
