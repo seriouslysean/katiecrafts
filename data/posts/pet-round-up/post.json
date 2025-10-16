@@ -1,0 +1,43 @@
+{
+  "title": "Pet Round Up!",
+  "slug": "pet-round-up",
+  "date": "20140510",
+  "publishedDate": "2014-05-10",
+  "excerpt": "<p>As promised, here is a round up of all of our (and your!) pets! Thanks for sending in photos of your cats, dogs and more! Without further ado, check out the round up below!</p>\n",
+  "content": "<p>As promised, here is a round up of all of our (and your!) pets! Thanks for sending in photos of your cats, dogs and more! Without further ado, check out the round up below!</p>\n\n\n\n<p><img loading=\"lazy\" decoding=\"async\" class=\"aligncenter size-medium wp-image-2407\" src=\"https://i0.wp.com/www.katiecrafts.com/wp-content/uploads/2014/05/pet-roundup-2-637x1274.png?resize=637%2C1274&ssl=1\" alt=\"Pet Round Up on Katie Crafts; http://www.katiecrafts.com\" width=\"637\" height=\"1274\" data-recalc-dims=\"1\" ></p>\n<p><img loading=\"lazy\" decoding=\"async\" class=\"aligncenter size-medium wp-image-2478\" src=\"https://i1.wp.com/www.katiecrafts.com/wp-content/uploads/2014/05/pet-roundup-3-637x1274.png?resize=637%2C1274&ssl=1\" alt=\"Pet Round Up on Katie Crafts; http://www.katiecrafts.com\" width=\"637\" height=\"1274\" data-recalc-dims=\"1\" ></p>\n",
+  "featuredImage": {
+    "src": "/posts/pet-round-up/featured.jpg",
+    "width": 667,
+    "height": 250,
+    "alt": "Pet Round Up on Katie Crafts; http://www.katiecrafts.com"
+  },
+  "categories": [
+    {
+      "id": 9,
+      "name": "Cats",
+      "slug": "cats"
+    }
+  ],
+  "tags": [
+    {
+      "id": 20,
+      "name": "cats",
+      "slug": "cats"
+    },
+    {
+      "id": 623,
+      "name": "dogs",
+      "slug": "dogs"
+    },
+    {
+      "id": 617,
+      "name": "national pet week",
+      "slug": "national-pet-week"
+    },
+    {
+      "id": 618,
+      "name": "pet round up",
+      "slug": "pet-round-up"
+    }
+  ]
+}

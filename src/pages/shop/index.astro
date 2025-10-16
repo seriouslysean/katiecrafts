@@ -1,0 +1,24 @@
+---
+import Layout from '~layouts/Layout.astro';
+import SectionHero from '~components/SectionHero.astro';
+
+const ETSY_URL = 'https://www.etsy.com/shop/katiecrafts';
+---
+
+<Layout
+  title="Shop | Katie Crafts"
+  description="Visit the Katie Crafts Etsy storefront."
+  canonical="/shop/"
+  noindex
+>
+  <SectionHero title="Katie Crafts Shop" size="narrow">
+    <p>
+      You can browse Katie’s handmade pieces on Etsy.
+    </p>
+    <p>
+      <a class="button" href={ETSY_URL} target="_blank" rel="noopener noreferrer">
+        Visit the Etsy Shop
+      </a>
+    </p>
+  </SectionHero>
+</Layout>

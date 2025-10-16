@@ -1,7 +1,8 @@
 {
   "name": "katiecrafts.com",
-  "version": "1.0.0",
-  "description": "Shop for unique items made with love by Katie Crafts!",
+  "version": "2.0.0",
+  "type": "module",
+  "description": "Katie Crafts blog - migrated from WordPress to Astro",
   "homepage": "https://www.katiecrafts.com",
   "bugs": {
     "url": "https://github.com/seriouslysean/katiecrafts.com/issues"
@@ -12,28 +13,31 @@
   },
   "license": "MIT",
   "author": "Sean Kennedy <sean@codeserious.com>",
-  "main": "README.md",
   "scripts": {
-    "_clean": "rimraf dist/*",
-    "build": "npm run _clean && eleventy",
-    "deploy": "npm run build && cp CNAME dist/CNAME && push-dir --dir=dist --branch=gh-pages --cleanup",
-    "dev": "eleventy --serve",
-    "lint": "eslint . --ext .js",
-    "lint:fix": "eslint . --ext .js --fix",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "deploy": "npm run build && cp CNAME dist/CNAME",
+    "tool:import-wordpress": "tsx tools/import-wordpress.ts",
+    "lint": "oxlint . --ignore-path .oxlintignore",
+    "lint:fix": "oxlint . --fix --ignore-path .oxlintignore",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@astrojs/sitemap": "^3.4.1",
+    "astro": "^5.14.5",
+    "entities": "^6.0.1"
   },
   "devDependencies": {
-    "@11ty/eleventy": "^2.0.1",
-    "@11ty/eleventy-upgrade-help": "^2.0.5",
-    "axios": "^0.21.1",
-    "eslint": "^7.18.0",
-    "eslint-config-airbnb-base": "^14.2.1",
-    "html-entities": "^2.3.2",
-    "lodash": "^4.17.21",
-    "node-html-parser": "^5.3.3",
-    "prettier": "^2.3.2",
-    "push-dir": "^0.4.1",
-    "rimraf": "^2.7.1",
-    "yargs": "^17.0.1"
+    "@types/node": "^22.10.5",
+    "@types/yargs": "^17.0.33",
+    "axios": "^1.7.9",
+    "dotenv": "^17.0.0",
+    "node-html-parser": "^6.1.13",
+    "oxlint": "^1.11.0",
+    "sharp": "^0.34.2",
+    "tsx": "^4.20.3",
+    "typescript": "^5.8.3",
+    "yargs": "^17.7.2"
   }
 }

@@ -1,0 +1,52 @@
+---
+import type { PostEntry } from '~utils/posts';
+
+interface Props {
+  post: PostEntry;
+}
+
+const { post } = Astro.props;
+const { title, slug, excerpt, featuredImage, categories } = post.data;
+const postUrl = `/blog/${slug}/`;
+const previewText = excerpt ?? '';
+const primaryCategories = categories.slice(0, 2);
+const cardImage = featuredImage;
+---
+
+<article class="post-card">
+  <a class="post-card__link" href={postUrl} aria-label={`Read more about ${title}`}>
+    {cardImage ? (
+      <div class="post-card__image">
+        <img
+          src={cardImage.src}
+          alt={cardImage.alt ?? title}
+          width={cardImage.width}
+          height={cardImage.height}
+          loading="lazy"
+          decoding="async"
+        />
+      </div>
+    ) : null}
+
+    <div class="post-card__body">
+      {primaryCategories.length ? (
+        <p class="post-card__meta">
+          {primaryCategories.map((category, index) => (
+            <>
+              {index > 0 ? ' · ' : null}
+              <span>{category.name}</span>
+            </>
+          ))}
+        </p>
+      ) : null}
+
+      <h2 class="post-card__title">{title}</h2>
+
+      {previewText ? (
+        <div class="post-card__excerpt" set:html={previewText} />
+      ) : null}
+
+      <span class="post-card__cta">Read More</span>
+    </div>
+  </a>
+</article>

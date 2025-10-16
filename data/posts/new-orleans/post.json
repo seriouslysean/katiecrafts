@@ -1,0 +1,43 @@
+{
+  "title": "New Orleans!",
+  "slug": "new-orleans",
+  "date": "20140517",
+  "publishedDate": "2014-05-17",
+  "excerpt": "<p>&nbsp; This weekend, I’m taking a small hiatus from blogging as I’m currently enjoying a mini-vacation in New Orleans! I’ve never been there and am super excited to make the trip! Tune back in Monday for regular posts, and check out Katie Crafts over the weekend for randomly scheduled doses of my kitties!</p>\n",
+  "content": "\n<p>This weekend, I’m taking a small hiatus from blogging as I’m currently enjoying a mini-vacation in New Orleans! I’ve never been there and am super excited to make the trip! Tune back in Monday for regular posts, and check out Katie Crafts over the weekend for randomly scheduled doses of my kitties!</p>\n",
+  "featuredImage": {
+    "src": "/posts/new-orleans/featured.jpg",
+    "width": 663,
+    "height": 250,
+    "alt": "Katie Crafts is on a break... in New Orleans!: http://www.katiecrafts.com"
+  },
+  "categories": [
+    {
+      "id": 1,
+      "name": "Hodgepodge",
+      "slug": "hodgepodge"
+    }
+  ],
+  "tags": [
+    {
+      "id": 649,
+      "name": "hiatus",
+      "slug": "hiatus"
+    },
+    {
+      "id": 647,
+      "name": "new orleans",
+      "slug": "new-orleans"
+    },
+    {
+      "id": 650,
+      "name": "travel",
+      "slug": "travel"
+    },
+    {
+      "id": 648,
+      "name": "vacation",
+      "slug": "vacation"
+    }
+  ]
+}

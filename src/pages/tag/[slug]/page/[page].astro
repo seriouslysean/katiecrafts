@@ -1,0 +1,89 @@
+---
+import Layout from '~layouts/Layout.astro';
+import PostCard from '~components/PostCard.astro';
+import SectionHero from '~components/SectionHero.astro';
+import Paginator from '~components/Paginator.astro';
+import { getAllPosts, getTagSummaries, getPostsByTag, paginatePosts, POSTS_PER_PAGE } from '~utils/posts';
+
+interface Props {
+  slug: string;
+  name: string;
+  posts: Awaited<ReturnType<typeof getPostsByTag>>;
+  pageNumber: number;
+  totalPages: number;
+  totalCount: number;
+}
+
+export async function getStaticPaths() {
+  const posts = await getAllPosts();
+  const tags = getTagSummaries(posts);
+
+  const paths = [];
+
+  for (const tag of tags) {
+    const postsForTag = getPostsByTag(posts, tag.slug);
+    const totalPages = Math.max(1, Math.ceil(postsForTag.length / POSTS_PER_PAGE));
+
+    for (let page = 2; page <= totalPages; page++) {
+      const { posts: pagePosts } = paginatePosts(postsForTag, page, POSTS_PER_PAGE);
+      paths.push({
+        params: { slug: tag.slug, page: String(page) },
+        props: {
+          slug: tag.slug,
+          name: tag.name,
+          posts: pagePosts,
+          pageNumber: page,
+          totalPages,
+          totalCount: postsForTag.length,
+        },
+      });
+    }
+  }
+
+  return paths;
+}
+
+const { slug, name, posts, pageNumber, totalPages, totalCount } = Astro.props as Props;
+const canonicalPath = `/tag/${slug}/page/${pageNumber}/`;
+const title = `${name} – Page ${pageNumber} | Katie Crafts`;
+const description = `Posts tagged ${name} on Katie Crafts (page ${pageNumber}).`;
+const countLabel = `${totalCount} ${totalCount === 1 ? 'post' : 'posts'}`;
+const leadPost = posts[0];
+const leadImage = leadPost?.data.featuredImage;
+const leadTitle = leadPost?.data.title;
+const makeHref = (page: number) => (page === 1 ? `/tag/${slug}/` : `/tag/${slug}/page/${page}/`);
+---
+
+<Layout
+  title={title}
+  description={description}
+  canonical={canonicalPath}
+  image={leadImage?.src}
+  imageAlt={leadImage?.alt ?? leadTitle}
+  imageWidth={leadImage?.width}
+  imageHeight={leadImage?.height}
+>
+  <SectionHero
+    title={`Tag: ${name}`}
+    subtitle={`${countLabel} · Page ${pageNumber} of ${totalPages}`}
+  />
+
+  <section class="listing">
+    <h2 class="listing__title">Latest Posts</h2>
+
+    <div class="listing__grid">
+      {posts.map(post => (
+        <PostCard post={post} />
+      ))}
+    </div>
+
+    <Paginator
+      currentPage={pageNumber}
+      totalPages={totalPages}
+      makeHref={makeHref}
+      previousLabel="← Newer Posts"
+      nextLabel="Older Posts →"
+      label="Tag pagination"
+    />
+  </section>
+</Layout>

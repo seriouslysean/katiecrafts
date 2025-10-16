@@ -1,0 +1,63 @@
+{
+  "title": "Motivation Monday: Age",
+  "slug": "motivation-monday-age",
+  "date": "20151109",
+  "publishedDate": "2015-11-09",
+  "excerpt": "<p>Happy Monday! Tomorrow is my birthday, so I wanted to share a quote today that I love that is perfect for the occasion. Once again, the Italians have it right!</p>\n",
+  "content": "<p>Happy Monday! Tomorrow is my birthday, so I wanted to share a quote today that I love that is perfect for the occasion. Once again, the Italians have it right!</p>\n<blockquote><p><em>“Age and glasses of wine should never be counted.”</em></p></blockquote>\n<p>My big birthday plans tomorrow were going to include an exhibit at the Art Museum, strolling through the lovely city all afternoon and then dinner (and wine!) at one of my favorite places- but of course now it is supposed to rain all day. Hopefully it holds out long enough to stroll around at least a little bit. I am hoping we won’t end up at dinner completely soaked from the walk!!</p>\n<p>Share your motivational quotes for today below- I’d love to hear them! What fun things do you have planned for the week?</p>\n",
+  "featuredImage": {
+    "src": "/posts/motivation-monday-age/featured.png",
+    "width": 1326,
+    "height": 1326,
+    "alt": "Motivation Monday: Age on Katie Crafts; http://www.katiecrafts.com"
+  },
+  "categories": [
+    {
+      "id": 1,
+      "name": "Hodgepodge",
+      "slug": "hodgepodge"
+    }
+  ],
+  "tags": [
+    {
+      "id": 1549,
+      "name": "age",
+      "slug": "age"
+    },
+    {
+      "id": 552,
+      "name": "birthday",
+      "slug": "birthday"
+    },
+    {
+      "id": 1550,
+      "name": "italian proverb",
+      "slug": "italian-proverb"
+    },
+    {
+      "id": 1372,
+      "name": "motivation monday",
+      "slug": "motivation-monday"
+    },
+    {
+      "id": 1343,
+      "name": "qotd",
+      "slug": "qotd"
+    },
+    {
+      "id": 1020,
+      "name": "quote",
+      "slug": "quote"
+    },
+    {
+      "id": 97,
+      "name": "quotes",
+      "slug": "quotes"
+    },
+    {
+      "id": 253,
+      "name": "wine",
+      "slug": "wine"
+    }
+  ]
+}

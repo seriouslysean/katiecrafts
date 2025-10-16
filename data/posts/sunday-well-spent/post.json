@@ -1,0 +1,32 @@
+{
+  "title": "",
+  "slug": "sunday-well-spent",
+  "date": "20150823",
+  "publishedDate": "2015-08-23",
+  "excerpt": "<p>A Sunday well spent brings a week of content.</p>\n",
+  "content": "<p><img loading=\"lazy\" decoding=\"async\" class=\"aligncenter size-full wp-image-6410 post__image\" src=\"/posts/sunday-well-spent/sunday-well-spent-1.png\" alt=\"A Sunday well spent brings a week of content. http://www.katiecrafts.com\" width=\"980\" height=\"980\"></p>\n<p style=\"text-align: center;\"><em>A Sunday well spent brings a week of content.</em></p>\n",
+  "categories": [
+    {
+      "id": 1,
+      "name": "Hodgepodge",
+      "slug": "hodgepodge"
+    }
+  ],
+  "tags": [
+    {
+      "id": 1343,
+      "name": "qotd",
+      "slug": "qotd"
+    },
+    {
+      "id": 97,
+      "name": "quotes",
+      "slug": "quotes"
+    },
+    {
+      "id": 1452,
+      "name": "sunday",
+      "slug": "sunday"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "title": "QOTD: Snowflakes",
+  "slug": "qotd-snowflakes",
+  "date": "20160216",
+  "publishedDate": "2016-02-16",
+  "excerpt": "<p>It snowed again yesterday! It was an interesting type of snow. It stuck immediately to the ground but looked quite funny as it accumulated, like it was composed of little fuzzy balls mixed with shards of glass! I was lucky enough to catch a perfect teeny snowflake on my glove, which inspired me to search for a quote about snowflakes.</p>\n<p>“To appreciate the beauty of a snowflake, it is necessary to stand out in the cold.” – Unknown</p>\n",
+  "content": "<p>It snowed again yesterday! It was an interesting type of snow. It stuck immediately to the ground but looked quite funny as it accumulated, like it was composed of little fuzzy balls mixed with shards of glass! I was lucky enough to catch a perfect teeny snowflake on my glove, which inspired me to search for a quote about snowflakes.</p>\n<blockquote>\n<p style=\"text-align: center\"><em><strong>“To appreciate the beauty of a snowflake, it is necessary to stand out in the cold.” – Unknown</strong></em></p>\n</blockquote>\n\n<p>I don’t think I’ve ever even seen a perfect snowflake before, let alone caught one! I was pretty excited when I did. Have you ever caught a glimpse of a perfect snowflake before?</p>\n",
+  "featuredImage": {
+    "src": "/posts/qotd-snowflakes/featured.jpg",
+    "width": 1326,
+    "height": 1326,
+    "alt": "QOTD: Snowflakes on Katie Crafts; http://www.katiecrafts.com"
+  },
+  "categories": [
+    {
+      "id": 1,
+      "name": "Hodgepodge",
+      "slug": "hodgepodge"
+    }
+  ],
+  "tags": [
+    {
+      "id": 74,
+      "name": "beauty",
+      "slug": "beauty"
+    },
+    {
+      "id": 1343,
+      "name": "qotd",
+      "slug": "qotd"
+    },
+    {
+      "id": 1638,
+      "name": "quote of the day",
+      "slug": "quote-of-the-day"
+    },
+    {
+      "id": 97,
+      "name": "quotes",
+      "slug": "quotes"
+    },
+    {
+      "id": 1130,
+      "name": "snow",
+      "slug": "snow"
+    },
+    {
+      "id": 1639,
+      "name": "snowflakes",
+      "slug": "snowflakes"
+    },
+    {
+      "id": 1129,
+      "name": "winter",
+      "slug": "winter"
+    }
+  ]
+}

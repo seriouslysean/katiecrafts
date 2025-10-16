@@ -1,0 +1,48 @@
+{
+  "title": "Wordless Wednesday: Merry Christmas!",
+  "slug": "wordless-wednesday-merry-christmas",
+  "date": "20150401",
+  "publishedDate": "2015-04-01",
+  "excerpt": "<p>Wordless Wednesday: Merry Christmas! Ho, Ho, Ho! Merry Christmas! Hope your holiday season is merry and bright and filled with cheer! And I hope Santa brings you everything you asked for! <3</p>\n",
+  "content": "<p><strong>Wordless Wednesday: Merry Christmas!</strong></p>\n<p>Ho, Ho, Ho! Merry Christmas! Hope your holiday season is merry and bright and filled with cheer! And I hope Santa brings you everything you asked for! <3</p>\n",
+  "featuredImage": {
+    "src": "/posts/wordless-wednesday-merry-christmas/featured.jpg",
+    "width": 1280,
+    "height": 1707,
+    "alt": "Wordless Wednesday: Merry Christmas! by Katie Crafts; http://www.katiecrafts.com"
+  },
+  "categories": [
+    {
+      "id": 9,
+      "name": "Cats",
+      "slug": "cats"
+    }
+  ],
+  "tags": [
+    {
+      "id": 1266,
+      "name": "april fools",
+      "slug": "april-fools"
+    },
+    {
+      "id": 20,
+      "name": "cats",
+      "slug": "cats"
+    },
+    {
+      "id": 889,
+      "name": "christmas",
+      "slug": "christmas"
+    },
+    {
+      "id": 19,
+      "name": "mabel",
+      "slug": "mabel"
+    },
+    {
+      "id": 1050,
+      "name": "wordless wednesday",
+      "slug": "wordless-wednesday"
+    }
+  ]
+}

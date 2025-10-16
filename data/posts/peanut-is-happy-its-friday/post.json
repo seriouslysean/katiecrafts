@@ -1,0 +1,32 @@
+{
+  "title": "",
+  "slug": "peanut-is-happy-its-friday",
+  "date": "20140606",
+  "publishedDate": "2014-06-06",
+  "excerpt": "<p>So happy it’s Friday.</p>\n",
+  "content": "<p style=\"text-align: center;\"><img loading=\"lazy\" decoding=\"async\" class=\"aligncenter size-medium wp-image-2897\" src=\"https://i0.wp.com/www.katiecrafts.com/wp-content/uploads/2014/06/image-e1402024245966-663x887.jpg?resize=663%2C887&ssl=1\" alt=\"Peanut on Katie Crafts; http://www.katiecrafts.com\" width=\"663\" height=\"887\" data-recalc-dims=\"1\" ></p>\n<p style=\"text-align: center;\">So happy it’s Friday.</p>\n",
+  "categories": [
+    {
+      "id": 9,
+      "name": "Cats",
+      "slug": "cats"
+    }
+  ],
+  "tags": [
+    {
+      "id": 189,
+      "name": "friday",
+      "slug": "friday"
+    },
+    {
+      "id": 37,
+      "name": "loves cats",
+      "slug": "loves-cats-2"
+    },
+    {
+      "id": 19,
+      "name": "mabel",
+      "slug": "mabel"
+    }
+  ]
+}

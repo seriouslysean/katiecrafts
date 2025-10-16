@@ -1,0 +1,37 @@
+{
+  "title": "",
+  "slug": "new-years-cat",
+  "date": "20150102",
+  "publishedDate": "2015-01-02",
+  "excerpt": "<p>New Year’s Cat wants to know how you spent your holiday!</p>\n",
+  "content": "<p><img loading=\"lazy\" decoding=\"async\" class=\"aligncenter size-full wp-image-4885 post__image\" src=\"/posts/new-years-cat/img-6387-1.jpg\" alt=\"New Year's Cat on Katie Crafts; http://www.katiecrafts.com\" width=\"980\" height=\"1307\"></p>\n<p style=\"text-align: center;\">New Year’s Cat wants to know how you spent your holiday!</p>\n",
+  "categories": [
+    {
+      "id": 9,
+      "name": "Cats",
+      "slug": "cats"
+    }
+  ],
+  "tags": [
+    {
+      "id": 369,
+      "name": "cat",
+      "slug": "cat"
+    },
+    {
+      "id": 19,
+      "name": "mabel",
+      "slug": "mabel"
+    },
+    {
+      "id": 1148,
+      "name": "new years",
+      "slug": "new-years"
+    },
+    {
+      "id": 1149,
+      "name": "new years eve",
+      "slug": "new-years-eve"
+    }
+  ]
+}
