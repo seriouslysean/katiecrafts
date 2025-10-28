@@ -1,0 +1,34 @@
+---
+layout: "~/layouts/Post.astro"
+title: "Greetings From Krampus!"
+slug: "greetings-from-krampus"
+date: "20151206"
+publishedDate: "2015-12-06"
+excerpt: "On the sixth day of Christmas, Katie Crafts gave to me.. A Krampus filled treasury that’s creepy! Sometimes it isn’t Santa Claus that comes down your chimney… sometimes it’s KRAMPUS! Check out this wonderful Holiday Devil themed treasury courtesy of Kaitlin Statz."
+featuredImage:
+  src: "./_images/featured.png"
+  width: 663
+  height: 713
+  alt: "Greetings From Krampus! on Katie Crafts; http://www.katiecrafts.com"
+categories:
+  - slug: "hodgepodge"
+    name: "Hodgepodge"
+tags:
+  - slug: "12-days-of-christmas"
+    name: "12 days of christmas"
+  - slug: "christmas"
+    name: "christmas"
+  - slug: "etsy"
+    name: "etsy"
+  - slug: "etsy-picks"
+    name: "etsy picks"
+  - slug: "gift-ideas"
+    name: "gift ideas"
+  - slug: "krampus"
+    name: "krampus"
+  - slug: "shopping"
+    name: "shopping"
+  - slug: "treasury"
+    name: "treasury"
+---
+<p><em>?On the sixth day of Christmas, Katie Crafts gave to me…?</em></p><p>A Krampus filled treasury that’s creepy! Sometimes it isn’t Santa Claus that comes down your chimney… sometimes it’s KRAMPUS! Check out this wonderful Holiday Devil themed treasury courtesy of</p><a href="https://www.etsy.com/shop/StatzInk" target="_blank" rel="noopener noreferrer">Kaitlin Statz</a><p>.</p><p>I’m SO excited to see the Krampus Movie that just came out on Friday! Hopefully the Husband and I can take a break over the next week and sneak off to the movie theater. It’s going to be amazing- I just know it. If you love creepy twists on things too, you’ll love this Krampus-y shopping list!</p><a href="https://www.etsy.com/treasury/NzExODgwNTR8MjcyODAzODEzOA/greeting-from-krampus" target="_blank" rel="noopener noreferrer">Check out the original treasury here</a><p>and shop each item below. Be sure to also check out Kaitlin’s own awesome Etsy shop,</p><a href="https://www.etsy.com/shop/StatzInk" target="_blank" rel="noopener noreferrer">Statz Ink</a><p>!</p><ol><li><a href="https://www.etsy.com/listing/255793912/krampus-wood-mounted-rubber-stamp-4541?ref=tre-2728038138-1" target="_blank" rel="noopener noreferrer">100 Proof Press</a></li><li><a href="https://www.etsy.com/listing/213168753/krampus-accent-pillow-linen-and-burlap?ref=tre-2728038138-2" target="_blank" rel="noopener noreferrer">Shabbey Abbey</a></li><li><a href="https://www.etsy.com/listing/208302367/set-of-krampus-tags-christmas-gift-tags?ref=tre-2728038138-3" target="_blank" rel="noopener noreferrer">Bones Nelson</a></li><li><a href="https://www.etsy.com/listing/218594671/krampus-t-shirt-greetings-from-krampus?ref=related-0" target="_blank" rel="noopener noreferrer">Horse and Hare</a></li><li><a href="https://www.etsy.com/listing/250560783/krampus-tea-towel?ref=tre-2728038138-5" target="_blank" rel="noopener noreferrer">Wild Wander Co.</a></li><li><a href="https://www.etsy.com/listing/256760092/ugly-tacky-christmas-sweater-merry?ref=tre-2728038138-6" target="_blank" rel="noopener noreferrer">Dentz Design</a></li><li><a href="https://www.etsy.com/listing/241710873/6-pack-krampus-krampuskarten-wood-cards?ref=tre-2728038138-7" target="_blank" rel="noopener noreferrer">Xylographilia</a></li><li><a href="https://www.etsy.com/listing/168562172/krampus-ornament-version-2?ref=tre-2728038138-8" target="_blank" rel="noopener noreferrer">Dellamorte &#x26; Co.</a></li><li><a href="https://www.etsy.com/listing/245966840/evil-yule-devil-krampus-1-inch?ref=tre-2728038138-9" target="_blank" rel="noopener noreferrer">Vividiom</a></li><li><a href="https://www.etsy.com/listing/251149220/customizable-handmade-christmas-merry?ref=tre-2728038138-10" target="_blank" rel="noopener noreferrer">Eclectic Red’s</a></li><li><a href="https://www.etsy.com/listing/250061918/krampus-soap-glycerin-peppermint-scented?ref=tre-2728038138-11" target="_blank" rel="noopener noreferrer">Humphrey’s Handmade</a></li><li><a href="https://www.etsy.com/listing/255834640/krampus-saint-nicholas-christmas-wood?ref=tre-2728038138-12" target="_blank" rel="noopener noreferrer">Indigo Spoons</a></li><li><a href="https://www.etsy.com/listing/258501394/krampus-ornament-its-personal?ref=related-1" target="_blank" rel="noopener noreferrer">Hi Guys</a></li><li><a href="https://www.etsy.com/listing/211147920/christmas-krampus-rubber-stamp-alpine?ref=tre-2728038138-14" target="_blank" rel="noopener noreferrer">Rubber Hedgehog Stamps</a></li><li><a href="https://www.etsy.com/listing/167553476/personalized-krampus-letter-for-naughty?ref=tre-2728038138-15" target="_blank" rel="noopener noreferrer">Bedlam Supply Co.</a></li><li><a href="https://www.etsy.com/listing/212397435/krampus-christmas-devil-effigy-magic-set?ref=tre-2728038138-16" target="_blank" rel="noopener noreferrer">Katya’s Kreatures</a></li></ol><p>Thanks again for sharing this treasury, Kaitlin!</p><p>If you haven’t entered our</p><a href="/holiday-baking-giveaway-pb-cookie-recipe/">12 Days of Christmas giveaways</a><p>yet, make sure you do it this week! All of them end on 12/12 at 11:59PM ET! Good luck!</p><blockquote><p><em>Christmas border</em></p><em><a href="http://www.freepik.com/free-vector/hand-drawn-christmas-borders_825050.htm" target="_blank" rel="noopener noreferrer">Designed by Freepik</a></em></blockquote>

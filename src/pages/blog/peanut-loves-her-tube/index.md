@@ -1,0 +1,13 @@
+---
+layout: "~/layouts/Post.astro"
+title: ""
+slug: "peanut-loves-her-tube"
+date: "20140715"
+publishedDate: "2014-07-15"
+excerpt: "Peanut looooooooves her tube!"
+categories:
+  - slug: "crafts"
+    name: "Crafts"
+tags: []
+---
+<p><img class="size-medium post__image" src="./_images/img-3193-e1405402526399.jpg" alt="Peanut Loves Her Tube on Katie Crafts; http://www.katiecrafts.com" width="663" height="497"></p><p>Peanut looooooooves her tube!</p>

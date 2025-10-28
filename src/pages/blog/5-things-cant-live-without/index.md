@@ -1,0 +1,34 @@
+---
+layout: "~/layouts/Post.astro"
+title: "5 Things I Can’t Live Without"
+slug: "5-things-cant-live-without"
+date: "20140717"
+publishedDate: "2014-07-17"
+excerpt: "5 Things I Can’t Live Without Today’s post is all about 5 things that are total essentials for me, things I just can’t live without! It was inspired by a conversation about Man Crates, a company that makes fun gift boxes for guys. The Husband is pretty excited about this concept, since most subscription sampler […]"
+featuredImage:
+  src: "./_images/featured.jpg"
+  width: 663
+  height: 250
+  alt: "5 Things I Can't Live Without on Katie Crafts; http://www.katiecrafts.com"
+categories:
+  - slug: "hodgepodge"
+    name: "Hodgepodge"
+tags:
+  - slug: "5-things"
+    name: "5 things"
+  - slug: "chapstick"
+    name: "chapstick"
+  - slug: "chocolate"
+    name: "chocolate"
+  - slug: "craft-supplies"
+    name: "craft supplies"
+  - slug: "essentials"
+    name: "essentials"
+  - slug: "eyeliner"
+    name: "eyeliner"
+  - slug: "man-crates"
+    name: "man crates"
+  - slug: "photos"
+    name: "photos"
+---
+<p>Today’s post is all about 5 things that are total essentials for me, things I just can’t live without! It was inspired by a conversation about</p><a title="Man Crates" href="http://www.mancrates.com/" target="_blank" rel="noopener noreferrer">Man Crates</a><p>, a company that makes fun gift boxes for guys. The Husband is pretty excited about this concept, since most subscription sampler boxes we hear about are for us ladies, or include things he has no interest in! If I could make my own survival kit box, these things would be in it.</p><p>First off, we’re eliminating things like “oxygen” or “water” or “food”! This isn’t a fending-for-your-life kit so much as it is a life-would-really-suck-without-these-things kit. Here we go!</p><p>#1: Eyeliner.</p><p>It sounds silly, yeah. But I can’t leave the house with at least some eyeliner on. Even if I don’t have time for any other makeup- I have to have on eyeliner.. otherwise I look twelve!</p><p><a href="http://lindtusa.com" target="_blank" rel="noopener noreferrer"><img class="size-full post__image" src="./_images/milk-chocolate-almond-classic-recipe-bar-main-450x-438279.png" alt="5 Things I Can&#x27;t Live Without on Katie Crafts; http://www.katiecrafts.com" width="450" height="450"></a></p><p>#2: Chocolate.</p><p>Not even any particular kind- my favorites tend to change- but my chocolate cravings never do fade! I’d definitely need chocolate in my essentials box!</p><p><a href="http://stripesandsequins.com" target="_blank" rel="noopener noreferrer"><img class="size-medium post__image" src="./_images/craft-supplies.jpg" alt="5 Things I Can&#x27;t Live Without on Katie Crafts; http://www.katiecrafts.com" width="663" height="663"></a></p><p>#3: Craft Supplies.</p><p>I’m picturing being stranded on a desert island, with my eyeliner on, my chocolate all eaten, and nothing else to do! Sure, relaxing on the island would be nice for a little while, but I’d surely get bored. Crafting time is my happy time, no matter what the project is. If I had some craft supplies in my essentials box, I’d be all set!</p><p><a href="http://amzn.to/1qJ8gA5" target="_blank" rel="noopener noreferrer"><img class="size-medium post__image" src="./_images/91wcftnp6wl-sl1500.jpg" alt="5 Things I Can&#x27;t Live Without on Katie Crafts; http://www.katiecrafts.com" width="663" height="644"></a></p><p>#4: Lip Gloss/Chapstick.</p><p>This isn’t just because I want color on my lips- that part doesn’t mean too much to me- I just always feel like my lips are dry and it drives me crazy. Having some kind of lip gloss or chapstick or lip balm in my box would save me from that!</p><p><img class="size-medium post__image" src="./_images/photos-man-crate-post.jpg" alt="5 Things I Can&#x27;t Live Without on Katie Crafts; http://www.katiecrafts.com" width="663" height="663"></p><p>#5: Photos.</p><p>Presumably I can’t fit my Husband, family, friends or kitties in the box (well, the kitties would probably try to squeeze in anyway), so photos of all of them would be a must have! That way I could relive moments and smile thinking of them.</p><p>What 5 things can you absolutely not live without that you’d want in your essentials box?</p>

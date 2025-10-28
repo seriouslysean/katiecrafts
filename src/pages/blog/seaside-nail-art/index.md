@@ -1,0 +1,64 @@
+---
+layout: "~/layouts/Post.astro"
+title: "Seaside Nail Art"
+slug: "seaside-nail-art"
+date: "20140710"
+publishedDate: "2014-07-10"
+excerpt: "Seaside Nail Art Design I may not have had the chance to get myself to a beach yet this summer (I really hope I do soon!), but that won’t stop me from dreaming about it! This week, I decided to give myself a beachy manicure in honor of the season. Hope you like it!"
+featuredImage:
+  src: "./_images/featured.jpg"
+  width: 663
+  height: 250
+  alt: "Seaside Nail Art Design by Katie Crafts; http://www.katiecrafts.com"
+categories:
+  - slug: "beauty"
+    name: "Beauty"
+tags:
+  - slug: "beach"
+    name: "beach"
+  - slug: "beauty"
+    name: "beauty"
+  - slug: "coral"
+    name: "coral"
+  - slug: "essie"
+    name: "essie"
+  - slug: "manicure"
+    name: "manicure"
+  - slug: "mint-green"
+    name: "mint green"
+  - slug: "nail-art"
+    name: "nail art"
+  - slug: "nail-design"
+    name: "nail design"
+  - slug: "nail-polish"
+    name: "nail polish"
+  - slug: "sand"
+    name: "sand"
+  - slug: "seaside"
+    name: "seaside"
+---
+<p>Seaside Nail Art Design</p><p>I may not have had the chance to get myself to a beach yet this summer (I really hope I do soon!), but that won’t stop me from dreaming about it! This week, I decided to give myself a beachy manicure in honor of the season. Hope you like it!</p><h2>Materials:</h2><ul><li><a title="Essie Sand Tropez" href="http://amzn.to/1jshZwd" target="_blank" rel="noopener noreferrer">Essie “Sand Tropez”</a><p>or another sandy colored polish</p></li><li><a title="Essie " come="" here!&#x26;#x26;#x26;#x26;#x26;#x22;="" polish&#x26;#x26;#x26;#x26;#x26;#x22;="" href="http://amzn.to/1mi1eTK" target="_blank" rel="noopener noreferrer">Essie “Come Here!”</a><p>or another coral colored polish</p></li><li><a title="Essie " fashion="" playground&#x26;#x26;#x26;#x26;#x26;#x22;="" polish&#x26;#x26;#x26;#x26;#x26;#x22;="" href="http://amzn.to/1w3OpNB" target="_blank" rel="noopener noreferrer">Essie “Fashion Playground”</a><p>or another mint/sea colored polish</p></li><li><p>White nail polish</p></li><li><p>Clear top coat</p></li><li><p>Dotting tool</p></li><li><p>Makeup sponge</p></li></ul><h2>Instructions:</h2><ul><li><p>Starting with clean nails, paint one coat of Sand Tropez on your nails and let it dry completely.</p></li></ul><div class="post__gallery"><div class="post__gallery-item">
+          <img class="post__gallery-image post__image" src="./_images/img-4520.jpg" alt="Seaside Nail Art Design by Katie Crafts; https://www.katiecrafts.com" width="600" height="400">
+        </div><div class="post__gallery-item">
+          <img class="post__gallery-image post__image" src="./_images/img-4521.jpg" alt="Seaside Nail Art Design by Katie Crafts; https://www.katiecrafts.com" width="600" height="400">
+        </div></div><ul><li><p>Paint a second coat and let that one dry too! (Above: Pic on left is one coat, pic on right is two! MUCH less streaky!)</p></li></ul><div class="post__gallery"><div class="post__gallery-item">
+          <img class="post__gallery-image post__image" src="./_images/img-4523.jpg" alt="Seaside Nail Art Design by Katie Crafts; https://www.katiecrafts.com" width="600" height="400">
+        </div><div class="post__gallery-item">
+          <img class="post__gallery-image post__image" src="./_images/img-4524.jpg" alt="Seaside Nail Art Design by Katie Crafts; https://www.katiecrafts.com" width="600" height="400">
+        </div><div class="post__gallery-item">
+          <img class="post__gallery-image post__image" src="./_images/img-4525.jpg" alt="Seaside Nail Art Design by Katie Crafts; https://www.katiecrafts.com" width="600" height="400">
+        </div><div class="post__gallery-item">
+          <img class="post__gallery-image post__image" src="./_images/img-4528.jpg" alt="Seaside Nail Art Design by Katie Crafts; https://www.katiecrafts.com" width="600" height="400">
+        </div></div><ul><li><p>Apply a little white to your torn makeup sponge, and dab on your nails about halfway down to create the “sea foam”.</p></li><li><p>Let dry completely.</p></li></ul><div class="post__gallery"><div class="post__gallery-item">
+          <img class="post__gallery-image post__image" src="./_images/img-4529.jpg" alt="Seaside Nail Art Design by Katie Crafts; https://www.katiecrafts.com" width="600" height="400">
+        </div><div class="post__gallery-item">
+          <img class="post__gallery-image post__image" src="./_images/img-4532.jpg" alt="Seaside Nail Art Design by Katie Crafts; https://www.katiecrafts.com" width="600" height="400">
+        </div></div><ul><li><p>Apply the “Fashion Playground” (I loveeeeeee this mint color! It has a little glitter in it so it’s extra amazing for the summer!) on your torn makeup sponge and dab on just like before, on the top third of your nail. Make sure to leave a line of the white showing to be the foam. This green will be your water!</p></li></ul><figure id="attachment_3508" aria-describedby="caption-attachment-3508" class="post__figure"><img class="size-medium post__image" src="./_images/img-4543.jpg" alt="Seaside Nail Art Design by Katie Crafts; http://www.katiecrafts.com" width="663" height="883"><figcaption id="caption-attachment-3508"><p>My favorite polish color of the summer!</p></figcaption></figure><ul><li><p>After that coat is dry, do one more coat of the green on just the top portion of your nail, to make it more opaque. Let that dry completely, too.</p></li></ul><div class="post__gallery"><div class="post__gallery-item">
+          <img class="post__gallery-image post__image" src="./_images/img-4536.jpg" alt="Seaside Nail Art Design by Katie Crafts; https://www.katiecrafts.com" width="600" height="400">
+        </div><div class="post__gallery-item">
+          <img class="post__gallery-image post__image" src="./_images/img-4539.jpg" alt="Seaside Nail Art Design by Katie Crafts; https://www.katiecrafts.com" width="600" height="400">
+        </div><div class="post__gallery-item">
+          <img class="post__gallery-image post__image" src="./_images/img-4546.jpg" alt="Seaside Nail Art Design by Katie Crafts; https://www.katiecrafts.com" width="600" height="400">
+        </div><div class="post__gallery-item">
+          <img class="post__gallery-image post__image" src="./_images/img-4541.jpg" alt="Seaside Nail Art Design by Katie Crafts; https://www.katiecrafts.com" width="600" height="400">
+        </div></div><ul><li><p>Using your dotting tool and the “Come Here” color, draw little starfish on your nails in various places, in both the “water” and the “beach”!</p></li><li><p>Let dry and seal in with clear top coat.</p></li></ul><p><img class="size-medium post__image" src="./_images/img-4545.jpg" alt="Seaside Nail Art Design by Katie Crafts; http://www.katiecrafts.com" width="663" height="676"></p><ul><li><p>Clean up any polish that got on your skin, and enjoy your fun summery beachy seaside nails!</p></li></ul><p><img class="size-medium post__image" src="./_images/img-4549.jpg" alt="Seaside Nail Art Design by Katie Crafts; http://www.katiecrafts.com" width="663" height="579"></p><p>If you try out my fun beachy seaside nail art design, take some shots and share them in the comments! How do you like to wear your nails in the summer?</p>

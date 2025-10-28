@@ -1,0 +1,24 @@
+---
+layout: "~/layouts/Post.astro"
+title: "Purry Cat"
+slug: "purry-cat"
+date: "20160607"
+publishedDate: "2016-06-07"
+excerpt: "It’s been a long while since I’ve posted any cat pics!! How about a cat video to make up for it? Above is a still of my little loverboy Lucky, fast asleep on the Husband’s legs. Below is a video a few moments later of Lucky purring away loudly! Turn up your volume for an […]"
+featuredImage:
+  src: "./_images/featured.jpg"
+  width: 1326
+  height: 1326
+  alt: "Purry Cat on Katie Crafts; http://www.katiecrafts.com"
+categories:
+  - slug: "cats"
+    name: "Cats"
+tags:
+  - slug: "cats"
+    name: "cats"
+  - slug: "lucky"
+    name: "lucky"
+  - slug: "purr"
+    name: "purr"
+---
+<p>It’s been a long while since I’ve posted any cat pics!! How about a cat video to make up for it? Above is a still of my little loverboy Lucky, fast asleep on the Husband’s legs. Below is a video a few moments later of Lucky purring away loudly! Turn up your volume for an insta-AWWH!</p><div><video id="video-8367-1" width="980" height="551" preload="metadata" controls><a href="/wp-content/uploads/2016/06/IMG_3002.m4v">http://www.katiecrafts.com/wp-content/uploads/2016/06/IMG_3002.m4v</a></video></div><p>I’ll have to share a pic of Mabel soon too, since she’s been extra adorable lately as well! My little furry babies are the best. 😉</p><p>Share a pic of your sweet pets below!</p>

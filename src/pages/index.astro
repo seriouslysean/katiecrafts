@@ -2,13 +2,13 @@
 import Layout from '~layouts/Layout.astro';
 import PostCard from '~components/PostCard.astro';
 import SectionHero from '~components/SectionHero.astro';
-import { getAllPosts, HOME_POSTS_LIMIT, getCategorySummaries } from '~utils/posts';
+import { getAllPosts, HOME_POSTS_LIMIT, getCategorySummaries, getPostFeaturedImage } from '~utils/posts';
 
 const posts = await getAllPosts();
 const featuredPosts = posts.slice(0, HOME_POSTS_LIMIT);
 const categories = getCategorySummaries(posts).slice(0, 6);
 const primaryFeatured = featuredPosts[0];
-const primaryImage = primaryFeatured?.data.featuredImage;
+const primaryImage = primaryFeatured ? getPostFeaturedImage(primaryFeatured) : undefined;
 const primaryTitle = primaryFeatured?.data.title;
 ---
 

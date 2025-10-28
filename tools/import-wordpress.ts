@@ -18,7 +18,7 @@ import { createWriteStream } from 'node:fs';
 import { pipeline } from 'node:stream/promises';
 import axios, { AxiosError } from 'axios';
 import { decode } from 'entities';
-import { parse, HTMLElement } from 'node-html-parser';
+import { parse, HTMLElement, TextNode } from 'node-html-parser';
 import yargs from 'yargs';
 import { hideBin } from 'yargs/helpers';
 import type { WordPressPost, PostData, FeaturedImageMeta } from '~types/post';
@@ -29,12 +29,38 @@ const WP_API_BASE = `${SITE_ORIGIN}/wp-json/wp/v2`;
 const POSTS_PER_PAGE = 6;
 const DATA_DIR = path.join(process.cwd(), 'data');
 const POSTS_BASE_DIR = path.join(DATA_DIR, 'posts');
-const PUBLIC_POSTS_DIR = path.join(process.cwd(), 'public', 'posts');
+const BLOG_PAGES_DIR = path.join(process.cwd(), 'src', 'pages', 'blog');
 const MANIFEST_FILE = path.join(DATA_DIR, 'import-manifest.json');
 const MAX_RETRIES = 3;
 const RETRY_DELAY = 2000; // ms
 const INTERNAL_HOSTNAMES = new Set(['www.katiecrafts.com', 'katiecrafts.com']);
 const WORDPRESS_CDN_HOSTS = new Set(['i0.wp.com', 'i1.wp.com', 'i2.wp.com', 'i3.wp.com']);
+
+function normalizeWordPressImageUrl(url: URL): URL {
+  const normalized = new URL(url.href);
+  normalized.search = '';
+  const ext = path.posix.extname(normalized.pathname);
+  const dir = path.posix.dirname(normalized.pathname);
+  const base = path.posix.basename(normalized.pathname, ext);
+  let stripped = base.replace(/-\d+x\d+$/i, '').replace(/-scaled$/i, '');
+  if (!stripped.length) stripped = base;
+  normalized.pathname = `${dir === '/' ? '' : dir}/${stripped}${ext}`;
+  return normalized;
+}
+
+function buildImageCandidates(url: URL): URL[] {
+  const original = new URL(url.href);
+  const candidates: URL[] = [original];
+  const normalized = normalizeWordPressImageUrl(url);
+  if (
+    normalized.pathname !== original.pathname ||
+    normalized.search !== original.search ||
+    normalized.origin !== original.origin
+  ) {
+    candidates.push(normalized);
+  }
+  return candidates;
+}
 
 // Parse command line arguments
 const argv = await yargs(hideBin(process.argv))
@@ -74,6 +100,12 @@ async function retryWithBackoff<T>(
   try {
     return await fn();
   } catch (error) {
+    if (error instanceof AxiosError) {
+      const status = error.response?.status;
+      if (status && status >= 400 && status < 500) {
+        throw error;
+      }
+    }
     if (retries === 0) throw error;
     console.log(`  ⚠️  Retrying in ${delay}ms... (${retries} attempts left)`);
     await sleep(delay);
@@ -105,10 +137,17 @@ function sanitizeFilenameSegment(segment: string): string {
     .replace(/^-+|-+$/g, '');
 }
 
-function buildImageFilename(baseName: string, index: number, ext: string): string {
+function buildImageFilename(baseName: string, ext: string, usedFilenames: Set<string>): string {
   const sanitized = sanitizeFilenameSegment(baseName);
-  const prefix = sanitized || 'image';
-  return `${prefix}-${index}${ext}`;
+  const base = sanitized || 'image';
+  let candidate = `${base}${ext}`;
+  let counter = 2;
+  while (usedFilenames.has(candidate)) {
+    candidate = `${base}-${counter}${ext}`;
+    counter += 1;
+  }
+  usedFilenames.add(candidate);
+  return candidate;
 }
 
 function normalizeInternalHref(url: URL): string {
@@ -147,11 +186,108 @@ async function saveManifest(manifest: ImportManifest): Promise<void> {
 async function ensureDirectories(): Promise<void> {
   if (argv.dryRun) return;
   await fs.mkdir(POSTS_BASE_DIR, { recursive: true });
-  await fs.mkdir(PUBLIC_POSTS_DIR, { recursive: true });
+  await fs.mkdir(BLOG_PAGES_DIR, { recursive: true });
 }
 
 function preprocessHtml(html: string): string {
   return html.replace(/<!--more-->/g, '');
+}
+
+function normalizeTextareas(root: HTMLElement): void {
+  root.querySelectorAll('textarea').forEach(node => {
+    const textContent = node.textContent ?? '';
+    const urls = Array.from(new Set(textContent.match(/https?:\/\/[^\s"'<>]+/g) ?? []));
+
+    if (urls.length === 0) {
+      node.remove();
+      return;
+    }
+
+    const fragments = urls
+      .map(url => {
+        const parsed = parse(`<p class="post__embed-link"><a href="${url}" target="_blank" rel="noopener noreferrer">${url}</a></p>`);
+        return parsed.firstChild as HTMLElement | null;
+      })
+      .filter((fragment): fragment is HTMLElement => fragment !== null);
+
+    if (fragments.length) {
+      node.replaceWith(...fragments);
+    } else {
+      node.remove();
+    }
+  });
+}
+
+function sanitizeUnsupportedNodes(root: HTMLElement): void {
+  const dropSelectors = [
+    'script',
+    'style',
+    'iframe',
+    'form',
+    'input',
+    'select',
+    'option',
+    'button',
+    'svg',
+    'canvas',
+    'noscript',
+    'object',
+    'embed',
+  ].join(',');
+
+  root.querySelectorAll(dropSelectors).forEach(node => node.remove());
+
+  root.querySelectorAll('table').forEach(table => {
+    const rows = table.querySelectorAll('tr');
+    const replacements: HTMLElement[] = [];
+
+    rows.forEach(row => {
+      const cells = row.querySelectorAll('th, td');
+      const segments = cells
+        .map(cell => cell.innerHTML.trim())
+        .filter(Boolean);
+
+      if (segments.length) {
+      const wrapper = parse(`<p>${segments.join(' ')}</p>`);
+      const paragraph = wrapper.firstChild as HTMLElement | null;
+        if (paragraph) {
+          replacements.push(paragraph);
+        }
+      }
+    });
+
+    if (replacements.length) {
+      table.replaceWith(...replacements);
+    } else {
+      table.remove();
+    }
+  });
+}
+
+function wrapOrphanTextNodes(node: HTMLElement): void {
+  const childNodes = [...node.childNodes];
+
+  for (const child of childNodes) {
+    if (child instanceof TextNode) {
+      const text = child.text.trim();
+      if (!text) {
+        child.remove();
+        continue;
+      }
+
+      const wrapper = parse(`<p>${text}</p>`);
+      const paragraph = wrapper.firstChild as HTMLElement | null;
+      if (paragraph) {
+        const parent = child.parentNode;
+        if (parent) {
+          const index = parent.childNodes.indexOf(child);
+          parent.childNodes.splice(index, 1, paragraph);
+        }
+      }
+    } else if (child instanceof HTMLElement) {
+      wrapOrphanTextNodes(child);
+    }
+  }
 }
 
 function standardizeGalleries(root: HTMLElement): void {
@@ -272,11 +408,10 @@ function convertPseudoLists(root: HTMLElement): void {
 async function localizeImages(
   root: HTMLElement,
   slug: string,
-  postImageDataDir: string,
-  postImagePublicDir: string
+  postImageDataDir: string
 ): Promise<void> {
   const downloads = new Map<string, string>();
-  let imageIndex = 1;
+  const usedFilenames = new Set<string>();
 
   for (const img of root.querySelectorAll('img')) {
     const sourceAttr =
@@ -286,28 +421,26 @@ async function localizeImages(
 
     if (!sourceAttr) continue;
 
-    let imageUrl: URL;
+    let originalUrl: URL;
     try {
-      imageUrl = new URL(sourceAttr, SITE_ORIGIN);
+      originalUrl = new URL(sourceAttr, SITE_ORIGIN);
     } catch {
       continue;
     }
 
-    if (!['http:', 'https:'].includes(imageUrl.protocol)) continue;
+    if (!['http:', 'https:'].includes(originalUrl.protocol)) continue;
 
-    if (WORDPRESS_CDN_HOSTS.has(imageUrl.hostname)) {
-      imageUrl.search = '';
-    }
-    imageUrl.hash = '';
+    originalUrl.hash = '';
 
-    const mapKey = `${imageUrl.origin}${imageUrl.pathname}`;
+    const candidates = buildImageCandidates(originalUrl);
+    const normalizedUrl = normalizeWordPressImageUrl(originalUrl);
+    const mapKey = `${normalizedUrl.origin}${normalizedUrl.pathname}`;
 
     if (!downloads.has(mapKey)) {
-      const ext = getFileExtension(imageUrl);
-      const baseName = path.basename(imageUrl.pathname, ext);
-      const filename = buildImageFilename(baseName, imageIndex, ext);
+      const ext = getFileExtension(normalizedUrl);
+      const baseName = path.posix.basename(normalizedUrl.pathname, ext);
+      const filename = buildImageFilename(baseName, ext, usedFilenames);
       const dataPath = path.join(postImageDataDir, filename);
-      const publicPath = path.join(postImagePublicDir, filename);
 
       if (!argv.dryRun) {
         try {
@@ -315,30 +448,46 @@ async function localizeImages(
           let success = true;
 
           if (!alreadyExists) {
-            success = await downloadImage(imageUrl.href, dataPath);
+            success = false;
+            for (let i = 0; i < candidates.length; i++) {
+              const candidateUrl = candidates[i];
+              const isLastAttempt = i === candidates.length - 1;
+              success = await downloadImage(candidateUrl.href, dataPath, !isLastAttempt);
+              if (success) break;
+              await fs.rm(dataPath, { force: true });
+            }
           }
 
           if (!success) {
-            console.error(`    ❌ Skipping image due to download failure: ${imageUrl.href}`);
+            if (argv.skipMissingMedia) {
+              console.error(`    ⚠️  Missing image replaced with placeholder: ${originalUrl.href}`);
+              downloads.set(mapKey, '');
+            } else {
+              console.error(`    ❌ Skipping image due to download failure: ${originalUrl.href}`);
+            }
             continue;
           }
-
-          await fs.copyFile(dataPath, publicPath);
         } catch (error) {
-          console.error(`    ❌ Failed to copy image to public directory: ${imageUrl.href}`);
+          console.error(`    ❌ Failed to persist image asset: ${originalUrl.href}`);
           console.error(error);
           continue;
         }
       }
 
       downloads.set(mapKey, filename);
-      imageIndex += 1;
     }
 
     const storedFilename = downloads.get(mapKey);
-    if (!storedFilename) continue;
+    if (!storedFilename) {
+      if (argv.skipMissingMedia) {
+        img.replaceWith(
+          `<div class="post__image post__image--missing" role="img" aria-label="Image unavailable">Image unavailable</div>`
+        );
+      }
+      continue;
+    }
 
-    img.setAttribute('src', `/posts/${slug}/${storedFilename}`);
+    img.setAttribute('src', `./_images/${storedFilename}`);
     img.removeAttribute('srcset');
     img.removeAttribute('sizes');
     img.removeAttribute('data-recalc-dims');
@@ -359,17 +508,19 @@ async function localizeImages(
 async function transformPostContent(
   html: string,
   slug: string,
-  postImageDataDir: string,
-  postImagePublicDir: string
+  postImageDataDir: string
 ): Promise<string> {
   const preparedHtml = preprocessHtml(html);
   const root = parse(preparedHtml);
 
+  normalizeTextareas(root);
+  sanitizeUnsupportedNodes(root);
+  wrapOrphanTextNodes(root);
   standardizeGalleries(root);
   removeEmptyParagraphs(root);
   convertPseudoLists(root);
   rewriteInternalLinks(root);
-  await localizeImages(root, slug, postImageDataDir, postImagePublicDir);
+  await localizeImages(root, slug, postImageDataDir);
 
   return decode(root.toString());
 }
@@ -378,6 +529,8 @@ function transformExcerpt(html: string): string {
   const preparedHtml = preprocessHtml(html);
   const root = parse(preparedHtml);
 
+  sanitizeUnsupportedNodes(root);
+  wrapOrphanTextNodes(root);
   removeEmptyParagraphs(root);
   convertPseudoLists(root);
   rewriteInternalLinks(root);
@@ -385,8 +538,94 @@ function transformExcerpt(html: string): string {
   return decode(root.toString());
 }
 
+async function copyImagesToBlog(sourceDir: string, targetDir: string) {
+  const entries = await fs.readdir(sourceDir).catch(() => []);
+
+  if (!entries.length) {
+    await fs.rm(targetDir, { recursive: true, force: true });
+    return;
+  }
+
+  await fs.mkdir(targetDir, { recursive: true });
+
+  for (const entry of entries) {
+    const sourcePath = path.join(sourceDir, entry);
+    const stats = await fs.stat(sourcePath);
+    if (!stats.isFile()) continue;
+    const destinationPath = path.join(targetDir, entry);
+    await fs.copyFile(sourcePath, destinationPath);
+  }
+}
+
+async function writeMarkdown(postData: PostData, blogDir: string) {
+  await fs.mkdir(blogDir, { recursive: true });
+  const document = buildMarkdownDocument(postData);
+  await fs.writeFile(path.join(blogDir, 'index.md'), document, 'utf8');
+}
+
+function buildMarkdownDocument(post: PostData): string {
+  const lines: string[] = ['---'];
+  lines.push(`layout: "~/layouts/Post.astro"`);
+  lines.push(`title: ${JSON.stringify(post.title)}`);
+  lines.push(`slug: ${JSON.stringify(post.slug)}`);
+  lines.push(`date: ${JSON.stringify(post.date)}`);
+  lines.push(`publishedDate: ${JSON.stringify(post.publishedDate)}`);
+
+  if (post.excerpt) {
+    const excerpt = cleanExcerpt(post.excerpt);
+    if (excerpt) lines.push(`excerpt: ${JSON.stringify(excerpt)}`);
+  }
+
+  if (post.featuredImage) {
+    lines.push('featuredImage:');
+    lines.push(`  src: ${JSON.stringify(post.featuredImage.src)}`);
+    if (typeof post.featuredImage.width === 'number') {
+      lines.push(`  width: ${post.featuredImage.width}`);
+    }
+    if (typeof post.featuredImage.height === 'number') {
+      lines.push(`  height: ${post.featuredImage.height}`);
+    }
+    if (post.featuredImage.alt) {
+      lines.push(`  alt: ${JSON.stringify(post.featuredImage.alt)}`);
+    }
+  }
+
+  if (post.categories?.length) {
+    lines.push('categories:');
+    post.categories.forEach(category => {
+      lines.push('  - slug: ' + JSON.stringify(category.slug));
+      lines.push('    name: ' + JSON.stringify(category.name));
+    });
+  } else {
+    lines.push('categories: []');
+  }
+
+  if (post.tags?.length) {
+    lines.push('tags:');
+    post.tags.forEach(tag => {
+      lines.push('  - slug: ' + JSON.stringify(tag.slug));
+      lines.push('    name: ' + JSON.stringify(tag.name));
+    });
+  } else {
+    lines.push('tags: []');
+  }
+
+  lines.push('---');
+
+  const frontmatter = lines.join('\n');
+  const body = post.content.trim();
+
+  return `${frontmatter}\n\n${body}\n`;
+}
+
+function cleanExcerpt(html: string | undefined): string | undefined {
+  if (!html) return undefined;
+  const text = html.replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ').trim();
+  return text.length ? text : undefined;
+}
+
 // Download image with retry
-async function downloadImage(url: string, filepath: string): Promise<boolean> {
+async function downloadImage(url: string, filepath: string, suppressError = false): Promise<boolean> {
   try {
     await retryWithBackoff(async () => {
       const response = await axios({
@@ -400,9 +639,11 @@ async function downloadImage(url: string, filepath: string): Promise<boolean> {
     });
     return true;
   } catch (error) {
-    console.error(`    ❌ Failed to download image: ${url}`);
-    if (error instanceof AxiosError) {
-      console.error(`       Error: ${error.message}`);
+    if (!suppressError) {
+      console.error(`    ❌ Failed to download image: ${url}`);
+      if (error instanceof AxiosError) {
+        console.error(`       Error: ${error.message}`);
+      }
     }
     return false;
   }
@@ -412,33 +653,32 @@ async function persistImageAsset(
   imageUrl: string,
   filename: string,
   dataDir: string,
-  publicDir: string
+  suppressError = false
 ): Promise<boolean> {
   if (argv.dryRun) return true;
 
   const dataPath = path.join(dataDir, filename);
-  const publicPath = path.join(publicDir, filename);
 
   try {
     await fs.mkdir(dataDir, { recursive: true });
-    await fs.mkdir(publicDir, { recursive: true });
 
     const alreadyExists = await fileExists(dataPath);
     let success = true;
 
     if (!alreadyExists) {
-      success = await downloadImage(imageUrl, dataPath);
+      success = await downloadImage(imageUrl, dataPath, suppressError);
     }
 
     if (!success) {
       return false;
     }
 
-    await fs.copyFile(dataPath, publicPath);
     return true;
   } catch (error) {
-    console.error(`    ❌ Failed to persist image asset: ${imageUrl}`);
-    console.error(error);
+    if (!suppressError) {
+      console.error(`    ❌ Failed to persist image asset: ${imageUrl}`);
+      console.error(error);
+    }
     return false;
   }
 }
@@ -454,13 +694,14 @@ async function processPost(post: WordPressPost, manifest: ImportManifest): Promi
   // Prepare directories for this post
   const postDir = path.join(POSTS_BASE_DIR, slug);
   const postImageDataDir = path.join(postDir, 'images');
-  const postImagePublicDir = path.join(PUBLIC_POSTS_DIR, slug);
+  const blogPostDir = path.join(BLOG_PAGES_DIR, slug);
+  const blogImagesDir = path.join(blogPostDir, '_images');
   if (!argv.dryRun) {
     await fs.rm(postDir, { recursive: true, force: true });
-    await fs.rm(postImagePublicDir, { recursive: true, force: true });
+    await fs.rm(blogPostDir, { recursive: true, force: true });
     await fs.mkdir(postDir, { recursive: true });
     await fs.mkdir(postImageDataDir, { recursive: true });
-    await fs.mkdir(postImagePublicDir, { recursive: true });
+    await fs.mkdir(blogImagesDir, { recursive: true });
   }
 
   // Download featured image
@@ -474,20 +715,27 @@ async function processPost(post: WordPressPost, manifest: ImportManifest): Promi
 
     if (rawUrl) {
       try {
-        const featuredUrl = new URL(rawUrl, SITE_ORIGIN);
-        featuredUrl.search = '';
-        const ext = getFileExtension(featuredUrl);
+        const primaryUrl = new URL(rawUrl, SITE_ORIGIN);
+        primaryUrl.search = '';
+        const candidates = buildImageCandidates(primaryUrl);
+        const normalizedFeatured = candidates[0];
+        const ext = getFileExtension(normalizedFeatured);
         const filename = `featured${ext}`;
-        const saved = await persistImageAsset(
-          featuredUrl.href,
-          filename,
-          postImageDataDir,
-          postImagePublicDir
-        );
+        let saved = false;
+
+        for (let i = 0; i < candidates.length; i++) {
+          const candidateUrl = candidates[i];
+          const isLastAttempt = i === candidates.length - 1;
+          saved = await persistImageAsset(candidateUrl.href, filename, postImageDataDir, !isLastAttempt);
+          if (saved) break;
+          if (!isLastAttempt) {
+            await fs.rm(path.join(postImageDataDir, filename), { force: true });
+          }
+        }
 
         if (saved) {
           featuredImage = {
-            src: `/posts/${slug}/${filename}`,
+            src: `./_images/${filename}`,
             width:
               featuredMedia.media_details?.sizes?.full?.width ??
               featuredMedia.media_details?.width,
@@ -497,6 +745,10 @@ async function processPost(post: WordPressPost, manifest: ImportManifest): Promi
             alt: featuredMedia.alt_text ? decode(featuredMedia.alt_text) : undefined,
           };
           console.log(`    ✅ Downloaded featured image`);
+        } else if (argv.skipMissingMedia) {
+          console.error(`    ⚠️  Featured image missing for ${slug}: ${primaryUrl.href}`);
+        } else {
+          console.error(`    ❌ Failed to download featured image: ${primaryUrl.href}`);
         }
       } catch (error) {
         console.error(`    ❌ Failed to process featured image URL for post ${slug}`);
@@ -524,12 +776,7 @@ async function processPost(post: WordPressPost, manifest: ImportManifest): Promi
       .sort((a, b) => a.slug.localeCompare(b.slug));
 
   // Clean content
-  const content = await transformPostContent(
-    post.content.rendered,
-    slug,
-    postImageDataDir,
-    postImagePublicDir
-  );
+  const content = await transformPostContent(post.content.rendered, slug, postImageDataDir);
   const excerpt = post.excerpt?.rendered ? transformExcerpt(post.excerpt.rendered) : undefined;
 
   // Create post data
@@ -545,17 +792,17 @@ async function processPost(post: WordPressPost, manifest: ImportManifest): Promi
     tags,
   };
 
-  // Save post JSON
-  const filepath = path.join(postDir, 'post.json');
-
   if (!argv.dryRun) {
-    await fs.writeFile(filepath, JSON.stringify(postData, null, 2));
+    await fs.writeFile(path.join(postDir, 'wordpress.json'), JSON.stringify(post, null, 2));
+    await fs.writeFile(path.join(postDir, 'post.json'), JSON.stringify(postData, null, 2));
+    await copyImagesToBlog(postImageDataDir, blogImagesDir);
+    await writeMarkdown(postData, blogPostDir);
     if (!manifest.importedPosts.includes(slug)) {
       manifest.importedPosts.push(slug);
     }
   }
 
-  console.log(`    ✅ Saved: ${slug}/post.json`);
+  console.log(`    ✅ Generated markdown: src/pages/blog/${slug}/index.md`);
   return true;
 }
 

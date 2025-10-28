@@ -1,0 +1,36 @@
+---
+layout: "~/layouts/Post.astro"
+title: "Halloween Treats"
+slug: "halloween-treats"
+date: "20141031"
+publishedDate: "2014-10-31"
+excerpt: "Halloween Treats: 2 Easy Recipes Though I didn’t get to make any of these treats this year, they have both been on my table at some point or another! They are very easy (and fun) and so I thought I’d share them with you in case you want to add them to you Halloween party […]"
+featuredImage:
+  src: "./_images/featured.png"
+  width: 663
+  height: 250
+  alt: "Halloween Treats on Katie Crafts; http://www.katiecrafts.com"
+categories:
+  - slug: "cooks"
+    name: "Cooks"
+tags:
+  - slug: "bakes"
+    name: "bakes"
+  - slug: "cooks-2"
+    name: "cooks"
+  - slug: "cupcakes"
+    name: "cupcakes"
+  - slug: "dessert"
+    name: "dessert"
+  - slug: "halloween"
+    name: "halloween"
+  - slug: "punch"
+    name: "punch"
+  - slug: "recipe"
+    name: "recipe"
+  - slug: "rum"
+    name: "rum"
+  - slug: "treats"
+    name: "treats"
+---
+<p>Halloween Treats: 2 Easy Recipes</p><p>Though I didn’t get to make any of these treats this year, they have both been on my table at some point or another! They are very easy (and fun) and so I thought I’d share them with you in case you want to add them to you Halloween party menu!</p><p>We called this</p><em><strong><p>Shrunken Heads in Blood Punch</p></strong></em><p>… or something similar. It was super cute!</p><h2>Ingredients:</h2><ul><li><p>Peeled apples</p></li><li><p>Paring knife</p></li><li><p>Bowl of punch</p></li><li><p>Gummy worms and ice cube tray (optional)</p></li></ul><h2>Instructions:</h2><ul><li><em><p>Carefully</p></em><p>use a paring knife to carve out faces from your already peeled apples.</p></li><li><p>Throw said apples in punch. (Your favorite rum punch will do, as long as it’s red!)</p></li><li><p>Enjoy.</p></li></ul><h2>Tip:</h2><ul><li><p>TOO EASY? Add some floating worms just as guests arrive! Achieve this by putting gummy worms (the non-sugar coated ones) in an ice cube tray with some of the punch. Let freeze. The punch ice cubes melt pretty quickly and all the worms will sink to the bottom so be sure to do it at the last moment!</p></li></ul><p>Next up, you’ll use more of those gummy worms to make</p><em><strong><p>Worms In Dirt Cupcakes</p></strong></em><p>!</p><h2>Ingredients:</h2><ul><li><p>Oreo Cookies</p></li><li><p>Something heavy like a meat tenderizer</p></li><li><p>Ziploc or other heavy duty food storage bag</p></li><li><p>Gummy worms</p></li><li><p>Already cooled and iced cupcakes</p></li></ul><h2>Instructions:</h2><ul><li><p>Places Oreo Cookies in Ziploc bag.</p></li><li><p>Grab meat tenderizer, hammer, bottle, can, or something else heavy and not easily broken.</p></li><li><p>Take life’s aggression out on cookies, turning them in to cookie crumb dirt.</p></li><li><p>Sprinkle cookie crumb dirt all over pre-made and iced cupcakes (chocolate icing will lend itself to your whole dirt theme!)</p></li><li><p>Use straw, chopstick or your fingers if they are clean and poke a few holes in random places in cupcakes.</p></li><li><p>Stick worms out of those holes, to look like they are rising out of the dirt.</p></li><li><p>Enjoy.</p></li></ul><p><img class="size-medium post__image" src="./_images/dsc-0258.jpg" alt="Halloween Treats on Katie Crafts; http://www.katiecrafts.com" width="663" height="440"></p><h2>Tips:</h2><ul><li><p>Get creative with your cupcakes! Use more Oreos and M&#x26;Ms to make Owl eyes and the tip of a yellow worm to decorate a beak. Use orange and black frosting to make spiderwebs using a toothpick. Frankenstein can be made with cookie crumbs as hair and mini marshmallows as bolts in his neck. Make little devils or pumpkins by using appropriately colored icing and gum drops. Use your imagination! These are super fun to make as adults and even more so as kids!</p></li></ul><p>Don’t forget to check out my</p><a title="Last Minute Halloween Costume Idea DIY" href="/last-minute-halloween-costume-idea-diy/"><strong><p>last minute Halloween costume idea</p></strong></a><p>, or my</p><a title="Nail Art Design: Halloween Manicure!" href="/nail-art-design-halloween-manicure/"><strong><p>Halloween nail art designs</p></strong></a><p>! And make sure you vote on who wore it best in my</p><a title="Throwback Thursday: Halloween Cats Dressed As Bats" href="/throwback-thursday-halloween-cats-dressed-as-bats/"><strong><p>Halloween Cat Dressed As A Bat Challenge</p></strong></a><p>!</p><p>What is on your Halloween Menu?</p>

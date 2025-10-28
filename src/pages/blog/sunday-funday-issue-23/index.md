@@ -1,0 +1,33 @@
+---
+layout: "~/layouts/Post.astro"
+title: "Sunday Funday: Issue 23"
+slug: "sunday-funday-issue-23"
+date: "20140727"
+publishedDate: "2014-07-27"
+excerpt: "Sunday Funday: Issue 23 Such a busy week!! Ran around for two and a half days, then jetted to Jersey for my mother-in-law’s birthday dinner and to see my family for a few more days. Then back here (to Philly) to spend the weekend cleaning and doing not-fun-stuff! I am looking forward to a break, […]"
+featuredImage:
+  src: "./_images/featured.jpg"
+  width: 663
+  height: 250
+categories:
+  - slug: "hodgepodge"
+    name: "Hodgepodge"
+tags:
+  - slug: "amigurumi"
+    name: "amigurumi"
+  - slug: "butter-chicken"
+    name: "butter chicken"
+  - slug: "crochet-lion"
+    name: "crochet lion"
+  - slug: "good-karma-cafe"
+    name: "good karma cafe"
+  - slug: "maz-kwoks-designs"
+    name: "maz kwok's designs"
+  - slug: "quizzes"
+    name: "quizzes"
+  - slug: "sea-otters"
+    name: "sea otters"
+  - slug: "sunday-funday"
+    name: "sunday funday"
+---
+<p>Such a busy week!! Ran around for two and a half days, then jetted to Jersey for my mother-in-law’s birthday dinner and to see my family for a few more days. Then back here (to Philly) to spend the weekend cleaning and doing not-fun-stuff! I am looking forward to a break, and hopefully that comes along today! For now, YOU can sit back, relax, and see what made it into this week’s issue!</p><h2>Makes Me Laugh: Snuggling Otter Babies</h2><p>So damn cute. I want a pair of otter pups to snuggle in my house! They look like they’d just cuddle up anywhere. I’m sure my cats would love to snuggle them too. I am pretty sure I need them now!</p><h2>What I’m Reading: Quizzes!</h2><p>I love taking online quizzes. I can’t get enough! I see someone post one on Facebook, I click through to take it, and before I know it it’s been over an hour and I’ve taken three dozen quizzes. It’s a deep dark hole, for certain. For instance, my sister just posted a quiz to find out what your hobby should be. Turns out I should grow carnivorous plants. Who knew? You can take it too if you want!</p><a title="What Hobby Should You Have Quiz" href="http://www.playbuzz.com/annden10/what-hobby-should-you-have" target="_blank" rel="noopener noreferrer">Here’s the quiz!</a><figure id="attachment_3775" aria-describedby="caption-attachment-3775"><a href="http://www.playbuzz.com/annden10/what-hobby-should-you-have" target="_blank" rel="noopener noreferrer"><img class="size-full post__image" src="./_images/screen-shot-2014-07-26-at-9-02-47-pm.png" alt="Sunday Funday: Issue 23 on Katie Crafts; http://www.katiecrafts.com" width="634" height="475"></a><figcaption id="caption-attachment-3775"><p>photo courtesy of playbuzz.com</p></figcaption></figure><h2>Place I Love: Good Karma Cafe</h2><p>Every Thursday, I get together with a few awesome girls for a Knitting group (Okay, so I crochet while they knit. I’ll learn eventually!) Anyway, we have a standing reservation in the back room of</p><a title="Good Karma Cafe in Philadelphia" href="http://thegoodkarmacafe.com/" target="_blank" rel="noopener noreferrer">Good Karma Cafe</a><p>so we have the room to ourselves to discuss our craft projects and/or chat about whatever. It’s a great break from the week and something I look forward to! Good Karma has this KILLER drink that I love love love called the Dandy Lion, consisting of green tea, lemonade and lavender syrup, which I get every time I’m there. Last time, they swapped out the green tea for African nectar tea to keep my caffeine intake at a low, and it was even better! I’m pretty obsessed. It’s easy to see why this is my “place I love” this week!</p><figure id="attachment_3779" aria-describedby="caption-attachment-3779"><a href="http://thegoodkarmacafe.com/" target="_blank" rel="noopener noreferrer"><img class="size-full post__image" src="./_images/screen-shot-2014-07-27-at-12-34-24-am.png" alt="Sunday Funday: Issue 23 on Katie Crafts; http://www.katiecrafts.com" width="500" height="319"></a><figcaption id="caption-attachment-3779"><p>photo courtesy of thegoodkarmacafe.com</p></figcaption></figure><h2>Something Delicious: Butter Chicken</h2><p>Chicken Makhani, aka Butter Chicken, is by far my favorite dish in any Indian restaurant. It may very well be one of my favorite dishes ever, actually! Served over rice, or poured directly into my mouth, the sauce is just incredible. I’d love to try making it one day, so I found a recipe on</p><a title="All Recipes butter chicken recipe" href="http://allrecipes.com/recipe/chicken-makhani-indian-butter-chicken/" target="_blank" rel="noopener noreferrer">All Recipes</a><p>to add to my box. If I ever get around to testing it out, you’ll be the first to know!</p><p><a href="http://allrecipes.com/recipe/chicken-makhani-indian-butter-chicken/" target="_blank" rel="noopener noreferrer"><img class="size-full post__image" src="./_images/butter-chicken.jpg" alt="Sunday Funday: Issue 23 on Katie Crafts; http://www.katiecrafts.com" width="250" height="250"></a></p><h2>Project That Inspires: Little Lion Amigurumi</h2><p>I found this pattern for an adorable crocheted lion on</p><a title="Little Lion Amigurmi Pattern on Maz Kwok&#x27;s" href="http://beacrafter.com/little-lion-amigurumi/" target="_blank" rel="noopener noreferrer">Maz Kwok’s Designs</a><p>! It’s so cute! I already started and I only hope it comes out even slightly as sweet as this one did!</p><p><a href="http://beacrafter.com/little-lion-amigurumi/" target="_blank" rel="noopener noreferrer"><img class="size-full post__image" src="./_images/screen-shot-2014-07-26-at-9-11-51-pm.png" alt="Sunday Funday: Issue 23 on Katie Crafts; http://www.katiecrafts.com" width="472" height="578"></a></p><p>That’s all she wrote! Happy Sunday!</p>

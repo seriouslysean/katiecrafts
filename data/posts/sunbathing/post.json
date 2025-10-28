@@ -3,8 +3,8 @@
   "slug": "sunbathing",
   "date": "20140626",
   "publishedDate": "2014-06-26",
-  "excerpt": "<p>Just sunbathing. Nothing to see here.</p>\n",
-  "content": "<div class=\"post__gallery\"><div class=\"post__gallery-item\">\n          <img class=\"post__gallery-image post__image\" src=\"/posts/sunbathing/img-0089-1.jpg\" alt=\"Sunbathing on Katie Crafts; https://www.katiecrafts.com\" width=\"600\" height=\"400\" loading=\"lazy\" decoding=\"async\">\n        </div><div class=\"post__gallery-item\">\n          <img class=\"post__gallery-image post__image\" src=\"/posts/sunbathing/img-0090-2.jpg\" alt=\"Sunbathing on Katie Crafts; https://www.katiecrafts.com\" width=\"600\" height=\"400\" loading=\"lazy\" decoding=\"async\">\n        </div><div class=\"post__gallery-item\">\n          <img class=\"post__gallery-image post__image\" src=\"/posts/sunbathing/img-0091-3.jpg\" alt=\"Sunbathing on Katie Crafts; https://www.katiecrafts.com\" width=\"600\" height=\"400\" loading=\"lazy\" decoding=\"async\">\n        </div>\n\t\t</div>\n\n<p style=\"text-align: center;\">Just sunbathing. Nothing to see here.</p>\n",
+  "excerpt": "<p><p>Just sunbathing. Nothing to see here.</p></p>",
+  "content": "<div class=\"post__gallery\"><div class=\"post__gallery-item\">\n          <img class=\"post__gallery-image post__image\" src=\"/posts/sunbathing/img-0089.jpg\" alt=\"Sunbathing on Katie Crafts; https://www.katiecrafts.com\" width=\"600\" height=\"400\">\n        </div><div class=\"post__gallery-item\">\n          <img class=\"post__gallery-image post__image\" src=\"/posts/sunbathing/img-0090.jpg\" alt=\"Sunbathing on Katie Crafts; https://www.katiecrafts.com\" width=\"600\" height=\"400\">\n        </div><div class=\"post__gallery-item\">\n          <img class=\"post__gallery-image post__image\" src=\"/posts/sunbathing/img-0091.jpg\" alt=\"Sunbathing on Katie Crafts; https://www.katiecrafts.com\" width=\"600\" height=\"400\">\n        </div></div><p>Just sunbathing. Nothing to see here.</p>",
   "categories": [
     {
       "id": 9,

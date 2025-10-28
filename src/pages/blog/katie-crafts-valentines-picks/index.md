@@ -1,0 +1,54 @@
+---
+layout: "~/layouts/Post.astro"
+title: "Katie Crafts Valentine’s Picks"
+slug: "katie-crafts-valentines-picks"
+date: "20150116"
+publishedDate: "2015-01-16"
+excerpt: "Katie Crafts Valentine’s Picks Valentine’s Day is less than a month away! Oh boy! I’m working on a pretty gift guide that I’ll share with you next week, but today is all about my Valentine’s items! I want you to get a chance to get your orders in so you are set before the big […]"
+featuredImage:
+  src: "./_images/featured.png"
+  width: 663
+  height: 250
+  alt: "Katie Crafts Valentine's Picks; http://www.katiecrafts.com"
+categories:
+  - slug: "hodgepodge"
+    name: "Hodgepodge"
+tags:
+  - slug: "accessories"
+    name: "accessories"
+  - slug: "card"
+    name: "card"
+  - slug: "etsy"
+    name: "etsy"
+  - slug: "gift-guide"
+    name: "gift guide"
+  - slug: "gift-ideas"
+    name: "gift ideas"
+  - slug: "hair-bow"
+    name: "hair bow"
+  - slug: "jewelry"
+    name: "jewelry"
+  - slug: "shopping"
+    name: "shopping"
+  - slug: "valentine"
+    name: "valentine"
+  - slug: "valentines-day"
+    name: "valentine's day"
+---
+<strong><br></strong><p>Valentine’s Day is less than a month away! Oh boy! I’m working on a pretty gift guide that I’ll share with you next week, but today is all about my Valentine’s items! I want you to get a chance to get your orders in so you are set before the big day. Check out what</p><a title="Katie Crafts on Etsy" href="https://www.etsy.com/shop/katiecrafts" target="_blank" rel="noopener noreferrer"><strong><p>Katie Crafts Etsy Shop</p></strong></a><p>has to offer!</p><div class="post__gallery"><div class="post__gallery-item">
+          <img class="post__gallery-image post__image" src="./_images/il-570xn-613800132-oqjm.jpg" alt="Katie Crafts Valentine&#x27;s Picks; https://www.katiecrafts.com" width="525" height="400">
+        </div><div class="post__gallery-item">
+          <img class="post__gallery-image post__image" src="./_images/il-570xn-561343014-8tmb.jpg" alt="Katie Crafts Valentine&#x27;s Picks; https://www.katiecrafts.com" width="570" height="400">
+        </div></div><p>Score your Valentine a pair of</p><a title="Cupid&#x27;s Arrow Earrings by Katie Crafts" href="https://www.etsy.com/listing/192752931/cupids-arrow-dangle-earrings-geometric?ref=shop_home_active_7" target="_blank" rel="noopener noreferrer">Cupid’s Arrow Earrings</a><p>, or perhaps download an</p><a title="All You Need Is Love Instant Download Print" href="https://www.etsy.com/listing/178591502/instant-download-all-you-need-is-love?ref=shop_home_feat_4" target="_blank" rel="noopener noreferrer">“All You Need Is Love”</a><p>print to frame!</p><div class="post__gallery"><div class="post__gallery-item">
+          <img class="post__gallery-image post__image" src="./_images/il-570xn-709271225-ifj0.jpg" alt="Katie Crafts Valentine&#x27;s Picks; https://www.katiecrafts.com" width="570" height="400">
+        </div><div class="post__gallery-item">
+          <img class="post__gallery-image post__image" src="./_images/il-570xn-709146284-hjh8.jpg" alt="Katie Crafts Valentine&#x27;s Picks; https://www.katiecrafts.com" width="570" height="400">
+        </div></div><p>Perhaps a pair of</p><a title="Fabric Covered Button Earrings Vintage Butterflies by Katie Crafts" href="https://www.etsy.com/listing/186174892/fabric-covered-button-stud-earrings-12?ref=shop_home_active_5" target="_blank" rel="noopener noreferrer">fabric button earrings</a><p>with teeny vintage butterflies on them is more your Valentine’s style. Or maybe an</p><a title="Valentine&#x27;s Day Pantone Color of the Year Hair Bow from Katie Crafts" href="https://www.etsy.com/listing/212658783/marsala-hair-bow-valentines-day-pantone?ref=shop_home_active_1" target="_blank" rel="noopener noreferrer">adorable hair bow</a><p>in this year’s Pantone Color of the Year: Marsala!</p><div class="post__gallery"><div class="post__gallery-item">
+          <img class="post__gallery-image post__image" src="./_images/il-570xn-589323817-7g83.jpg" alt="Katie Crafts Valentine&#x27;s Picks; https://www.katiecrafts.com" width="570" height="400">
+        </div><div class="post__gallery-item">
+          <img class="post__gallery-image post__image" src="./_images/il-570xn-613915287-qcdj.jpg" alt="Katie Crafts Valentine&#x27;s Picks; https://www.katiecrafts.com" width="570" height="400">
+        </div></div><p>Send your Valentine a special</p><a title="Octobot Card on Katie Crafts" href="https://www.etsy.com/listing/100533706/octobot-greeting-card-single-card?ref=shop_home_feat_2" target="_blank" rel="noopener noreferrer">handmade card</a><p>featuring my little Octobot who is giving you his heart, or order a pair of hammered raw brass</p><a title="Heart and Triangle Earrings on Katie Crafts" href="https://www.etsy.com/listing/192751751/heart-triangle-earrings-geometric?ref=shop_home_feat_1" target="_blank" rel="noopener noreferrer">triangle earrings</a><p>with little hearts on them!</p><div class="post__gallery"><div class="post__gallery-item">
+          <img class="post__gallery-image post__image" src="./_images/il-570xn-709262729-kovq.jpg" alt="Katie Crafts Valentine&#x27;s Picks; https://www.katiecrafts.com" width="570" height="400">
+        </div><div class="post__gallery-item">
+          <img class="post__gallery-image post__image" src="./_images/il-570xn-562336706-j12d.jpg" alt="Katie Crafts Valentine&#x27;s Picks; https://www.katiecrafts.com" width="570" height="400">
+        </div></div><p>A red and white</p><a title="Red and White polka dotted bow by Katie Crafts" href="https://www.etsy.com/listing/212651606/red-polka-dotted-hair-bow-valentines-day?ref=shop_home_feat_3" target="_blank" rel="noopener noreferrer">polka dotted bow</a><p>would look so cute in your hair on February 14th, just like a</p><a title="Adjustable Pink Rose Ring on Katie Crafts" href="https://www.etsy.com/listing/72935819/adjustable-gold-toned-filigree-ring-base?ref=shop_home_active_2" target="_blank" rel="noopener noreferrer">pink rose ring</a><p>would look great upon your finger!</p><p>Which is your favorite Valentine’s Day item?</p>

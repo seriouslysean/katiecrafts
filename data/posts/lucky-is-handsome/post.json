@@ -3,8 +3,8 @@
   "slug": "lucky-is-handsome",
   "date": "20140509",
   "publishedDate": "2014-05-09",
-  "excerpt": "<p>Such a handsome fellow.</p>\n",
-  "content": "<p><img loading=\"lazy\" decoding=\"async\" class=\"aligncenter size-medium wp-image-2466\" src=\"https://i0.wp.com/www.katiecrafts.com/wp-content/uploads/2014/05/IMG_3311-637x637.jpg?resize=637%2C637&ssl=1\" alt=\"Lucky is Handsome on Katie Crafts; http://www.katiecrafts.com\" width=\"637\" height=\"637\" data-recalc-dims=\"1\" ></p>\n<p style=\"text-align: center;\">Such a handsome fellow.</p>\n",
+  "excerpt": "<p><p>Such a handsome fellow.</p></p>",
+  "content": "<p><img class=\"size-medium post__image\" src=\"/posts/lucky-is-handsome/img-3311.jpg\" alt=\"Lucky is Handsome on Katie Crafts; http://www.katiecrafts.com\" width=\"637\" height=\"637\"></p><p>Such a handsome fellow.</p>",
   "categories": [
     {
       "id": 9,
