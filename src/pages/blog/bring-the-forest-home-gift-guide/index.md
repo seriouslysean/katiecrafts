@@ -1,0 +1,32 @@
+---
+layout: "~/layouts/Post.astro"
+title: "Bring the Forest Home Gift Guide"
+slug: "bring-the-forest-home-gift-guide"
+date: "20151214"
+publishedDate: "2015-12-14"
+excerpt: "Did you totally love the Krampus treasury last week? Me too! That’s why I was super excited when Kaitlin of Statz Ink shared a new gift guide with me. This one is called Bring the Forest Home, and it’s filled with many wonderful treasures. Get to shopping below!"
+featuredImage:
+  src: "./_images/featured.png"
+  width: 690
+  height: 690
+  alt: "Bring the Forest Home Gift Guide on Katie Crafts; http://www.katiecrafts.com"
+categories:
+  - slug: "hodgepodge"
+    name: "Hodgepodge"
+tags:
+  - slug: "bring-the-forest-home"
+    name: "bring the forest home"
+  - slug: "etsy"
+    name: "etsy"
+  - slug: "etsy-picks"
+    name: "etsy picks"
+  - slug: "gift-guide"
+    name: "gift guide"
+  - slug: "shopping"
+    name: "shopping"
+  - slug: "statz-ink"
+    name: "statz ink"
+  - slug: "treasury"
+    name: "treasury"
+---
+<p>Did you totally love the</p><a href="/greetings-from-krampus/">Krampus treasury</a><p>last week? Me too! That’s why I was super excited when</p><a href="https://www.etsy.com/shop/StatzInk" target="_blank" rel="noopener noreferrer">Kaitlin of Statz Ink</a><p>shared a new gift guide with me. This one is called Bring the Forest Home, and it’s filled with many wonderful treasures. Get to shopping below!</p><p>I really enjoy the warm earthy feel of this treasury. Which beautiful handmade trinket is your favorite? I’m loving the wooden cuff bracelet! So cute!</p><em><a href="https://www.etsy.com/treasury/NzExODgwNTR8MjcyNTUxOTczMw/bring-the-forest-home" target="_blank" rel="noopener noreferrer">Shop the full treasury on Etsy right here</a></em><p>and click each link below to go to the individual shops. Enjoy!</p><ol><li><a href="https://www.etsy.com/listing/248621705/birch-forest-led-lamp?ref=tre-2725519733-1" target="_blank" rel="noopener noreferrer">Waldwerkelei</a></li><li><a href="https://www.etsy.com/listing/225556911/hand-knitted-cozy-multicolored-throw-or?ref=tre-2725519733-2" target="_blank" rel="noopener noreferrer">Mama Sherry’s Knit Shack</a></li><li><a href="https://www.etsy.com/listing/202178556/lilliputian-tripod-bowl-with-spoon-2?ref=tre-2725519733-3" target="_blank" rel="noopener noreferrer">Alma Pottery</a></li><li><a href="https://www.etsy.com/listing/189944717/natural-handmade-soap-shampoo-bar-hair?ref=tre-2725519733-4" target="_blank" rel="noopener noreferrer">Gaia Olea</a></li><li><a href="https://www.etsy.com/listing/152385262/set-of-four-wood-grain-hand-painted?ref=tre-2725519733-5" target="_blank" rel="noopener noreferrer">Sweet Issues Art</a></li><li><a href="https://www.etsy.com/listing/259162599/lichen-specimen-necklace-terrarium?ref=tre-2725519733-6" target="_blank" rel="noopener noreferrer">Forest Keepers</a></li><li><a href="https://www.etsy.com/listing/257859863/16-oz-earthy-blue-oak-tree-mug-wheel?ref=tre-2725519733-7" target="_blank" rel="noopener noreferrer">Mesiree Ceramics</a></li><li><a href="https://www.etsy.com/listing/257343975/wood-clock-wall-clock-christmas-gift?ref=tre-2725519733-8" target="_blank" rel="noopener noreferrer">Bear Mountain Workshop</a></li><li><a href="https://www.etsy.com/listing/102820361/antique-brass-earrings-with-hand-printed?ref=tre-2725519733-9" target="_blank" rel="noopener noreferrer">Holly Hawk</a></li><li><a href="https://www.etsy.com/listing/44075231/hand-knitted-leaf-scarf-muted-green-leaf?ref=tre-2725519733-10" target="_blank" rel="noopener noreferrer">Suzanne Sullivan</a></li><li><a href="https://www.etsy.com/listing/209512119/set-of-two-ferns-napkins-black?ref=tre-2725519733-11" target="_blank" rel="noopener noreferrer">Amelie Mancini</a></li><li><a href="https://www.etsy.com/listing/258769681/lidded-jar-with-three-ferns?ref=tre-2725519733-12" target="_blank" rel="noopener noreferrer">Leaves of Clay</a></li><li><a href="https://www.etsy.com/listing/252279419/sale-basketmaker-gauntlets-as-worn-by?ref=tre-2725519733-13" target="_blank" rel="noopener noreferrer">Inner Wild</a></li><li><a href="https://www.etsy.com/listing/237132194/wooden-bracelets-striped-wear-the-tree-8?ref=tre-2725519733-14" target="_blank" rel="noopener noreferrer">Dtchss</a></li><li><a href="https://www.etsy.com/listing/259986944/rustic-coat-rack-birch-wall-hook-wooden?ref=tre-2725519733-15" target="_blank" rel="noopener noreferrer">Woodindecor</a></li><li><a href="https://www.etsy.com/listing/201518113/rugged-blackened-tree-bark-wedding-band?ref=tre-2725519733-16" target="_blank" rel="noopener noreferrer">Bright Smith</a></li></ol><p>What was your favorite item? What other treasuries should we feature?</p>

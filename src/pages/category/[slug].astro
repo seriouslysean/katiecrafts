@@ -9,6 +9,7 @@ import {
   getPostsByCategory,
   paginatePosts,
   POSTS_PER_PAGE,
+  getPostFeaturedImage,
 } from '~utils/posts';
 
 interface Props {
@@ -49,7 +50,7 @@ const title = `${name} | Katie Crafts`;
 const description = `Posts filed under ${name} on Katie Crafts.`;
 const countLabel = `${totalCount} ${totalCount === 1 ? 'post' : 'posts'}`;
 const leadPost = posts[0];
-const leadImage = leadPost?.data.featuredImage;
+const leadImage = leadPost ? getPostFeaturedImage(leadPost) : undefined;
 const leadTitle = leadPost?.data.title;
 const makeHref = (page: number) => (page === 1 ? `/category/${slug}/` : `/category/${slug}/page/${page}/`);
 ---

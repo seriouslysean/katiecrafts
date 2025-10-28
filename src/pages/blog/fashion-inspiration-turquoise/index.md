@@ -1,0 +1,46 @@
+---
+layout: "~/layouts/Post.astro"
+title: "Fashion Inspiration: Turquoise"
+slug: "fashion-inspiration-turquoise"
+date: "20140707"
+publishedDate: "2014-07-07"
+excerpt: "Fashion Inspiration: Turquoise I’ve been wearing items from my new Summer Jewelry line pretty much every day! I’ve even started planning outfits based on which jewelry I wanted to wear that day. Today, I’ve used the Turquoise Chevron Necklace as my inspiration to create an outfit that I totally love!"
+featuredImage:
+  src: "./_images/featured.png"
+  width: 663
+  height: 250
+  alt: "Fashion Inspiration: Turquoise on Katie Crafts; http://www.katiecrafts.com"
+categories:
+  - slug: "beauty"
+    name: "Beauty"
+tags:
+  - slug: "amazon"
+    name: "amazon"
+  - slug: "beauty"
+    name: "beauty"
+  - slug: "chevron-necklace"
+    name: "chevron necklace"
+  - slug: "etsy"
+    name: "etsy"
+  - slug: "fashion-inspiration"
+    name: "fashion inspiration"
+  - slug: "hm"
+    name: "h&m"
+  - slug: "katie-crafts"
+    name: "katie crafts"
+  - slug: "macys"
+    name: "macy's"
+  - slug: "matchesfashion"
+    name: "matchesfashion"
+  - slug: "neiman-marcus"
+    name: "neiman marcus"
+  - slug: "shopping"
+    name: "shopping"
+  - slug: "summer-jewelry"
+    name: "summer jewelry"
+  - slug: "turquoise"
+    name: "turquoise"
+  - slug: "urban-outfitters"
+    name: "urban outfitters"
+---
+<p>I’ve been wearing items from my new</p><em><a title="New Simplistic Summer Jewelry Line by Katie Crafts" href="/new-simplistic-summer-jewelry-line-by-katie-crafts/">Summer Jewelry</a></em><p>line pretty much every day! I’ve even started planning outfits based on which jewelry I wanted to wear that day. Today, I’ve used the</p><a title="Turquoise Chevron Necklace by Katie Crafts on Etsy" href="https://www.etsy.com/listing/192746072/turquoise-chevron-necklace-geometric?" target="_blank" rel="noopener noreferrer"><em><p>Turquoise Chevron Necklace</p></em></a><p>as my inspiration to create an outfit that I totally love!</p><p>I adore turquoise and brown/tan shades together, and I love denim and lace together. This outfit is just the perfect balance for a casual day! I’d probably wear my hair in a messy top bun with it, so the cute ponytail holder fits great! It would be really nice if I could afford all the items in this look (particularly the Prada purse!!), but a girl can dream, right? Here is where you can find each of the above items!</p><p><a title="Lace Tank Top at H&#x26;M" href="http://www.hm.com/us/product/31702?article=31702-A" target="_blank" rel="noopener noreferrer">Lace Tank Top: H&#x26;M</a></p><p><a title="J Brand Jeans on MatchesFashion.com" href="http://www.matchesfashion.com/product/190650?qxjkl=tsid:38929|cat:Hy3bqNL2jtQ&#x26;c3ch=LinkShare&#x26;c3nid=Hy3bqNL2jtQ#" target="_blank" rel="noopener noreferrer">J Brand Jeans: MatchesFashion.com</a></p><p><a title="Roxy Sandals at Macy&#x27;s" href="http://www1.macys.com/shop/product/roxy-trinidad-flat-thong-sandals?ID=1482057&#x26;CategoryID=17570&#x26;LinkType=&#x26;swatchColor=Light%20Brown#fn=COLOR%3DBlue;;Brown%26sp%3D1%26spc%3D752%26ruleId%3D%26slotId%3D65" target="_blank" rel="noopener noreferrer">Roxy Sandals: Macy’s</a></p><p><a title="Prada Saffiano Crossbody Bag at Neiman Marcus" href="http://www.neimanmarcus.com/Prada-Saffiano-Small-Zip-Crossbody-Bag-Turquoise-Turchese/prod166520377/p.prod?eVar4=You%20May%20Also%20Like" target="_blank" rel="noopener noreferrer">Prada Saffiano Crossbody Bag: Neiman Marcus</a></p><p><a title="Etched Star Ponytail Holder: Urban Outfitters" href="http://www.urbanoutfitters.com/urban/catalog/productdetail.jsp?id=32124190&#x26;parentid=WOMENS_ACCESSORIES" target="_blank" rel="noopener noreferrer">Etched Star Ponytail Holder: Urban Outfitters</a></p><p><a title="Essie Where&#x27;s My Chauffeur? on Amazon" href="http://amzn.to/1rF4knG" target="_blank" rel="noopener noreferrer">Essie Nail Lacquer in</a></p><a title="Essie Where&#x27;s My Chauffeur? on Amazon" href="http://amzn.to/1rF4knG" target="_blank" rel="noopener noreferrer"><span class="title"><p>Where’s My Chauffeur?: Amazon</p></span></a><p><a title="Turquoise Chevron Necklace by Katie Crafts on Etsy" href="https://www.etsy.com/listing/192746072/turquoise-chevron-necklace-geometric?" target="_blank" rel="noopener noreferrer">Turquoise Chevron Necklace: Katie Crafts</a></p><p>Hope you liked my picks! Which is your favorite item?</p>

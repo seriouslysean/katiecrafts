@@ -2,7 +2,7 @@
 import Layout from '~layouts/Layout.astro';
 import PostCard from '~components/PostCard.astro';
 import Paginator from '~components/Paginator.astro';
-import { getAllPosts, paginatePosts, POSTS_PER_PAGE } from '~utils/posts';
+import { getAllPosts, paginatePosts, POSTS_PER_PAGE, getPostFeaturedImage } from '~utils/posts';
 import type { PostEntry } from '~utils/posts';
 
 interface Props {
@@ -33,7 +33,7 @@ export async function getStaticPaths() {
 const { pageNumber, posts, totalPages } = Astro.props as Props;
 const canonicalPath = `/blog/page/${pageNumber}/`;
 const leadPost = posts[0];
-const leadImage = leadPost?.data.featuredImage;
+const leadImage = leadPost ? getPostFeaturedImage(leadPost) : undefined;
 const leadTitle = leadPost?.data.title;
 const makeHref = (page: number) => (page === 1 ? '/blog/' : `/blog/page/${page}/`);
 ---

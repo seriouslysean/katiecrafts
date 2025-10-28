@@ -1,0 +1,42 @@
+---
+layout: "~/layouts/Post.astro"
+title: "DIY Heating Pad"
+slug: "diy-heating-pad"
+date: "20150414"
+publishedDate: "2015-04-14"
+excerpt: "Project: DIY Heating Pad I’ve mentioned before that April is National Stress Awareness Month. It’s the perfect time to make a Stress Relief Basket for someone, whip up a batch of All Natural Lip Scrub or Honey and Lemon Face Mask. It would also be a great idea to make yourself a hot pack too! […]"
+featuredImage:
+  src: "./_images/featured.jpg"
+  width: 663
+  height: 250
+  alt: "DIY Heating Pad Tutorial by Katie Crafts; http://www.katiecrafts.com"
+categories:
+  - slug: "crafts"
+    name: "Crafts"
+tags:
+  - slug: "crafts-2"
+    name: "crafts"
+  - slug: "diy"
+    name: "diy"
+  - slug: "easy-project"
+    name: "easy project"
+  - slug: "heating-pad"
+    name: "heating pad"
+  - slug: "hot-pack"
+    name: "hot pack"
+  - slug: "how-to"
+    name: "how to"
+  - slug: "moist-heat"
+    name: "moist heat"
+  - slug: "sewing"
+    name: "sewing"
+  - slug: "stress-awareness-month"
+    name: "stress awareness month"
+  - slug: "tutorial"
+    name: "tutorial"
+---
+<p>Project: DIY Heating Pad</p><p>I’ve mentioned before that April is National Stress Awareness Month. It’s the perfect time to make a</p><a title="Stress Relief Basket" href="/stress-relief-basket/">Stress Relief Basket</a><p>for someone, whip up a batch of</p><a title="All Natural Lip Scrub Recipe" href="/all-natural-lip-scrub-recipe/">All Natural Lip Scrub</a><p>or</p><a title="DIY Honey and Lemon Face Mask" href="/diy-honey-and-lemon-face-mask/">Honey and Lemon Face Mask</a><p>. It would also be a great idea to make yourself a hot pack too! This project works up SUPER fast, is perfect for your aches and pains… and it smells awesome.</p><p>I made this heating pad to be a very large square, as I wanted it to be for the back. However, I’ve also made longer rectangle ones that are good for shoulders or stomachs as well. The amount of fabric you will need depends on your preference for where you’ll be using a hot pack the most. Instructions will be the same, and you’ll never use over a half yard, so that’s what I’ll list below! Please adjust the size of the heating pad to your liking!</p><h2>Materials:</h2><ul><li><p>1/2 yard of cotton fabric (see above)</p></li><li><p>1 to 2 bags of plain white rice (depending on what size you make, and how full you want it)</p></li><li><p>Dried lavender (at least a Tablespoon- more if you want it to smell extra fresh!)</p></li><li><p>Scissors</p></li><li><p>Sewing machine, matching cotton thread, pins</p></li></ul><blockquote><p><em>Please note: Cotton fabric and thread are used for this tutorial as the heating pad will go in the microwave, and you don’t want anything melting or catching fire!</em></p></blockquote><h2>Instructions:</h2><ul><li><p>Decide what size/shape you want your heating pad to be, and cut out two squares/rectangles accordingly (or one very long rectangle, folded in half). Be sure to make them a quarter or half inch bigger on all sides for the seam allowance.</p></li><li><p>Place right sides of fabric together and pin all the way around.</p></li></ul><ul><li><p>Sew (remembering to back-stitch at beginning and end) with a straight stitch all the way around, EXCEPT for a three inch gap on one corner. See below for example.</p></li></ul><ul><li><p>Trim corners and excess fabric and turn project inside out through the gap.</p></li><li><p>Fold your project like an accordion in to thirds, to see where your breaks should go. Then using chalk or a pencil, draw your lines about 3/4 of the way down. Sew along them with a straight stitch. Don’t forget to back-stitch!!</p></li></ul><p><img class="size-full post__image" src="./_images/hot-pack-3.jpg" alt="DIY Heating Pad Tutorial by Katie Crafts; http://www.katiecrafts.com" width="980" height="980"></p><ul><li><p>Cut the corner of your rice bag and use it as a funnel (or use an actual funnel, should you have one!) to slowly pour the rice in to the heating pad. You’ll need to do this SLOWLY and CAREFULLY, or rice will end up all over. Gently shake the rice in to the pockets.</p></li></ul><div class="post__gallery"><div class="post__gallery-item">
+          <img class="post__gallery-image post__image" src="./_images/hot-pack-4.jpg" alt="DIY Heating Pad Tutorial by Katie Crafts; https://www.katiecrafts.com" width="600" height="400">
+        </div><div class="post__gallery-item">
+          <img class="post__gallery-image post__image" src="./_images/hot-pack-5.jpg" alt="DIY Heating Pad Tutorial by Katie Crafts; https://www.katiecrafts.com" width="600" height="400">
+        </div></div><ul><li><p>Once one pocket is almost filled, add a little lavender. Then add more rice, and lavender. Repeat process til you are happy with how full the pack is.</p></li><li><p>Fold in fabric from the open gap and pin. Make sure to push down any rice from around it so nothing is stuck in or above the pins.</p></li></ul><p><img class="size-full post__image" src="./_images/hot-pack-6.jpg" alt="DIY Heating Pad Tutorial by Katie Crafts; http://www.katiecrafts.com" width="980" height="980"></p><ul><li><p>Use a zig zag stitch to sew all the way across, closing the gap and making the entire side uniform. Back stitch, again!</p></li></ul><p><img class="size-full post__image" src="./_images/hot-pack-7.jpg" alt="DIY Heating Pad Tutorial by Katie Crafts; http://www.katiecrafts.com" width="980" height="980"></p><ul><li><p>Make sure all pins are removed, give your hot pack a little shake to make the rice even in each pocket, and enjoy!</p></li><li><p>Microwave for 2-3 minutes for moist heat that your muscles will love!</p></li></ul><p><img class="size-full post__image" src="./_images/hot-pack-9.jpg" alt="DIY Heating Pad Tutorial by Katie Crafts; http://www.katiecrafts.com" width="980" height="980"></p><h2>Tip:</h2><ul><li><p>I add lavender because of it’s wonderful (and calming!) smell. If you HATE lavender, nix it! A plain old rice heating pad will still be great!</p></li></ul><p>Do you enjoy your heating pad at home? Would you consider making your own now that you know how easy it is?</p>

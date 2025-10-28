@@ -1,0 +1,35 @@
+---
+layout: "~/layouts/Post.astro"
+title: "Valentine’s Cards"
+slug: "valentines-cards"
+date: "20140210"
+publishedDate: "2014-02-10"
+excerpt: "Project: Valentine’s Cards I received some fun doily border punches from my mother-in-law this past Christmas to add to my always growing scrapbooking collection. I’ve been excited to use them and figured some DIY Valentine’s cards would be the perfect way to break them in!"
+featuredImage:
+  src: "./_images/featured.jpg"
+  width: 637
+  height: 250
+categories:
+  - slug: "crafts"
+    name: "Crafts"
+tags:
+  - slug: "crafts-2"
+    name: "crafts"
+  - slug: "diy"
+    name: "diy"
+  - slug: "how-to"
+    name: "how to"
+  - slug: "paper-crafts"
+    name: "paper crafts"
+  - slug: "scrap-basket"
+    name: "scrap basket"
+  - slug: "scrapbooking"
+    name: "scrapbooking"
+  - slug: "tutorial"
+    name: "tutorial"
+  - slug: "valentines-cards"
+    name: "valentine's cards"
+  - slug: "valentines-day"
+    name: "valentine's day"
+---
+<p>Project: Valentine’s Cards</p><strong><br></strong><p>I received some fun</p><a title="Doily Border Punches" href="http://amzn.to/1dtwHsS" target="_blank" rel="noopener noreferrer">doily border punches</a><p>from my mother-in-law this past Christmas to add to my always growing scrapbooking collection. I’ve been excited to use them and figured some DIY Valentine’s cards would be the perfect way to break them in!</p><p>It’s pretty easy to pull together the supplies needed to make these cards. If you don’t have fancy hole punches, you can just use scissors and pretty paper to make yours. It’s all about creativity, so use your imagination!</p><p>It’s also the</p><strong><p>PERFECT</p></strong><p>time to dig through your</p><strong><p>scrap basket!</p></strong><p>What’s a scrap basket you ask? Well, I’ll tell you. At the end of each project, I end up with a</p><strong><p>LOT</p></strong><p>of stray pieces of fabric. I dare not throw them away- not when I can store them all in my scrap basket for a rainy day. Cutting out little hearts and such for card embellishments is just what these scraps are meant for!</p><p>Materials:</p><ul><li><p>Cardstock</p></li><li><p>Scrapbook papers in various colors and designs</p></li><li><p>Scraps from your fabric scrap basket</p></li><li><p>Scissors</p></li><li><p>Fun border or hole punches</p></li><li><p>Glue</p></li><li><p>Pen or pencil</p></li><li><p>Envelopes if you are mailing them</p></li></ul><p>Instructions:</p><p><img class="size-full post__image" title="DIY Valentine&#x27;s Cards by Katie Crafts; http://www.katiecrafts.com/" alt="papers and scraps" src="./_images/screen-shot-2014-02-05-at-9-31-30-pm.png" width="614" height="324"></p><p>Pick out some pretty patterned paper and whatever fabric scraps you think you’ll want to use for this project. You can always go digging again later if you are inspired and want to add more! I really love to buy booklets of various patterned papers for my scrapbooking kits, like the</p><a title="Indie Bloom Paper" href="http://amzn.to/1ixGJ0W" target="_blank" rel="noopener noreferrer"><strong><p>Indie Bloom</p></strong></a><p>one above. Lots of options and all are pretty!</p><p><img class="size-full post__image" title="DIY Valentine&#x27;s Cards by Katie Crafts; http://www.katiecrafts.com/" alt="cardstock" src="./_images/screen-shot-2014-02-05-at-8-20-25-pm.png" width="614" height="424"></p><p>If you aren’t mailing your cards and just giving them out by hand, you can skip this part. If you are using the good old postal service to deliver a valentine to your Valentine, you will need to cut down the piece of cardstock to fit the envelope. To do so, simply place the cardstock in the fold of the envelope and plan on cutting off a quarter of an inch from each side to make it fit in the envelope easily.</p><p><img class="size-medium post__image" title="DIY Valentine&#x27;s Cards by Katie Crafts; http://www.katiecrafts.com/" alt="fold" src="./_images/img-0685.jpg" width="637" height="477"></p><p>Now you can fold the cardstock in half and trim off the excess. Use a straight edge to trace a straight line and cut along it for a nice even card.</p><p><img class="size-full post__image" title="DIY Valentine&#x27;s Cards by Katie Crafts; http://www.katiecrafts.com/" alt="trace" src="./_images/screen-shot-2014-02-05-at-8-21-29-pm.png" width="613" height="424"></p><p>It’s time to cut out your fabric shapes! Make hearts, follow an already existing pattern (like the little birdcages below) or come up with another fantastic idea! Have fun!</p><p><img class="size-medium post__image" title="DIY Valentine&#x27;s Cards by Katie Crafts; http://www.katiecrafts.com/" alt="Cut outs" src="./_images/img-0681.jpg" width="637" height="477"></p><p>Now that you have your fabric cut outs in the sizes you like, you can decide how to decorate your card. I cut off a portion of one side of each of my cards, so that when I used the border punch it would create a doily look over my pretty scrapbook paper. See below for photo examples!</p><p><img class="size-medium post__image" title="DIY Valentine&#x27;s Cards by Katie Crafts; http://www.katiecrafts.com/" alt="cut shorter" src="./_images/img-0691.jpg" width="637" height="477"></p><p><img class="size-full post__image" title="DIY Valentine&#x27;s Cards by Katie Crafts; http://www.katiecrafts.com/" alt="doily" src="./_images/screen-shot-2014-02-05-at-8-26-00-pm.png" width="613" height="310"></p><p>Pick out whichever paper you like as your accent for under the doily cut out, and measure, trace and cut to make it card shaped/sized!</p><figure id="attachment_227" aria-describedby="caption-attachment-227" class="post__figure"><img class="size-full post__image" title="DIY Valentine&#x27;s Cards by Katie Crafts; http://www.katiecrafts.com/" alt="Front side/Back side" src="./_images/screen-shot-2014-02-05-at-8-22-16-pm.png" width="612" height="424"><figcaption id="caption-attachment-227"><p>Front side/Back side</p></figcaption></figure><p>Using a bit of glue (not too much or it will make the paper soggy!), glue the</p><strong><p>inside top</p></strong><p>of the card to the</p><strong><p>pretty side</p></strong><p>of the paper. Let your first card dry while you make a second! When everything is dry, glue your fabric embellishments to the cards for decoration.</p><p><img class="size-full post__image" title="DIY Valentine&#x27;s Cards by Katie Crafts; http://www.katiecrafts.com/" alt="glue" src="./_images/screen-shot-2014-02-05-at-8-24-57-pm1.png" width="614" height="206"></p><p>Let dry and write your love poems in them! So cute! Since my mother-in-law gave me the edge punchers, I’m sending one of these to her. The other is for my Grams- she loves little birds!</p><p><img class="post__image" title="DIY Valentine&#x27;s Cards by Katie Crafts; http://www.katiecrafts.com/" alt="finished valentines" src="./_images/img-07011.jpg" width="637" height="309"></p><p>What kind of Valentines are you making this year? What ideas do you have for scrap fabric projects? I’ll be featuring a new one each month and would love some suggestions!</p>

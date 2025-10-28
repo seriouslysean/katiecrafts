@@ -3,8 +3,8 @@
   "slug": "pretty-girl",
   "date": "20140621",
   "publishedDate": "2014-06-21",
-  "excerpt": "<p>Prettiest Cat Award goes to…</p>\n",
-  "content": "<p><img loading=\"lazy\" decoding=\"async\" class=\"aligncenter size-medium wp-image-3177\" src=\"https://i0.wp.com/www.katiecrafts.com/wp-content/uploads/2014/06/IMG_3951-663x883.jpg?resize=663%2C883&ssl=1\" alt=\"Pretty Girl on Katie Crafts; http://www.katiecrafts.com\" width=\"663\" height=\"883\" data-recalc-dims=\"1\" ></p>\n<p style=\"text-align: center;\">Prettiest Cat Award goes to…</p>\n",
+  "excerpt": "<p><p>Prettiest Cat Award goes to…</p></p>",
+  "content": "<p><img class=\"size-medium post__image\" src=\"/posts/pretty-girl/img-3951.jpg\" alt=\"Pretty Girl on Katie Crafts; http://www.katiecrafts.com\" width=\"663\" height=\"883\"></p><p>Prettiest Cat Award goes to…</p>",
   "categories": [
     {
       "id": 9,

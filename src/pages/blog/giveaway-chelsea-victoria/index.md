@@ -1,0 +1,56 @@
+---
+layout: "~/layouts/Post.astro"
+title: "GIVEAWAY with Chelsea Victoria!"
+slug: "giveaway-chelsea-victoria"
+date: "20140728"
+publishedDate: "2014-07-28"
+excerpt: "GIVEAWAY with Chelsea Victoria! Great News!! Today we are having a Very Special Giveaway with Chelsea Victoria to celebrate her Five Year Anniversary on Etsy! Chelsea’s photography is crazy gorgeous- so amazing, in fact, that I felt the need to post over a dozen of her photos! She’s been featured on a ton of sites […]"
+featuredImage:
+  src: "./_images/featured.jpg"
+  width: 663
+  height: 250
+  alt: "Giveaway with Chelsea Victoria on Katie Crafts; http://www.katiecrafts.com"
+categories:
+  - slug: "hodgepodge"
+    name: "Hodgepodge"
+tags:
+  - slug: "chelsea-victoria"
+    name: "chelsea victoria"
+  - slug: "etsy"
+    name: "etsy"
+  - slug: "giveaway"
+    name: "giveaway"
+  - slug: "photography"
+    name: "photography"
+  - slug: "raffle"
+    name: "raffle"
+  - slug: "rafflecopter"
+    name: "rafflecopter"
+  - slug: "shopping"
+    name: "shopping"
+---
+<p>Great News!! Today we are having a</p><em><p>Very Special Giveaway</p></em><p>with</p><a title="Chelsea Victoria on Etsy" href="https://www.etsy.com/shop/ChelseaVictoria" target="_blank" rel="noopener noreferrer"><strong><p>Chelsea Victoria</p></strong></a><p>to celebrate her</p><em><p>Five Year Anniversary on Etsy!</p></em><p>Chelsea’s photography is crazy gorgeous- so amazing, in fact, that I felt the need to post over a dozen of her photos! She’s been featured on a ton of sites and in stores that you know and love, too! Check out her photography below, and enter to win one 11×14 print (a $50 value) for your own home!</p><div class="post__gallery"><div class="post__gallery-item">
+          <img class="post__gallery-image post__image" src="./_images/il-570xn-328229346.jpg" alt="Giveaway with Chelsea Victoria on Katie Crafts; https://www.katiecrafts.com" width="570" height="400">
+        </div><div class="post__gallery-item">
+          <img class="post__gallery-image post__image" src="./_images/il-570xn-328097353.jpg" alt="Giveaway with Chelsea Victoria on Katie Crafts; https://www.katiecrafts.com" width="570" height="400">
+        </div></div><p>Enough about my obsession with Chelsea’s work! I’ll let it speak for itself, and let you read a little about her below. Take it away, Chelsea!</p><div class="post__gallery"><div class="post__gallery-item">
+          <img class="post__gallery-image post__image" src="./_images/dsc-578522.jpg" alt="Giveaway with Chelsea Victoria on Katie Crafts; https://www.katiecrafts.com" width="600" height="400">
+        </div><div class="post__gallery-item">
+          <img class="post__gallery-image post__image" src="./_images/il-570xn-485238080-be3v.jpg" alt="Giveaway with Chelsea Victoria on Katie Crafts; https://www.katiecrafts.comDSC_22542" width="550" height="400">
+        </div></div><p><em>I am a fine art, wedding and stock photographer living in Buffalo, New York. Completely obsessed with capturing every single special moment in my life with my trusty camera. I love to take pictures of things I like to think no one else can see but me. Photography is magic to me! When viewing my photography I want you to be and feel happy and to take a break from your normal life. When I’m not clicking away, you can find me eating sweets, shopping and hanging with my dog Otis, wonderful boyfriend and family!</em></p><div class="post__gallery"><div class="post__gallery-item">
+          <img class="post__gallery-image post__image" src="./_images/il-570xn-328100167.jpg" alt="Giveaway with Chelsea Victoria on Katie Crafts; https://www.katiecrafts.com" width="560" height="400">
+        </div><div class="post__gallery-item">
+          <img class="post__gallery-image post__image" src="./_images/il-570xn-328098933.jpg" alt="Giveaway with Chelsea Victoria on Katie Crafts; https://www.katiecrafts.com" width="515" height="400">
+        </div></div><p><em>My fine art photography is meant to adorn your wall with colorful and dreamlike photos. Each photograph tells its own story. No words are necessary. Get lost in exotic locales, colors and feeling. It is up to you to interpret how a photograph makes you feel and what it is about. That is the beauty of sharing my photography with you.</em></p><div class="post__gallery"><div class="post__gallery-item">
+          <img class="post__gallery-image post__image" src="./_images/il-570xn-628817035-ca6f.jpg" alt="Giveaway with Chelsea Victoria on Katie Crafts; https://www.katiecrafts.com" width="570" height="400">
+        </div><div class="post__gallery-item">
+          <img class="post__gallery-image post__image" src="./_images/il-570xn-337807979.jpg" alt="Giveaway with Chelsea Victoria on Katie Crafts; https://www.katiecrafts.com" width="570" height="400">
+        </div></div><p><em>My work has been featured in and on:</em></p><p><em>Stylemepretty, Elle Magazine, Decor 8, Bath and Body Works, Various book covers, Better Homes and Gardens online, Poppytalk Handmade, Papernstitch, Buffalo magazine and others!</em></p><div class="post__gallery"><div class="post__gallery-item">
+          <img class="post__gallery-image post__image" src="./_images/il-570xn-332414875.jpg" alt="Giveaway with Chelsea Victoria on Katie Crafts; https://www.katiecrafts.com" width="510" height="400">
+        </div><div class="post__gallery-item">
+          <img class="post__gallery-image post__image" src="./_images/dsc-22542.jpg" alt="Giveaway with Chelsea Victoria on Katie Crafts; https://www.katiecrafts.com" width="600" height="400">
+        </div></div><div class="post__gallery"><div class="post__gallery-item">
+          <img class="post__gallery-image post__image" src="./_images/il-570xn-333009482.jpg" alt="Giveaway with Chelsea Victoria on Katie Crafts; https://www.katiecrafts.com" width="500" height="400">
+        </div><div class="post__gallery-item">
+          <img class="post__gallery-image post__image" src="./_images/dsc-3873cropped.jpg" alt="Giveaway with Chelsea Victoria on Katie Crafts; https://www.katiecrafts.com" width="507" height="400">
+        </div></div><p>Can you even handle how beautiful her work is!? Seriously! You should also check out her new blog,</p><a title="Knot The Tie" href="http://jillandchelsea.blogspot.com/" target="_blank" rel="noopener noreferrer">Knot The Tie</a><p>, too! Okay, on to the giveaway! This raffle is for</p><em><p>one metallic finish 11×14 print, winner’s choice</p></em><p>, a $50 value, and is open to</p><em><p>US and Canada only!</p></em><p>This giveaway will</p><strong><p>end at 11:59 PM ET on Sunday, August 10th</p></strong><p>. Please be sure to read all terms and conditions below! Good luck!</p><p><a id="rc-64ecfabc16" class="rafl" href="http://www.rafflecopter.com/rafl/display/64ecfabc16/" rel="nofollow noopener noreferrer" target="_blank">a Rafflecopter giveaway</a></p><p>For anyone who can’t WAIT to see if they win a print and NEED one now (ahem, like me), Chelsea Victoria’s shop has a big 50% off sale going on right now to honor her anniversary! Yay! Happy Monday, indeed. 🙂</p>

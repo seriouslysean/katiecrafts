@@ -1,0 +1,34 @@
+---
+layout: "~/layouts/Post.astro"
+title: "Dad’s Honey Glazed Carrots"
+slug: "dads-honey-glazed-carrots"
+date: "20150604"
+publishedDate: "2015-06-04"
+excerpt: "Recipe: Dad’s Honey Glazed Carrots Last week, I shared my Mom’s recipe for the best ever chicken cutlets! I promised that I’d also give you a look at my Dad’s recipe for Honey Glazed Carrots, and here it is! My Husband specifically requested these veggies as part of his birthday dinner, and maybe you’ll like them […]"
+featuredImage:
+  src: "./_images/featured.png"
+  width: 1024
+  height: 1024
+  alt: "Dad's Honey Glazed Carrots Recipe on Katie Crafts; http://www.katiecrafts.com"
+categories:
+  - slug: "cooks"
+    name: "Cooks"
+tags:
+  - slug: "carrots"
+    name: "carrots"
+  - slug: "cooking"
+    name: "cooking"
+  - slug: "dad"
+    name: "dad"
+  - slug: "food"
+    name: "food"
+  - slug: "honey"
+    name: "honey"
+  - slug: "recipe"
+    name: "recipe"
+  - slug: "side-dish"
+    name: "side dish"
+  - slug: "vegetables"
+    name: "vegetables"
+---
+<p>Recipe: Dad’s Honey Glazed Carrots</p><p>Last week, I shared my Mom’s recipe for the best ever chicken cutlets! I promised that I’d also give you a look at my Dad’s recipe for Honey Glazed Carrots, and here it is! My Husband specifically requested these veggies as part of his birthday dinner, and maybe you’ll like them just as much!</p><p>These carrots are so easy to make, you’ll definitely be adding them to your weekly recipe wheel!</p><h2>Ingredients:</h2><ul><li><p>1/2 to 1 lb of carrots, washed (and peeled if you prefer- I don’t mind them not peeled so I don’t bother with that part)</p></li><li><p>1/2 to 1 Tbsp of honey</p></li><li><p>2 Tbsp of butter</p></li><li><p>Salt and pepper</p></li></ul><h2>Instructions:</h2><ul><li><p>Chop up your carrots in to even-ish sized pieces. It’s difficult at the end of the carrot when one size is small and skinny and the other is so large. Just be sure to chop the largest pieces in half, so they are somewhat the same in size as the smaller ones. This helps everything cook more evenly.</p></li><li><p>Boil in a small pot of water on medium heat for 10-15 minutes, or until almost soft. Check softness with a fork.</p></li><li><p>Drain the water and let them sit for a moment while you add 1 Tbsp of your butter to a saute pan and get it heated to medium heat.</p></li><li><p>Once the butter is melted, add the carrots, salt and pepper to taste.</p></li><li><p>Begin to saute carrots, adding the remaining butter when the bottom of the pan begins to stick.</p></li><li><p>Saute, turning over occasionally with a spatula, for another 10-15 minutes or until carrots begin to turn gold in color and are soft when checked with a fork.</p></li><li><p>Turn off heat and drizzle the honey over the carrots. Give them a quick turn in the pan using the spatula, to make sure the honey is evenly distributed. Serve immediately.</p></li></ul><p>I’ve heard people use brown sugar in these carrots too, but I feel that would be a little too sweet- these are already sweet enough! Use less honey if you only want a touch of sweetness. My Husband LOVES HONEY, so I used a full Tablespoon!</p><p>If you have another great carrot recipe, share it below! If you use this one, let me know how you like it!</p>

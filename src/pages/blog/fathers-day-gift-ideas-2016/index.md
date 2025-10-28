@@ -1,0 +1,31 @@
+---
+layout: "~/layouts/Post.astro"
+title: "Father’s Day Gift Ideas 2016"
+slug: "fathers-day-gift-ideas-2016"
+date: "20160614"
+publishedDate: "2016-06-14"
+excerpt: "Father’s Day is just around the corner! If you’re still stuck on what to get your Dad this Sunday, I have a fabulous assortment of suggestions ready to go! Check out all my Father’s Day gift ideas above and be sure to shop them below. There is something for everyone!"
+featuredImage:
+  src: "./_images/featured.jpg"
+  width: 700
+  height: 700
+  alt: "Father's Day Gift Ideas 2016 on Katie Crafts; http://www.katiecrafts.com"
+categories:
+  - slug: "hodgepodge"
+    name: "Hodgepodge"
+tags:
+  - slug: "dad"
+    name: "dad"
+  - slug: "etsy-picks"
+    name: "etsy picks"
+  - slug: "fathers-day"
+    name: "father's day"
+  - slug: "gift-ideas"
+    name: "gift ideas"
+  - slug: "handmade"
+    name: "handmade"
+  - slug: "shopping"
+    name: "shopping"
+---
+
+<p><p>Father’s Day is just around the corner! If you’re still stuck on what to get your Dad this Sunday, I have a fabulous assortment of suggestions ready to go! Check out all my Father’s Day gift ideas above and be sure to shop them below. There is something for everyone!</p></p><p><p>Aren’t these items so perfect for the papa in your life? I really love the Cat Dad shirt! I’m already making something similar for the Husband to wear on Sunday since we have no human children yet. 🙂 Click on each link to go to directly to the item listed, or</p><strong><a href="https://www.etsy.com/treasury/MTAzNjM3NjF8MjcyODUwMTYwMA/fathers-day-gift-ideas-2016" target="_blank" rel="noopener noreferrer"><p>pop over to the original treasury on Etsy right here.</p></a></strong></p><ol><li><strong><a href="https://www.etsy.com/listing/235742463/fathers-day-sugar-cookies-dadtiebaw?ref=tre-2728501600-1" target="_blank" rel="noopener noreferrer"><p>Sweet Art Sugar Cookies</p></a></strong></li><li><strong><a href="https://www.etsy.com/listing/277134126/funny-mug-emergency-dad-jokes-fathers?ref=tre-2728501600-2" target="_blank" rel="noopener noreferrer"><p>Paper Plane</p></a></strong></li><li><strong><a href="https://www.etsy.com/listing/191777350/personalized-bbq-spatula-personalized?ref=tre-2728501600-3" target="_blank" rel="noopener noreferrer"><p>RC Personalized Gifts</p></a></strong></li><li><strong><a href="https://www.etsy.com/listing/294764499/fathers-day-gift-father-gift-husband?ref=tre-2728501600-4" target="_blank" rel="noopener noreferrer"><p>Niftee Prints</p></a></strong></li><li><strong><a href="https://www.etsy.com/listing/293835221/the-grillfather-fathers-day-apron?ref=tre-2728501600-5" target="_blank" rel="noopener noreferrer"><p>Motivashirts</p></a></strong></li><li><strong><a href="https://www.etsy.com/listing/251621329/daddy-keychain-fathers-day-gift-dads?ref=tre-2728501600-6" target="_blank" rel="noopener noreferrer"><p>Melissa’s Monograms</p></a></strong></li><li><strong><a href="https://www.etsy.com/listing/287183765/fathers-day-card-star-wars-card-darth?ref=tre-2728501600-7" target="_blank" rel="noopener noreferrer"><p>Dry Humor Boutique</p></a></strong></li><li><strong><a href="https://www.etsy.com/listing/234386429/personalized-hammer-fathers-day-gift?ref=tre-2728501600-8" target="_blank" rel="noopener noreferrer"><p>Sammie’s Lettering</p></a></strong></li><li><strong><a href="https://www.etsy.com/listing/231947817/sale-beer-cap-map-of-usa-made-of?ref=tre-2728501600-9" target="_blank" rel="noopener noreferrer"><p>Home Wet Bar</p></a></strong></li><li><strong><a href="https://www.etsy.com/listing/276109820/original-wooden-bow-tie-personalized?ref=tre-2728501600-10" target="_blank" rel="noopener noreferrer"><p>The Nebraska Wood Apparel Co.</p></a></strong></li><li><strong><a href="https://www.etsy.com/listing/290299473/cat-dad-triblend-heather-brown-tshirt?ref=tre-2728501600-11" target="_blank" rel="noopener noreferrer"><p>Maisonwares</p></a></strong></li><li><strong><a href="https://www.etsy.com/listing/278569034/fathers-day-gift-fathers-day-gift-from?ref=tre-2728501600-12" target="_blank" rel="noopener noreferrer"><p>Family Foto Fun</p></a></strong></li><li><strong><a href="https://www.etsy.com/listing/286241219/happy-fathers-day-card-from-the-dog-best?ref=tre-2728501600-13" target="_blank" rel="noopener noreferrer"><p>Hennel Paper Co.</p></a></strong></li><li><strong><a href="https://www.etsy.com/listing/125597459/custom-metal-bucket-galvanized-beer?ref=tre-2728501600-14" target="_blank" rel="noopener noreferrer"><p>Capcatchers</p></a></strong></li><li><strong><a href="https://www.etsy.com/listing/213892223/beard-oil-sampler-set-fathers-day-gifts?ref=tre-2728501600-15" target="_blank" rel="noopener noreferrer"><p>Miss Violet Lace</p></a></strong></li><li><strong><a href="https://www.etsy.com/listing/235176295/etched-dad-mug-dad-est-glass-deep-etched?ref=tre-2728501600-16" target="_blank" rel="noopener noreferrer"><p>Black Rock Engraving</p></a></strong></li></ol><p><p>Which of my Etsy picks do you like best for Father’s Day? What are your Sunday plans?</p></p>

@@ -1,0 +1,36 @@
+---
+layout: "~/layouts/Post.astro"
+title: "Featured Etsy Shop: Hannahdoodle"
+slug: "featured-etsy-shop-hannahdoodle"
+date: "20140430"
+publishedDate: "2014-04-30"
+excerpt: "Featured Etsy Shop: Hannahdoodle Meet Hannah! [Hi, Hannah!] She’s from “Handmade by Hannahdoodle” over on Etsy. She creates the most insanely cute little felt brooches, plushies and more you ever did see. Get ready for your head to explode- and it will when you’ve seen her happy little French-toast-with-a-mustache-brooch!"
+featuredImage:
+  src: "./_images/featured.png"
+  width: 637
+  height: 250
+  alt: "Featured Etsy Shop: Hannahdoodle on Katie Crafts; http://www.katiecrafts.com"
+categories:
+  - slug: "crafts"
+    name: "Crafts"
+tags:
+  - slug: "brooches"
+    name: "brooches"
+  - slug: "crafts-2"
+    name: "crafts"
+  - slug: "etsy"
+    name: "etsy"
+  - slug: "featured-artist"
+    name: "featured artist"
+  - slug: "featured-etsy-shop"
+    name: "featured etsy shop"
+  - slug: "felting"
+    name: "felting"
+  - slug: "pillows"
+    name: "pillows"
+  - slug: "plushies"
+    name: "plushies"
+  - slug: "shopping"
+    name: "shopping"
+---
+<p>Meet Hannah! [</p><em><p>Hi, Hannah!</p></em><p>] She’s from</p><a title="Hannahdoodle on Etsy" href="https://www.etsy.com/shop/hannahdoodle" target="_blank" rel="noopener noreferrer">“Handmade by Hannahdoodle”</a><p>over on Etsy. She creates the most insanely cute little felt brooches, plushies and more you ever did see. Get ready for your head to explode- and it will when you’ve seen her happy little French-toast-with-a-mustache-brooch!</p><h2>Tell us a little about yourself…</h2><p><em>My name’s Hannah, I’m from a little town by the sea called Rhyl in the UK. I like sewing, drawing, trying all sorts of new and different food and collecting pens from around the world and everywhere I go. Currently I am working on developing my store and expanding the range of handmade crafts on there, right now I am designing a range of cards that will fit in with the cute theme of my shop.</em></p><p><a href="https://www.etsy.com/listing/185509255/french-toast-felt-plush-mini-pillow?ref=shop_home_feat_4" target="_blank" rel="noopener noreferrer"><img class="size-full post__image" src="./_images/il-570xn-586860442-ljmd.jpg" alt="Featured Etsy Shop: Hannahdoodle on Katie Crafts; http://www.katiecrafts.com" width="570" height="380"></a></p><h2>What do you love about your craft?</h2><p><em>My brooches and accessories often start as small pencil sketches. I love the transition between paper and creating a finished felt product. Since I sketch ideas in pencil I don’t necessarily decide on colours until I pick out a bunch from my stash of felt. Often the finished product can end up looking miles away from the original sketch, and each piece I make turns out different due to the nature of hand-sewing. I love that handmade items means that each one will be unique.</em></p><p><a href="https://www.etsy.com/listing/183720269/happysad-apple-green-plush-pillow-cute?ref=listing-shop-header-0" target="_blank" rel="noopener noreferrer"><img class="size-full post__image" src="./_images/il-570xn-563031630-8ct6.jpg" alt="Featured Etsy Shop: Hannahdoodle on Katie Crafts; http://www.katiecrafts.com" width="570" height="380"></a></p><h2>What item was your favorite to make so far?</h2><p><em>My favourite item to make so far has definitely been my Neapolitan Ice Cream brooch. I originally got the idea after a day trip at Llandudno pier (a local seaside town) and saw that someone had three different scoops of ice cream towering above their cone. I wondered how that would translate in felt compared to my previous brooches of only one flavour, so quickly began sewing together some classic neapolitan colours. It’s my favourite because it’s a very cheerful, playful looking brooch, and who wouldn’t want an ice cream cone towering with all your favourite flavours?</em></p><p><a href="https://www.etsy.com/listing/185384935/neapolitan-ice-cream-felt-brooch?ref=shop_home_active_16" target="_blank" rel="noopener noreferrer"><img class="size-full post__image" src="./_images/il-570xn-586528829-o851.jpg" alt="Featured Etsy Shop: Hannahdoodle on Katie Crafts; http://www.katiecrafts.com" width="570" height="380"></a></p><h2>Where do you find your creative inspiration?</h2><p><em>Most of my inspiration admittedly comes from food! I love food, and I’ve always had a very big sweet tooth. Also anything cute! I travelled to Korea a few years ago and was inspired by all the Kawaii stationery I saw and fell in love with.</em></p><h2>How did you decide to open your Etsy shop?</h2><p><em>It was a long summer between finishing my exams at school and attending University, after getting a few compliments at school about the handmade felt brooches that adorned my bag I decided to see if anyone else would be interested in them online. I still remember my first sale on Etsy and how excited it made me feel, someone paying for something I’d made? I could barely believe it. I still get the same feeling every time I make a sale today, and I love making people smile with my creations.</em></p><p><a href="https://www.etsy.com/listing/167662084/happy-blue-cloud-felt-brooch?ref=shop_home_active_2" target="_blank" rel="noopener noreferrer"><img class="size-full post__image" src="./_images/il-570xn-520020431-jnh2.jpg" alt="Featured Etsy Shop: Hannahdoodle on Katie Crafts; http://www.katiecrafts.com" width="570" height="570"></a></p><h2>Any advice for others who want to start their own Etsy shop, or who are looking to fulfill their passion for crafting?</h2><p><em>If you want to start your own Etsy shop, go for it! Even if you don’t think anything will sell, do it anyway! Try not to undervalue your craft, it often takes years to learn how to do something well, think of that time before deciding on prices, most shoppers on Etsy understand that handmade takes love, care and time and will pay a little more. Try everything you can in crafting, you never know where your passion will end up.</em></p><p><a href="https://www.etsy.com/listing/186504774/blue-birthday-cupcake-felt-brooch-candle?ref=listing-shop-header-1" target="_blank" rel="noopener noreferrer"><img class="size-full post__image" src="./_images/il-570xn-590570210-30ye.jpg" alt="Featured Etsy Shop: Hannahdoodle on Katie Crafts; http://www.katiecrafts.com" width="570" height="380"></a></p><p>In addition to checking out her</p><a title="Hannahdoodle on Etsy" href="https://www.etsy.com/shop/hannahdoodle#" target="_blank" rel="noopener noreferrer">Etsy shop</a><p>, you should make sure to follow Hannahdoodle on these sites as well!</p><p>Blog:</p><a href="http://hannahdoodle.blogspot.co.uk/" target="_blank" rel="noopener noreferrer">http://hannahdoodle.blogspot.co.uk/</a><br><p>Twitter:</p><a href="https://twitter.com/hannahradio" target="_blank" rel="noopener noreferrer">https://twitter.com/hannahradio</a><br><p>Tumblr:</p><a href="http://hannahdoodle.tumblr.com/" target="_blank" rel="noopener noreferrer">http://hannahdoodle.tumblr.com/</a><br><p>If your brain didn’t explode from the cuteness yet, leave a comment and tell us which your favorite Hannahdoodle creation is! We’d love to hear from you!</p>

@@ -1,2 +1,5 @@
-node_modules
+.astro
 dist
+node_modules
+data/import-manifest.json
+data/posts/

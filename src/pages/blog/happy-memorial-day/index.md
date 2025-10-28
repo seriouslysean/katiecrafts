@@ -1,0 +1,26 @@
+---
+layout: "~/layouts/Post.astro"
+title: "Happy Memorial Day!"
+slug: "happy-memorial-day"
+date: "20160530"
+publishedDate: "2016-05-30"
+excerpt: "Today is a twofer- it’s both Memorial Day AND The Husband’s birthday! We are celebrating both with a few good friends, grilled food, tasty beer and some really exciting Paleo desserts. If they go over well, I’ll be sure to post them soon!"
+featuredImage:
+  src: "./_images/featured.jpg"
+  width: 900
+  height: 900
+  alt: "Happy Memorial Day! on Katie Crafts; http://www.katiecrafts.com"
+categories:
+  - slug: "hodgepodge"
+    name: "Hodgepodge"
+tags:
+  - slug: "birthday"
+    name: "birthday"
+  - slug: "holiday"
+    name: "holiday"
+  - slug: "husband"
+    name: "husband"
+  - slug: "memorial-day"
+    name: "memorial day"
+---
+<p>Today is a twofer- it’s both</p><strong><p>Memorial Day</p></strong><p>AND</p><strong><p>The Husband’s birthday</p></strong><p>! We are celebrating both with a few good friends, grilled food, tasty beer and some really exciting Paleo desserts. If they go over well, I’ll be sure to post them soon!</p><p>No matter what you’re doing today, I hope you enjoy your day! Don’t forget to give thanks to those who lost their lives fighting for this country- it is why you have off, after all!</p><p>And….</p><p><em><strong>HAPPY BIRTHDAY, HUSBAND!!! &#x3C;3 I LOVE YOU!</strong></em></p><p>How are you spending your Memorial Day?</p>

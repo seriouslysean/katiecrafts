@@ -1,0 +1,34 @@
+---
+layout: "~/layouts/Post.astro"
+title: "Join Us in the Race for Hope!!!"
+slug: "join-us-in-the-race-for-hope"
+date: "20150812"
+publishedDate: "2015-08-12"
+excerpt: "Each year, my Husband and I attend the Race for Hope Philadelphia on the first Sunday of November. This year will be our fifth year, and we decided to do more than just participate- we decided to volunteer!"
+featuredImage:
+  src: "./_images/featured.png"
+  width: 1280
+  height: 1280
+  alt: "Join Us in the Race For Hope!! on Katie Crafts; http://www.katiecrafts.com"
+categories:
+  - slug: "hodgepodge"
+    name: "Hodgepodge"
+tags:
+  - slug: "abta"
+    name: "abta"
+  - slug: "give-kathy-hope"
+    name: "give kathy hope"
+  - slug: "mom"
+    name: "mom"
+  - slug: "national-brain-tumor-society"
+    name: "national brain tumor society"
+  - slug: "nbts"
+    name: "nbts"
+  - slug: "race-for-hope"
+    name: "race for hope"
+  - slug: "race-for-hope-philly"
+    name: "race for hope philly"
+  - slug: "volunteering"
+    name: "volunteering"
+---
+<p>Each year, my Husband and I attend the</p><a href="http://www.braintumorcommunity.org/site/TR/TeamraiserEvents/RaceforHopePhiladelphia?team_id=75372&#x26;pg=team&#x26;fr_id=2560" target="_blank" rel="noopener noreferrer">Race for Hope Philadelphia</a><p>on the first Sunday of November. This year will be our fifth year, and we decided to do more than just participate- we decided to volunteer!</p><br><br><p>We walk for team</p><strong><a href="https://www.facebook.com/givekathyhope" target="_blank" rel="noopener noreferrer">Give Kathy Hope</a></strong><p>, in remembrance of my Mother. I’ve talked about my</p><strong><a href="/celebrating-mom/">Mom</a></strong><p>before when celebrating Brain Tumor Awareness Month in May, so you know how close to my heart the subject is. There are a lot of things I didn’t know about brain tumors until my mom was diagnosed, so I thought I’d share some with you so you can be informed!</p><p>These quick facts about brain tumors come from the</p><a href="http://braintumor.org/" target="_blank" rel="noopener noreferrer">National Brain Tumor Society</a><p>(who is responsible for the Race for Hope) and the</p><a href="http://www.abta.org/" target="_blank" rel="noopener noreferrer">American Brain Tumor Association</a><p>.</p><h3>Did you know…</h3><ul><li><p>There are</p><strong><p>688,096</p></strong><p>Americans are living with a brain tumor. Of those,</p><ul><li><p>550,042 tumors are benign</p></li><li><p>138,054 tumors are malignant</p></li></ul></li><li><p>An estimated</p><strong><p>68,470</p></strong><p>people will receive a primary brain tumor diagnosis this year. Of those,</p><ul><li><p>45,300 will be benign</p></li><li><p>23,180 will be malignant</p><ul><li><p>55.2% will be Male</p></li><li><p>44.8% will be Female</p></li></ul></li></ul></li><li><p>The average survival rate for all malignant brain tumor patients is only</p><strong><p>34.2%</p></strong><p>.</p><ul><li><p>Male: 32.6%</p></li><li><p>Female: 35.3%</p></li></ul></li><li><p>An estimated</p><strong><p>13,770</p></strong><p>people will die from brain cancer this year.</p></li><li><p>The most prevalent type of brain tumor in adults are:</p><ul><li><p>Gliomas, such as glioblastoma multiforme*, ependymomas, astrocytomas, and oligodendrogliomas</p></li><li><p>Meningiomas</p></li></ul></li></ul><p>*A GBM tumor is what we lost my mom to.</p><ul><li><p>Glioblastoma Multiforme (GBM) are responsible for 15.4% of all primary brain tumors.</p></li><li><p>The exact cause of a glioblastoma is not know.</p></li><li><p>For adults, median survival of a GBM is about 14.6 months, with a two-year survival of just 30%.</p></li></ul><p>Mom made it to 26 months, though her quality of life was poor. She underwent several clinical trials but without enough research, the aggressive tumor won. This is why raising awareness and funding is so important! Every donation, no matter the size, helps! Even if it’s just the cost of</p><strong><p>one</p></strong><p>of your morning lattes- it really makes a difference.</p><p>Donate to our team,</p><strong><a href="http://www.braintumorcommunity.org/site/TR/TeamraiserEvents/RaceforHopePhiladelphia?team_id=75372&#x26;pg=team&#x26;fr_id=2560" target="_blank" rel="noopener noreferrer">Give Kathy Hope</a></strong><p>, if you can! Join the team and sign up to walk or run in the Race for Philly if you live in the area. Become a “virtual walker” and recruit your own team members and donations on our behalf, or sign up to be a volunteer for the day and hang out with us! Husband and I are on the</p><em><p>Refreshments</p></em><p>committee, so stop by the tent and say hello if you attend.</p><p>There are</p><strong><p>81 days left</p></strong><p>until the</p><em><p>Race for Hope in Philadelphia</p></em><p>on</p><em><p>November 1st</p></em><p>! Let’s see how much we can raise!</p><p><em>Grey Matters!</em></p>

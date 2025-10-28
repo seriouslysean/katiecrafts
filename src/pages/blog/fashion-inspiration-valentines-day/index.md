@@ -1,0 +1,34 @@
+---
+layout: "~/layouts/Post.astro"
+title: "Fashion Inspiration: Valentine’s Day"
+slug: "fashion-inspiration-valentines-day"
+date: "20150212"
+publishedDate: "2015-02-12"
+excerpt: "Fashion Inspiration: Valentine’s Day Maybe you have your dress and heels picked out for your fancy Valentine’s Dinner, but maybe you’re keeping it low key that day and still want to look cute. Here are a few pieces that when put together are perfect for this Saturday!"
+featuredImage:
+  src: "./_images/featured.png"
+  width: 663
+  height: 250
+  alt: "Fashion Inspiration: Valentine's Day (two looks!) by Katie Crafts; http://www.katiecrafts.com"
+categories:
+  - slug: "beauty"
+    name: "Beauty"
+tags:
+  - slug: "alice-olivia"
+    name: "alice + olivia"
+  - slug: "beauty"
+    name: "beauty"
+  - slug: "christian-louboutin"
+    name: "christian louboutin"
+  - slug: "fashion"
+    name: "fashion"
+  - slug: "fashion-inspiration"
+    name: "fashion inspiration"
+  - slug: "kate-spade"
+    name: "kate spade"
+  - slug: "shopping"
+    name: "shopping"
+  - slug: "valentines-day"
+    name: "valentine's day"
+---
+<p>Maybe you have your dress and heels picked out for your fancy Valentine’s Dinner, but maybe you’re keeping it low key that day and still want to look cute. Here are a few pieces that when put together are perfect for this Saturday!</p><p>With just one pair of red skinny pants, you can score two looks! Add a heart printed button down blouse, adorable clutch, a cuff bracelet and a pair of amazing(ly expensive) Christian Louboutin’s, you can have a chic look perfect for the day. For a way more casual look, add a plain white tee, scarf and flats and you’re ready to go. You can even mix and match if you like pieces from both looks- it’s your day! Do what you like!</p><p><a title="Red Slim Fit Treggings from H&#x26;M" href="http://www.hm.com/us/product/28707?article=28707-E#article=28707-H" target="_blank" rel="noopener noreferrer"><strong>Red Slim Fit Pants: H&#x26;M</strong></a></p><p><a title="Heart " short&#x26;#x26;#x26;#x26;#x26;#x22;="" blouse="" h&#x26;#x26;#x26;#x26;#x26;#x26;m&#x26;#x26;#x26;#x26;#x26;#x22;="" href="http://www.hm.com/us/product/48856?article=48856-D&#x26;cm_vc=SEARCH#article=48856-D" target="_blank" rel="noopener noreferrer"><strong>Heart Blouse: H&#x26;M</strong></a></p><p><a title="Kate Spade Wink Clutch at Zappos Couture" href="http://couture.zappos.com/kate-spade-new-york-love-birds-wink-clutch-blush" target="_blank" rel="noopener noreferrer"><strong>Kate Spade New York Love Birds Wink Clutch: Zappos Couture</strong></a></p><p><a title="Hinged Leaf Cuff Bracelet from Target" href="http://www.target.com/p/women-s-hinged-leaf-cuff-bracelet-black-gold/-/A-16567200#prodSlot=_1_6" target="_blank" rel="noopener noreferrer"><strong>Hinged Leaf Cuff Bracelet: Target</strong></a></p><p><a title="Cora Heart Sandals Christian Louboutin from Neiman Marcus" href="http://www.neimanmarcus.com/Christian-Louboutin-Cora-Heart-Red-Sole-Sandal-Black-Pink/prod173080055/p.prod?srccode=cii_17588969&#x26;cpncode=37-24056376-2&#x26;ecid=NMCIGoogleProductAds" target="_blank" rel="noopener noreferrer"><strong>Cora Heart Sandals from Christian Louboutin: Neiman Marcus</strong></a></p><p><a title="White Crew T-Shirt from Target" href="http://www.target.com/p/women-s-perfect-fit-crew-tee/-/A-15058856#prodSlot=medium_1_30&#x26;term=white+shirt" target="_blank" rel="noopener noreferrer"><strong>White Crew Tee: Target</strong></a></p><p><a title="Fossil Mini Crossbody bag from Macy&#x27;s" href="http://www1.macys.com/shop/product/fossil-explorer-leather-mini-crossbody?ID=2043100&#x26;pla_country=US&#x26;CAGPSPN=pla&#x26;CAWELAID=120156340001203868&#x26;catargetid=120156340000912706&#x26;cadevice=c&#x26;cm_mmc=Google_Handbags_Adchemy_PLA_PLA-_-Brand+-+Fossil+-+GS_Fossil-_-69538616647_-_-_mkwid_5ts6pyEa|dc_69538616647|-|5ts6pyEa" target="_blank" rel="noopener noreferrer"><strong>Fossil Mini Crossbody Bag in Ruby Wine: Macy’s</strong></a></p><p><a title="Patterned Heart Scarf from H&#x26;M" href="http://www.hm.com/us/product/51738?article=51738-C" target="_blank" rel="noopener noreferrer"><strong>Patterned Heart Scarf: H&#x26;M</strong></a></p><p><a title="Hilary Flats from Alice + Olivia on Zappos" href="http://www.zappos.com/alice-olivia-hilary-graphic-floral-red-printed-grossgrain" target="_blank" rel="noopener noreferrer"><strong>Hilary Flats from Alice + Olivia: Zappos</strong></a></p><p><a title="Essie " really="" red&#x26;#x26;#x26;#x26;#x26;#x22;="" nail="" polish="" on="" amazon&#x26;#x26;#x26;#x26;#x26;#x22;="" href="http://amzn.to/1zUEkHc" target="_blank" rel="noopener noreferrer"><strong>Nail Polish: Essie Nail Color in Really Red</strong></a></p><p><a title="e.l.f. Studio lipstick in Red Carpet" href="http://amzn.to/1KGN2O6" target="_blank" rel="noopener noreferrer"><strong>Lipstick: e.l.f. Studio Moisturizing Lipstick in Red Carpet</strong></a></p><p><a title="Red and White polka dotted bow by Katie Crafts" href="https://www.etsy.com/listing/212651606/red-polka-dotted-hair-bow-valentines-day?ref=shop_home_feat_3" target="_blank" rel="noopener noreferrer"><strong>Red Polka Dotted Hair Bow: Katie Crafts</strong></a></p><p>I’m officially obsessed with that winking clutch. How cute is that!? I’d rock it every day. Which is your favorite item?</p>

@@ -1,0 +1,46 @@
+---
+layout: "~/layouts/Post.astro"
+title: "Super Bowl Sunday Snacks"
+slug: "super-bowl-sunday-snacks"
+date: "20160201"
+publishedDate: "2016-02-01"
+excerpt: "Whether you’re a Panthers or a Broncos fan (or neither!), chances are you’ll be hanging out with friends this Sunday for Super Bowl 50! Bring or serve these awesome Super Bowl Sunday snacks and you’ll be the one scoring a touchdown!"
+featuredImage:
+  src: "./_images/featured.png"
+  width: 1326
+  height: 1326
+  alt: "Super Bowl Sunday Snacks on Katie Crafts; http://www.katiecrafts.com"
+categories:
+  - slug: "cooks"
+    name: "Cooks"
+tags:
+  - slug: "absolutely-monica"
+    name: "absolutely monica"
+  - slug: "broncos"
+    name: "broncos"
+  - slug: "cooking"
+    name: "cooking"
+  - slug: "football"
+    name: "football"
+  - slug: "myrecipes"
+    name: "myrecipes"
+  - slug: "panthers"
+    name: "panthers"
+  - slug: "party"
+    name: "party"
+  - slug: "picture-the-recipe"
+    name: "picture the recipe"
+  - slug: "recipes"
+    name: "recipes"
+  - slug: "snacks"
+    name: "snacks"
+  - slug: "super-bowl"
+    name: "super bowl"
+  - slug: "tailgating"
+    name: "tailgating"
+  - slug: "the-first-year"
+    name: "the first year"
+  - slug: "two-sisters-crafting"
+    name: "two sisters crafting"
+---
+<p>Whether you’re a Panthers or a Broncos fan (or neither!), chances are you’ll be hanging out with friends this Sunday for Super Bowl 50! Bring or serve these awesome Super Bowl Sunday snacks and you’ll be the one scoring a touchdown!</p><p><a href="https://www.pinterest.com/search/pins/?rs=ac&#x26;len=2&#x26;q=super+bowl+sunday+snacks&#x26;term_meta%5B%5D=super%7Cautocomplete%7C2&#x26;term_meta%5B%5D=bowl%7Cautocomplete%7C2&#x26;term_meta%5B%5D=sunday%7Cautocomplete%7C2&#x26;term_meta%5B%5D=snacks%7Cautocomplete%7C2" target="_blank" rel="noopener noreferrer">Pinterest has a million ideas</a></p><p>for football themed treats, but these 5 were my favorites. Check them out below!</p><p>photo from http://thefirstyearblog.com/peanut-butter-stuffed-chocolate-footballs/</p><p>Who doesn’t want Peanut Butter Stuffed Chocolate Footballs?! I know I do! The recipe from</p><a href="http://thefirstyearblog.com/peanut-butter-stuffed-chocolate-footballs/" target="_blank" rel="noopener noreferrer">The First Year</a><p>sounds delicious and easy!</p><p>photo from http://www.myrecipes.com/recipe/spicy-sweet-deviled-eggs</p><p>These Spicy-Sweet Deviled Eggs from</p><a href="http://www.myrecipes.com/recipe/spicy-sweet-deviled-eggs" target="_blank" rel="noopener noreferrer">MyRecipes.com</a><p>look like little footballs and are a yummy twist on an old favorite! I’ll definitely be trying these guys out!</p><p>photo from http://picturetherecipe.com/index.php/recipes/game-day-snacks-football-pizza-pockets/</p><p><a href="http://picturetherecipe.com/index.php/recipes/game-day-snacks-football-pizza-pockets/" target="_blank" rel="noopener noreferrer">Picture The Recipe</a></p><p>has some great football snack ideas, including these fun Pizza Pockets shaped like footballs! Love them!</p><figure id="attachment_7645" aria-describedby="caption-attachment-7645" class="post__figure"><img class="size-full post__image" src="./_images/guacamole-15.jpg" alt="Super Bowl Sunday Snacks on Katie Crafts; http://www.katiecrafts.com" width="800" height="598"><figcaption id="caption-attachment-7645"><p>photo from http://absolutelymonica.blogspot.ca/2011/02/super-bowl-sunday-guacamole-football.html</p></figcaption></figure><p><a href="http://absolutelymonica.blogspot.ca/2011/02/super-bowl-sunday-guacamole-football.html" target="_blank" rel="noopener noreferrer">Absolutely Monica</a></p><p>shared a great recipe for a Guacamole Football Field that would please everyone at your party. Also, it’s totally cute!</p><figure id="attachment_7646" aria-describedby="caption-attachment-7646" class="post__figure"><img class="size-full post__image" src="./_images/carolina-panthers-popcorn.jpg" alt="Super Bowl Sunday Snacks on Katie Crafts; http://www.katiecrafts.com" width="680" height="1500"><figcaption id="caption-attachment-7646"><p>photo from http://www.twosisterscrafting.com/carolina-panthers-popcorn/</p></figcaption></figure><p>This popcorn recipe can be made with the colors for whichever team you prefer and will travel well if you’re heading out of town for your party! I’m so glad I found the recipe for it over at</p><a href="http://www.twosisterscrafting.com/carolina-panthers-popcorn/" target="_blank" rel="noopener noreferrer">Two Sisters Crafting</a><p>!</p><p>Whatever you decide to do for Super Bowl Sunday, I hope you have a great time! Who are you rooting for?</p>

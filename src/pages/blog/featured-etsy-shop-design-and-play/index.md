@@ -1,0 +1,48 @@
+---
+layout: "~/layouts/Post.astro"
+title: "Featured Etsy Shop: Design and Play"
+slug: "featured-etsy-shop-design-and-play"
+date: "20140425"
+publishedDate: "2014-04-25"
+excerpt: "Featured Etsy Shop: Design and Play We usually only do our Featured Etsy Shops on Wednesdays, but we teamed up with Belle over at Design and Play to do a very special Friday Feature for you! It’s special, because Belle has the perfect items in her shop for you to give your Mama this Mother’s […]"
+featuredImage:
+  src: "./_images/featured.png"
+  width: 637
+  height: 250
+  alt: "Featured Etsy Shop: Design and Play on Katie Crafts; http://www.katiecrafts.com"
+categories:
+  - slug: "crafts"
+    name: "Crafts"
+tags:
+  - slug: "art-print"
+    name: "art print"
+  - slug: "belle"
+    name: "belle"
+  - slug: "contest"
+    name: "contest"
+  - slug: "design-and-play"
+    name: "design and play"
+  - slug: "etsy"
+    name: "etsy"
+  - slug: "featured-artist"
+    name: "featured artist"
+  - slug: "featured-etsy-shop"
+    name: "featured etsy shop"
+  - slug: "free"
+    name: "free"
+  - slug: "freebie"
+    name: "freebie"
+  - slug: "freebie-friday"
+    name: "freebie friday"
+  - slug: "giveaway"
+    name: "giveaway"
+  - slug: "mom"
+    name: "mom"
+  - slug: "mothers-day-gift"
+    name: "mother's day gift"
+  - slug: "raffle"
+    name: "raffle"
+  - slug: "shopping"
+    name: "shopping"
+---
+<p>We usually only do our Featured Etsy Shops on Wednesdays, but we teamed up with Belle over at</p><a title="Design and Play on Etsy" href="https://www.etsy.com/shop/designandplay?ref=pr_shop_more" target="_blank" rel="noopener noreferrer">Design and Play</a><p>to do a very special Friday Feature for you! It’s special, because Belle has the perfect items in her shop for you to give your Mama this Mother’s Day, and she’s giving you the chance to win one!</p><h2>Tell us a little about yourself…</h2><p><em>Hi, I’m Belle behind Design &#x26; Play from Canada. I’m obsessed with glitter, coffee and designing.</em></p><h2>What do you love about your craft?</h2><p><em>What I love most is knowing someone chose my invitation design for their party or event. No matter how many times I’ve sold a particular design – it’s always exciting to see how my customers are using it for different special occasions.</em></p><p><a href="https://www.etsy.com/shop/designandplay" target="_blank" rel="noopener noreferrer"><img class="size-full post__image" src="./_images/il-570xn-588474005-djx5.jpg" alt="Featured Etsy Shop: Design and Play on Katie Crafts; http://www.katiecrafts.com" width="570" height="570"></a></p><h2>What item was your favorite to make so far?</h2><p><em>My favorite item today is the Glitter print of “Home is where Mom is” with the arrow. I am obsessed with glitter in the physical and digital world! Designing prints is something I have always wanted to do since forever. This particular design was a vision in my head for awhile so to finish it is an awesome feeling!</em></p><p><img class="size-full post__image" src="./_images/il-570xn-590488844-c82p.jpg" alt="Featured Etsy Shop: Design and Play on Katie Crafts; http://www.katiecrafts.com" width="570" height="570"></p><h2>Where do you find your creative inspiration?</h2><p><em>Where do I not find creative inspiration! Just today I was looking a child’s book and was inspired by fairy wings and cupcakes! I love textures, playing with colors and small details.</em></p><h2>How did you decide to open your Etsy shop?</h2><p><em>I had my first shop in 2006 sewing up strange plush animals that I adored making. From that shop came so many opportunities for me but I kept thinking about graphic design. After I closed down my first shop and took a break for awhile – I came back with a plan and a goal.</em></p><p><img class="size-full post__image" src="./_images/il-570xn-590810974-hgae.jpg" alt="Featured Etsy Shop: Design and Play on Katie Crafts; http://www.katiecrafts.com" width="570" height="570"></p><h2>Any advice for others who want to start their own Etsy shop, or who are looking to fulfill their passion for crafting?</h2><p><em>I have a lot of advice for those who want it! First and foremost – keep creating and put it out there to the world. Nobody will know what you are selling if it’s not listed! Don’t get discouraged if you haven’t made your first sale yet or sales are slow. Keep going!</em></p><p><img class="size-full post__image" src="./_images/il-570xn-588240136-pmga.jpg" alt="Featured Etsy Shop: Design and Play on Katie Crafts; http://www.katiecrafts.com" width="570" height="570"></p><p>After you check out her</p><a title="Design and Play on Etsy" href="https://www.etsy.com/shop/designandplay?ref=pr_shop_more" target="_blank" rel="noopener noreferrer">Etsy Shop</a><p>, be sure to check out Belle’s other social media sites, too!</p><p>Twitter:</p><a class="external-link-overlay-trigger overlay-trigger" title="Design and Play on Twitter" href="http://twitter.com/designandplay" target="_blank" rel="#external-link-overlay nofollow noopener noreferrer">twitter.com/designandplay</a><br><p>Pinterest:</p><a class="external-link-overlay-trigger overlay-trigger" title="Design and Play on Pinterest" href="http://www.pinterest.com/papergirlie/" target="_blank" rel="#external-link-overlay nofollow noopener noreferrer">www.pinterest.com/papergirlie/</a><p>Now for the Giveaway! This raffle is for</p><strong><p>one 8×10 print</p></strong><p>for you to give as a gift to your mom this Mother’s Day! It will run until</p><em><p>April 30th at 11:59 PM ET</p></em><p>, so the winner will have just enough time to receive the print before Mother’s Day weekend! The contest is</p><em><p>open to Canadian &#x26; US residents only.</p></em><p>Be sure to read the terms and conditions for more info! Good luck, everyone!!</p><br><a id="rc-64ecfa5" class="rafl" href="http://www.rafflecopter.com/rafl/display/64ecfa5/" rel="nofollow noopener noreferrer" target="_blank">a Rafflecopter giveaway</a><br>

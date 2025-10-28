@@ -1,0 +1,34 @@
+---
+layout: "~/layouts/Post.astro"
+title: "Husband’s Toolbox: Replacing a Macbook Pro Battery"
+slug: "husbands-toolbox-replacing-a-macbook-pro-battery"
+date: "20150306"
+publishedDate: "2015-03-06"
+excerpt: "Hey everyone, Husband here! Here’s a quick question for you: What’s worse than having a laptop battery that lasts for under an hour? Any takers? A DEAD laptop battery. That’s what. It just so happens the battery in Katie’s Macbook died a few weeks ago. I figured why not take some photos while I’m fixing […]"
+featuredImage:
+  src: "./_images/featured.jpg"
+  width: 1280
+  height: 483
+  alt: "How to Replace a Macbook Pro Battery on Katie Crafts; http://www.katiecrafts.com"
+categories:
+  - slug: "hodgepodge"
+    name: "Hodgepodge"
+tags:
+  - slug: "battery"
+    name: "battery"
+  - slug: "diy"
+    name: "diy"
+  - slug: "how-to"
+    name: "how to"
+  - slug: "husband"
+    name: "husband"
+  - slug: "husbands-toolbox"
+    name: "husband's toolbox"
+  - slug: "laptop"
+    name: "laptop"
+  - slug: "macbook"
+    name: "macbook"
+  - slug: "tutorial"
+    name: "tutorial"
+---
+<p>Hey everyone, Husband here! Here’s a quick question for you:</p><blockquote><p>What’s worse than having a laptop battery that lasts for under an hour?</p></blockquote><p>Any takers? A</p><strong><p>DEAD</p></strong><p>laptop battery. That’s what. It just so happens the battery in Katie’s Macbook died a few weeks ago. I figured why not take some photos while I’m fixing it and show you how to do it, too! Before we start, please read this quick disclaimer:</p><p><em><strong>Note:</strong></em></p><p><em>These instructions are given as-is for replacing a Macbook Pro battery. Please make sure you have some technical knowledge and experience with working with electronics before doing anything to your laptop. We’re not responsible for any issues that arise from following this tutorial. Also, if you have a Macbook, following these instructions will void your warranty. That said, if you’re comfortable with proceeding– onward!</em></p><h3>Step 1</h3><p>First we’ll start by taking out all of the screws from the back panel. Make sure the laptop is off and that it’s unplugged. You also might want to make sure something soft is under it, like a towel to prevent scratching. When taking them out, be extra careful that you remember where they go– we need to put them back in the same order later 🙂</p><h3>Step 2</h3><p>These are the tools that I use when taking apart our laptops. You can pick up this exact</p><a href="http://amzn.to/17Sjfnf" title="General Tools &#x26; Instruments 690 Mini Screwdriver Set, 10-Piece" target="_blank" rel="noopener noreferrer">set of screwdrivers</a><p>right on Amazon. They have a really neat handle design so that when you’re twisting the screwdriver with your fingers, the end will stay still on your palm.</p><h3>Step 3</h3><p>This is how I set the screws down while I’m working on everything. I don’t put them in anything as I’m quite careful, but you may want to use small bowls or something along those lines to keep track of them. Take special notice how the screws in the back are much longer than the others.</p><p><img class="size-full post__image" src="./_images/replace-macbook-pro-battery-004.jpg" alt="How to Replace a Macbook Pro Battery on Katie Crafts; http://www.katiecrafts.com" width="980" height="735"></p><h3>Step 4</h3><p>Once you have all the screws out, pry gently around the edge until the bottom pops off. The inside of your laptop should look something like this.</p><p><img class="size-full post__image" src="./_images/replace-macbook-pro-battery-005.jpg" alt="How to Replace a Macbook Pro Battery on Katie Crafts; http://www.katiecrafts.com" width="980" height="735"></p><h3>Step 5</h3><ol><li><p>Make sure you unplug the current battery, first. Make sure to touch some metal first to get rid of any static you may have built up. If you have an anti-static bracelet, even better.</p></li><li><p>Remove the screw holding the battery in place. Don’t break it like I did the first time time around!</p></li><li><p>Once the battery is unplugged and unscrewed, pull the tab to remove it from the laptop casing.</p></li></ol><p><img class="size-full post__image" src="./_images/replace-macbook-pro-battery-006.jpg" alt="How to Replace a Macbook Pro Battery on Katie Crafts; http://www.katiecrafts.com" width="980" height="735"></p><h3>Step 6</h3><p>Once you’re all finished, put the new battery in and screw it back in. Make sure to be careful not to over-tighten it, that’s how I broke it the first time. Then, plug it back in! Before putting the back cover back on, you may want to test to make sure the battery is charging, first– it will save you some time if you need to fiddle with anything.</p><p>All done! You’re now the proud owner of a laptop with a battery that can actually hold a charge! I’m happy to say that Katie’s laptop can now be used at the coffee shop for at least a few hours before needing to charge again. It feels great to be mobile again! Have you had any luck changing out yours or someone else’s battery? I’d love to hear about it in the comments.</p>

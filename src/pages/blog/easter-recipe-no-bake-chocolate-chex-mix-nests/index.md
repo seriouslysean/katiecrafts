@@ -1,0 +1,34 @@
+---
+layout: "~/layouts/Post.astro"
+title: "Easter Recipe: No-Bake Chocolate Chex Mix Nests"
+slug: "easter-recipe-no-bake-chocolate-chex-mix-nests"
+date: "20150402"
+publishedDate: "2015-04-02"
+excerpt: "Easter Recipe: No-Bake Chocolate Chex Mix Nests I’ve made little coconut nest cupcakes for Easter before, as well as chocolate covered Peeps, but this year I wanted to kind of combine the two! I found a super easy recipe for no-bake chocolate Chex Mix Popped nests on Betty Crocker and I knew I had to […]"
+featuredImage:
+  src: "./_images/featured.png"
+  width: 663
+  height: 250
+  alt: "No-Bake Chocolate Chex Mix Nests Recipe on Katie Crafts; http://www.katiecrafts.com"
+categories:
+  - slug: "cooks"
+    name: "Cooks"
+tags:
+  - slug: "betty-crocker"
+    name: "betty crocker"
+  - slug: "butterscotch"
+    name: "butterscotch"
+  - slug: "chex-mix"
+    name: "chex mix"
+  - slug: "chocolate"
+    name: "chocolate"
+  - slug: "dessert"
+    name: "dessert"
+  - slug: "easter"
+    name: "easter"
+  - slug: "no-bake"
+    name: "no-bake"
+  - slug: "recipe"
+    name: "recipe"
+---
+<p>I’ve made little</p><a title="Easter Recipe: Bird’s Nest Cupcakes" href="/easter-recipe-birds-nest-cupcakes/"><em><p>coconut nest cupcakes</p></em></a><p>for Easter before, as well as</p><a title="Chocolate Covered Easter Peeps" href="/chocolate-covered-easter-peeps/"><em><p>chocolate covered Peeps</p></em></a><p>, but this year I wanted to kind of combine the two! I found a super easy recipe for no-bake chocolate Chex Mix Popped nests on Betty Crocker and I knew I had to give it a try.</p><p>The best part of this recipe is that it can be made in advance. I made them yesterday and as long as they stay in the fridge, they’ll be just perfect on Easter Sunday. The one I photographed wasn’t the best looking of the bunch by far, but I didn’t want to disturb any of the ones I’d actually be serving on Sunday. They are chocolate, after all, and melt when you touch them! They were kind of messy to make, but that makes them fun- and a good treat for kids to help make, too! Plus, they are DELICIOUS!</p><p>Here is the</p><a title="No-Bake Chocolate Chex Mix Popped Nests on Betty Crocker" href="http://www.bettycrocker.com/recipes/no-bake-chocolate-chex-mix-popped-nests/132a1476-d25f-4c67-a96e-efb1f67e68a3" target="_blank" rel="noopener noreferrer"><em><p>original recipe from Betty Crocker,</p></em></a><p>but I slightly changed the ingredient portions and way I made them, so I’ve included my own ingredients/instructions below. Enjoy!</p><p><em>Prep: 20 minutes; Set: 1 hour; Serves: 15</em></p><h2>Ingredients:</h2><ul><li><p>3/4 cup semi-sweet chocolate chips*</p></li><li><p>3/4 cup butterscotch chips*</p></li><li><p>1 bag (9 oz) of Chex Mix™ Popped Sweet &#x26; Salty snack mix</p></li><li><p>jelly beans or M&#x26;M’s</p></li></ul><p>*I used more than the original recipe and it STILL could have used a little more to stick together. 3/4 cup of each is the minimum I’d use!</p><h2>Instructions:</h2><ul><li><p>Over VERY LOW HEAT, melt the chocolate chips and butterscotch chips, stirring with a silicon spatula constantly until ALMOST totally melted. When it’s almost finished, remove from heat and stir until the rest of it is melted. This way, it won’t burn. 🙂</p></li><li><p>Line a cupcake tin with paper cupcake liners.</p></li><li><p>Use a spoon to fill each cupcake liner, building up the sides to make a nest. Use your (clean) fingers to help!</p></li><li><p>Stick in the fridge for an hour to let them set up, and add jelly beans or M&#x26;M’s to be your “eggs”</p></li><li><p>Right before serving, peel them out of the liners.</p></li><li><p>Serve cold-ish, before they melt. Enjoy!</p></li></ul><p>Isn’t their original photo (below) a billion times better? Haha!</p><p>Have you made these before? What other treats do you like for Easter?</p>
