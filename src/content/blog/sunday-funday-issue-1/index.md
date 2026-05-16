@@ -84,19 +84,19 @@ Included before every chapter of this book is a delicious recipe! I’ll certain
 
 ## Place I Love: Plenty Café!
 
-[](http://www.plentyphiladelphia.com/ "Plenty Cafe Philadelphia")
+[](http://web.archive.org/web/20250426230942/https://www.plentyphiladelphia.com/ "Plenty Cafe Philadelphia")
 
-[**Plenty**](http://www.plentyphiladelphia.com/ "Plenty Cafe Philadelphia")
+[**Plenty**](http://web.archive.org/web/20250426230942/https://www.plentyphiladelphia.com/ "Plenty Cafe Philadelphia")
 
 is my absolute favorite coffee shop here in Rittenhouse, and conveniently only a block away. The Husband (in the black coat standing at the counter!) and I are obsessed and go there many, many times a week. Sometimes we bring along our books to read or our laptops to work. It’s lovely.
 
-[![Plenty Café, Rittenhouse](./img-0433.jpg)](http://www.plentyphiladelphia.com/)
+[![Plenty Café, Rittenhouse](./img-0433.jpg)](http://web.archive.org/web/20250426230942/https://www.plentyphiladelphia.com/)
 
 ## Something Delicious: Café Mocha & Lemon Macaron!
 
-[](http://www.plentyphiladelphia.com/ "Plenty Cafe Philadelphia")
+[](http://web.archive.org/web/20250426230942/https://www.plentyphiladelphia.com/ "Plenty Cafe Philadelphia")
 
-[**Plenty**](http://www.plentyphiladelphia.com/ "Plenty Cafe Philadelphia")
+[**Plenty**](http://web.archive.org/web/20250426230942/https://www.plentyphiladelphia.com/ "Plenty Cafe Philadelphia")
 
 (in addition to amazing food and being one of my favorite places to visit) has the best café mocha
 

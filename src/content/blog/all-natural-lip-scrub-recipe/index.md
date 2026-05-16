@@ -58,7 +58,7 @@ I used was light brown because that’s what I had on hand. You can use dark bro
 
 The second ingredient is honey. I use local honey from
 
-[**Tassot Apiaries, Inc.**](http://www.tassotapiaries.com/ "Tassot Apiaries, Inc.")
+[**Tassot Apiaries, Inc.**](http://web.archive.org/web/20260310095805/https://tassotapiaries.com/ "Tassot Apiaries, Inc.")
 
 that I buy from a vendor in
 

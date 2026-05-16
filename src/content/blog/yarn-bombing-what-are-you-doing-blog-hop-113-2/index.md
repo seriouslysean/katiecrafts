@@ -73,8 +73,6 @@ shared a great post on challenging yourself on the changes you make in your life
 
 <http://contentemeant.blogspot.com/2015/8/what-are-you-doing-blog-hop-113.html”>
 
-<http://1.bp.blogspot.com/-fCYgXzygf4c/UZ-ThPpFezI/AAAAAAAABPs/Sf2bHKunHp4/s1600/CMfeatured150.png”/>
-
 Don’t forget to check out the other blogs from last week!
 
 ### What have I been doing?
@@ -124,8 +122,6 @@ Grab a Button!
 ![Content in the Meantime](./wayd.png)
 
 <http://contentemeant.blogspot.com/search/label/WAYD%3F%20Wednesdays”>
-
-<http://2.bp.blogspot.com/-gRssF1YfMEY/UYE9isaUrdI/AAAAAAAAA6A/VdB8zWR6_-o/s320/WAYD.png”/>
 
 Follow Content in the Meantime for future blog hops!
 

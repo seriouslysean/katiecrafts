@@ -81,7 +81,7 @@ because it’s no sew, but uses a few of my favorite craft supplies at once.
 
 I really want to get organized this year, so one of the projects I want to tackle is craft storage! My craft closet is screaming for a makeover (a.k.a. everything is falling off the shelves and I can’t find anything at all!) so when I saw a great (and organized!) craft closet on
 
-**[Eclectically Vintage](http://eclecticallyvintage.com/2014/01/craft-supply-organization-tips-chalkboard-labels/?crlt.pid=camp.nzsSHFUuQBPK)**
+**[Eclectically Vintage](http://web.archive.org/web/20160925233238/http://eclecticallyvintage.com/2014/01/craft-supply-organization-tips-chalkboard-labels/)**
 
 , I was inspired! Half my battle with my closet is the horribly old bi-fold door. It’s constantly falling out of the tracks and making it impossible to open all the way and get to anything. If I replace it with a curtain rod and some pretty DIY curtains, it may make things a bit easier! Then I can use a ton of labeled storage containers like in the photo and have something much more manageable!
 

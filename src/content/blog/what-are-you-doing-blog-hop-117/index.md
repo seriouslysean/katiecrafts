@@ -122,8 +122,6 @@ Katie’s Post:
 
 <http://contentemeant.blogspot.com/search/label/WAYD%3F%20Wednesdays”>
 
-<http://2.bp.blogspot.com/-gRssF1YfMEY/UYE9isaUrdI/AAAAAAAAA6A/VdB8zWR6_-o/s320/WAYD.png”/>
-
 **Follow Content in the Meantime for future blog hops!**
 
 [![](./google.png)](https://plus.google.com/u/0/102082303564323150341/ "Google +")[![](./facebook.png)](http://www.facebook.com/contentinthemeantime "Facebook")[![](./pinterest.png)](http://www.pinterest.com/saracraft "Pinterest")[![](./twitter.png)](http://www.twitter.com/contentemeant "Twitter")[![](./instagram.png)](http://www.instagram.com/silvercchile "Instagram")[![](./bloglovin.png)](http://www.bloglovin.com/blog/4903715 "BlogLovin")[![](./etsy.png)](http://www.etsy.com/shop/HandCraftLove "Etsy")
