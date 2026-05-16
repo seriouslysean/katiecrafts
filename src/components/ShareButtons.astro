@@ -1,0 +1,46 @@
+---
+interface Props {
+  title: string;
+  url: string;
+}
+
+const { title, url } = Astro.props;
+const encodedUrl = encodeURIComponent(url);
+const encodedTitle = encodeURIComponent(title);
+
+const links = [
+  {
+    label: 'Share on Facebook',
+    href: `https://www.facebook.com/sharer/sharer.php?u=${encodedUrl}`,
+  },
+  {
+    label: 'Share on X',
+    href: `https://twitter.com/intent/tweet?url=${encodedUrl}&text=${encodedTitle}`,
+  },
+  {
+    label: 'Share on Pinterest',
+    href: `https://pinterest.com/pin/create/button/?url=${encodedUrl}&description=${encodedTitle}`,
+  },
+  {
+    label: 'Share on Reddit',
+    href: `https://www.reddit.com/submit?url=${encodedUrl}&title=${encodedTitle}`,
+  },
+  {
+    label: 'Share via Email',
+    href: `mailto:?subject=${encodedTitle}&body=${encodedUrl}`,
+  },
+];
+---
+
+<div class="share" aria-label="Share this post">
+  <span class="share__label">Share</span>
+  <ul class="share__list">
+    {links.map(link => (
+      <li>
+        <a class="share__link" href={link.href} target="_blank" rel="noopener noreferrer">
+          {link.label}
+        </a>
+      </li>
+    ))}
+  </ul>
+</div>

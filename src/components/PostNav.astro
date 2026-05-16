@@ -1,0 +1,27 @@
+---
+import type { BlogEntry } from '~utils/taxonomy';
+
+interface Props {
+  prev?: BlogEntry;
+  next?: BlogEntry;
+}
+
+const { prev, next } = Astro.props;
+---
+
+{(prev || next) ? (
+  <nav class="post-nav" aria-label="More posts">
+    {prev ? (
+      <a class="post-nav__link post-nav__link--prev" href={`/blog/${prev.id}/`}>
+        <span class="post-nav__direction">← Older</span>
+        <span class="post-nav__title">{prev.data.title}</span>
+      </a>
+    ) : <span class="post-nav__placeholder" />}
+    {next ? (
+      <a class="post-nav__link post-nav__link--next" href={`/blog/${next.id}/`}>
+        <span class="post-nav__direction">Newer →</span>
+        <span class="post-nav__title">{next.data.title}</span>
+      </a>
+    ) : <span class="post-nav__placeholder" />}
+  </nav>
+) : null}

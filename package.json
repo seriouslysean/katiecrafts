@@ -24,14 +24,17 @@
     "tool:import-wordpress": "tsx tools/import-wordpress.ts",
     "tool:cleanup-posts": "tsx tools/cleanup-posts.ts",
     "tool:export-posts": "tsx tools/export-posts.ts",
+    "new-post": "tsx tools/new-post.ts",
     "lint": "oxlint . --ignore-path .oxlintignore",
     "lint:fix": "oxlint . --fix --ignore-path .oxlintignore",
     "typecheck": "tsc --noEmit"
   },
   "dependencies": {
+    "@astrojs/rss": "^4.0.18",
     "@astrojs/sitemap": "3.7.2",
     "astro": "^6.3.3",
     "entities": "^8.0.0",
+    "minisearch": "^7.2.0",
     "sharp": "^0.34.5"
   },
   "devDependencies": {
