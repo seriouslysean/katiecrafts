@@ -21,7 +21,52 @@ import { decode } from 'entities';
 import { parse, HTMLElement, TextNode } from 'node-html-parser';
 import yargs from 'yargs';
 import { hideBin } from 'yargs/helpers';
-import type { WordPressPost, PostData, FeaturedImageMeta } from '~types/post';
+
+interface FeaturedImageMeta {
+  src: string;
+  width?: number;
+  height?: number;
+  alt?: string;
+}
+
+interface PostData {
+  title: string;
+  slug: string;
+  date: string;
+  publishedDate: string;
+  excerpt?: string;
+  content: string;
+  featuredImage?: FeaturedImageMeta;
+  categories: { id: number; name: string; slug: string }[];
+  tags: { id: number; name: string; slug: string }[];
+}
+
+interface WordPressPost {
+  id: number;
+  date: string;
+  slug: string;
+  title: { rendered: string };
+  content: { rendered: string };
+  excerpt: { rendered: string };
+  featured_media: number;
+  categories: number[];
+  tags: number[];
+  _embedded?: {
+    'wp:featuredmedia'?: Array<{
+      source_url: string;
+      media_details: {
+        sizes: {
+          full?: { source_url: string; width: number; height: number };
+          [key: string]: { source_url: string; width: number; height: number } | undefined;
+        };
+        width?: number;
+        height?: number;
+      };
+      alt_text?: string;
+    }>;
+    'wp:term'?: Array<Array<{ id: number; name: string; slug: string }>>;
+  };
+}
 
 // Configuration
 const SITE_ORIGIN = 'https://www.katiecrafts.com';
@@ -29,12 +74,10 @@ const WP_API_BASE = `${SITE_ORIGIN}/wp-json/wp/v2`;
 const POSTS_PER_PAGE = 6;
 const DATA_DIR = path.join(process.cwd(), 'data');
 const POSTS_BASE_DIR = path.join(DATA_DIR, 'posts');
-const BLOG_PAGES_DIR = path.join(process.cwd(), 'src', 'pages', 'blog');
 const MANIFEST_FILE = path.join(DATA_DIR, 'import-manifest.json');
 const MAX_RETRIES = 3;
 const RETRY_DELAY = 2000; // ms
 const INTERNAL_HOSTNAMES = new Set(['www.katiecrafts.com', 'katiecrafts.com']);
-const WORDPRESS_CDN_HOSTS = new Set(['i0.wp.com', 'i1.wp.com', 'i2.wp.com', 'i3.wp.com']);
 
 function normalizeWordPressImageUrl(url: URL): URL {
   const normalized = new URL(url.href);
@@ -186,7 +229,6 @@ async function saveManifest(manifest: ImportManifest): Promise<void> {
 async function ensureDirectories(): Promise<void> {
   if (argv.dryRun) return;
   await fs.mkdir(POSTS_BASE_DIR, { recursive: true });
-  await fs.mkdir(BLOG_PAGES_DIR, { recursive: true });
 }
 
 function preprocessHtml(html: string): string {
@@ -538,92 +580,6 @@ function transformExcerpt(html: string): string {
   return decode(root.toString());
 }
 
-async function copyImagesToBlog(sourceDir: string, targetDir: string) {
-  const entries = await fs.readdir(sourceDir).catch(() => []);
-
-  if (!entries.length) {
-    await fs.rm(targetDir, { recursive: true, force: true });
-    return;
-  }
-
-  await fs.mkdir(targetDir, { recursive: true });
-
-  for (const entry of entries) {
-    const sourcePath = path.join(sourceDir, entry);
-    const stats = await fs.stat(sourcePath);
-    if (!stats.isFile()) continue;
-    const destinationPath = path.join(targetDir, entry);
-    await fs.copyFile(sourcePath, destinationPath);
-  }
-}
-
-async function writeMarkdown(postData: PostData, blogDir: string) {
-  await fs.mkdir(blogDir, { recursive: true });
-  const document = buildMarkdownDocument(postData);
-  await fs.writeFile(path.join(blogDir, 'index.md'), document, 'utf8');
-}
-
-function buildMarkdownDocument(post: PostData): string {
-  const lines: string[] = ['---'];
-  lines.push(`layout: "~/layouts/Post.astro"`);
-  lines.push(`title: ${JSON.stringify(post.title)}`);
-  lines.push(`slug: ${JSON.stringify(post.slug)}`);
-  lines.push(`date: ${JSON.stringify(post.date)}`);
-  lines.push(`publishedDate: ${JSON.stringify(post.publishedDate)}`);
-
-  if (post.excerpt) {
-    const excerpt = cleanExcerpt(post.excerpt);
-    if (excerpt) lines.push(`excerpt: ${JSON.stringify(excerpt)}`);
-  }
-
-  if (post.featuredImage) {
-    lines.push('featuredImage:');
-    lines.push(`  src: ${JSON.stringify(post.featuredImage.src)}`);
-    if (typeof post.featuredImage.width === 'number') {
-      lines.push(`  width: ${post.featuredImage.width}`);
-    }
-    if (typeof post.featuredImage.height === 'number') {
-      lines.push(`  height: ${post.featuredImage.height}`);
-    }
-    if (post.featuredImage.alt) {
-      lines.push(`  alt: ${JSON.stringify(post.featuredImage.alt)}`);
-    }
-  }
-
-  if (post.categories?.length) {
-    lines.push('categories:');
-    post.categories.forEach(category => {
-      lines.push('  - slug: ' + JSON.stringify(category.slug));
-      lines.push('    name: ' + JSON.stringify(category.name));
-    });
-  } else {
-    lines.push('categories: []');
-  }
-
-  if (post.tags?.length) {
-    lines.push('tags:');
-    post.tags.forEach(tag => {
-      lines.push('  - slug: ' + JSON.stringify(tag.slug));
-      lines.push('    name: ' + JSON.stringify(tag.name));
-    });
-  } else {
-    lines.push('tags: []');
-  }
-
-  lines.push('---');
-
-  const frontmatter = lines.join('\n');
-  const body = post.content.trim();
-
-  return `${frontmatter}\n\n${body}\n`;
-}
-
-function cleanExcerpt(html: string | undefined): string | undefined {
-  if (!html) return undefined;
-  const text = html.replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ').trim();
-  return text.length ? text : undefined;
-}
-
 // Download image with retry
 async function downloadImage(url: string, filepath: string, suppressError = false): Promise<boolean> {
   try {
@@ -694,14 +650,10 @@ async function processPost(post: WordPressPost, manifest: ImportManifest): Promi
   // Prepare directories for this post
   const postDir = path.join(POSTS_BASE_DIR, slug);
   const postImageDataDir = path.join(postDir, 'images');
-  const blogPostDir = path.join(BLOG_PAGES_DIR, slug);
-  const blogImagesDir = path.join(blogPostDir, '_images');
   if (!argv.dryRun) {
     await fs.rm(postDir, { recursive: true, force: true });
-    await fs.rm(blogPostDir, { recursive: true, force: true });
     await fs.mkdir(postDir, { recursive: true });
     await fs.mkdir(postImageDataDir, { recursive: true });
-    await fs.mkdir(blogImagesDir, { recursive: true });
   }
 
   // Download featured image
@@ -795,14 +747,12 @@ async function processPost(post: WordPressPost, manifest: ImportManifest): Promi
   if (!argv.dryRun) {
     await fs.writeFile(path.join(postDir, 'wordpress.json'), JSON.stringify(post, null, 2));
     await fs.writeFile(path.join(postDir, 'post.json'), JSON.stringify(postData, null, 2));
-    await copyImagesToBlog(postImageDataDir, blogImagesDir);
-    await writeMarkdown(postData, blogPostDir);
     if (!manifest.importedPosts.includes(slug)) {
       manifest.importedPosts.push(slug);
     }
   }
 
-  console.log(`    ✅ Generated markdown: src/pages/blog/${slug}/index.md`);
+  console.log(`    ✅ Stored data/posts/${slug}/post.json`);
   return true;
 }
 

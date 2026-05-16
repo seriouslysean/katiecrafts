@@ -1,14 +1,15 @@
 ---
+import { getCollection } from 'astro:content';
 import Layout from '~layouts/Layout.astro';
 import PostCard from '~components/PostCard.astro';
 import SectionHero from '~components/SectionHero.astro';
-import { getAllPosts, HOME_POSTS_LIMIT, getCategorySummaries, getPostFeaturedImage } from '~utils/posts';
+import { sortByPublishedDate, getCategorySummaries } from '~utils/taxonomy';
+import { HOME_POSTS_LIMIT } from '~utils/pagination';
 
-const posts = await getAllPosts();
+const posts = sortByPublishedDate(await getCollection('blog'));
 const featuredPosts = posts.slice(0, HOME_POSTS_LIMIT);
 const categories = getCategorySummaries(posts).slice(0, 6);
 const primaryFeatured = featuredPosts[0];
-const primaryImage = primaryFeatured ? getPostFeaturedImage(primaryFeatured) : undefined;
 const primaryTitle = primaryFeatured?.data.title;
 ---
 
@@ -16,10 +17,7 @@ const primaryTitle = primaryFeatured?.data.title;
   title="Katie Crafts | Handmade Inspiration, DIY Projects, and Creative Living"
   description="Explore Katie Crafts for handmade projects, recipes, and inspiration from Katie's creative world."
   canonical="/"
-  image={primaryImage?.src}
-  imageAlt={primaryImage?.alt ?? primaryTitle}
-  imageWidth={primaryImage?.width}
-  imageHeight={primaryImage?.height}
+  imageAlt={primaryTitle}
 >
   <SectionHero title="Handmade goodness from Katie Crafts">
     <p class="hero__subtitle">

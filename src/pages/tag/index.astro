@@ -1,9 +1,10 @@
 ---
+import { getCollection } from 'astro:content';
 import Layout from '~layouts/Layout.astro';
 import SectionHero from '~components/SectionHero.astro';
-import { getAllPosts, getTagSummaries } from '~utils/posts';
+import { getTagSummaries } from '~utils/taxonomy';
 
-const posts = await getAllPosts();
+const posts = await getCollection('blog');
 const tags = getTagSummaries(posts);
 ---
 

@@ -1,14 +1,15 @@
 ---
+import { getCollection } from 'astro:content';
 import Layout from '~layouts/Layout.astro';
 import PostCard from '~components/PostCard.astro';
 import Paginator from '~components/Paginator.astro';
-import { getAllPosts, paginatePosts, POSTS_PER_PAGE } from '~utils/posts';
+import { sortByPublishedDate } from '~utils/taxonomy';
+import { paginatePosts, POSTS_PER_PAGE } from '~utils/pagination';
 
-const posts = await getAllPosts();
+const posts = sortByPublishedDate(await getCollection('blog'));
 const currentPage = 1;
 const { posts: pagePosts, totalPages } = paginatePosts(posts, currentPage, POSTS_PER_PAGE);
 const leadPost = pagePosts[0];
-const leadImage = leadPost?.data.featuredImage;
 const leadTitle = leadPost?.data.title;
 const makeHref = (page: number) => (page === 1 ? '/blog/' : `/blog/page/${page}/`);
 ---
@@ -17,10 +18,7 @@ const makeHref = (page: number) => (page === 1 ? '/blog/' : `/blog/page/${page}/
   title="Blog | Katie Crafts"
   description="Discover creative DIY projects, crafts, and inspiration from Katie Crafts."
   canonical="/blog/"
-  image={leadImage?.src}
-  imageAlt={leadImage?.alt ?? leadTitle}
-  imageWidth={leadImage?.width}
-  imageHeight={leadImage?.height}
+  imageAlt={leadTitle}
 >
   <section class="listing">
     <h1 class="listing__title">Latest Posts</h1>

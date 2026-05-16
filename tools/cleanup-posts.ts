@@ -163,7 +163,7 @@ function cleanupPlugin(options: Options) {
   return (tree: Root) => {
     normalizeTextNodes(tree);
     unwrapRedundantDivs(tree);
-    sanitizeElements(tree, options);
+    sanitizeElements(tree);
     transformCaptions(tree, options);
     flattenTables(tree);
     flattenDefinitionLists(tree);
@@ -206,7 +206,7 @@ function unwrapRedundantDivs(tree: Root | { type: 'root'; children: ElementConte
   });
 }
 
-function sanitizeElements(tree: Root, options: Options) {
+function sanitizeElements(tree: Root) {
   visit(tree, 'element', (node: Element) => {
     const properties = (node.properties ??= {});
     if (properties.style) {

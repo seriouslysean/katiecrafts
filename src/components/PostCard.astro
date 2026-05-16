@@ -1,29 +1,27 @@
 ---
-import type { PostEntry } from '~utils/posts';
-import { getPostSlug, getPostUrl, getPostFeaturedImage } from '~utils/posts';
+import { Image } from 'astro:assets';
+import type { BlogEntry } from '~utils/taxonomy';
 
 interface Props {
-  post: PostEntry;
+  post: BlogEntry;
 }
 
 const { post } = Astro.props;
-const { title, excerpt, categories } = post.data;
-const slug = getPostSlug(post);
-const postUrl = getPostUrl(post);
+const { title, excerpt, categories, featuredImage } = post.data;
+const postUrl = `/blog/${post.id}/`;
 const previewText = excerpt ?? '';
 const primaryCategories = categories.slice(0, 2);
-const cardImage = getPostFeaturedImage(post);
 ---
 
 <article class="post-card">
   <a class="post-card__link" href={postUrl} aria-label={`Read more about ${title}`}>
-    {cardImage ? (
+    {featuredImage ? (
       <div class="post-card__image">
-        <img
-          src={cardImage.src}
-          alt={cardImage.alt ?? title}
-          width={cardImage.width}
-          height={cardImage.height}
+        <Image
+          src={featuredImage.src}
+          alt={featuredImage.alt ?? title}
+          widths={[320, 640, 960]}
+          sizes="(min-width: 720px) 33vw, 100vw"
           loading="lazy"
           decoding="async"
         />
