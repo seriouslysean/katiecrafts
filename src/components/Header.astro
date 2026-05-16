@@ -18,3 +18,46 @@ import Search from '~components/Search.astro';
     </div>
     <Search />
 </header>
+
+<style>
+  .header {
+    position: relative;
+    padding: clamp(1.5rem, 3vw + 1rem, 3rem) 0;
+  }
+
+  .header__logo {
+    margin-inline: auto;
+    text-align: center;
+    width: min(37.5rem, 100%);
+  }
+
+  .header__logo :global(img) {
+    display: block;
+    width: 100%;
+    height: auto;
+  }
+
+  .header :global(a:not(.header__logo a)) {
+    color: var(--color-accent);
+    text-decoration: none;
+    position: relative;
+  }
+
+  .header :global(a:not(.header__logo a))::after {
+    content: '';
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: -0.25rem;
+    height: 2px;
+    background: currentColor;
+    transform: scaleX(0);
+    transform-origin: center;
+    transition: transform 0.2s ease;
+  }
+
+  .header :global(a:not(.header__logo a):hover)::after,
+  .header :global(a:not(.header__logo a):focus-visible)::after {
+    transform: scaleX(1);
+  }
+</style>
