@@ -1,10 +1,10 @@
 ---
+import { getCollection } from 'astro:content';
 import Layout from '~layouts/Layout.astro';
 import SectionHero from '~components/SectionHero.astro';
-import { getAllPosts, getCategorySummaries, getPostSlug } from '~utils/posts';
+import { sortByPublishedDate, getCategorySummaries } from '~utils/taxonomy';
 
-const ETSY_URL = 'https://www.etsy.com/shop/katiecrafts';
-const posts = await getAllPosts();
+const posts = sortByPublishedDate(await getCollection('blog'));
 const recentPosts = posts.slice(0, 3);
 const categories = getCategorySummaries(posts);
 ---
@@ -34,7 +34,7 @@ const categories = getCategorySummaries(posts);
           <ul>
             {recentPosts.map(item => (
               <li>
-                <a href={`/blog/${getPostSlug(item)}/`}>{item.data.title}</a>
+                <a href={`/blog/${item.id}/`}>{item.data.title}</a>
               </li>
             ))}
           </ul>

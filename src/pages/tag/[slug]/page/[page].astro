@@ -1,30 +1,28 @@
 ---
+import { getCollection } from 'astro:content';
 import Layout from '~layouts/Layout.astro';
 import PostCard from '~components/PostCard.astro';
 import SectionHero from '~components/SectionHero.astro';
 import Paginator from '~components/Paginator.astro';
 import {
-  getAllPosts,
   getTagSummaries,
   getPostsByTag,
-  paginatePosts,
-  POSTS_PER_PAGE,
-  getPostFeaturedImage,
-} from '~utils/posts';
+  type BlogEntry,
+} from '~utils/taxonomy';
+import { paginatePosts, POSTS_PER_PAGE } from '~utils/pagination';
 
 interface Props {
   slug: string;
   name: string;
-  posts: Awaited<ReturnType<typeof getPostsByTag>>;
+  posts: BlogEntry[];
   pageNumber: number;
   totalPages: number;
   totalCount: number;
 }
 
 export async function getStaticPaths() {
-  const posts = await getAllPosts();
+  const posts = await getCollection('blog');
   const tags = getTagSummaries(posts);
-
   const paths = [];
 
   for (const tag of tags) {
@@ -52,11 +50,10 @@ export async function getStaticPaths() {
 
 const { slug, name, posts, pageNumber, totalPages, totalCount } = Astro.props as Props;
 const canonicalPath = `/tag/${slug}/page/${pageNumber}/`;
-const title = `${name} – Page ${pageNumber} | Katie Crafts`;
+const title = `Posts tagged ${name} – Page ${pageNumber} | Katie Crafts`;
 const description = `Posts tagged ${name} on Katie Crafts (page ${pageNumber}).`;
 const countLabel = `${totalCount} ${totalCount === 1 ? 'post' : 'posts'}`;
 const leadPost = posts[0];
-const leadImage = leadPost ? getPostFeaturedImage(leadPost) : undefined;
 const leadTitle = leadPost?.data.title;
 const makeHref = (page: number) => (page === 1 ? `/tag/${slug}/` : `/tag/${slug}/page/${page}/`);
 ---
@@ -65,10 +62,7 @@ const makeHref = (page: number) => (page === 1 ? `/tag/${slug}/` : `/tag/${slug}
   title={title}
   description={description}
   canonical={canonicalPath}
-  image={leadImage?.src}
-  imageAlt={leadImage?.alt ?? leadTitle}
-  imageWidth={leadImage?.width}
-  imageHeight={leadImage?.height}
+  imageAlt={leadTitle}
 >
   <SectionHero
     title={`Tag: ${name}`}

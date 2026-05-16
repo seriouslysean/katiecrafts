@@ -1,0 +1,113 @@
+---
+import { getCollection, render } from 'astro:content';
+import { Image } from 'astro:assets';
+import Layout from '~layouts/Layout.astro';
+import { sortByPublishedDate, type BlogEntry } from '~utils/taxonomy';
+import { formatPublishedDate } from '~utils/pagination';
+
+interface Props {
+  post: BlogEntry;
+  prev?: BlogEntry;
+  next?: BlogEntry;
+}
+
+export async function getStaticPaths() {
+  const posts = sortByPublishedDate(await getCollection('blog'));
+  return posts.map((post, i) => ({
+    params: { slug: post.id },
+    props: {
+      post,
+      prev: posts[i + 1],
+      next: posts[i - 1],
+    },
+  }));
+}
+
+const { post } = Astro.props as Props;
+const { Content } = await render(post);
+
+const { title, publishedDate, categories, tags, excerpt, featuredImage } = post.data;
+const slug = post.id;
+const publishedIso = publishedDate ? new Date(`${publishedDate}T00:00:00Z`).toISOString() : undefined;
+const formattedDate = formatPublishedDate(publishedDate);
+const description = excerpt?.trim() || 'Katie Crafts blog post';
+const canonical = `/blog/${slug}/`;
+---
+
+<Layout
+  title={`${title} | Katie Crafts`}
+  description={description}
+  canonical={canonical}
+  isArticle
+  publishedTime={publishedIso}
+  modifiedTime={publishedIso}
+  section={categories[0]?.name}
+  tags={tags.map(tag => tag.name)}
+>
+  <article class="post">
+    <header class="post__header">
+      <p class="post__meta">
+        {formattedDate ? <time dateTime={publishedIso}>{formattedDate}</time> : null}
+        <span aria-hidden="true"> · </span>
+        <span class="post__byline">By Katie</span>
+        {categories.length ? (
+          <span class="post__meta-categories">
+            <span aria-hidden="true"> · </span>
+            {categories.map((category, idx) => (
+              <>
+                {idx > 0 ? ', ' : null}
+                <a href={`/category/${category.slug}/`}>{category.name}</a>
+              </>
+            ))}
+          </span>
+        ) : null}
+      </p>
+      <h1 class="post__title">{title}</h1>
+    </header>
+
+    {featuredImage ? (
+      <figure class="post__featured">
+        <Image
+          src={featuredImage.src}
+          alt={featuredImage.alt ?? title}
+          widths={[480, 960, 1440]}
+          sizes="(min-width: 960px) 960px, 100vw"
+          loading="eager"
+          fetchpriority="high"
+          decoding="async"
+        />
+      </figure>
+    ) : null}
+
+    <div class="post__content">
+      <Content />
+    </div>
+
+    {(categories.length || tags.length) ? (
+      <footer class="post__footer">
+        {categories.length ? (
+          <p class="post__taxonomy">
+            <strong>Categories:</strong>{' '}
+            {categories.map((category, idx) => (
+              <>
+                {idx > 0 ? ', ' : null}
+                <a href={`/category/${category.slug}/`}>{category.name}</a>
+              </>
+            ))}
+          </p>
+        ) : null}
+        {tags.length ? (
+          <p class="post__taxonomy">
+            <strong>Tags:</strong>{' '}
+            {tags.map((tag, idx) => (
+              <>
+                {idx > 0 ? ', ' : null}
+                <a href={`/tag/${tag.slug}/`}>{tag.name}</a>
+              </>
+            ))}
+          </p>
+        ) : null}
+      </footer>
+    ) : null}
+  </article>
+</Layout>

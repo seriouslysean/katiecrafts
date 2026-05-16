@@ -1,28 +1,27 @@
 ---
+import { getCollection } from 'astro:content';
 import Layout from '~layouts/Layout.astro';
 import PostCard from '~components/PostCard.astro';
 import SectionHero from '~components/SectionHero.astro';
 import Paginator from '~components/Paginator.astro';
 import {
-  getAllPosts,
   getCategorySummaries,
   getPostsByCategory,
-  paginatePosts,
-  POSTS_PER_PAGE,
-  getPostFeaturedImage,
-} from '~utils/posts';
+  type BlogEntry,
+} from '~utils/taxonomy';
+import { paginatePosts, POSTS_PER_PAGE } from '~utils/pagination';
 
 interface Props {
   slug: string;
   name: string;
-  posts: Awaited<ReturnType<typeof getPostsByCategory>>;
+  posts: BlogEntry[];
   pageNumber: number;
   totalPages: number;
   totalCount: number;
 }
 
 export async function getStaticPaths() {
-  const posts = await getAllPosts();
+  const posts = await getCollection('blog');
   const categories = getCategorySummaries(posts);
 
   return categories.map(category => {
@@ -50,7 +49,6 @@ const title = `${name} | Katie Crafts`;
 const description = `Posts filed under ${name} on Katie Crafts.`;
 const countLabel = `${totalCount} ${totalCount === 1 ? 'post' : 'posts'}`;
 const leadPost = posts[0];
-const leadImage = leadPost ? getPostFeaturedImage(leadPost) : undefined;
 const leadTitle = leadPost?.data.title;
 const makeHref = (page: number) => (page === 1 ? `/category/${slug}/` : `/category/${slug}/page/${page}/`);
 ---
@@ -59,10 +57,7 @@ const makeHref = (page: number) => (page === 1 ? `/category/${slug}/` : `/catego
   title={title}
   description={description}
   canonical={canonicalPath}
-  image={leadImage?.src}
-  imageAlt={leadImage?.alt ?? leadTitle}
-  imageWidth={leadImage?.width}
-  imageHeight={leadImage?.height}
+  imageAlt={leadTitle}
 >
   <SectionHero title={`Category: ${name}`} subtitle={countLabel} />
 

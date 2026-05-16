@@ -8,7 +8,6 @@
       "~utils/*": ["./src/utils/*"],
       "~styles/*": ["./src/styles/*"],
       "~data/*": ["./data/*"],
-      "~types/*": ["./types/*"],
       "~tools/*": ["./tools/*"]
     }
   },
