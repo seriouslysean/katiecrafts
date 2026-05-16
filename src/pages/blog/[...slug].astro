@@ -50,7 +50,7 @@ const shareUrl = Astro.site ? new URL(canonical, Astro.site).href : canonical;
   <article class="post">
     <header class="post__header">
       <p class="post__meta">
-        {formattedDate ? <time dateTime={publishedIso}>{formattedDate}</time> : null}
+        {formattedDate ? <time datetime={publishedIso}>{formattedDate}</time> : null}
         <span aria-hidden="true"> · </span>
         <span class="post__byline">By Katie</span>
         {categories.length ? (

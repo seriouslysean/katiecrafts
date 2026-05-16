@@ -27,7 +27,12 @@
     "new-post": "tsx tools/new-post.ts",
     "lint": "oxlint . --ignore-path .oxlintignore",
     "lint:fix": "oxlint . --fix --ignore-path .oxlintignore",
-    "typecheck": "tsc --noEmit"
+    "typecheck": "tsc --noEmit",
+    "audit:content": "tsx tools/audit-content.ts",
+    "audit:markdown": "markdownlint-cli2 \"src/content/blog/**/*.md\"",
+    "audit:links": "linkinator dist --skip \"^https?://(www\\.)?(facebook|twitter|x|pinterest|reddit|instagram)\\.com\"",
+    "audit:html": "html-validate \"dist/**/*.html\"",
+    "audit": "npm run audit:content && npm run audit:markdown && npm run build && npm run audit:html && npm run audit:links"
   },
   "dependencies": {
     "@astrojs/rss": "^4.0.18",
@@ -42,6 +47,9 @@
     "@types/yargs": "^17.0.35",
     "axios": "^1.16.1",
     "dotenv": "^17.4.2",
+    "html-validate": "^11.1.0",
+    "linkinator": "^7.6.1",
+    "markdownlint-cli2": "^0.22.1",
     "node-html-parser": "^7.1.0",
     "oxlint": "^1.65.0",
     "rehype-parse": "^9.0.1",
