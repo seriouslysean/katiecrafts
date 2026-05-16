@@ -7,7 +7,8 @@ import { unified } from 'unified';
 import rehypeParse from 'rehype-parse';
 import rehypeStringify from 'rehype-stringify';
 import { visit } from 'unist-util-visit';
-import type { Element, Properties, Root, Node } from 'hast';
+import type { Element, Properties, Root, Text } from 'hast';
+import type { Node } from 'unist';
 import yargs from 'yargs';
 import { hideBin } from 'yargs/helpers';
 
@@ -196,15 +197,15 @@ function buildFrontmatter(post: Omit<PostData, 'content'>, maps: ImageMaps): str
 function transformContent(html: string, slug: string, maps: ImageMaps, title?: string): string {
   const processor = unified()
     .use(rehypeParse, { fragment: true })
-    .use(() => tree => rewriteImageSources(tree, slug, maps))
-    .use(() => tree => stripLeadingTitle(tree, title))
+    .use(() => (tree: Root) => rewriteImageSources(tree, slug, maps))
+    .use(() => (tree: Root) => stripLeadingTitle(tree, title))
     .use(rehypeStringify, { allowDangerousHtml: true });
 
   const result = processor.processSync(html);
   return result.toString().trim();
 }
 
-function rewriteImageSources(tree: any, slug: string, maps: ImageMaps) {
+function rewriteImageSources(tree: Root, slug: string, maps: ImageMaps) {
   visit(tree, 'element', (node: Element) => {
     if (node.tagName !== 'img') return;
     const properties = (node.properties ??= {});
@@ -291,10 +292,10 @@ function createPlaceholderFigure(): Element {
 
 function extractText(node: Node): string {
   if (node.type === 'text') {
-    return node.value;
+    return (node as Text).value;
   }
   if (node.type === 'element') {
-    return (node.children as Node[]).map(extractText).join('');
+    return (node as Element).children.map(extractText).join('');
   }
   return '';
 }

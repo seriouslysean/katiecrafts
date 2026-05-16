@@ -5,8 +5,9 @@ import path from 'node:path';
 import { unified } from 'unified';
 import rehypeParse from 'rehype-parse';
 import rehypeStringify from 'rehype-stringify';
-import { visit } from 'unist-util-visit';
-import type { Root, Element, Text, Parent, Properties, Node } from 'hast';
+import { visit, SKIP } from 'unist-util-visit';
+import type { Root, Element, Text, Parent, Properties, ElementContent } from 'hast';
+import type { Node } from 'unist';
 import yargs from 'yargs';
 import { hideBin } from 'yargs/helpers';
 
@@ -134,10 +135,10 @@ function normalizeTextNodes(tree: Root) {
   });
 }
 
-function unwrapRedundantDivs(tree: Root) {
+function unwrapRedundantDivs(tree: Root | { type: 'root'; children: ElementContent[] }) {
   const allowed = new Set(['p', 'h1', 'h2', 'h3', 'h4', 'h5', 'h6', 'blockquote', 'a', 'strong', 'em', 'figure']);
-  visit(tree, 'element', (node: Element, index: number | null, parent: Parent | null) => {
-    if (!parent || index === null) return;
+  visit(tree as Root, 'element', (node: Element, index, parent) => {
+    if (!parent || index === undefined) return;
     if (node.tagName !== 'div') return;
 
     const meaningful = node.children.filter(child => {
@@ -149,14 +150,14 @@ function unwrapRedundantDivs(tree: Root) {
 
     const child = meaningful[0];
     if (child.type === 'element' && allowed.has(child.tagName)) {
-      parent.children.splice(index, 1, ...node.children);
-      return [visit.SKIP, index];
+      (parent as Parent).children.splice(index, 1, ...(node.children as ElementContent[] as Parent['children']));
+      return [SKIP, index];
     }
   });
 }
 
 function sanitizeElements(tree: Root, options: Options) {
-  visit(tree, 'element', (node: Element, index: number | null, parent: Parent | null) => {
+  visit(tree, 'element', (node: Element) => {
     const properties = (node.properties ??= {});
     if (properties.style) {
       delete properties.style;
@@ -177,8 +178,8 @@ function sanitizeElements(tree: Root, options: Options) {
 }
 
 function transformCaptions(tree: Root, options: Options) {
-  visit(tree, 'element', (node: Element, index: number | null, parent: Parent | null) => {
-    if (!parent || index === null) return;
+  visit(tree, 'element', (node: Element, index, parent) => {
+    if (!parent || index === undefined) return;
     if (node.tagName !== 'figure') return;
 
     const classList = toClassList(node.properties?.className);
@@ -219,7 +220,7 @@ function transformCaptions(tree: Root, options: Options) {
     } else {
       parent.children.splice(index, 1, newFigure);
     }
-    return [visit.SKIP, index];
+    return [SKIP, index];
   });
 }
 
@@ -240,8 +241,8 @@ function sanitizeImage(img: Element, options: Options): Element | null {
 }
 
 function flattenTables(tree: Root) {
-  visit(tree, 'element', (node: Element, index: number | null, parent: Parent | null) => {
-    if (!parent || index === null) return;
+  visit(tree, 'element', (node: Element, index, parent) => {
+    if (!parent || index === undefined) return;
     if (node.tagName !== 'table') return;
 
     const paragraphNodes: Element[] = [];
@@ -257,31 +258,31 @@ function flattenTables(tree: Root) {
     } else {
       parent.children.splice(index, 1);
     }
-    return [visit.SKIP, index];
+    return [SKIP, index];
   });
 }
 
 function transformTextareas(tree: Root) {
-  visit(tree, 'element', (node: Element, index: number | null, parent: Parent | null) => {
-    if (!parent || index === null) return;
+  visit(tree, 'element', (node: Element, index, parent) => {
+    if (!parent || index === undefined) return;
     if (node.tagName !== 'textarea') return;
 
     const text = extractText(node);
     const urls = Array.from(new Set(text.match(/https?:\/\/[^\s"'<>]+/g) ?? []));
     if (!urls.length) {
       parent.children.splice(index, 1);
-      return [visit.SKIP, index];
+      return [SKIP, index];
     }
 
     const replacements = urls.map(url => createLinkParagraph(url, url));
     parent.children.splice(index, 1, ...replacements);
-    return [visit.SKIP, index];
+    return [SKIP, index];
   });
 }
 
 function flattenDefinitionLists(tree: Root) {
-  visit(tree, 'element', (node: Element, index: number | null, parent: Parent | null) => {
-    if (!parent || index === null) return;
+  visit(tree, 'element', (node: Element, index, parent) => {
+    if (!parent || index === undefined) return;
     if (node.tagName !== 'dl') return;
 
     const paragraphs: Element[] = [];
@@ -299,26 +300,27 @@ function flattenDefinitionLists(tree: Root) {
       parent.children.splice(index, 1);
     }
 
-    return [visit.SKIP, index];
+    return [SKIP, index];
   });
 }
 
 function replaceRemoteImages(tree: Root, options: Options) {
   if (!options.replaceRemoteImages) return;
-  visit(tree, 'element', (node: Element, index: number | null, parent: Parent | null) => {
-    if (!parent || index === null) return;
+  visit(tree, 'element', (node: Element, index, parent) => {
+    if (!parent || index === undefined) return;
     if (node.tagName !== 'img') return;
     const src = String((node.properties?.src ?? '') || '');
     if (!src) return;
     if (!/^https?:\/\//i.test(src)) return;
-    if (parent.type === 'element' && parent.tagName === 'figure') {
+    const parentEl = parent as Element;
+    if (parentEl.type === 'element' && parentEl.tagName === 'figure') {
       parent.children.splice(index, 1, createPlaceholderImageBlock());
-    } else if (parent.type === 'element' && parent.tagName === 'a') {
+    } else if (parentEl.type === 'element' && parentEl.tagName === 'a') {
       parent.children.splice(index, 1, createPlaceholderImageBlock());
     } else {
       parent.children.splice(index, 1, createPlaceholderFigure());
     }
-    return [visit.SKIP, index];
+    return [SKIP, index];
   });
 }
 
@@ -326,9 +328,9 @@ function normalizeHeadingsAndLinks(tree: Root) {
   const targetTags = new Set(['h1', 'h2', 'h3', 'h4', 'h5', 'h6', 'a']);
   visit(tree, 'element', (node: Element) => {
     if (!targetTags.has(node.tagName)) return;
-    node.children = node.children.flatMap(child => {
+    node.children = node.children.flatMap<ElementContent>(child => {
       if (child.type === 'element' && child.tagName === 'p') {
-        return child.children as Node[];
+        return child.children;
       }
       return [child];
     });
@@ -344,8 +346,8 @@ function normalizeBlockquotes(tree: Root) {
 
 function removeEmptyElements(tree: Root) {
   const keepTags = new Set(['img', 'br', 'figure']);
-  visit(tree, 'element', (node: Element, index: number | null, parent: Parent | null) => {
-    if (!parent || index === null) return;
+  visit(tree, 'element', (node: Element, index, parent) => {
+    if (!parent || index === undefined) return;
     if (keepTags.has(node.tagName)) return;
 
     const hasMeaningful = node.children.some(child => {
@@ -356,7 +358,7 @@ function removeEmptyElements(tree: Root) {
 
     if (!hasMeaningful) {
       parent.children.splice(index, 1);
-      return [visit.SKIP, index];
+      return [SKIP, index];
     }
   });
 }
@@ -372,15 +374,15 @@ function unwrapStrongParagraphs(tree: Root) {
     if (meaningful.length !== 1) return;
     const onlyChild = meaningful[0];
     if (onlyChild.type === 'element' && onlyChild.tagName === 'strong') {
-      node.children = (onlyChild.children as Node[]).map(child => ({ ...child }));
+      node.children = onlyChild.children.map(child => ({ ...child }));
     }
   });
 }
 
 function extractText(node: Node): string {
-  if (node.type === 'text') return node.value;
+  if (node.type === 'text') return (node as Text).value;
   if (node.type === 'element') {
-    return (node.children as Node[]).map(extractText).join('');
+    return (node as Element).children.map(extractText).join('');
   }
   return '';
 }

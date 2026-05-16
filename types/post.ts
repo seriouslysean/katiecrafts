@@ -44,11 +44,12 @@ export interface WordPressPost {
       source_url: string;
       media_details: {
         sizes: {
-          full: {
+          full?: {
             source_url: string;
             width: number;
             height: number;
           };
+          [key: string]: { source_url: string; width: number; height: number } | undefined;
         };
         width?: number;
         height?: number;
