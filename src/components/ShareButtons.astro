@@ -78,3 +78,64 @@ const encodedTitle = encodeURIComponent(title);
     </li>
   </ul>
 </div>
+
+<style>
+  .share {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 0.5rem 0.65rem;
+  }
+
+  .share__label {
+    font-size: 0.8rem;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    font-weight: 600;
+    color: var(--color-muted);
+    margin-right: 0.25rem;
+  }
+
+  .share__list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  .share__link {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 2.75rem;
+    height: 2.75rem;
+    padding: 0;
+    border: 1px solid var(--color-border);
+    border-radius: 999px;
+    background: var(--color-panel);
+    color: var(--color-accent);
+    text-decoration: none;
+    transition: background 0.15s ease, border-color 0.15s ease, color 0.15s ease, transform 0.15s ease;
+  }
+
+  .share__link:hover,
+  .share__link:focus-visible {
+    background: var(--color-accent);
+    border-color: var(--color-accent);
+    color: #ffffff;
+    transform: translateY(-1px);
+    text-decoration: none;
+  }
+
+  .share__link:focus-visible {
+    outline: none;
+    box-shadow: 0 0 0 3px rgba(150, 88, 138, 0.25);
+  }
+
+  .share__link svg {
+    width: 1.05rem;
+    height: 1.05rem;
+  }
+</style>

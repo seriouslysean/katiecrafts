@@ -19,3 +19,58 @@
         </ul>
     </nav>
 </footer>
+
+<style>
+  .footer {
+    margin-top: auto;
+    padding: clamp(2rem, 4vw, 3.5rem) 1rem;
+    text-align: center;
+    background: transparent url(/pattern-flowers-001.png) top left repeat;
+    background-size: 18.75rem;
+    color: #17144a;
+  }
+
+  .footer__hr {
+    margin: 0 auto clamp(1.5rem, 3vw, 3rem);
+    max-width: 22rem;
+    pointer-events: none;
+  }
+
+  .footer__info {
+    display: block;
+    margin-bottom: clamp(1.5rem, 3vw, 3rem);
+    color: #51445e;
+  }
+
+  .footer__links-list {
+    display: inline-flex;
+    gap: 0.75rem;
+    padding: 0;
+    margin: 0;
+    list-style: none;
+  }
+
+  .footer :global(a) {
+    color: var(--color-accent);
+    text-decoration: none;
+    position: relative;
+  }
+
+  .footer :global(a)::after {
+    content: '';
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: -0.25rem;
+    height: 2px;
+    background: currentColor;
+    transform: scaleX(0);
+    transform-origin: center;
+    transition: transform 0.2s ease;
+  }
+
+  .footer :global(a:hover)::after,
+  .footer :global(a:focus-visible)::after {
+    transform: scaleX(1);
+  }
+</style>

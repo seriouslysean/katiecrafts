@@ -58,48 +58,109 @@ const pageItems = buildPageItems(totalPages, currentPage);
 ---
 
 {totalPages > 1 ? (
-  <nav class="listing__pagination" aria-label={label}>
+  <nav class="pagination" aria-label={label}>
     {hasPrevious ? (
-      <a class="listing__pagination-link" href={previousHref} rel="prev">
+      <a class="pagination__link" href={previousHref} rel="prev">
         {previousLabel}
       </a>
     ) : (
-      <span class="listing__pagination-link listing__pagination-link--disabled">{previousLabel}</span>
+      <span class="pagination__link pagination__link--disabled">{previousLabel}</span>
     )}
 
-    <div class="listing__pagination-pages" role="list">
+    <ul class="pagination__pages">
       {pageItems.map(item =>
         item === 'ellipsis' ? (
-          <span class="listing__pagination-ellipsis" aria-hidden="true">
-            …
-          </span>
+          <li class="pagination__ellipsis" aria-hidden="true">…</li>
         ) : item === currentPage ? (
-          <span
-            class="listing__pagination-page listing__pagination-page--current"
-            aria-current="page"
-            role="listitem"
-          >
-            {item}
-          </span>
+          <li>
+            <span class="pagination__page pagination__page--current" aria-current="page">{item}</span>
+          </li>
         ) : (
-          <a
-            class="listing__pagination-page"
-            href={makeHref(item)}
-            role="listitem"
-            aria-label={`Go to page ${item}`}
-          >
-            {item}
-          </a>
+          <li>
+            <a class="pagination__page" href={makeHref(item)} aria-label={`Go to page ${item}`}>{item}</a>
+          </li>
         )
       )}
-    </div>
+    </ul>
 
     {hasNext ? (
-      <a class="listing__pagination-link" href={nextHref} rel="next">
+      <a class="pagination__link" href={nextHref} rel="next">
         {nextLabel}
       </a>
     ) : (
-      <span class="listing__pagination-link listing__pagination-link--disabled">{nextLabel}</span>
+      <span class="pagination__link pagination__link--disabled">{nextLabel}</span>
     )}
   </nav>
 ) : null}
+
+<style>
+  .pagination {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .pagination__link {
+    font-weight: 600;
+    color: var(--color-accent);
+    text-decoration: none;
+    transition: color 0.15s ease;
+  }
+
+  .pagination__link:hover,
+  .pagination__link:focus-visible {
+    text-decoration: underline;
+  }
+
+  .pagination__link--disabled {
+    color: var(--color-muted);
+    cursor: not-allowed;
+    opacity: 0.6;
+  }
+
+  .pagination__pages {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  .pagination__page {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 2.75rem;
+    min-height: 2.75rem;
+    padding: 0.3rem 0.6rem;
+    border-radius: 999px;
+    border: 1px solid var(--color-border);
+    font-weight: 600;
+    color: var(--color-accent);
+    text-decoration: none;
+    transition: background-color 0.2s ease, color 0.2s ease, border-color 0.2s ease;
+  }
+
+  .pagination__page:hover,
+  .pagination__page:focus-visible {
+    background-color: var(--color-accent);
+    color: #ffffff;
+    border-color: transparent;
+    text-decoration: none;
+  }
+
+  .pagination__page--current {
+    background-color: var(--color-accent);
+    color: #ffffff;
+    border-color: transparent;
+    cursor: default;
+  }
+
+  .pagination__ellipsis {
+    color: var(--color-muted);
+    font-weight: 700;
+  }
+</style>
