@@ -4,7 +4,7 @@ publishedDate: "2015-01-28"
 excerpt: "Wordless Wednesday: Vatican City On our honeymoon to Italy, we crammed a lot of awesome stuff in to our small trip. One of the things we visited while in Rome was the Vatican. This was a view from the window of St. Peter’s Basilica (or the Sistine Chapel… I can’t remember which). I’ve always been […]"
 featuredImage:
   src: "./featured.png"
-  alt: "Wordless Wednesday: Vatican City on Katie Crafts; http://www.katiecrafts.com"
+  alt: "Wordless Wednesday: Vatican City"
 categories:
   - slug: "hodgepodge"
     name: "Hodgepodge"

@@ -4,7 +4,7 @@ publishedDate: "2014-06-27"
 excerpt: "Project: How To Make Your Own Washi Tape. . . in 3 different ways! Did you read Monday’s post about how completely awesome washi tape is? No? You should probably check it out now, so that you have ideas in your head on what you will use this tape for as you’re making it! My […]"
 featuredImage:
   src: "./featured.jpg"
-  alt: "How To Make Washi Tape on Katie Crafts; http://www.katiecrafts.com"
+  alt: "How To Make Washi Tape"
 categories:
   - slug: "crafts"
     name: "Crafts"
@@ -29,7 +29,7 @@ tags:
     name: "washi tape"
 ---
 
-Project: How To Make Your Own Washi Tape. . . in 3 different ways!
+Project: How To Make Your Own Washi Tape.. . in 3 different ways!
 
 Did you
 
@@ -63,15 +63,15 @@ The first steps, regardless of the tutorial you choose to follow, are the same. 
 
 - Lay out your white\* tissue paper (I bought mine at the Dollar Store!) out in front of you with the ‘glossy’ or ‘shiny’ side facing you and the matte side as the ‘back’. Make sure there is either extra tissue paper under it or newspaper, because ink sure does make a mess!
 
-![How To Make Washi Tape on Katie Crafts; https://www.katiecrafts.com](./img-4093.jpg)
+![How To Make Washi Tape](./img-4093.jpg)
 
-![How To Make Washi Tape on Katie Crafts; https://www.katiecrafts.com](./img-4092.jpg)
+![How To Make Washi Tape](./img-4092.jpg)
 
 - Stamp to your heart’s content! Use the rubber stamps and even the ink pads to decorate!
 
-![How To Make Washi Tape on Katie Crafts; https://www.katiecrafts.com](./photo-jun-26-8-16-05-pm.jpg)
+![How To Make Washi Tape](./photo-jun-26-8-16-05-pm.jpg)
 
-![How To Make Washi Tape on Katie Crafts; https://www.katiecrafts.com](./photo-jun-26-8-16-35-pm.jpg)
+![How To Make Washi Tape](./photo-jun-26-8-16-35-pm.jpg)
 
 - Set aside and let dry
 
@@ -79,7 +79,7 @@ The first steps, regardless of the tutorial you choose to follow, are the same. 
 
   before the next steps!
 
-![How To Make Washi Tape on Katie Crafts; http://www.katiecrafts.com](./photo-jun-26-8-31-09-pm.jpg)
+![How To Make Washi Tape](./photo-jun-26-8-31-09-pm.jpg)
 
 Now we branch off to our different tutorials. First up is mine!
 
@@ -93,7 +93,7 @@ Now we branch off to our different tutorials. First up is mine!
 
   .
 
-![How To Make Washi Tape on Katie Crafts; http://www.katiecrafts.com](./img-4116.jpg)
+![How To Make Washi Tape](./img-4116.jpg)
 
 - Place your
 
@@ -107,11 +107,11 @@ Now we branch off to our different tutorials. First up is mine!
 
 - Press down with your fingertips. If wrinkles are created, go with it! The imperfections make it so much better.
 
-![How To Make Washi Tape on Katie Crafts; http://www.katiecrafts.com](./img-4117.jpg)
+![How To Make Washi Tape](./img-4117.jpg)
 
 - Cut out strips. You’re done!
 
-![How To Make Washi Tape on Katie Crafts; http://www.katiecrafts.com](./photo-jun-26-9-28-39-pm.jpg)
+![How To Make Washi Tape](./photo-jun-26-9-28-39-pm.jpg)
 
 _Pros:_
 
@@ -135,7 +135,7 @@ Now for Jessica’s take! (Which I helped with because it was more time consumin
 
 - Tear off some wax paper and begin to line it with double sided tape. Go for super skinny one strip tape, or line them up against each other for wider pieces.
 
-![How To Make Washi Tape on Katie Crafts; http://www.katiecrafts.com](./img-4108.jpg)
+![How To Make Washi Tape](./img-4108.jpg)
 
 - When your tape is all done, you need to make the paper strips to go on top of them. Use your scissors and cut up the tissue paper in to the size strips that you want.
 
@@ -145,13 +145,13 @@ Now for Jessica’s take! (Which I helped with because it was more time consumin
 
   carefully, pressing down with your fingertips. Again, don’t worry about wrinkles!
 
-![How To Make Washi Tape on Katie Crafts; http://www.katiecrafts.com](./img-4113.jpg)
+![How To Make Washi Tape](./img-4113.jpg)
 
 > _It make look completely wonky and choppy, but don’t worry about that! When you cut out the actual tape portion, it will be clean cut and awesome!_
 
 - Use your scissors to cut out each strip. Done!
 
-![How To Make Washi Tape on Katie Crafts; http://www.katiecrafts.com](./img-4115.jpg)
+![How To Make Washi Tape](./img-4115.jpg)
 
 Hooray! Katie Crafts’ logo washi tape!
 
@@ -179,7 +179,7 @@ Now for the spin-off!
 
 - Start with completely dried and decorated tissue paper (see above).
 
-![How To Make Washi Tape on Katie Crafts; http://www.katiecrafts.com](./img-4118.jpg)
+![How To Make Washi Tape](./img-4118.jpg)
 
 - With
 
@@ -189,15 +189,15 @@ Now for the spin-off!
 
 - When finished, place a sheet of wax paper as your backing across the whole of the tissue paper. Press firmly.
 
-![How To Make Washi Tape on Katie Crafts; http://www.katiecrafts.com](./photo-jun-26-9-25-17-pm.jpg)
+![How To Make Washi Tape](./photo-jun-26-9-25-17-pm.jpg)
 
 - Flip over
 
-![How To Make Washi Tape on Katie Crafts; http://www.katiecrafts.com](./img-4121.jpg)
+![How To Make Washi Tape](./img-4121.jpg)
 
 - Cut strips out. Finished!
 
-![How To Make Washi Tape on Katie Crafts; http://www.katiecrafts.com](./img-4122.jpg)
+![How To Make Washi Tape](./img-4122.jpg)
 
 _Pros:_
 
@@ -215,11 +215,11 @@ _Cons:_
 
 3. Still hard to cut the tape exactly
 
-![How To Make Washi Tape on Katie Crafts; http://www.katiecrafts.com](./photo-jun-26-9-30-35-pm.jpg)
+![How To Make Washi Tape](./photo-jun-26-9-30-35-pm.jpg)
 
 In the end, I’d say it’s pretty much a tie! Tutorial #1 wins for sheer ease, but the limitation of washi tape length is a real bummer. I want to make small rolls of it and I can’t do that with the adhesive sheets. Tutorial #2 is a cheaper (albeit more time consuming) alternative which does allow for much longer strips to be made. Tutorial #3 is one less step than #2, so it’s even better at it’s job. Perhaps the rogue tutorial that neither of us thought of in the beginning is the real winner!
 
-![How To Make Washi Tape on Katie Crafts; http://www.katiecrafts.com](./photo-jun-26-9-30-45-pm.jpg)
+![How To Make Washi Tape](./photo-jun-26-9-30-45-pm.jpg)
 
 ## Tips:
 
@@ -231,6 +231,6 @@ In the end, I’d say it’s pretty much a tie! Tutorial #1 wins for sheer ease,
 
 We only made short strips, so we stored our tape in an envelope. If you are making looooong strips, wrap each tightly around an empty cardboard paper towel roll and use a paper clip or bobby pin to hold it in place! Cut the cardboard tube into many sections for many rolls!
 
-![How To Make Washi Tape on Katie Crafts; http://www.katiecrafts.com](./photo-jun-26-9-30-24-pm.jpg)
+![How To Make Washi Tape](./photo-jun-26-9-30-24-pm.jpg)
 
 If you use any of my tutorials on how to make washi tape, let me know in the comments- and show some project pics, too! If you have yet another way to make it, please share with the class! Have a great weekend!

@@ -4,7 +4,7 @@ publishedDate: "2014-08-29"
 excerpt: "Project: DIY Mini Sketch Book (or Notebook!) A few weeks back, I found myself in one of my greatest inspiration stores. Nope, not the fabric store, or the craft store, or even the art store- Home Depot! Seriously, I love it there. We were visiting my Dad for the weekend and painting my childhood bedroom […]"
 featuredImage:
   src: "./featured.jpg"
-  alt: "DIY Mini Sketch Book Tutorial by Katie Crafts; http://www.katiecrafts.com"
+  alt: "DIY Mini Sketch Book Tutorial by"
 categories:
   - slug: "crafts"
     name: "Crafts"
@@ -75,34 +75,34 @@ This project is super easy, great for kids and teachers, and uses very few mater
 
   !) it would have been able to handle more sheets at a time. You can use scissors for this part too- just make sure to mark your lines with a pencil first!
 
-![DIY Mini Sketch Book Tutorial by Katie Crafts; http://www.katiecrafts.com](./img-0171.jpg)
+![DIY Mini Sketch Book Tutorial by](./img-0171.jpg)
 
 - Choose where you want the holes to go on your front and back ‘covers’ and with their wrong sides/insides facing each other, punch the holes through them. Then use your binder clip to hold together a few pieces of paper at a time with the cover, line up where the holes need to go, and punch them as well until all sheets have holes.
 
-![DIY Mini Sketch Book Tutorial by Katie Crafts; http://www.katiecrafts.com](./img-0174.jpg)
+![DIY Mini Sketch Book Tutorial by](./img-0174.jpg)
 
 - Line everything up, place the pages and front and back cover together and clip them all. Start weaving your yarn in and out of the holes like you are stitching it up to bind it. Each hold should have the yarn going through it three times.
 
-![DIY Mini Sketch Book Tutorial by Katie Crafts; https://www.katiecrafts.com](./img-0179.jpg)
+![DIY Mini Sketch Book Tutorial by](./img-0179.jpg)
 
-![DIY Mini Sketch Book Tutorial by Katie Crafts; https://www.katiecrafts.com](./img-0181.jpg)
+![DIY Mini Sketch Book Tutorial by](./img-0181.jpg)
 
 - After you’ve pushed and pulled through the yarn three times in each hole, you should end up with the tails of the yarn both loose on the back of the book like below.
 
-![DIY Mini Sketch Book Tutorial by Katie Crafts; http://www.katiecrafts.com](./img-0182.jpg)
+![DIY Mini Sketch Book Tutorial by](./img-0182.jpg)
 
 - Make a tight little bow to keep the book together and snip off the extra yarn.
 
-![DIY Mini Sketch Book Tutorial by Katie Crafts; http://www.katiecrafts.com](./img-0184.jpg)
+![DIY Mini Sketch Book Tutorial by](./img-0184.jpg)
 
 - You can end at this step, or you can use your scissors to cut off any excess paper that may not fit perfectly in the book. I chopped off the corners to make my book have rounded edges like the paint chip swatches do.
 
-![DIY Mini Sketch Book Tutorial by Katie Crafts; http://www.katiecrafts.com](./img-0186.jpg)
+![DIY Mini Sketch Book Tutorial by](./img-0186.jpg)
 
 - That’s it! Super easy project for any teacher to do with their students this coming school year, or great for any crafty person who wants a cute handmade sketch book in their bag!
 
-![DIY Mini Sketch Book Tutorial by Katie Crafts; http://www.katiecrafts.com](./img-0193.jpg)
+![DIY Mini Sketch Book Tutorial by](./img-0193.jpg)
 
-![DIY Mini Sketch Book Tutorial by Katie Crafts; http://www.katiecrafts.com](./img-0192.jpg)
+![DIY Mini Sketch Book Tutorial by](./img-0192.jpg)
 
 Enjoy your new little sketch book / notebook / school project / DIY / handmade adorable mini book! What will you use yours for? Have a great weekend!

@@ -14,6 +14,6 @@ tags:
     name: "lucky"
 ---
 
-![Lucky On Table on Katie Crafts; http://www.katiecrafts.com](./img-2524.jpg)
+![Lucky On Table](./img-2524.jpg)
 
 Anything can be a bed if you are a cat, including folding tables. At least he looks guilty for climbing up there.

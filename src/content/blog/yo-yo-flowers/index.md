@@ -156,6 +156,6 @@ is a funny name, but it makes total sense. After you hand-stitch around the enti
 
   you can buy kids if you are worried about sharp metal needles, but they don’t move easily through all fabrics. Be sure to check that before purchasing!
 
-![Yo-Yo Flowers by Katie Crafts; http://www.katiecrafts.com](./img-1098.jpg)
+![Yo-Yo Flowers by](./img-1098.jpg)
 
 If you’ve tried this project and loved it, tell me in the comments! What other uses do you have for yo-yo fabric flowers?

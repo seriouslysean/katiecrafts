@@ -4,7 +4,7 @@ publishedDate: "2015-03-27"
 excerpt: "My Etsy Picks: Here Comes Peter Cottontail *Here comes Peter Cottontail, hoppin’ down the bunny trail, hippity hoppin’ Easter’s on its way!* -Anyone else remember this song/movie? Let’s celebrate the upcoming holiday with some really adorable handmade Easter themed items found on Etsy! There were SO many to choose from, but these were my favorites."
 featuredImage:
   src: "./featured.png"
-  alt: "My Etsy Picks: Here Comes Peter Cottontail by Katie Crafts; http://www.katiecrafts.com"
+  alt: "My Etsy Picks: Here Comes Peter Cottontail by"
 categories:
   - slug: "hodgepodge"
     name: "Hodgepodge"

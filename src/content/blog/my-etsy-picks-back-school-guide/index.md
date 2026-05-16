@@ -4,7 +4,7 @@ publishedDate: "2014-08-04"
 excerpt: "My Etsy Picks: Back to School Guide Hello, Monday! If you are an avid Katie Crafts reader, you may have noticed that there was no Sunday Funday post yesterday. For the moment, weekend posts (unless it’s something great that I *need* to share *immediately*… like a cat photo) will be on hiatus. I love having […]"
 featuredImage:
   src: "./featured.jpg"
-  alt: "My Etsy Picks: Back to School Guide on Katie Crafts; http://www.katiecrafts.com"
+  alt: "My Etsy Picks: Back to School Guide"
 categories:
   - slug: "crafts"
     name: "Crafts"
@@ -43,7 +43,7 @@ It feels like just yesterday I was blogging about
 
 [gifts to give the graduates](/grad-gifts-my-etsy-picks/ "Grad Gifts: My Etsy Picks")
 
-in your life, and here we are just a few weeks from starting school up again! Back-to-school shopping with my mom was always my favorite. The art supplies, the colorful notebooks and fun pens, the organizational 5 pocketed binders. . . my Mom loved back to school shopping for me as much as I liked picking it all out. I rarely complained that the summer was ending, because it meant soon I’d get to use my brand new
+in your life, and here we are just a few weeks from starting school up again! Back-to-school shopping with my mom was always my favorite. The art supplies, the colorful notebooks and fun pens, the organizational 5 pocketed binders.. . my Mom loved back to school shopping for me as much as I liked picking it all out. I rarely complained that the summer was ending, because it meant soon I’d get to use my brand new
 
 [Lisa Frank](http://amzn.to/1s2J48m "Lisa Frank Folders on Amazon")
 

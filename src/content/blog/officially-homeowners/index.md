@@ -4,7 +4,7 @@ publishedDate: "2014-09-05"
 excerpt: "Hip Hip Hooray! The Husband and I just closed on our very first house! (the one with the wreath on the door!) We’re venturing all the way from Center City to South Philly (for those of you who don’t live here, it’s right around the corner, haha) in a place that is all ours- which […]"
 featuredImage:
   src: "./featured.jpg"
-  alt: "OFFICIALLY HOMEOWNERS! on Katie Crafts; http://www.katiecrafts.com"
+  alt: "OFFICIALLY HOMEOWNERS!"
 categories:
   - slug: "hodgepodge"
     name: "Hodgepodge"

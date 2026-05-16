@@ -4,7 +4,7 @@ publishedDate: "2015-12-10"
 excerpt: "On the tenth day of Christmas, Katie Crafts gave to me… Not one, not two, but THREE amazing gift guides for you to shop! All three of these boards that are chock full of Christmas gift ideas are courtesy of Anna from Gentle Decisions. Aren’t they lovely!? Check out each of the treasuries below and shop your little Christmas hearts out!"
 featuredImage:
   src: "./featured.png"
-  alt: "Christmas Gift Ideas on Katie Crafts; http://www.katiecrafts.com"
+  alt: "Christmas Gift Ideas"
 categories:
   - slug: "hodgepodge"
     name: "Hodgepodge"

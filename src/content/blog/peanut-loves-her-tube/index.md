@@ -8,6 +8,6 @@ categories:
 tags: []
 ---
 
-![Peanut Loves Her Tube on Katie Crafts; http://www.katiecrafts.com](./img-3193-e1405402526399.jpg)
+![Peanut Loves Her Tube](./img-3193-e1405402526399.jpg)
 
 Peanut looooooooves her tube!

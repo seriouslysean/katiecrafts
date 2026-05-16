@@ -4,7 +4,7 @@ publishedDate: "2016-05-30"
 excerpt: "Today is a twofer- it’s both Memorial Day AND The Husband’s birthday! We are celebrating both with a few good friends, grilled food, tasty beer and some really exciting Paleo desserts. If they go over well, I’ll be sure to post them soon!"
 featuredImage:
   src: "./featured.jpg"
-  alt: "Happy Memorial Day! on Katie Crafts; http://www.katiecrafts.com"
+  alt: "Happy Memorial Day!"
 categories:
   - slug: "hodgepodge"
     name: "Hodgepodge"

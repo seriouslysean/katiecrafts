@@ -4,7 +4,7 @@ publishedDate: "2014-06-23"
 excerpt: "5 Uses For… Washi Tape! I have a confession. Up until about three months ago, I’d never used washi tape. I knew all about it, thought it was cute, but just never had the impulse to buy any. I thought it was just glorified masking tape (okay, so it kind of is) – but it […]"
 featuredImage:
   src: "./featured.jpg"
-  alt: "5 Uses For: Washi Tape on Katie Crafts; http://www.katiecrafts.com"
+  alt: "5 Uses For: Washi Tape"
 categories:
   - slug: "crafts"
     name: "Crafts"
@@ -45,9 +45,9 @@ I love doing “5 Uses For” posts. They force me to look outside the box for n
 
 > This round up consists of five totally great projects from other awesome crafters! To see more photos or follow the tutorials for each, click the provided link! All photos are courtesy of them!
 
-![5 Uses For: Washi Tape on Katie Crafts; https://www.katiecrafts.com](./washi-tape-keyboard.jpg)
+![5 Uses For: Washi Tape](./washi-tape-keyboard.jpg)
 
-![5 Uses For: Washi Tape on Katie Crafts; https://www.katiecrafts.com](./washi-tape-keyboard-2.jpg)
+![5 Uses For: Washi Tape](./washi-tape-keyboard-2.jpg)
 
 The first tutorial comes from
 
@@ -61,7 +61,7 @@ Next, I found a great way to dress up your college dorm room door! I wish I’d 
 
 !
 
-[![5 Uses For: Washi Tape on Katie Crafts; http://www.katiecrafts.com](./washi-tape-calendar.png)](http://take2theyresmall.com/my-calendar-from-overloaded-to-energized/)
+[![5 Uses For: Washi Tape](./washi-tape-calendar.png)](http://take2theyresmall.com/my-calendar-from-overloaded-to-energized/)
 
 This tutorial is one I’m doing as soon as I finish this post!! I need to update my Katie Crafts calendar since it’s getting quite busy, and this is the perfect way to highlight things in it! The idea comes from
 
@@ -69,7 +69,7 @@ This tutorial is one I’m doing as soon as I finish this post!! I need to updat
 
 !
 
-[![5 Uses For: Washi Tape on Katie Crafts; http://www.katiecrafts.com](./washi-tape-table.jpg)](http://onetoughmotherblog.com/2012/08/diy-washi-table.html)
+[![5 Uses For: Washi Tape](./washi-tape-table.jpg)](http://onetoughmotherblog.com/2012/08/diy-washi-table.html)
 
 My new crafting area is just a big desk from Ikea. It’s nice and new and black and extremely plain looking. It’s got lots of my trinkets and crafting supplies on top of it, but I still want to decorate it a bit. Rather than putting items on top of it and cluttering it up, I am going to decorate it with washi tape! My idea was realized when I saw this tutorial on
 
@@ -77,7 +77,7 @@ My new crafting area is just a big desk from Ikea. It’s nice and new and black
 
 !
 
-[![5 Uses For: Washi Tape on Katie Crafts; http://www.katiecrafts.com](./washi-tape-lightswitch.jpg)](http://tinkerwiththis.blogspot.com/2013/05/craftilicious-washi-tape-projects-and.html)
+[![5 Uses For: Washi Tape](./washi-tape-lightswitch.jpg)](http://tinkerwiththis.blogspot.com/2013/05/craftilicious-washi-tape-projects-and.html)
 
 My last pick for washi tape uses is one I definitely wouldn’t have thought of myself. Thank goodness for Pinterest, amiright? I can’t wait to unscrew the plain white lightswitch plates around my apartment and jazz them up with some washi tape! They will be their own little works of art!
 

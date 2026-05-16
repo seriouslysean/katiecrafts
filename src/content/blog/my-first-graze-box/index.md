@@ -4,7 +4,7 @@ publishedDate: "2014-03-18"
 excerpt: "Nom nom nom! I recently signed up for a fun and delicious subscription service over at Graze, where I receive a box every week with four healthy snacks based on things I want to try, like or love! Graze is marketed as ‘snacking reinvented,’ and that’s exactly what it is."
 featuredImage:
   src: "./featured.png"
-  alt: "My Graze Box! on Katie Crafts; http://www.katiecrafts.com"
+  alt: "My Graze Box!"
 categories:
   - slug: "hodgepodge"
     name: "Hodgepodge"
@@ -41,25 +41,25 @@ I love the idea of healthy snacking but often have a hard time doing it. If I fi
 
 Here’s what my first box looked like, and what was inside!
 
-![My Graze Box! on Katie Crafts; https://www.katiecrafts.com](./img-2002.jpg)
+![My Graze Box!](./img-2002.jpg)
 
-![My Graze Box! on Katie Crafts; https://www.katiecrafts.com](./img-2003.jpg)
+![My Graze Box!](./img-2003.jpg)
 
-![My Graze Box! on Katie Crafts; https://www.katiecrafts.com](./img-2004.jpg)
+![My Graze Box!](./img-2004.jpg)
 
-![My Graze Box! on Katie Crafts; https://www.katiecrafts.com](./img-2005.jpg)
+![My Graze Box!](./img-2005.jpg)
 
-![My Graze Box! on Katie Crafts; https://www.katiecrafts.com](./img-2011.jpg)
+![My Graze Box!](./img-2011.jpg)
 
-![My Graze Box! on Katie Crafts; https://www.katiecrafts.com](./img-2007.jpg)
+![My Graze Box!](./img-2007.jpg)
 
 After receiving your box and eating up your goodies, you can log in to your account and rate them. If you hated them, trash ’em and you won’t be seeing the likes of them in your Graze box again! If you LOVED them, you’ll definitely be getting them again. Easy, right?
 
 You also get a chance to learn about the things in your box. Included with your snacks is some nutritional information, but logging in to your account will give you even more. At a glance, you’ll notice some icons above your current snacks, letting you know what healthy category they fall in to on Graze’s site. Nifty!
 
-![My Graze Box! on Katie Crafts; http://www.katiecrafts.com](./graze-5.png)
+![My Graze Box!](./graze-5.png)
 
-![My Graze Box! on Katie Crafts; http://www.katiecrafts.com](./graze-6.png)
+![My Graze Box!](./graze-6.png)
 
 Thinking about joining? You can sign up with my
 
@@ -67,9 +67,9 @@ Thinking about joining? You can sign up with my
 
 and get your first (and if you decide to stick with it even longer, your fifth too!) box(es) for free! Yup, free. You lucky ducks!
 
-![My Graze Box! on Katie Crafts; http://www.katiecrafts.com](./graze-3.png)![My Graze Box! on Katie Crafts; http://www.katiecrafts.com](./graze-2.png)
+![My Graze Box!](./graze-3.png)![My Graze Box!](./graze-2.png)
 
-![My Graze Box! on Katie Crafts; http://www.katiecrafts.com](./graze-4.png)
+![My Graze Box!](./graze-4.png)
 
 Here’s my friendcode! Use it wisely!
 
@@ -85,4 +85,4 @@ and learn more about them now! If you’re already a subscriber, let me know wha
 
 * Husband’s Favorite- Jalapeno Fiesta. He would “eat it again for sure.” 😉
 
-![My Graze Box! on Katie Crafts; http://www.katiecrafts.com](./img-2013.jpg)
+![My Graze Box!](./img-2013.jpg)

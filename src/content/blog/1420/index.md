@@ -15,4 +15,4 @@ tags:
     name: "spud"
 ---
 
-![Spud on Katie Crafts; http://www.katiecrafts.com](./img-7625.jpg)
+![Spud](./img-7625.jpg)

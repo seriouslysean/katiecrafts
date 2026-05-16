@@ -4,7 +4,7 @@ publishedDate: "2015-11-18"
 excerpt: "Happy Wednesday! I only just recently came across this quote, which I completely love! Considering the Fall is my favorite time of year, this Albert Camus quotation is pretty perfect and exactly how I feel about the season. “Autumn is a second spring when every leaf is a flower.” Isn’t it completely fitting!? Love it! […]"
 featuredImage:
   src: "./featured.png"
-  alt: "Wordless Wednesday: Second Spring on Katie Crafts; http://www.katiecrafts.com"
+  alt: "Wordless Wednesday: Second Spring"
 categories:
   - slug: "hodgepodge"
     name: "Hodgepodge"

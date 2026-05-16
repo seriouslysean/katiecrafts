@@ -16,6 +16,6 @@ tags:
     name: "loves cats"
 ---
 
-[![Marshal the Cat wishing you a happy Friday at Katie Crafts - http://www.katiecrafts.com](./img-3476.jpg)](https://i2.wp.com/www.katiecrafts.com/wp-content/uploads/2014/08/IMG_3476.jpg)
+![Marshal the Cat wishing you a happy Friday at Katie Crafts -](./img-3476.jpg)
 
 Husband here! Since Katie’s away for a few days, I figured I’d take the chance to post a picture of Marshal wishing you a happy Friday! Isn’t he adorable?

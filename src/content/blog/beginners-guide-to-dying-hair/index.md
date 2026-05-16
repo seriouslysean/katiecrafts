@@ -4,7 +4,7 @@ publishedDate: "2015-02-02"
 excerpt: "Beginner’s Guide to Dying Hair I’ve been dying my hair one color or another for over a dozen years now. I’ve had light, medium and dark brown. I’ve had light red penny and dark cherry cola. I’ve had blonde, pink, red, purple, orange and blue highlights- many at the same time. For a few years, […]"
 featuredImage:
   src: "./featured.png"
-  alt: "Beginner's Guide to Dying Hair by Katie Crafts; http://www.katiecrafts.com"
+  alt: "Beginner's Guide to Dying Hair by"
 categories:
   - slug: "beauty"
     name: "Beauty"
@@ -61,9 +61,9 @@ in
 
 _Extra Light Natural Blonde._
 
-![Beginner's Guide to Hair Dye by Katie Crafts; https://www.katiecrafts.com](./beginners-guide-to-hair-dye-3.jpg)
+![Beginner's Guide to Hair Dye by](./beginners-guide-to-hair-dye-3.jpg)
 
-![Beginner's Guide to Hair Dye by Katie Crafts; https://www.katiecrafts.com](./beginners-guide-to-hair-dye-4.jpg)
+![Beginner's Guide to Hair Dye by](./beginners-guide-to-hair-dye-4.jpg)
 
 \*\*I have tried Manic Panic, Special Effects and various other fun colored dyes over the years, but
 
@@ -85,9 +85,9 @@ for this tutorial. My sister has used the Purple in the past and it was great to
 
 - Put on your old t-shirt, if you haven’t done so already.
 
-![Beginner's Guide to Hair Dye by Katie Crafts; https://www.katiecrafts.com](./beginners-guide-to-hair-dye-9.jpg)
+![Beginner's Guide to Hair Dye by](./beginners-guide-to-hair-dye-9.jpg)
 
-![Beginner's Guide to Hair Dye by Katie Crafts; https://www.katiecrafts.com](./beginners-guide-to-hair-dye-10.jpg)
+![Beginner's Guide to Hair Dye by](./beginners-guide-to-hair-dye-10.jpg)
 
 - I parted my hair for the strip I wanted colored and put the rest up in a messy bun, so it was away from the section that would be dyed. Then I applied the pre-color serum that came with my box.
 
@@ -99,11 +99,11 @@ Seriously, how ridiculous is this bun?!
 
 - Place a piece of foil underneath your hair right up to where the roots are.
 
-![Beginner's Guide to Hair Dye by Katie Crafts; http://www.katiecrafts.com](./beginners-guide-to-hair-dye-12.jpg)
+![Beginner's Guide to Hair Dye by](./beginners-guide-to-hair-dye-12.jpg)
 
 - Don your fancy rubber gloves, grab your hair dye applicator brush and paint it on! Make sure it’s totally saturated. As you can see from the above photo, it’s been awhile since I’ve done my roots. There are quite a few inches between my scalp and the red that is still in my hair. It was definitely time!
 
-![Beginner's Guide to Hair Dye by Katie Crafts; http://www.katiecrafts.com](./beginners-guide-to-hair-dye-13.jpg)
+![Beginner's Guide to Hair Dye by](./beginners-guide-to-hair-dye-13.jpg)
 
 - Fold or crumple the foil all the way up to your scalp and set your timer for whatever the box suggests. Take off your gloves carefully (you’ll use them again soon!) and go write a blog post while it sets.
 
@@ -111,31 +111,31 @@ Seriously, how ridiculous is this bun?!
 
 The second time was the charm, though you may not be able to tell from the below photo! Trust me, it’s all I needed to make it work.
 
-![Beginner's Guide to Hair Dye by Katie Crafts; http://www.katiecrafts.com](./beginners-guide-to-hair-dye-14.jpg)
+![Beginner's Guide to Hair Dye by](./beginners-guide-to-hair-dye-14.jpg)
 
 - When your timer is finally done, put your gloves back on and carefully wash out all of the bleach/blonde dye. Remember not to get any in your eyes! If you’re all done with color #1, wash out the bowl.
 
 - Let hair dry naturally or speed it up with your hair dryer. Get out any knots.
 
-![Beginner's Guide to Hair Dye by Katie Crafts; https://www.katiecrafts.com](./beginners-guide-to-hair-dye-5.jpg)
+![Beginner's Guide to Hair Dye by](./beginners-guide-to-hair-dye-5.jpg)
 
-![Beginner's Guide to Hair Dye by Katie Crafts; https://www.katiecrafts.com](./beginners-guide-to-hair-dye-6.jpg)
+![Beginner's Guide to Hair Dye by](./beginners-guide-to-hair-dye-6.jpg)
 
 - Clip your hair up away from your neck, and spread as much petroleum jelly on the skin surrounding your hair-to-be-dyed section as you can stomach. Make sure to get the skin on your neck, behind your ears, on your ears and absolutely anywhere else the dye may hit. It’s gross, but it’s a lifesaver.
 
 - Get another strip of foil and stick it right to the petroleum jelly underneath your roots just as before.
 
-![Beginner's Guide to Hair Dye by Katie Crafts; http://www.katiecrafts.com](./beginners-guide-to-hair-dye-7.jpg)
+![Beginner's Guide to Hair Dye by](./beginners-guide-to-hair-dye-7.jpg)
 
 - Dump a little bit of your colored dye in to the bowl and use the brush to apply it to your dry, clean hair. Just paint it all on! Wiggle the brush around a little roughly to be sure you are getting each and every strand of hair. Be generous with it!
 
-![Beginner's Guide to Hair Dye by Katie Crafts; https://www.katiecrafts.com](./beginners-guide-to-hair-dye-8.jpg)
+![Beginner's Guide to Hair Dye by](./beginners-guide-to-hair-dye-8.jpg)
 
-![Beginner's Guide to Hair Dye by Katie Crafts; https://www.katiecrafts.com](./beginners-guide-to-hair-dye-15.jpg)
+![Beginner's Guide to Hair Dye by](./beginners-guide-to-hair-dye-15.jpg)
 
 - When finished, once again fold/crumple up the foil, remove gloves, set timer and wait however long the brand recommends! Keep your towel around your shoulders and be sure to NOT LEAN ON ANYTHING during this time! You don’t want to ruin your couch, pillows or cat because you leaned on it with dye. Additionally, remove your glasses, even if you don’t want to. I dyed the very tip of mine a little red. Whoops.
 
-![Beginner's Guide to Hair Dye by Katie Crafts; http://www.katiecrafts.com](./beginners-guide-to-hair-dye-16.jpg)
+![Beginner's Guide to Hair Dye by](./beginners-guide-to-hair-dye-16.jpg)
 
 - When the time is over, check your hair. If you’re satisfied, it’s time to wash! Put your gloves back on and choose a sink that isn’t super porous to rinse it out in. I once rinsed it out in a bathtub that held the red color for several months, despite my scrubbing efforts. Stainless steel kitchen sinks are definitely the best for this, but be sure to WIPE DOWN EVERYTHING as SOON as you are finished, just in case!
 
@@ -143,15 +143,15 @@ The second time was the charm, though you may not be able to tell from the below
 
 - Let hair dry naturally or blow it out with your hair dryer.
 
-![Beginner's Guide to Hair Dye by Katie Crafts; https://www.katiecrafts.com](./beginners-guide-to-hair-dye-17.jpg)
+![Beginner's Guide to Hair Dye by](./beginners-guide-to-hair-dye-17.jpg)
 
-![Beginner's Guide to Hair Dye by Katie Crafts; https://www.katiecrafts.com](./beginners-guide-to-hair-dye-18.jpg)
+![Beginner's Guide to Hair Dye by](./beginners-guide-to-hair-dye-18.jpg)
 
 - Put back up in bun for remainder of evening and still be careful about leaning on things, just in case.
 
 - Enjoy your new hair!
 
-![Beginner's Guide to Hair Dye by Katie Crafts; http://www.katiecrafts.com](./beginners-guide-to-hair-dye-19.jpg)
+![Beginner's Guide to Hair Dye by](./beginners-guide-to-hair-dye-19.jpg)
 
 ## Aftercare Tips:
 

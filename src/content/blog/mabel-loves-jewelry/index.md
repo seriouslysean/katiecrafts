@@ -15,4 +15,4 @@ tags:
     name: "mabel"
 ---
 
-![Mabel Loves Jewelry on Katie Crafts; http://www.katiecrafts.com](./img-7909.jpg)
+![Mabel Loves Jewelry](./img-7909.jpg)

@@ -4,7 +4,7 @@ publishedDate: "2014-12-06"
 excerpt: "Sixth Day of Christmas: Holiday Playlist ♫ On the sixth day of Christmas, Katie Crafts gave to me- some indie Christmas songs to si-ing! ♫ Ah, Christmas music. On the drive home from Thanksgiving every year, we turn our car radio to the 24 hour Christmas music station. I love all the classics and sing […]"
 featuredImage:
   src: "./featured.png"
-  alt: "Sixth Day of Christmas: Holiday Playlist by Katie Crafts; http://www.katiecrafts.com"
+  alt: "Sixth Day of Christmas: Holiday Playlist by"
 categories:
   - slug: "hodgepodge"
     name: "Hodgepodge"

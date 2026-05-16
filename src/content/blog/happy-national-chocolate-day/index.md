@@ -4,7 +4,7 @@ publishedDate: "2014-10-28"
 excerpt: "There are a few holidays I absolutely insist on celebrating because of their sheer importance in this world. National Chocolate Day is obviously one of them. While away on our one-year-anniversary-trip this past weekend, we stopped in a little shop that had a whole section devoted to Milka chocolate bars and other items (surprisingly a […]"
 featuredImage:
   src: "./featured.png"
-  alt: "Happy National Chocolate Day! on Katie Crafts; http://www.katiecrafts.com"
+  alt: "Happy National Chocolate Day!"
 categories:
   - slug: "hodgepodge"
     name: "Hodgepodge"

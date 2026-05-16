@@ -4,7 +4,7 @@ publishedDate: "2014-11-20"
 excerpt: "Vintage Hat Crochet Pattern One of my favorite things to buy when I head to the bookstore with Husband is crafting and crochet magazines. A few months ago I bought “Love of Crochet” magazine’s Fall issue and in it was a Vintage Hat pattern that I have used a ton of times already. I’m not […]"
 featuredImage:
   src: "./featured.png"
-  alt: "Vintage Hat Crochet Pattern on Katie Crafts; http://www.katiecrafts.com"
+  alt: "Vintage Hat Crochet Pattern"
 categories:
   - slug: "crafts"
     name: "Crafts"

@@ -74,7 +74,7 @@ Materials:
 
 Instructions:
 
-![papers and scraps](./screen-shot-2014-02-05-at-9-31-30-pm.png "DIY Valentine's Cards by Katie Crafts; http://www.katiecrafts.com/")
+![papers and scraps](./screen-shot-2014-02-05-at-9-31-30-pm.png "DIY Valentine's Cards by Katie Crafts; ")
 
 Pick out some pretty patterned paper and whatever fabric scraps you think you’ll want to use for this project. You can always go digging again later if you are inspired and want to add more! I really love to buy booklets of various patterned papers for my scrapbooking kits, like the
 
@@ -82,29 +82,29 @@ Pick out some pretty patterned paper and whatever fabric scraps you think you’
 
 one above. Lots of options and all are pretty!
 
-![cardstock](./screen-shot-2014-02-05-at-8-20-25-pm.png "DIY Valentine's Cards by Katie Crafts; http://www.katiecrafts.com/")
+![cardstock](./screen-shot-2014-02-05-at-8-20-25-pm.png "DIY Valentine's Cards by Katie Crafts; ")
 
 If you aren’t mailing your cards and just giving them out by hand, you can skip this part. If you are using the good old postal service to deliver a valentine to your Valentine, you will need to cut down the piece of cardstock to fit the envelope. To do so, simply place the cardstock in the fold of the envelope and plan on cutting off a quarter of an inch from each side to make it fit in the envelope easily.
 
-![fold](./img-0685.jpg "DIY Valentine's Cards by Katie Crafts; http://www.katiecrafts.com/")
+![fold](./img-0685.jpg "DIY Valentine's Cards by Katie Crafts; ")
 
 Now you can fold the cardstock in half and trim off the excess. Use a straight edge to trace a straight line and cut along it for a nice even card.
 
-![trace](./screen-shot-2014-02-05-at-8-21-29-pm.png "DIY Valentine's Cards by Katie Crafts; http://www.katiecrafts.com/")
+![trace](./screen-shot-2014-02-05-at-8-21-29-pm.png "DIY Valentine's Cards by Katie Crafts; ")
 
 It’s time to cut out your fabric shapes! Make hearts, follow an already existing pattern (like the little birdcages below) or come up with another fantastic idea! Have fun!
 
-![Cut outs](./img-0681.jpg "DIY Valentine's Cards by Katie Crafts; http://www.katiecrafts.com/")
+![Cut outs](./img-0681.jpg "DIY Valentine's Cards by Katie Crafts; ")
 
 Now that you have your fabric cut outs in the sizes you like, you can decide how to decorate your card. I cut off a portion of one side of each of my cards, so that when I used the border punch it would create a doily look over my pretty scrapbook paper. See below for photo examples!
 
-![cut shorter](./img-0691.jpg "DIY Valentine's Cards by Katie Crafts; http://www.katiecrafts.com/")
+![cut shorter](./img-0691.jpg "DIY Valentine's Cards by Katie Crafts; ")
 
-![doily](./screen-shot-2014-02-05-at-8-26-00-pm.png "DIY Valentine's Cards by Katie Crafts; http://www.katiecrafts.com/")
+![doily](./screen-shot-2014-02-05-at-8-26-00-pm.png "DIY Valentine's Cards by Katie Crafts; ")
 
 Pick out whichever paper you like as your accent for under the doily cut out, and measure, trace and cut to make it card shaped/sized!
 
-![Front side/Back side](./screen-shot-2014-02-05-at-8-22-16-pm.png "DIY Valentine's Cards by Katie Crafts; http://www.katiecrafts.com/")
+![Front side/Back side](./screen-shot-2014-02-05-at-8-22-16-pm.png "DIY Valentine's Cards by Katie Crafts; ")
 
 Front side/Back side
 
@@ -118,10 +118,10 @@ of the card to the
 
 of the paper. Let your first card dry while you make a second! When everything is dry, glue your fabric embellishments to the cards for decoration.
 
-![glue](./screen-shot-2014-02-05-at-8-24-57-pm1.png "DIY Valentine's Cards by Katie Crafts; http://www.katiecrafts.com/")
+![glue](./screen-shot-2014-02-05-at-8-24-57-pm1.png "DIY Valentine's Cards by Katie Crafts; ")
 
 Let dry and write your love poems in them! So cute! Since my mother-in-law gave me the edge punchers, I’m sending one of these to her. The other is for my Grams- she loves little birds!
 
-![finished valentines](./img-07011.jpg "DIY Valentine's Cards by Katie Crafts; http://www.katiecrafts.com/")
+![finished valentines](./img-07011.jpg "DIY Valentine's Cards by Katie Crafts; ")
 
 What kind of Valentines are you making this year? What ideas do you have for scrap fabric projects? I’ll be featuring a new one each month and would love some suggestions!

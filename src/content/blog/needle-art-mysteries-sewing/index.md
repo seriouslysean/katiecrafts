@@ -4,7 +4,7 @@ publishedDate: "2014-07-14"
 excerpt: "Needle Art Mysteries: Sewing Note from Katie: My sister Jessica is going to blog weekly on the mysteries of needle art, revealed! It may be something you already know about, or something you’d like to learn more about. Coming from someone who isn’t as crafty, this series may be just the type of info you […]"
 featuredImage:
   src: "./featured.jpg"
-  alt: "Needle Art Mysteries: Sewing on Katie Crafts; http://www.katiecrafts.com"
+  alt: "Needle Art Mysteries: Sewing"
 categories:
   - slug: "crafts"
     name: "Crafts"
@@ -49,7 +49,7 @@ Some of you may be wondering why I chose to go with this one to start off with. 
 
 that can also be found on Amazon. For more involved projects you would need a sewing machine, but these kits are good for repair jobs and simple hand stitching.
 
-[![Needle Art Mysteries: Sewing on Katie Crafts; http://www.katiecrafts.com](./413-tvl2d0l.jpg)](http://amzn.to/1nldIW8)
+[![Needle Art Mysteries: Sewing](./413-tvl2d0l.jpg)](http://amzn.to/1nldIW8)
 
 Needle Kit from Amazon
 
@@ -65,7 +65,7 @@ brand new, such a new tote bag or skirt. You can also repair something you alrea
 
 In the case of making something brand new, then using a sewing machine would be the best course of action since it is faster. Every sewing machine is different, so read the safety warnings and instruction manual of the one you have or want to buy before using.
 
-[![Needle Art Mysteries: Sewing on Katie Crafts; http://www.katiecrafts.com](./img-1494.jpg)](/celebrating-old-stuff-day-my-vintage-finds/)
+[![Needle Art Mysteries: Sewing](./img-1494.jpg)](/celebrating-old-stuff-day-my-vintage-finds/)
 
 Our grandmother’s old Singer from the 1960’s
 

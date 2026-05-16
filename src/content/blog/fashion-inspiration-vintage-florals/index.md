@@ -4,7 +4,7 @@ publishedDate: "2014-08-14"
 excerpt: "Fashion Inspiration: Vintage Florals I’ve been wearing my vintage florals and butterflies print earrings and bow a lot lately. The pattern is one I’ve always been drawn to. It makes me think of my Grandmother’s blue and white dishes, cute old things I’d find in her house, pearls, and nudes- as in the color- get […]"
 featuredImage:
   src: "./featured.jpg"
-  alt: "Fashion Inspiration: Vintage Florals on Katie Crafts; http://www.katiecrafts.com"
+  alt: "Fashion Inspiration: Vintage Florals"
 categories:
   - slug: "beauty"
     name: "Beauty"

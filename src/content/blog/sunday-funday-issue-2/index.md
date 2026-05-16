@@ -76,7 +76,7 @@ Every pizza we’ve ever had at
 
 has been amazing- even the wild make-your-own selections we’ve thought up. This was no exception. The description of the Piccante pizza flat out tells you it’s going to be hot, “Spicy ham, aged provolone, crushed red hot peppers, Italian tomatoes,” but for some reason I guess I didn’t believe them. My mouth was pretty fiery the first few bites. Still, it was absolutely delightful. I’d gladly burn my mouth again for another slice.
 
-[![Piccante Pizza at Pietro's; photo by Katie Crafts; http://www.katiecrafts.com](./img-0964.jpg)](http://www.pietrospizza.com)
+[![Piccante Pizza at Pietro's; photo by](./img-0964.jpg)](http://www.pietrospizza.com)
 
 ## Project That Inspires: How To Make Custom Wrapping Paper With Stamps by Paper & Stitch
 

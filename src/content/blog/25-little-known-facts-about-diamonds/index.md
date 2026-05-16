@@ -4,7 +4,7 @@ publishedDate: "2015-04-09"
 excerpt: "25 Little Known Facts About Diamonds A few weeks ago, my friend Natalia Khon posted on her blog 25 facts about diamonds that you probably don’t know, and I thought they were so interesting! I asked her if I could share them with you guys today, and thankfully she agreed. Be sure to check out […]"
 featuredImage:
   src: "./featured.png"
-  alt: "25 Little Known Facts About Diamonds on Katie Crafts; http://www.katiecrafts.com"
+  alt: "25 Little Known Facts About Diamonds"
 categories:
   - slug: "beauty"
     name: "Beauty"
@@ -75,8 +75,6 @@ The Regent Diamond can be found at the Louvre in Paris. Photo Source: http\://fa
 
 Koh-i-Noor means “Mountain of Light”
 
-
-
 Photo Source: http\://science.nationalgeographic.com
 
 - The diamond industry is formerly conservative, secretive and tightly controlled.
@@ -90,8 +88,6 @@ Photo Source: http\://science.nationalgeographic.com
 - Congo and Angola have a large informal mining sector (smuggling).
 
 The Idol’s Eye was first seen in 1865 in London.
-
-
 
 Photo Source: http\://famousdiamonds.tripod.com
 
@@ -109,8 +105,6 @@ Photo Source: http\://famousdiamonds.tripod.com
 
 The Great Star of Africa is set in the Royal Scepter and kept with the other Crown Jewels in the Tower of London.
 
-
-
 Photo Source: http\://astratelli.com
 
 - Until the mid-1990s De Beers controlled 70-80% of rough diamond market.
@@ -123,7 +117,7 @@ Photo Source: http\://astratelli.com
 
 - The famous blue diamond is called “Hope” after name of a broker who bought it in 1830 in London.
 
-![25 Little Known Facts About Diamonds on Katie Crafts; http://www.katiecrafts.com](./hope.jpg)
+![25 Little Known Facts About Diamonds](./hope.jpg)
 
 The Hope Diamond is 45.52 carats. Photo Source: http\://mineralsciences.si.edu.htm
 

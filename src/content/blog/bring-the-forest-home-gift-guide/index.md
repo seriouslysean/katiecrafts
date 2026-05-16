@@ -4,7 +4,7 @@ publishedDate: "2015-12-14"
 excerpt: "Did you totally love the Krampus treasury last week? Me too! That’s why I was super excited when Kaitlin of Statz Ink shared a new gift guide with me. This one is called Bring the Forest Home, and it’s filled with many wonderful treasures. Get to shopping below!"
 featuredImage:
   src: "./featured.png"
-  alt: "Bring the Forest Home Gift Guide on Katie Crafts; http://www.katiecrafts.com"
+  alt: "Bring the Forest Home Gift Guide"
 categories:
   - slug: "hodgepodge"
     name: "Hodgepodge"

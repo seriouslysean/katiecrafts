@@ -4,7 +4,7 @@ publishedDate: "2014-11-06"
 excerpt: "Featured Etsy Shop: Me and Mama Creations Yay! Our Etsy Features posts are finally back with a new permanent day: Thursdays! We pick back up tradition with a fabulous Etsysian named Lia and her shop called Me and Mama Creations. Check out Lia’s interview below and find out how you can enter to win one of […]"
 featuredImage:
   src: "./featured.png"
-  alt: "Featured Etsy Shop: Me and Mama Creations on Katie Crafts; http://www.katiecrafts.com"
+  alt: "Featured Etsy Shop: Me and Mama Creations"
 categories:
   - slug: "crafts"
     name: "Crafts"
@@ -53,7 +53,7 @@ _A colourful, playful long necklace with crochet miniature tops (_
 
 _[pictured below](https://www.etsy.com/listing/157629406/handmade-crochet-jewelry-colorful-long?ref=shop_home_feat_4 "Crochet Long Necklace from Me and Mama Creations on Etsy"))_
 
-![Featured Etsy Shop: Me and Mama Creations on Katie Crafts; http://www.katiecrafts.com](./il-570xn-628613028-fbby.jpg)
+![Featured Etsy Shop: Me and Mama Creations](./il-570xn-628613028-fbby.jpg)
 
 ## Where do you find your creative inspiration?
 
@@ -61,13 +61,13 @@ _Inspiration has no limits. Sometimes I get inspired from the nature, a painting
 
 _._
 
-![Featured Etsy Shop: Me and Mama Creations on Katie Crafts; http://www.katiecrafts.com](./il-570xn-420066264-22pq.jpg)
+![Featured Etsy Shop: Me and Mama Creations](./il-570xn-420066264-22pq.jpg)
 
 ## How did you decide to open your Etsy shop?
 
 _I talked with friends of mine who already opened a shop and they persuaded me that it has better to open a shop where there is already a customer base, than to strive alone with a website where you should build you customer list from zero._
 
-![Featured Etsy Shop: Me and Mama Creations on Katie Crafts; http://www.katiecrafts.com](./il-570xn-629665039-2fh2.jpg)
+![Featured Etsy Shop: Me and Mama Creations](./il-570xn-629665039-2fh2.jpg)
 
 ## Any advice for others who want to start their own Etsy shop, or who are looking to fulfill their passion for crafting?
 

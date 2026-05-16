@@ -4,7 +4,7 @@ publishedDate: "2016-02-09"
 excerpt: "I had a blast finding outfits for last year’s Valentine’s Day, so I knew I had to do it again for this year! Here is my fashion inspiration for February 14th, 2016."
 featuredImage:
   src: "./featured.jpg"
-  alt: "Fashion Inspiration: Valentine's Day 2016 on Katie Crafts; http://www.katiecrafts.com"
+  alt: "Fashion Inspiration: Valentine's Day 2016"
 categories:
   - slug: "beauty"
     name: "Beauty"

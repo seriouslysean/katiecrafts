@@ -16,10 +16,10 @@ tags:
     name: "spud"
 ---
 
-![Spud Wearing A Bow on Katie Crafts; https://www.katiecrafts.com](./dsc-0485.jpg)
+![Spud Wearing A Bow](./dsc-0485.jpg)
 
-![Spud Wearing A Bow on Katie Crafts; https://www.katiecrafts.com](./dsc-0484.jpg)
+![Spud Wearing A Bow](./dsc-0484.jpg)
 
-![Spud Wearing A Bow on Katie Crafts; https://www.katiecrafts.com](./dsc-0481.jpg)
+![Spud Wearing A Bow](./dsc-0481.jpg)
 
 Not. Amused.

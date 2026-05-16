@@ -11,6 +11,6 @@ tags:
     name: "mabel"
 ---
 
-![Mabel on Laptop on Katie Crafts; http://www.katiecrafts.com](./img-0026.jpg)
+![Mabel on Laptop](./img-0026.jpg)
 
 Everybody’s working for the weekend

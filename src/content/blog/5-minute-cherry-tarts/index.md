@@ -4,7 +4,7 @@ publishedDate: "2015-07-17"
 excerpt: "Now that you know how to make my homemade cherry pie filling, let’s put it to use in the easiest possible way: cherry tarts! This dessert will take you all of five minutes to prepare- seriously. And it’s so delicious!"
 featuredImage:
   src: "./featured.png"
-  alt: "5 Minute Cherry Tarts Recipe on Katie Crafts; http://www.katiecrafts.com"
+  alt: "5 Minute Cherry Tarts Recipe"
 categories:
   - slug: "cooks"
     name: "Cooks"

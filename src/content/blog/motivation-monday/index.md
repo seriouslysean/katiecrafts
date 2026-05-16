@@ -4,7 +4,7 @@ publishedDate: "2016-01-25"
 excerpt: "Maybe it’s the several feet of snow keeping us inside the house, or maybe it’s just that time of year- but the Husband and I have mega wanderlust right now! We really want to plan a trip soon, though the where and when (and how!) are fuzzy. All this travel talk made me want to look up some great quotes on traveling. I love this one from Susan Sontag."
 featuredImage:
   src: "./featured.png"
-  alt: "Motivation Monday: Travel on Katie Crafts; http://www.katiecrafts.com"
+  alt: "Motivation Monday: Travel"
 categories:
   - slug: "hodgepodge"
     name: "Hodgepodge"

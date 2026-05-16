@@ -4,7 +4,7 @@ publishedDate: "2016-05-19"
 excerpt: "This month is Graduation month for tons of students! They are moving on to a new school in the Fall, or perhaps are done all together! No matter where they are in life, let us celebrate their hard work and accomplishments with some seriously awesome handmade gift ideas. Check out what made my “gifts for […]"
 featuredImage:
   src: "./featured.jpg"
-  alt: "Gifts for Grads 2016 Shopping Guide on Katie Crafts; http://www.katiecrafts.com"
+  alt: "Gifts for Grads 2016 Shopping Guide"
 categories:
   - slug: "hodgepodge"
     name: "Hodgepodge"

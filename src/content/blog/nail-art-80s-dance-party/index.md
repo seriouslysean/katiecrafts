@@ -70,7 +70,7 @@ It’s very rare that my sister, Jessica, lets me paint her nails. However, when
 
   It’s mega glossy, which I love.
 
-![Nail Art: 80s Dance Party by Katie Crafts; http://www.katiecrafts.com](./img-1020.jpg)
+![Nail Art: 80s Dance Party by](./img-1020.jpg)
 
 - After her nails were dry, it was time to paint the middle finger on each hand with one coat of the somewhat different teal sparkle color. I used
 
@@ -94,17 +94,17 @@ It’s very rare that my sister, Jessica, lets me paint her nails. However, when
 
   **NYC Nail Polish.**
 
-![Nail Art: 80s Dance Party by Katie Crafts; http://www.katiecrafts.com](./80s-nails-1.png)
+![Nail Art: 80s Dance Party by](./80s-nails-1.png)
 
 - Don’t worry about the bits that get on your fingers- you’ll clean these later!
 
-![Nail Art: 80s Dance Party by Katie Crafts; http://www.katiecrafts.com](./img-1023.jpg)
+![Nail Art: 80s Dance Party by](./img-1023.jpg)
 
 - By the time you are finished with your 80s confetti dot dance party, your middle fingers should be dry. Paint a pink heart on the corner of each of them.
 
 - Lock in the look with some clear polish! Enjoy!
 
-![Nail Art: 80s Dance Party by Katie Crafts; http://www.katiecrafts.com](./img-1028.jpg)
+![Nail Art: 80s Dance Party by](./img-1028.jpg)
 
 Hope you enjoyed this simple 80s Dance Party nail art design! Thanks for being my guinea pig, Jess!
 

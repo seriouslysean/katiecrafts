@@ -4,7 +4,7 @@ publishedDate: "2015-11-12"
 excerpt: "Thanksgiving is two weeks from today! It’s been my holiday to cook for over ten years, but this year we are heading to my aunt’s house instead. I’ll miss cooking everything, but I’ll still enjoy my favorite meal of the year- and this year I’ll get to actually see the Philly Thanksgiving Day Parade, which […]"
 featuredImage:
   src: "./featured.png"
-  alt: "My Etsy Picks: Thanksgiving Faves on Katie Crafts; http://www.katiecrafts.com"
+  alt: "My Etsy Picks: Thanksgiving Faves"
 categories:
   - slug: "hodgepodge"
     name: "Hodgepodge"

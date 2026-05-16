@@ -4,7 +4,7 @@ publishedDate: "2014-09-09"
 excerpt: "Taco Tuesday: 5 Recipes! (+ Bonus Burrito Recipe!) It’s Taco Tuesday! To celebrate, I spent many hours slaving away on Pinterest (read: 30 minutes enjoying Pinterest) to find you 5 taco recipes that make me drool! I also threw in a burrito recipe for Husband, because those are his favorite. I haven’t tried any of […]"
 featuredImage:
   src: "./featured.png"
-  alt: "Taco Tuesday: 5 Recipes on Katie Crafts; http://www.katiecrafts.com"
+  alt: "Taco Tuesday: 5 Recipes"
 categories:
   - slug: "cooks"
     name: "Cooks"
@@ -71,7 +71,7 @@ Mmm. Just thinking about them makes me dizzy. Korean BBQ short rib tacos are one
 
 that looks incredible.
 
-[![Taco Tuesday: 5 Recipes on Katie Crafts; http://www.katiecrafts.com](./korean-taco-31.jpg)](http://www.ladyandpups.com/2012/11/21/chasing-kogi-truck-eng/)
+[![Taco Tuesday: 5 Recipes](./korean-taco-31.jpg)](http://www.ladyandpups.com/2012/11/21/chasing-kogi-truck-eng/)
 
 ## #4. Taco Pizza
 
@@ -81,7 +81,7 @@ If traditional tacos aren’t your thing, or you really want a spin on the old c
 
 !
 
-[![Taco Tuesday: 5 Recipes on Katie Crafts; http://www.katiecrafts.com](./exps1847-th0401c39d.jpg)](http://www.tasteofhome.com/recipes/taco-pizza)
+[![Taco Tuesday: 5 Recipes](./exps1847-th0401c39d.jpg)](http://www.tasteofhome.com/recipes/taco-pizza)
 
 ## #5. Layered Chopped Taco Salad
 
@@ -89,7 +89,7 @@ If traditional tacos aren’t your thing, or you really want a spin on the old c
 
 is responsible for this deconstructed taco recipe, and it looks great! I love the idea of individual little bowls of salad using all taco ingredients. It looks way better than any taco salad I’ve received in a restaurant! Plus there are FRITOS on top! Anyway, salads are healthy… 😉
 
-## [![Taco Tuesday: 5 Recipes on Katie Crafts; http://www.katiecrafts.com](./layered-chopped-taco-salad.jpg)](http://www.foodiewithfamily.com/2014/07/10/layered-chopped-taco-salad/)
+## [![Taco Tuesday: 5 Recipes](./layered-chopped-taco-salad.jpg)](http://www.foodiewithfamily.com/2014/07/10/layered-chopped-taco-salad/)
 
 ## BURRITO BONUS: Neato Frito Over-stuffed Burrito
 
@@ -99,7 +99,7 @@ Husband actually found this one all on his own. It also hails from
 
 (have you checked the site out yet? There are so many good recipes!) and I have to say, it looks disgustingly delicious (and I don’t usually go for burritos!) I mean, pulled pork…cheeses…guac…more Fritos… how can I say no? Just look at it. LOOK!
 
-[![Taco Tuesday: 5 Recipes on Katie Crafts; http://www.katiecrafts.com](./neato-frito-overstuffed-burritos.jpg)](http://www.foodiewithfamily.com/2014/02/11/neato-frito-overstuffed-burritos/)
+[![Taco Tuesday: 5 Recipes](./neato-frito-overstuffed-burritos.jpg)](http://www.foodiewithfamily.com/2014/02/11/neato-frito-overstuffed-burritos/)
 
 All of these recipes (at least, the ones in shells) require soft taco shells, but I always opt for hard ones if I can- the crunch is my favorite part of a taco! Now that I’m starving, I’m going to leave you to your taco dreams. Enjoy!
 

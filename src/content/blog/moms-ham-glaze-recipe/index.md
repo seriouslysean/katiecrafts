@@ -4,7 +4,7 @@ publishedDate: "2014-04-21"
 excerpt: "Recipe: Mom’s Ham Glaze Every Easter for as long as I can remember, we’ve had a baked ham. We also have ham at Christmas, and on my birthday. I really, really love baked ham. I love it because my mom made this glaze of pineapples and brown sugar that was just soooooo delicious! I would […]"
 featuredImage:
   src: "./featured.png"
-  alt: "Mom's Ham Glaze Recipe on Katie Crafts; http://www.katiecrafts.com"
+  alt: "Mom's Ham Glaze Recipe"
 categories:
   - slug: "cooks"
     name: "Cooks"
@@ -63,21 +63,21 @@ These ingredients yield enough ham glaze to cover and use as topping for a large
 >
 > - Then I put the pineapple chunks into a bowl and used a potato masher to smash them up. It was fun! Very messy, though.
 >
-> ![Mom's Ham Glaze Recipe on Katie Crafts; https://www.katiecrafts.com](./ham-glaze-juice.jpg)
+> ![Mom's Ham Glaze Recipe](./ham-glaze-juice.jpg)
 >
-> ![Mom's Ham Glaze Recipe on Katie Crafts; https://www.katiecrafts.com](./ham-glaze-chunks-before.jpg)
+> ![Mom's Ham Glaze Recipe](./ham-glaze-chunks-before.jpg)
 >
-> ![Mom's Ham Glaze Recipe on Katie Crafts; https://www.katiecrafts.com](./ham-glaze-chunks-after.jpg)
+> ![Mom's Ham Glaze Recipe](./ham-glaze-chunks-after.jpg)
 
-![Mom's Ham Glaze Recipe on Katie Crafts; https://www.katiecrafts.com](./ham-glaze-add-mustard.jpg)
+![Mom's Ham Glaze Recipe](./ham-glaze-add-mustard.jpg)
 
-![Mom's Ham Glaze Recipe on Katie Crafts; https://www.katiecrafts.com](./ham-glaze-brown-sugar.jpg)
+![Mom's Ham Glaze Recipe](./ham-glaze-brown-sugar.jpg)
 
 - Add three tablespoons of brown sugar and one teaspoon of mustard to your pineapple chunks and mix. Use any mustard you like! Dijon was my mom’s favorite. I like honey mustard. My dad likes this mustard from the deli, so that’s what we used this time. Each different mustard gives the glaze a different flavor, but it’s always good!
 
-![Mom's Ham Glaze Recipe on Katie Crafts; https://www.katiecrafts.com](./ham-glaze-cook.jpg)
+![Mom's Ham Glaze Recipe](./ham-glaze-cook.jpg)
 
-![Mom's Ham Glaze Recipe on Katie Crafts; https://www.katiecrafts.com](./ham-glaze-simmer.jpg)
+![Mom's Ham Glaze Recipe](./ham-glaze-simmer.jpg)
 
 - After the three ingredients are mixed, put them in a small pot and bring to a simmer.
 
@@ -85,21 +85,21 @@ These ingredients yield enough ham glaze to cover and use as topping for a large
 
 - After the glaze is simmering and hot, follow the instructions on your cornstarch container to make a little cornstarch mixture at a time. ALWAYS add just a teaspoon worth of cornstarch to your food at a time- you can always add more, but it’s hard to thin it back out if you’ve added too much!
 
-![Mom's Ham Glaze Recipe on Katie Crafts; http://www.katiecrafts.com](./ham-glaze-cornstarch.jpg)
+![Mom's Ham Glaze Recipe](./ham-glaze-cornstarch.jpg)
 
 - When you’re happy with the thickness of your glaze, turn off the stove top because you’re DONE! Now it’s time to glaze the ham. Only use HALF of your pot, making sure to spread the glaze over each side. Let cook for 20 minutes.
 
-![Mom's Ham Glaze Recipe on Katie Crafts; https://www.katiecrafts.com](./img-2664.jpg)
+![Mom's Ham Glaze Recipe](./img-2664.jpg)
 
-![Mom's Ham Glaze Recipe on Katie Crafts; https://www.katiecrafts.com](./img-2665.jpg)
+![Mom's Ham Glaze Recipe](./img-2665.jpg)
 
-![Mom's Ham Glaze Recipe on Katie Crafts; https://www.katiecrafts.com](./img-2666.jpg)
+![Mom's Ham Glaze Recipe](./img-2666.jpg)
 
 - After the 20 minutes is up and your ham is finished and out of the oven, spoon out some of the juice from the bottom of the pan and return it to the ham glaze that is still in the pot. Turn the stove back on and re-heat the glaze, giving it a good mix. Transfer to whatever dish you are serving it in, and it’s ready to eat!
 
 - Smother it on your ham, potatoes, macaroni salad, or anything else on your plate. Salivate while thinking of it only an hour later when you write up a blog post about it. Enjoy!
 
-![Mom's Ham Glaze Recipe on Katie Crafts; http://www.katiecrafts.com](./ham-glaze-dinner.jpg)
+![Mom's Ham Glaze Recipe](./ham-glaze-dinner.jpg)
 
 ## Tips:
 

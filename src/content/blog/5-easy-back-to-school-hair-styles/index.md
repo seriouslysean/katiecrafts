@@ -4,7 +4,7 @@ publishedDate: "2014-08-21"
 excerpt: "5 Easy Back To School Hair Styles I may not be going back to school in a few weeks (nor have I in almost 10 years… which makes me feel old…) but maybe some of you students or teachers are! Perhaps a few easy-to-master mega cute hair styles are just what you need under your […]"
 featuredImage:
   src: "./featured.jpg"
-  alt: "5 Easy Back To School Hair Styles on Katie Crafts; http://www.katiecrafts.com"
+  alt: "5 Easy Back To School Hair Styles"
 categories:
   - slug: "beauty"
     name: "Beauty"
@@ -41,19 +41,19 @@ I love braids. Incorporating a few in a simple ponytail sounds like just the rig
 
 ## #3. The Hair Bow
 
-## [![5 Easy Back To School Hair Styles on Katie Crafts; http://www.katiecrafts.com](./hairbowtutorial.jpg)](http://weseerainbows.wordpress.com/2012/05/04/find-me-here-wedo-a-hair-bow-for-benefit-cosmetics/)
+## [![5 Easy Back To School Hair Styles](./hairbowtutorial.jpg)](http://weseerainbows.wordpress.com/2012/05/04/find-me-here-wedo-a-hair-bow-for-benefit-cosmetics/)
 
 I’m not sure if my hair will work with this style, but I’d love to try it out! The little bow is SO cute, especially for someone who has naturally long and straight hair- it’s a little something extra that gives the person sitting at the desk behind you something adorable to look at!
 
 ## #4. Knot Your Average Pony
 
-## [![5 Easy Back To School Hair Styles on Katie Crafts; http://www.katiecrafts.com](./tbdknottyknotty1.jpg)](http://thebeautydepartment.com/2011/04/a-do-for-you/)
+## [![5 Easy Back To School Hair Styles](./tbdknottyknotty1.jpg)](http://thebeautydepartment.com/2011/04/a-do-for-you/)
 
 This one also looks nice and simple! My hair isn’t long enough to try it yet, but when it is I’ll definitely give it a whirl!
 
 ## #5. Swoop Bang + High Bun
 
-## [![5 Easy Back To School Hair Styles on Katie Crafts; http://www.katiecrafts.com](./23.jpg)](http://www.loxabeauty.com/thelayer/natural-hair-diy-5-back-to-school-inspired-styles/)
+## [![5 Easy Back To School Hair Styles](./23.jpg)](http://www.loxabeauty.com/thelayer/natural-hair-diy-5-back-to-school-inspired-styles/)
 
 Wearing my hair curly, puling it back with a side part and swooping the front half down and pinning it sounds like an easy and really great style when I’m in a rush! I can’t wait to see how it turns out!
 

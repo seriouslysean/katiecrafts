@@ -4,7 +4,7 @@ publishedDate: "2014-06-26"
 excerpt: "Review of Jade Journey on Etsy A couple of weeks ago, I revealed my total obsession with all things anchors! In my “Anchors Away” Etsy treasury, I included this really adorable Key Fob by a shop named Jade Journey. As a ‘thank you’ for including her, the shop owner, Dawn, sent me my very own […]"
 featuredImage:
   src: "./featured.jpg"
-  alt: "Review of Jade Journey on Katie Crafts; http://www.katiecrafts.com"
+  alt: "Review of Jade Journey"
 categories:
   - slug: "crafts"
     name: "Crafts"
@@ -41,19 +41,19 @@ Etsy treasury, I included this really adorable Key Fob by a shop named
 
 First of all, this is the very first thing with my new initials on it! As you may know, I was married back in October. However, I didn’t officially change my last name until just a few weeks ago. When Dawn asked me what initials I wanted for the monogram, I was quite excited to be able to use my brand new ones!
 
-![Review of Jade Journey on Katie Crafts; https://www.katiecrafts.com](./img-4047.jpg)
+![Review of Jade Journey](./img-4047.jpg)
 
-![Review of Jade Journey on Katie Crafts; https://www.katiecrafts.com](./photo-jun-25-11-46-21-pm.jpg)
+![Review of Jade Journey](./photo-jun-25-11-46-21-pm.jpg)
 
 She also asked me what color seersucker I wanted. She had a bunch to choose from, but I inevitably went with the mint/aqua duo (#10)- since mint is my current favorite color. I think with the navy lettering it looks completely perfect together!
 
-[![Review of Jade Journey on Katie Crafts; http://www.katiecrafts.com](./il-570xn-558802734-5wxq.jpg)](https://www.etsy.com/shop/jadejourney)
+[![Review of Jade Journey](./il-570xn-558802734-5wxq.jpg)](https://www.etsy.com/shop/jadejourney)
 
 photo credit: jade journey
 
 The fob is nice and sturdy and definitely very well made. I know I’ll be using it for quite a long time- and it’s much easier to find my keys in my gigantic Summer bag now, too. 😉 This would be such a great gift idea for a gaggle of bridesmaids or matching family ones in different colors!
 
-![Review of Jade Journey on Katie Crafts; http://www.katiecrafts.com](./img-4048.jpg)
+![Review of Jade Journey](./img-4048.jpg)
 
 Pop on in to
 

@@ -19,4 +19,4 @@ tags:
     name: "snuggly"
 ---
 
-![Sexy Lucky Cat on Katie Crafts; http://www.katiecrafts.com](./img-7992.jpg)
+![Sexy Lucky Cat](./img-7992.jpg)

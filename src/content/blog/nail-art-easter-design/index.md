@@ -48,7 +48,7 @@ This week’s nail art design is perfect for Easter Sunday! It incorporates litt
 
 - Do a coat of clear base coat and let it dry.
 
-![Nail Art: Easter Design by Katie Crafts; http://www.katiecrafts.com](./img-2432.jpg)
+![Nail Art: Easter Design by](./img-2432.jpg)
 
 - Once dry, you’ll paint your first coat of the sheer pink transparent nail polish on. I picked the lightest shade from my
 
@@ -56,48 +56,48 @@ This week’s nail art design is perfect for Easter Sunday! It incorporates litt
 
   It’s a great set!
 
-![Nail Art: Easter Design by Katie Crafts; http://www.katiecrafts.com](./img-2435.jpg)
+![Nail Art: Easter Design by](./img-2435.jpg)
 
 - After a first coat is dry, do a second if your polish is streaky. I may have even gone for a third with this one, but I was getting too impatient! You can see below that a second coat wasn’t even too noticeable!
 
-![Nail Art: Easter Design by Katie Crafts; https://www.katiecrafts.com](./sheer-nails-1-coat.png)
+![Nail Art: Easter Design by](./sheer-nails-1-coat.png)
 
-![Nail Art: Easter Design by Katie Crafts; https://www.katiecrafts.com](./two-coats-sheer.png)
+![Nail Art: Easter Design by](./two-coats-sheer.png)
 
 - Next you can do your accent nail. I used a white striper to draw a criss-cross basket weave/lattice design on my ring fingers.
 
-![Nail Art: Easter Design by Katie Crafts; http://www.katiecrafts.com](./img-2437.jpg)
+![Nail Art: Easter Design by](./img-2437.jpg)
 
 - Next, I used my dotting tool to make two flowers on each accent nail. I made five dots for the bigger flower, and four for the smaller. Use whatever colors you like for the petals! Just be sure the center of each flower is in a contrasting color!
 
-![Nail Art: Easter Design by Katie Crafts; https://www.katiecrafts.com](./img-2438.jpg)
+![Nail Art: Easter Design by](./img-2438.jpg)
 
-![Nail Art: Easter Design by Katie Crafts; https://www.katiecrafts.com](./img-2439.jpg)
+![Nail Art: Easter Design by](./img-2439.jpg)
 
 - Now you can move on to the eggs! Make different sized, different colored eggs using your dotting tools on each nail. Play around with them! Put them wherever you like!
 
-![Nail Art: Easter Design by Katie Crafts; https://www.katiecrafts.com](./img-2440.jpg)
+![Nail Art: Easter Design by](./img-2440.jpg)
 
-![Nail Art: Easter Design by Katie Crafts; https://www.katiecrafts.com](./img-2441.jpg)
+![Nail Art: Easter Design by](./img-2441.jpg)
 
-![Nail Art: Easter Design by Katie Crafts; https://www.katiecrafts.com](./img-2442.jpg)
+![Nail Art: Easter Design by](./img-2442.jpg)
 
-![Nail Art: Easter Design by Katie Crafts; https://www.katiecrafts.com](./img-2443.jpg)
+![Nail Art: Easter Design by](./img-2443.jpg)
 
 - Once all your eggs are in a row, it’s time to put speckles on them! I used the tip of my striper tool to do this, but you can use a dotting tool again!
 
-![Nail Art: Easter Design by Katie Crafts; https://www.katiecrafts.com](./img-2448.jpg)
+![Nail Art: Easter Design by](./img-2448.jpg)
 
-![Nail Art: Easter Design by Katie Crafts; https://www.katiecrafts.com](./img-2446.jpg)
+![Nail Art: Easter Design by](./img-2446.jpg)
 
 - Put on a coat of clear top coat and you’re golden!
 
-![Nail Art: Easter Design by Katie Crafts; http://www.katiecrafts.com](./img-2444.jpg)
+![Nail Art: Easter Design by](./img-2444.jpg)
 
 - Once your nails are totally 110% dry, gently scrap the excess polish off your skin while washing your hands.
 
-![Nail Art: Easter Design by Katie Crafts; http://www.katiecrafts.com](./img-2446-2.jpg)
+![Nail Art: Easter Design by](./img-2446-2.jpg)
 
 Enjoy your new Easter egg and flower basket nails! Hope you like them! If you use this design, snap a pic and share it in the comments below!
 
-![Nail Art: Easter Design by Katie Crafts; http://www.katiecrafts.com](./img-2451.jpg)
+![Nail Art: Easter Design by](./img-2451.jpg)

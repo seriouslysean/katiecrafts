@@ -4,7 +4,7 @@ publishedDate: "2015-01-19"
 excerpt: "5 Projects For 2015 A new year means new beginnings… and new projects! There are a million ideas running through my head of things I want to try out, but these five projects are my favorite! I can’t wait to get them started in the upcoming months and share my results with you!"
 featuredImage:
   src: "./featured.png"
-  alt: "Five Projects For 2015 by Katie Crafts; http://www.katiecrafts.com"
+  alt: "Five Projects For 2015 by"
 categories:
   - slug: "crafts"
     name: "Crafts"

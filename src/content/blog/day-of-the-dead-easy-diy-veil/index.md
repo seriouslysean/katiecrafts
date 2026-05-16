@@ -4,7 +4,7 @@ publishedDate: "2015-10-28"
 excerpt: "Husband and I are going to be sugar skulls for Halloween this year! He’s wearing a full on skeleton suit, complete with a top hat and bowtie, and I’m wearing a dress, stockings, skeleton gloves, jewelry and a veil. I’m also painting both our faces as sugar skulls! Finding the kind of veil I wanted was […]"
 featuredImage:
   src: "./featured.png"
-  alt: "Day of the Dead Easy DIY Veil Tutorial on Katie Crafts; http://www.katiecrafts.com"
+  alt: "Day of the Dead Easy DIY Veil Tutorial"
 categories:
   - slug: "crafts"
     name: "Crafts"

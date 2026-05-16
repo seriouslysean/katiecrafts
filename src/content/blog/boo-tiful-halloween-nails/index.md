@@ -4,7 +4,7 @@ publishedDate: "2015-10-12"
 excerpt: "Happy Monday! With less than three weeks to go til Halloween, I started playing around with the nail art I wanted to try, and came up with this super easy and boo-tiful design! It’s what I wore to New York Comic Con over the weekend (long recap post on that coming later in the week!) […]"
 featuredImage:
   src: "./featured.png"
-  alt: "Boo-tiful Halloween Nail Art Tutorial by Katie Crafts; http://www.katiecrafts.com"
+  alt: "Boo-tiful Halloween Nail Art Tutorial by"
 categories:
   - slug: "beauty"
     name: "Beauty"
@@ -51,9 +51,9 @@ I was originally going to make this design as all little ghosts, but decided to 
 
 - Starting with clean, dry nails, paint clear base coat on each nail and let dry completely.
 
-![Boo-tiful Halloween Nail Art Tutorial by Katie Crafts; https://www.katiecrafts.com](./img-4020.jpg)
+![Boo-tiful Halloween Nail Art Tutorial by](./img-4020.jpg)
 
-![Boo-tiful Halloween Nail Art Tutorial by Katie Crafts; https://www.katiecrafts.com](./img-4021.jpg)
+![Boo-tiful Halloween Nail Art Tutorial by](./img-4021.jpg)
 
 - Do one coat of black polish and let dry. (above left)
 
@@ -65,7 +65,7 @@ I was originally going to make this design as all little ghosts, but decided to 
 
 * Now it’s time for your accent nail monsters and pumpkins! Paint orange over the white for the pumpkin nails, and paint green over the white for the monster nails. It’s important to paint these shades over dried white as the colors on top of black will just get lost. Let dry.
 
-![Boo-tiful Halloween Nail Art Tutorial by Katie Crafts; http://www.katiecrafts.com](./img-4030.jpg)
+![Boo-tiful Halloween Nail Art Tutorial by](./img-4030.jpg)
 
 - When
 
@@ -73,33 +73,33 @@ I was originally going to make this design as all little ghosts, but decided to 
 
   dry, go over the white ghost nails once again to make sure it’s opaque. Let dry.
 
-![Boo-tiful Halloween Nail Art Tutorial by Katie Crafts; https://www.katiecrafts.com](./img-4031.jpg)
+![Boo-tiful Halloween Nail Art Tutorial by](./img-4031.jpg)
 
-![Boo-tiful Halloween Nail Art Tutorial by Katie Crafts; https://www.katiecrafts.com](./img-4032.jpg)
+![Boo-tiful Halloween Nail Art Tutorial by](./img-4032.jpg)
 
 - Use the dotting tool dipped in yellow nail polish to make the eye on monsters.
 
-![Boo-tiful Halloween Nail Art Tutorial by Katie Crafts; http://www.katiecrafts.com](./img-4034.jpg)
+![Boo-tiful Halloween Nail Art Tutorial by](./img-4034.jpg)
 
 - Place the red gems wherever you like them in the yellow eye to complete the monsters.
 
 - Use the nail art brush dipped in black nail polish to paint lines on the pumpkins. Use the green polish to finish the stems.
 
-![Boo-tiful Halloween Nail Art Tutorial by Katie Crafts; http://www.katiecrafts.com](./img-4037.jpg)
+![Boo-tiful Halloween Nail Art Tutorial by](./img-4037.jpg)
 
 - Use the small end of the dotting tool dipped in black polish to make eyes on each ghost.
 
-![Boo-tiful Halloween Nail Art Tutorial by Katie Crafts; https://www.katiecrafts.com](./img-4040.jpg)
+![Boo-tiful Halloween Nail Art Tutorial by](./img-4040.jpg)
 
-![Boo-tiful Halloween Nail Art Tutorial by Katie Crafts; https://www.katiecrafts.com](./img-4041.jpg)
+![Boo-tiful Halloween Nail Art Tutorial by](./img-4041.jpg)
 
 - When all your nails are totally dry (read: I thought mine were dry but they weren’t and some of my ghosts streaked a little!), do a coat of clear matte on each nail to finish off the look.
 
-![Boo-tiful Halloween Nail Art Tutorial by Katie Crafts; http://www.katiecrafts.com](./streaked-nails.png)
+![Boo-tiful Halloween Nail Art Tutorial by](./streaked-nails.png)
 
 That’s better!
 
-![Boo-tiful Halloween Nail Art Tutorial by Katie Crafts; http://www.katiecrafts.com](./img-4042.jpg)
+![Boo-tiful Halloween Nail Art Tutorial by](./img-4042.jpg)
 
 That’s all you need to do to get some totally boo-tiful halloween nails! If you try out the look, be sure to show me a pic in the comments below! And don’t forget about my
 

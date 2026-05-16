@@ -4,7 +4,7 @@ publishedDate: "2014-07-24"
 excerpt: "Fashion Inspiration: Gold & Black I’ve always loved the combination of black and gold together! It looks so classy and fun no matter what the occasion is. I put together this super cute look of items I totally love and wish I could have! The purse from Target is currently on sale, so there’s a […]"
 featuredImage:
   src: "./featured.jpg"
-  alt: "Fashion Inspiration: Gold & Black on Katie Crafts; http://www.katiecrafts.com"
+  alt: "Fashion Inspiration: Gold & Black"
 categories:
   - slug: "beauty"
     name: "Beauty"

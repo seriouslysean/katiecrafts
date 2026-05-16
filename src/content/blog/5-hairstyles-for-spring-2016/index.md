@@ -4,7 +4,7 @@ publishedDate: "2016-03-02"
 excerpt: "It’s March! That means we are a mere two and a half weeks away from it being SPRING! I have lots of Spring posts lined up for the next month in celebration of warmer weather and sunny days ahead. First up is a post about how to wear your hair this season! I found 5 hairstyles for Spring 2016 that look effortless and lovely that just about anyone can pull off."
 featuredImage:
   src: "./featured.jpg"
-  alt: "5 Hairstyles For Spring on Katie Crafts; http://www.katiecrafts.com"
+  alt: "5 Hairstyles For Spring"
 categories:
   - slug: "beauty"
     name: "Beauty"
@@ -63,7 +63,7 @@ One 2016 Spring hair trend according to NYFW and
 
 . How cute is this wavy/messy/classy bob?!
 
-![5 Hairstyles For Spring on Katie Crafts; http://www.katiecrafts.com](./spring-hair-5.jpg)
+![5 Hairstyles For Spring](./spring-hair-5.jpg)
 
 Are there any other
 
@@ -75,7 +75,7 @@ fans here? I admit, it’s my favorite guilty pleasure show! Lucy Hale’s chara
 
 ?
 
-![5 Hairstyles For Spring on Katie Crafts; http://www.katiecrafts.com](./spring-hair-2.jpg)
+![5 Hairstyles For Spring](./spring-hair-2.jpg)
 
 A final look for the Spring seems like a fairly simple idea from
 

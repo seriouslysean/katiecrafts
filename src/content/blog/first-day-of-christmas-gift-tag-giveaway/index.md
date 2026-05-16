@@ -4,7 +4,7 @@ publishedDate: "2014-12-01"
 excerpt: "First Day of Christmas: Gift Tag Giveaway ♫ On the first day of Christmas, Katie Crafts gave to me- A great giveaway with Veronica Foley! ♫ Today is December 1st, so we can finally begin the holiday season with our 12 days of Christmas. There will be a brand new post every day from now […]"
 featuredImage:
   src: "./featured.png"
-  alt: "First Day of Christmas: Gift Tags Giveaway on Katie Crafts; http://www.katiecrafts.com"
+  alt: "First Day of Christmas: Gift Tags Giveaway"
 categories:
   - slug: "crafts"
     name: "Crafts"

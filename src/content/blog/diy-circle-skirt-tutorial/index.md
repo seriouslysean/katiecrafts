@@ -4,7 +4,7 @@ publishedDate: "2014-05-27"
 excerpt: "Project: DIY Circle Skirt Tutorial Today, I’m going to teach you the tutorial I’ve been really excited about since the day I learned how to turn on my sewing machine! Circle skirts are one of my favoritest things ever (what girl doesn’t love to twirl?), so I was both happy and terrified to try my […]"
 featuredImage:
   src: "./featured.jpg"
-  alt: "DIY Circle Skirt Tutorial on Katie Crafts; http://www.katiecrafts.com"
+  alt: "DIY Circle Skirt Tutorial"
 categories:
   - slug: "crafts"
     name: "Crafts"
@@ -69,13 +69,13 @@ _lightweight fabric_
 
 (that won’t bunch or add bulk to the hips) should work!
 
-![DIY Circle Skirt Tutorial on Katie Crafts; http://www.katiecrafts.com](./img-3275.jpg)
+![DIY Circle Skirt Tutorial](./img-3275.jpg)
 
 See the texture?
 
 > This tutorial specifically uses a fabric that was too small to cut a full donut/circle with, so you can see what to do if your material isn’t wide enough. The fabric for the other skirt in the featured image was wide enough and therefore did not need the extra steps. Both skirts twirl exactly the same, so don’t worry about losing anything in making two halves sewn together rather than one whole right off the bat- I love both versions of this skirt!
 
-![DIY Circle Skirt Tutorial on Katie Crafts; http://www.katiecrafts.com](./img-2734.jpg)
+![DIY Circle Skirt Tutorial](./img-2734.jpg)
 
 ## Instructions:
 
@@ -121,7 +121,7 @@ _Steps on making the skirt:_
 >
 > _minus two inches_
 >
-> , measure and cut your elastic.
+>, measure and cut your elastic.
 >
 > _I’ve read many tutorials that recommend you_
 >
@@ -135,19 +135,19 @@ _Steps on making the skirt:_
 
 - Trim the excess and press open as flat as you can get it. Stitch down if you like. Add label here if you have one!
 
-![DIY Circle Skirt Tutorial on Katie Crafts; https://www.katiecrafts.com](./img-3256.jpg)
+![DIY Circle Skirt Tutorial](./img-3256.jpg)
 
-![DIY Circle Skirt Tutorial on Katie Crafts; https://www.katiecrafts.com](./img-3257.jpg)
+![DIY Circle Skirt Tutorial](./img-3257.jpg)
 
-![DIY Circle Skirt Tutorial on Katie Crafts; https://www.katiecrafts.com](./img-3258.jpg)
+![DIY Circle Skirt Tutorial](./img-3258.jpg)
 
-![DIY Circle Skirt Tutorial on Katie Crafts; https://www.katiecrafts.com](./img-3259.jpg)
+![DIY Circle Skirt Tutorial](./img-3259.jpg)
 
 - Now for the pattern. You can skip making a paper pattern if you don’t think you’ll be making more than one skirt, but I knew I would be and so a paper pattern was a must (or else I’d have to do all these calculations and whatnot again next time!)
 
 - Tape a whole bunch of papers together! You’ll be working from the corner, so it needs to be at least as long on each side as the length of your radius + the length of your skirt.
 
-![DIY Circle Skirt Tutorial on Katie Crafts; http://www.katiecrafts.com](./img-3233.jpg)
+![DIY Circle Skirt Tutorial](./img-3233.jpg)
 
 - Use a ruler or your measuring tape to measure out your radius from the corner on one side, then the other.
 
@@ -155,23 +155,23 @@ _Steps on making the skirt:_
 
 - Connect the dots!
 
-![DIY Circle Skirt Tutorial on Katie Crafts; https://www.katiecrafts.com](./img-3234.jpg)
+![DIY Circle Skirt Tutorial](./img-3234.jpg)
 
-![DIY Circle Skirt Tutorial on Katie Crafts; https://www.katiecrafts.com](./img-3235.jpg)
+![DIY Circle Skirt Tutorial](./img-3235.jpg)
 
-![DIY Circle Skirt Tutorial on Katie Crafts; https://www.katiecrafts.com](./img-3237.jpg)
+![DIY Circle Skirt Tutorial](./img-3237.jpg)
 
 - Now from that new line (not from the corner, any more!), measure your skirt length! My desired length was 20″ +1″ for hem, so I measured 21″ down and marked it. Do the same procedure you did a moment ago, making a series of dots all the way around in an arc.
 
-![DIY Circle Skirt Tutorial on Katie Crafts; http://www.katiecrafts.com](./circle-skirt-lucky.jpg)
+![DIY Circle Skirt Tutorial](./circle-skirt-lucky.jpg)
 
 - Connect the dots again!
 
-![DIY Circle Skirt Tutorial on Katie Crafts; http://www.katiecrafts.com](./img-3239.jpg)
+![DIY Circle Skirt Tutorial](./img-3239.jpg)
 
 - Now cut along your lines and you have your pattern, which is precisely one quarter of your skirt! It looks huge- imagine how gigantic it’s going to be when you have a full skirt!
 
-![DIY Circle Skirt Tutorial on Katie Crafts; http://www.katiecrafts.com](./img-3244.jpg)
+![DIY Circle Skirt Tutorial](./img-3244.jpg)
 
 - If your fabric is wide enough to accommodate one whole circle, you will simply fold your fabric in fourths, lining up the folds with the pattern. If your fabric is
 
@@ -181,15 +181,15 @@ _Steps on making the skirt:_
 
   _\*Tip: use a pencil or chalk to mark folds to be sure everything is even!_
 
-![DIY Circle Skirt Tutorial on Katie Crafts; https://www.katiecrafts.com](./circle-skirt-pattern.jpg)
+![DIY Circle Skirt Tutorial](./circle-skirt-pattern.jpg)
 
-![DIY Circle Skirt Tutorial on Katie Crafts; https://www.katiecrafts.com](./img-3247.jpg)
+![DIY Circle Skirt Tutorial](./img-3247.jpg)
 
 - Pin the pattern on to the fabric.
 
 - Carefully follow the fabric and cut out the middle and the outside, creating either one large donut, or two donut halves.
 
-![DIY Circle Skirt Tutorial on Katie Crafts; http://www.katiecrafts.com](./img-3248.jpg)
+![DIY Circle Skirt Tutorial](./img-3248.jpg)
 
 If you have a large donut, you can skip the next two steps!
 
@@ -197,31 +197,31 @@ If you have a large donut, you can skip the next two steps!
 
 - With matching thread and a straight stitch, sew the length of each side. Cut off any excess and don’t forget the back stitching! Now you have a large donut circle skirt!
 
-![DIY Circle Skirt Tutorial on Katie Crafts; https://www.katiecrafts.com](./img-3249.jpg)
+![DIY Circle Skirt Tutorial](./img-3249.jpg)
 
-![DIY Circle Skirt Tutorial on Katie Crafts; https://www.katiecrafts.com](./circle-skirt-halves.jpg)
+![DIY Circle Skirt Tutorial](./circle-skirt-halves.jpg)
 
 - I don’t have a serger, so I couldn’t finish the ends of all the fabric with a nice stitch, but I still wanted to strengthen the end where the elastic would be stretching so it had a little more reinforcement. So, I used a simple zig zag stitch all the way around the radius/top circle.
 
-![DIY Circle Skirt Tutorial on Katie Crafts; http://www.katiecrafts.com](./circle-skirt-edging.jpg)
+![DIY Circle Skirt Tutorial](./circle-skirt-edging.jpg)
 
 - Fold up the bottom of the skirt about a half an inch and pin ALL the way around. This part took the longest, so I made sure to turn on some terrible guilty pleasure reality TV so I had something to listen to as I did it!
 
-![DIY Circle Skirt Tutorial on Katie Crafts; https://www.katiecrafts.com](./circle-skirt-before-pressing.jpg)
+![DIY Circle Skirt Tutorial](./circle-skirt-before-pressing.jpg)
 
-![DIY Circle Skirt Tutorial on Katie Crafts; https://www.katiecrafts.com](./circle-skirt-after-pressing.jpg)
+![DIY Circle Skirt Tutorial](./circle-skirt-after-pressing.jpg)
 
 - Next, I pressed (with my iron, using the steam setting) the hem to make it easier for sewing. This part isn’t mandatory, but it makes it a whole lot easier, especially with fabric that has texture or stretch.
 
-![DIY Circle Skirt Tutorial on Katie Crafts; http://www.katiecrafts.com](./img-3254.jpg)
+![DIY Circle Skirt Tutorial](./img-3254.jpg)
 
 - Using matching thread and a straight stitch, sew the hem all the way around, about 1/4″ – 1/2″ hem. Trim off excess from inside if there is a lot left over!
 
-![DIY Circle Skirt Tutorial on Katie Crafts; http://www.katiecrafts.com](./circle-skirt-hems.jpg)
+![DIY Circle Skirt Tutorial](./circle-skirt-hems.jpg)
 
 - Lay your skirt and elastic next to each other. Your skirt opening/radius should be larger than the elastic.
 
-![DIY Circle Skirt Tutorial on Katie Crafts; http://www.katiecrafts.com](./img-3261.jpg)
+![DIY Circle Skirt Tutorial](./img-3261.jpg)
 
 - Pin your elastic in 8 different spots to your skirt opening,
 
@@ -229,7 +229,7 @@ If you have a large donut, you can skip the next two steps!
 
   (your elastic is going to be a ‘belt’ that is visible, so you want that on the outside, and the fabric on the inside). You’ll need to stretch the elastic to make sure it’s even when you pin it. I pinned it about 1/2 inch to 3/4 of an inch up. It will look ridiculous- but that’s okay!
 
-![DIY Circle Skirt Tutorial on Katie Crafts; http://www.katiecrafts.com](./img-3262.jpg)
+![DIY Circle Skirt Tutorial](./img-3262.jpg)
 
 - Time to sew! Going slowly with a straight stitch (or zig zag, if that’s what you prefer!), gently
 
@@ -243,8 +243,8 @@ If you have a large donut, you can skip the next two steps!
 
 - Wear and twirl and make another!
 
-![DIY Circle Skirt Tutorial on Katie Crafts; https://www.katiecrafts.com](./img-3263.jpg)
+![DIY Circle Skirt Tutorial](./img-3263.jpg)
 
-![DIY Circle Skirt Tutorial on Katie Crafts; https://www.katiecrafts.com](./img-3269.jpg)
+![DIY Circle Skirt Tutorial](./img-3269.jpg)
 
 If you use my tutorial, share pics of your final product in the comments below! I’d love to see what you’ve made! If you have other tips for making this tutorial, let me know!

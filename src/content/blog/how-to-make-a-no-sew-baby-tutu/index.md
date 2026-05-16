@@ -4,7 +4,7 @@ publishedDate: "2015-02-16"
 excerpt: "Project: How to Make a No Sew Baby Tutu My best friend from home, K, is having her second baby TODAY– this time a little girl! She found lots of things on Etsy that she wants to get baby-to-be, but most of them are very expensive. I told her I’d take care of a few […]"
 featuredImage:
   src: "./featured.png"
-  alt: "How to Make a No Sew Baby Tutu tutorial by Katie Crafts; http://www.katiecrafts.com"
+  alt: "How to Make a No Sew Baby Tutu tutorial by"
 categories:
   - slug: "crafts"
     name: "Crafts"
@@ -89,15 +89,15 @@ in “shiny” because I want it to catch the light a little more in photos! You
 
 * You can either glue the overlap together, or sew it with your machine for extra durability. You can even hand stitch this together if you want!
 
-![How to Make a No Sew Baby Tutu tutorial by Katie Crafts; https://www.katiecrafts.com](./baby-tutu-6.jpg)
+![How to Make a No Sew Baby Tutu tutorial by](./baby-tutu-6.jpg)
 
-![How to Make a No Sew Baby Tutu tutorial by Katie Crafts; https://www.katiecrafts.com](./baby-tutu-7.jpg)
+![How to Make a No Sew Baby Tutu tutorial by](./baby-tutu-7.jpg)
 
 - Now that your waistband is made, stretch it out on the hooks of the hanger, or a roll of paper towels, or a square of cardboard or even your thigh! As long as the elastic is stretched a little bit, just not TOO much.
 
   _I started out using a hanger but realized since it’s a newborn tutu, the smallest tutu I could make, it would be too large for the elastic. SO I switched to cardboard. You’ll see what works best for you!_
 
-![How to Make a No Sew Baby Tutu tutorial by Katie Crafts; http://www.katiecrafts.com](./baby-tutu-8.jpg)
+![How to Make a No Sew Baby Tutu tutorial by](./baby-tutu-8.jpg)
 
 - Next, you will need to cut your tulle in to neat 14 inch strips. I ended up using 36 strips of each color. Combining the two pinks that are just a couple shades apart gives a great dimension to the skirt, but you can use all one color, or completely varying colors if you like.
 
@@ -107,37 +107,37 @@ in “shiny” because I want it to catch the light a little more in photos! You
 
   of static electricity on my cutting mat so my piles were more like giant messy lumps. I tried to make them neat piles for the photo, but that didn’t work out very well.
 
-![How to Make a No Sew Baby Tutu tutorial by Katie Crafts; https://www.katiecrafts.com](./baby-tutu-9.jpg)
+![How to Make a No Sew Baby Tutu tutorial by](./baby-tutu-9.jpg)
 
-![How to Make a No Sew Baby Tutu tutorial by Katie Crafts; https://www.katiecrafts.com](./baby-tutu-10.jpg)
+![How to Make a No Sew Baby Tutu tutorial by](./baby-tutu-10.jpg)
 
 - Take one piece of each color of tulle and lay them on top of each other. Give them a little pull and then fold them in half.
 
-![How to Make a No Sew Baby Tutu tutorial by Katie Crafts; http://www.katiecrafts.com](./baby-tutu-11.jpg)
+![How to Make a No Sew Baby Tutu tutorial by](./baby-tutu-11.jpg)
 
 - Place the loop under the elastic like in the photo above. Then slip knot it on to the elastic like the photos below.
 
-![How to Make a No Sew Baby Tutu tutorial by Katie Crafts; https://www.katiecrafts.com](./baby-tutu-12.jpg)
+![How to Make a No Sew Baby Tutu tutorial by](./baby-tutu-12.jpg)
 
-![How to Make a No Sew Baby Tutu tutorial by Katie Crafts; https://www.katiecrafts.com](./baby-tutu-13.jpg)
+![How to Make a No Sew Baby Tutu tutorial by](./baby-tutu-13.jpg)
 
 - Pull it tightly to make the knot the way you want it to look, but don’t pull TOO much or you’ll stretch the elastic. I’m guilty of doing this myself. Hopefully the tutu still fits the baby!
 
-![How to Make a No Sew Baby Tutu tutorial by Katie Crafts; http://www.katiecrafts.com](./baby-tutu-14.jpg)
+![How to Make a No Sew Baby Tutu tutorial by](./baby-tutu-14.jpg)
 
 - Do this all the way around until you almost reach the end, then take the elastic off of whatever you have it stretched over.
 
-![How to Make a No Sew Baby Tutu tutorial by Katie Crafts; http://www.katiecrafts.com](./baby-tutu-15.jpg)
+![How to Make a No Sew Baby Tutu tutorial by](./baby-tutu-15.jpg)
 
 - Play around with the pieces, moving them around to see if you need more tulle. I ended up not needing any more once I got to that point. The existing ones just needed some moving around to fill the elastic.
 
-![How to Make a No Sew Baby Tutu tutorial by Katie Crafts; http://www.katiecrafts.com](./baby-tutu-16.jpg)
+![How to Make a No Sew Baby Tutu tutorial by](./baby-tutu-16.jpg)
 
 - Cut a piece of ribbon whatever length you desire and slipknot it on to the elastic between two tulle knots. Make a bow and snip ends of ribbon to equal length.
 
 - Use your fingers to separate all the tulle layers and fluff it out to make a fuller tutu.
 
-![How to Make a No Sew Baby Tutu tutorial by Katie Crafts; http://www.katiecrafts.com](./baby-tutu-4.jpg)
+![How to Make a No Sew Baby Tutu tutorial by](./baby-tutu-4.jpg)
 
 - Step back and
 
@@ -149,7 +149,7 @@ in “shiny” because I want it to catch the light a little more in photos! You
 
   at your adorable work!
 
-![How to Make a No Sew Baby Tutu tutorial by Katie Crafts; http://www.katiecrafts.com](./baby-tutu-2.jpg)
+![How to Make a No Sew Baby Tutu tutorial by](./baby-tutu-2.jpg)
 
 ## Tips:
 
@@ -165,7 +165,7 @@ in “shiny” because I want it to catch the light a little more in photos! You
 
 - The glitter tulle is a lot rougher/itchier than regular or shiny tulle. Take a trip to your local craft store and feel the fabric for yourself before buying it. You may decide it’s not worth it since it will be against a baby’s skin!
 
-![How to Make a No Sew Baby Tutu tutorial by Katie Crafts; http://www.katiecrafts.com](./baby-tutu-1.jpg)
+![How to Make a No Sew Baby Tutu tutorial by](./baby-tutu-1.jpg)
 
 Welcome to the world, little
 

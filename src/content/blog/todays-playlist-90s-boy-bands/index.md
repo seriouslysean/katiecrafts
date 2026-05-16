@@ -4,7 +4,7 @@ publishedDate: "2014-04-12"
 excerpt: "Today’s Playlist: 90’s Boy Bands For whatever reason, the last week straight I’ve been singing pretty much nothing but songs from 90’s boy bands in my head. And by ‘in my head’ I mean out loud as I work, as I fold clothes in our building’s laundry room, and as I write this post. And […]"
 featuredImage:
   src: "./featured.png"
-  alt: "Today's Playlist: 90's Boy Bands on Katie Crafts; http://www.katiecrafts.com"
+  alt: "Today's Playlist: 90's Boy Bands"
 categories:
   - slug: "hodgepodge"
     name: "Hodgepodge"

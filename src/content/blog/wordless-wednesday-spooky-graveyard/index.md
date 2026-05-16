@@ -4,7 +4,7 @@ publishedDate: "2015-10-07"
 excerpt: "Philly is rich in history, as well as random cemeteries. They are all over the place! In fact, the parking lot of a store just a block from my house used to be a burial ground."
 featuredImage:
   src: "./featured.jpg"
-  alt: "Wordless Wednesday: Spooky Graveyard on Katie Crafts; http://www.katiecrafts.com"
+  alt: "Wordless Wednesday: Spooky Graveyard"
 categories:
   - slug: "hodgepodge"
     name: "Hodgepodge"

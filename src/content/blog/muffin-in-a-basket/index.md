@@ -15,4 +15,4 @@ tags:
     name: "spud"
 ---
 
-![Muffin in a Basket on Katie Crafts; http://www.katiecrafts.com](./img-1019.jpg)
+![Muffin in a Basket](./img-1019.jpg)

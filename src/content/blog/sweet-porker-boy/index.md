@@ -14,6 +14,6 @@ tags:
     name: "porker"
 ---
 
-![Sweet Porker Boy on Katie Crafts; http://www.katiecrafts.com](./img-3527.jpg)
+![Sweet Porker Boy](./img-3527.jpg)
 
 The dirtiest little cat, but also the sweetest. Porker Boy was soooooo happy to have the attention when I went home to visit last week!

@@ -4,7 +4,7 @@ publishedDate: "2015-12-05"
 excerpt: "?On the fifth day of Christmas, Katie Crafts gave to me…? A Holiday Baking Giveaway + PB Cookie Recipe! I thought we’d end the week of giveaways with a sweet follow up to yesterday’s cupcake brooch. Today you have a chance to win some Wilton items that are perfect for your holiday baking and check out […]"
 featuredImage:
   src: "./featured.png"
-  alt: "Holiday Baking Giveaway + Bonus Peanut Butter Cookie Recipe by Katie Crafts; http://www.katiecrafts.com"
+  alt: "Holiday Baking Giveaway + Bonus Peanut Butter Cookie Recipe by"
 categories:
   - slug: "cooks"
     name: "Cooks"
@@ -93,11 +93,11 @@ One of the best parts of this recipe is that it’s SO quick! You can whip up a 
 
   Sometimes I will roll the peanut butter dough into small logs instead of balls. Once they’ve baked and cooled completely, I will melt down Andes Candies in a double boiler and dip half of them in, leaving them on wax paper to dry. Mint Chocolate Peanut Butter Cookies?! Best. Ever.
 
-![Holiday Baking Giveaway + Bonus Peanut Butter Cookie Recipe by Katie Crafts; https://www.katiecrafts.com](./baking-giveaway-5.jpg)
+![Holiday Baking Giveaway + Bonus Peanut Butter Cookie Recipe by](./baking-giveaway-5.jpg)
 
-![Holiday Baking Giveaway + Bonus Peanut Butter Cookie Recipe by Katie Crafts; https://www.katiecrafts.com](./baking-giveaway-4.jpg)
+![Holiday Baking Giveaway + Bonus Peanut Butter Cookie Recipe by](./baking-giveaway-4.jpg)
 
-![Holiday Baking Giveaway + Bonus Peanut Butter Cookie Recipe by Katie Crafts; https://www.katiecrafts.com](./baking-giveaway-3.jpg)
+![Holiday Baking Giveaway + Bonus Peanut Butter Cookie Recipe by](./baking-giveaway-3.jpg)
 
 Now that I have you super excited for cookies, let’s move on to the giveaway!! One lucky winner will receive the following Wilton items:
 

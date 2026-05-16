@@ -4,7 +4,7 @@ publishedDate: "2014-03-31"
 excerpt: "Nail Art: Bachelorette Party Design! I mentioned last weekend that I was in Atlantic City for my friend’s bachelorette party! I also said that I did a fun nail design that was pretty perfect for the occasion, and that I’d share it this week! Well, here we are! Hope you like it as much as […]"
 featuredImage:
   src: "./featured.png"
-  alt: "Bachelorette Party Nail Art Design by Katie Crafts; http://www.katiecrafts.com"
+  alt: "Bachelorette Party Nail Art Design by"
 categories:
   - slug: "beauty"
     name: "Beauty"
@@ -51,7 +51,7 @@ that I was in Atlantic City for my friend’s bachelorette party! I also said th
 
 - After cleaning your nails, do a quick clear base coat on your nails.
 
-![Bachelorette Party Nail Art Design by Katie Crafts; http://www.katiecrafts.com](./bach-nails-5.jpg)
+![Bachelorette Party Nail Art Design by](./bach-nails-5.jpg)
 
 - When the clear is dry, paint your ring fingers with one coat of the pink solid-sparkly nail polish. I used
 
@@ -69,7 +69,7 @@ that I was in Atlantic City for my friend’s bachelorette party! I also said th
 
   , do a second. Let that one dry too!
 
-![Bachelorette Party Nail Art Design by Katie Crafts; http://www.katiecrafts.com](./bach-nails-1.png)
+![Bachelorette Party Nail Art Design by](./bach-nails-1.png)
 
 - Let all coats
 
@@ -77,13 +77,13 @@ that I was in Atlantic City for my friend’s bachelorette party! I also said th
 
   Now it’s time for glitter! Do one coat of pink clear-glitter over the pink nail.
 
-![Bachelorette Party Nail Art Design by Katie Crafts; http://www.katiecrafts.com](./bach-nails-2.png)
+![Bachelorette Party Nail Art Design by](./bach-nails-2.png)
 
 - Pick two nails you want to also do some pink glitter on, and give it a little ombré look with ‘layers’ of glitter.
 
 - On the remaining nails, do french tips with the gold glitter polish. Repeat glitter coats for extra sparkle!
 
-![Bachelorette Party Nail Art Design by Katie Crafts; http://www.katiecrafts.com](./bach-nails-4.png)
+![Bachelorette Party Nail Art Design by](./bach-nails-4.png)
 
 - Finish off with a glossy clear top coat. Let dry and you’re ready to party!
 

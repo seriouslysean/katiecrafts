@@ -4,7 +4,7 @@ publishedDate: "2015-08-17"
 excerpt: "If you saw my Instagram page over the weekend, you may know I went on my annual crabbing trip with my Dad. We did absolutely terribly, but we had a good time! In celebration of the trip, I painted cute little crabbies on my nails. They were easier than they look!"
 featuredImage:
   src: "./featured.png"
-  alt: "Crab Nail Art on Katie Crafts; http://www.katiecrafts.com"
+  alt: "Crab Nail Art"
 categories:
   - slug: "beauty"
     name: "Beauty"
@@ -59,9 +59,9 @@ All right, on to the nails!
 
 ## Instructions:
 
-![Crab Nail Art on Katie Crafts; https://www.katiecrafts.com](./img-3073.jpg)
+![Crab Nail Art](./img-3073.jpg)
 
-![Crab Nail Art on Katie Crafts; https://www.katiecrafts.com](./img-3072.jpg)
+![Crab Nail Art](./img-3072.jpg)
 
 - With clean dry nails, paint one coat of your light blue-green polish. I used
 
@@ -71,9 +71,9 @@ All right, on to the nails!
 
 - Paint a second coat and let dry. (above right)
 
-![Crab Nail Art on Katie Crafts; https://www.katiecrafts.com](./img-3075.jpg)
+![Crab Nail Art](./img-3075.jpg)
 
-![Crab Nail Art on Katie Crafts; https://www.katiecrafts.com](./img-3076.jpg)
+![Crab Nail Art](./img-3076.jpg)
 
 - Using the large end of your dotting tool, make a large crab-shaped dot on your accent nails with the red polish. I used
 
@@ -91,23 +91,23 @@ All right, on to the nails!
 
 _I thought my Insta-Dri red would be dry by now, and covered my nails in clear polish, dragging the red into little streaks all over my cute nails. I was so mad! Make sure yours are TOTALLY TOTALLY DRY before you do the last step or you’ll mess up your work too!_
 
-![Crab Nail Art on Katie Crafts; http://www.katiecrafts.com](./img-3081.jpg)
+![Crab Nail Art](./img-3081.jpg)
 
 - Coat in clear polish to lock in the look.
 
-![Crab Nail Art on Katie Crafts; http://www.katiecrafts.com](./img-3085.jpg)
+![Crab Nail Art](./img-3085.jpg)
 
 The fish is totally eyeing up the crab!
 
 Such a cute crabbie look! I had fun making these! They only chipped a little while on the boat, though even after my shower they were covered in some kind of dirt that wouldn’t come off, so I had to remove all the polish. Poor little crabs had a short life of three days! Ah well. C’est la vie.
 
-![Crab Nail Art on Katie Crafts; http://www.katiecrafts.com](./img-3115.jpg)
+![Crab Nail Art](./img-3115.jpg)
 
 Post-shower-very-tired-but-can’t-sleep-sitting-in-rocking-chair-and-knitting nails
 
 It’s still Summer, so making these cuties are totally necessary. Next week I will share another aquatic nail art look too! For now, I’ll leave you with a shot of a very sleepy Husband (and me!)
 
-![Crab Nail Art on Katie Crafts; http://www.katiecrafts.com](./img-3112.jpg)
+![Crab Nail Art](./img-3112.jpg)
 
 Me & the Husband at 4AM!
 

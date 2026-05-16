@@ -4,7 +4,7 @@ publishedDate: "2014-05-12"
 excerpt: "Project: Crochet Octopus Toy Pattern for Kitty I love making these for my kitties (and friend’s kitties, and all kitties!) I stuff a little catnip inside and the furbabies love them. This pattern is mega easy, and can be adjusted to make larger toys for babies too -just maybe exclude the catnip. 😉"
 featuredImage:
   src: "./featured.jpg"
-  alt: "Crochet Octopus Toy Pattern for Kitty! on Katie Crafts; http://www.katiecrafts.com"
+  alt: "Crochet Octopus Toy Pattern for Kitty!"
 categories:
   - slug: "crafts"
     name: "Crafts"
@@ -91,11 +91,11 @@ st = stitch
 
 - give to kitty to play with!
 
-![Crochet Octopus Toy Pattern for Kitty! on Katie Crafts; https://www.katiecrafts.com](./img-3321.jpg)
+![Crochet Octopus Toy Pattern for Kitty!](./img-3321.jpg)
 
-![Crochet Octopus Toy Pattern for Kitty! on Katie Crafts; https://www.katiecrafts.com](./img-3328.jpg)
+![Crochet Octopus Toy Pattern for Kitty!](./img-3328.jpg)
 
-![Crochet Octopus Toy Pattern for Kitty! on Katie Crafts; https://www.katiecrafts.com](./img-3324.jpg)
+![Crochet Octopus Toy Pattern for Kitty!](./img-3324.jpg)
 
 ## Tips:
 

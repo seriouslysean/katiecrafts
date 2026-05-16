@@ -4,7 +4,7 @@ publishedDate: "2015-09-22"
 excerpt: "Halloween is coming! Yippee! In anticipation of my favorite day of the year, I’ve started pinning a million Halloween decoration and DIY ideas. I also decided to grab a few Halloween crochet patterns to make before October 31st. Here are five I can’t wait to try- maybe you’ll find one you love too!"
 featuredImage:
   src: "./featured.png"
-  alt: "5 Halloween Crochet Patterns on Katie Crafts; http://www.katiecrafts.com"
+  alt: "5 Halloween Crochet Patterns"
 categories:
   - slug: "crafts"
     name: "Crafts"
@@ -63,7 +63,7 @@ How cute are these little babies? These
 
 remind me why I love amigurumi in the first place! They are fun, adorable and perfect for everyone! Which is your favorite?
 
-![5 Halloween Crochet Patterns on Katie Crafts; http://www.katiecrafts.com](./015-small2.jpg)
+![5 Halloween Crochet Patterns](./015-small2.jpg)
 
 This
 
@@ -71,7 +71,7 @@ This
 
 may be meant for a child, but I know I’d definitely find a way to make it adult-sized! Who wouldn’t want to wear this really cute witchy hat!? I’d probably skip the pink and opt for a dark purple. Love it!
 
-![5 Halloween Crochet Patterns on Katie Crafts; http://www.katiecrafts.com](./spider-in-a-jar-small2.jpg)
+![5 Halloween Crochet Patterns](./spider-in-a-jar-small2.jpg)
 
 No Halloween would be complete without some kind of spider and web! This easy and cute (and free!) pattern will keep your spider right where he should be- in a jar where he can’t escape. I have mason jars and Halloween printed fabric already, so this
 

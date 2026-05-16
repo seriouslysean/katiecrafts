@@ -4,7 +4,7 @@ publishedDate: "2014-06-04"
 excerpt: "Featured Etsy Shop: Northern Whimsy Design Happy Wednesday! Today I’m pleased to present to you the lovely Jess from Northern Whimsy Design on Etsy! Jess has a fantastic shop and full summer ahead of her: including a brand new baby on the way! Check out her adorable custom fabrics, digital scrapbooking pages and cupcake wrapper […]"
 featuredImage:
   src: "./featured.jpg"
-  alt: "Featured Etsy Shop: Northern Whimsy Design on Katie Crafts; http://www.katiecrafts.com"
+  alt: "Featured Etsy Shop: Northern Whimsy Design"
 categories:
   - slug: "crafts"
     name: "Crafts"
@@ -51,19 +51,19 @@ _I’m Jess from Northern Whimsy Design. I live on an acreage in a very rural ar
 
 _I enjoy the whole design process from start to finish, but I especially love seeing the end result in action. I’m delighted when scrapbooking friends show me their finished pages, or I get to see a completed fabric project!_
 
-[![Featured Etsy Shop: Northern Whimsy Design on Katie Crafts; http://www.katiecrafts.com](./rainbow-carousel.jpg)](https://www.etsy.com/listing/186964168/personalized-rainbow-carousel-horse?ref=shop_home_feat_1)
+[![Featured Etsy Shop: Northern Whimsy Design](./rainbow-carousel.jpg)](https://www.etsy.com/listing/186964168/personalized-rainbow-carousel-horse?ref=shop_home_feat_1)
 
 ## What item was your favorite to make so far?
 
 _That’s a tough one! It’s a toss-up between the 3-D cupcake wrappers and the carousel horse fabric. Both were surprisingly technical, and I ended up having to dust off some serious math skills to take them from concept to a reality that ‘worked’. I tend to really enjoy a challenge, so both stick out as being very rewarding once I worked out the flaws._
 
-[![Featured Etsy Shop: Northern Whimsy Design on Katie Crafts; http://www.katiecrafts.com](./il-570xn-594573198-h6fx.jpg)](https://www.etsy.com/listing/187478766/printable-3d-patterned-butterfly-cupcake?ref=related-2)
+[![Featured Etsy Shop: Northern Whimsy Design](./il-570xn-594573198-h6fx.jpg)](https://www.etsy.com/listing/187478766/printable-3d-patterned-butterfly-cupcake?ref=related-2)
 
 ## Where do you find your creative inspiration?
 
 _Everywhere, really, but especially from my friends and family. I tend to share what I’m doing with the people around me, and they often make comments that trigger whole new horizons of ideas for me. For instance, I started out with the fabric design idea when I couldn’t find anything I liked for our son’s nursery, and a friend suggested I make my own stuff. I didn’t end up pursuing it at the time, as I got busy with other things, but when I got pregnant again and found out we were having a daughter, I went back to the drawing board…I am not a girly girl, and don’t like pink, so I wanted something that fit our style better. That’s where the carousel horse fabric came from. I was showing off some fabric samples at work, and a colleague suggested that the patterns would make great digital paper, which sounded like an interesting project, and set me off in a whole new direction. Then my step-mother, who does a lot of cake decorating, made a comment about cupcake wrappers that got me thinking again. I like experimenting, so when someone tosses out an idea, I’ll give it a try to see if it’s something I want to follow up on; this way, I get to tap everyone else’s creativity, as well as my own!_
 
-[![Featured Etsy Shop: Northern Whimsy Design on Katie Crafts; http://www.katiecrafts.com](./il-570xn-586164769-jfs0.jpg)](https://www.etsy.com/listing/185279214/digital-scrapbooking-paper-background?ref=shop_home_active_21)
+[![Featured Etsy Shop: Northern Whimsy Design](./il-570xn-586164769-jfs0.jpg)](https://www.etsy.com/listing/185279214/digital-scrapbooking-paper-background?ref=shop_home_active_21)
 
 ## How did you decide to open your Etsy shop?
 
@@ -73,7 +73,7 @@ _Again, it was sort of based on friends’ suggestions. People were impressed wi
 
 _Well, I’m still very new at this, so take my advice for what it’s worth 🙂 I’d say you need to really be in it for the long haul, and ready to tough it out – I spent months doing research, testing samples, and generally getting prepared before I actually went ahead and opened a formal shop. Even with all of that, and a lot of promotion prior to opening, things have started out a little slower than I would have liked. My other suggestion would be to stay flexible. By exploring the digital paper and cupcake wrapper ideas, I’ve been able to really expand our inventory and get some sales going; those are what are really selling for us right now. If the personalized fabrics gain traction (and I really hope they do, as they are a lot of fun to create), then I’ll throw myself into that for a while, but if they don’t, we’ll work on other ideas and expand the digital downloads. Either way, I’m designing fun patterns and doing something I love, but I’m also staying open to what will actually do well on the market, rather than getting hung up on what I think should work._
 
-[![Featured Etsy Shop: Northern Whimsy Design on Katie Crafts; http://www.katiecrafts.com](./robots-colors.jpg)](https://www.etsy.com/listing/183562747/custom-personalized-robot-fabric-with?ref=shop_home_active_7)
+[![Featured Etsy Shop: Northern Whimsy Design](./robots-colors.jpg)](https://www.etsy.com/listing/183562747/custom-personalized-robot-fabric-with?ref=shop_home_active_7)
 
 After you’ve browsed
 

@@ -4,7 +4,7 @@ publishedDate: "2014-08-07"
 excerpt: "Project: Origami Fortune Teller Tutorial Hey guys– since it’s Thursday, I wanted to do a throwback of sorts! I’m not sure how many of you remember these little guys, but Origami Fortune Tellers were ALL over school when I was a kid. There is even one featured in the intro to the show, Community (bonus […]"
 featuredImage:
   src: "./featured.jpg"
-  alt: "Origami Fortune Teller Tutorial on Katie Crafts http://www.katiecrafts.com"
+  alt: "Origami Fortune Teller Tutorial"
 categories:
   - slug: "crafts"
     name: "Crafts"
@@ -33,9 +33,9 @@ Project: Origami Fortune Teller Tutorial
 
 Hey guys– since it’s Thursday, I wanted to do a throwback of sorts! I’m not sure how many of you remember these little guys, but Origami Fortune Tellers were ALL over school when I was a kid. There is even one featured in the intro to the show, Community (bonus points if you knew that already). If you’ve ever wanted to make your own, now’s the time to learn and I’ll be more than happy to share my secrets!
 
-![Origami Fortune Teller Tutorial on Katie Crafts https://www.katiecrafts.com](./origami-fortune-teller-step-1.jpg)
+![Origami Fortune Teller Tutorial](./origami-fortune-teller-step-1.jpg)
 
-![Origami Fortune Teller Tutorial on Katie Crafts https://www.katiecrafts.com](./origami-fortune-teller-step-2.jpg)
+![Origami Fortune Teller Tutorial](./origami-fortune-teller-step-2.jpg)
 
 ### Step 1
 
@@ -45,9 +45,9 @@ Start with a full sheet of lined paper (just for that extra throwback feel).
 
 Fold the top corner down until the sides meet and you have a triangle, then trim off any extra from the bottom. You want to end up with a perfect square of paper when it’s unfolded.
 
-![Origami Fortune Teller Tutorial on Katie Crafts https://www.katiecrafts.com](./origami-fortune-teller-step-3.jpg)
+![Origami Fortune Teller Tutorial](./origami-fortune-teller-step-3.jpg)
 
-![Origami Fortune Teller Tutorial on Katie Crafts https://www.katiecrafts.com](./origami-fortune-teller-step-4.jpg)
+![Origami Fortune Teller Tutorial](./origami-fortune-teller-step-4.jpg)
 
 ### Step 3
 
@@ -57,9 +57,9 @@ Make sure your edges are crisp. This will make lining up everything in the next 
 
 Completely unfold the paper and fold each corner in until it reaches the center of the paper.
 
-![Origami Fortune Teller Tutorial on Katie Crafts https://www.katiecrafts.com](./origami-fortune-teller-step-5.jpg)
+![Origami Fortune Teller Tutorial](./origami-fortune-teller-step-5.jpg)
 
-![Origami Fortune Teller Tutorial on Katie Crafts https://www.katiecrafts.com](./origami-fortune-teller-step-6.jpg)
+![Origami Fortune Teller Tutorial](./origami-fortune-teller-step-6.jpg)
 
 ### Step 5
 
@@ -69,9 +69,9 @@ Once all four corners are folded in, press the paper flat to help your folds sta
 
 Flip the paper over!
 
-![Origami Fortune Teller Tutorial on Katie Crafts https://www.katiecrafts.com](./origami-fortune-teller-step-7.jpg)
+![Origami Fortune Teller Tutorial](./origami-fortune-teller-step-7.jpg)
 
-![Origami Fortune Teller Tutorial on Katie Crafts https://www.katiecrafts.com](./origami-fortune-teller-step-8.jpg)
+![Origami Fortune Teller Tutorial](./origami-fortune-teller-step-8.jpg)
 
 ### Step 7
 
@@ -81,9 +81,9 @@ Repeat the same process as before, folding every corner in to the middle of the 
 
 Once all four corners are folded in, press the paper flat to help your folds stay put.
 
-![Origami Fortune Teller Tutorial on Katie Crafts https://www.katiecrafts.com](./origami-fortune-teller-step-9.jpg)
+![Origami Fortune Teller Tutorial](./origami-fortune-teller-step-9.jpg)
 
-![Origami Fortune Teller Tutorial on Katie Crafts https://www.katiecrafts.com](./origami-fortune-teller-step-10.jpg)
+![Origami Fortune Teller Tutorial](./origami-fortune-teller-step-10.jpg)
 
 ### Step 9
 
@@ -93,9 +93,9 @@ On each of the segments, write a number from 1 through 8. This will be the one o
 
 Flip up each number one at a time and write a fortune (or a DARE if you’re feeling saucy!) until each one is filled in. I’m partial to my choices personally– who doesn’t want a basket of kittens or a bucket of puppies? Once finished, make sure to put the pieces back in place!
 
-![Origami Fortune Teller Tutorial on Katie Crafts https://www.katiecrafts.com](./origami-fortune-teller-step-11.jpg)
+![Origami Fortune Teller Tutorial](./origami-fortune-teller-step-11.jpg)
 
-![Origami Fortune Teller Tutorial on Katie Crafts https://www.katiecrafts.com](./origami-fortune-teller-step-12.jpg)
+![Origami Fortune Teller Tutorial](./origami-fortune-teller-step-12.jpg)
 
 ### Step 11
 

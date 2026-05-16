@@ -4,7 +4,7 @@ publishedDate: "2015-08-12"
 excerpt: "Each year, my Husband and I attend the Race for Hope Philadelphia on the first Sunday of November. This year will be our fifth year, and we decided to do more than just participate- we decided to volunteer!"
 featuredImage:
   src: "./featured.png"
-  alt: "Join Us in the Race For Hope!! on Katie Crafts; http://www.katiecrafts.com"
+  alt: "Join Us in the Race For Hope!!"
 categories:
   - slug: "hodgepodge"
     name: "Hodgepodge"
@@ -32,8 +32,6 @@ Each year, my Husband and I attend the
 [Race for Hope Philadelphia](http://www.braintumorcommunity.org/site/TR/TeamraiserEvents/RaceforHopePhiladelphia?team_id=75372\&pg=team\&fr_id=2560)
 
 on the first Sunday of November. This year will be our fifth year, and we decided to do more than just participate- we decided to volunteer!
-
-
 
 We walk for team
 

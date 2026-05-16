@@ -4,7 +4,7 @@ publishedDate: "2014-12-04"
 excerpt: "Fourth Day of Christmas: Key Lime Frosted Cupcake Recipe ♫ On the fourth day of Christmas, Katie Crafts gave to me- a key lime frosted cupcake recipe! ♫ Happy fourth day of Christmas, all! Today’s post is a recipe that you may not typically associate with the holidays, but I’ll explain why it works: It’s […]"
 featuredImage:
   src: "./featured.png"
-  alt: "Fourth Day of Christmas: Key Lime Frosted Cupcake Recipe by Katie Crafts; http://www.katiecrafts.com"
+  alt: "Fourth Day of Christmas: Key Lime Frosted Cupcake Recipe by"
 categories:
   - slug: "cooks"
     name: "Cooks"

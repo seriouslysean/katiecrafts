@@ -15,4 +15,4 @@ tags:
     name: "spud"
 ---
 
-![Spud in Vest on Katie Crafts; http://www.katiecrafts.com](./dsc-0161.jpg)
+![Spud in Vest](./dsc-0161.jpg)

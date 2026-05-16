@@ -4,7 +4,7 @@ publishedDate: "2014-11-04"
 excerpt: "Etsy Picks: My Birthday Wish List! This edition of ‘My Etsy Picks’ is quite special- it’s my birthday wish list! I thought about all the things I want for my birthday this year (which is in less than a week!!) and searched Etsy for them. I found a ton of beautiful items and wish I […]"
 featuredImage:
   src: "./featured.png"
-  alt: "Etsy Picks: My Birthday Wish List! by Katie Crafts; http://www.katiecrafts.com"
+  alt: "Etsy Picks: My Birthday Wish List! by"
 categories:
   - slug: "hodgepodge"
     name: "Hodgepodge"

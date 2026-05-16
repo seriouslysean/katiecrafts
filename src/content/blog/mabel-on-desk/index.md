@@ -14,6 +14,6 @@ tags:
     name: "mabel"
 ---
 
-![Mabel on Desk on Katie Crafts; http://www.katiecrafts.com](./img-4938.jpg)
+![Mabel on Desk](./img-4938.jpg)
 
 Put down laptop screen, see what is hiding behind it.

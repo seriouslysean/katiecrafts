@@ -4,7 +4,7 @@ publishedDate: "2014-05-13"
 excerpt: "Project: DIY Yarn Necklace Tutorial Yet another tutorial using t-shirt yarn (woo hoo for upcycling!), this necklace tutorial is incredibly simple to make, and will take you under 10 minutes from getting started to ready-to-wear! Big plus, you can make one to match every outfit you own, so your neck will never be empty or […]"
 featuredImage:
   src: "./featured.jpg"
-  alt: "DIY Yarn Necklace Tutorial by Katie Crafts; http://www.katiecrafts.com"
+  alt: "DIY Yarn Necklace Tutorial by"
 categories:
   - slug: "crafts"
     name: "Crafts"
@@ -47,23 +47,23 @@ I already made a rust orange one, and this blue one. I also used the same concep
 
 - Next, mimic that loop with your yarn on a flat surface.
 
-![DIY Yarn Necklace Tutorial by Katie Crafts; https://www.katiecrafts.com](./img-3154.jpg)
+![DIY Yarn Necklace Tutorial by](./img-3154.jpg)
 
-![DIY Yarn Necklace Tutorial by Katie Crafts; https://www.katiecrafts.com](./img-3155.jpg)
+![DIY Yarn Necklace Tutorial by](./img-3155.jpg)
 
 - Go around a second time, making the next loop slightly larger.
 
 - Repeat for a third loop.
 
-![DIY Yarn Necklace Tutorial by Katie Crafts; https://www.katiecrafts.com](./img-3156.jpg)
+![DIY Yarn Necklace Tutorial by](./img-3156.jpg)
 
-![DIY Yarn Necklace Tutorial by Katie Crafts; https://www.katiecrafts.com](./img-3157.jpg)
+![DIY Yarn Necklace Tutorial by](./img-3157.jpg)
 
 - Repeat for a fourth loop, leaving a long tail. Snip yarn.
 
-![DIY Yarn Necklace Tutorial by Katie Crafts; https://www.katiecrafts.com](./img-3158.jpg)
+![DIY Yarn Necklace Tutorial by](./img-3158.jpg)
 
-![DIY Yarn Necklace Tutorial by Katie Crafts; https://www.katiecrafts.com](./img-3160.jpg)
+![DIY Yarn Necklace Tutorial by](./img-3160.jpg)
 
 - Pinch all layers together and hold up in the air to make sure all the loops hang just the way you want them to.
 
@@ -71,23 +71,23 @@ I already made a rust orange one, and this blue one. I also used the same concep
 
 - With the short tail, making a small knot around all the layers to keep loops together.
 
-![DIY Yarn Necklace Tutorial by Katie Crafts; https://www.katiecrafts.com](./img-3161.jpg)
+![DIY Yarn Necklace Tutorial by](./img-3161.jpg)
 
-![DIY Yarn Necklace Tutorial by Katie Crafts; https://www.katiecrafts.com](./img-3162.jpg)
+![DIY Yarn Necklace Tutorial by](./img-3162.jpg)
 
 - With the long tail, tightly wrap around the knot so it isn’t visible, until you run out of yarn.
 
-![DIY Yarn Necklace Tutorial by Katie Crafts; https://www.katiecrafts.com](./img-3164.jpg)
+![DIY Yarn Necklace Tutorial by](./img-3164.jpg)
 
-![DIY Yarn Necklace Tutorial by Katie Crafts; https://www.katiecrafts.com](./img-3165.jpg)
+![DIY Yarn Necklace Tutorial by](./img-3165.jpg)
 
-![DIY Yarn Necklace Tutorial by Katie Crafts; https://www.katiecrafts.com](./img-3167.jpg)
+![DIY Yarn Necklace Tutorial by](./img-3167.jpg)
 
-![DIY Yarn Necklace Tutorial by Katie Crafts; https://www.katiecrafts.com](./img-3168.jpg)
+![DIY Yarn Necklace Tutorial by](./img-3168.jpg)
 
 - When you come to the end of the tail, weave it under the wrapped portion to hold it in place.
 
-![DIY Yarn Necklace Tutorial by Katie Crafts; https://www.katiecrafts.com](./img-3170.jpg)
+![DIY Yarn Necklace Tutorial by](./img-3170.jpg)
 
 ![](./img-3178.jpg)
 

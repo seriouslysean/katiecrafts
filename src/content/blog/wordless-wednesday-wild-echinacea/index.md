@@ -4,7 +4,7 @@ publishedDate: "2015-07-22"
 excerpt: "When I rented my first apartment in Philly over 7 years ago, I somehow convinced myself that living in a city would mean making certain concessions. My apartment would be smaller, rent would be higher, peace and quiet would be hard to come by and the lovely nature of the Garden State (from where I […]"
 featuredImage:
   src: "./featured.jpg"
-  alt: "Wordless Wednesday: Wild Echinacea on Katie Crafts; http://www.katiecrafts.com"
+  alt: "Wordless Wednesday: Wild Echinacea"
 categories:
   - slug: "hodgepodge"
     name: "Hodgepodge"

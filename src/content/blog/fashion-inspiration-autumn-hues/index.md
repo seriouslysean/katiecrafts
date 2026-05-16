@@ -4,7 +4,7 @@ publishedDate: "2014-09-11"
 excerpt: "Fashion Inspiration: Autumn Hues I am sad to say good bye to the Summer and all, but Fall is my favorite! Part of the reason I love it is the colors! (Another reason is the BOOTS!) The burgundy, plum, gold, rust and chocolate shades are so rich and wonderful. I was thrilled to have my […]"
 featuredImage:
   src: "./featured.png"
-  alt: "Fashion Inspiration: Autumn Hues by Katie Crafts; http://www.katiecrafts.com"
+  alt: "Fashion Inspiration: Autumn Hues by"
 categories:
   - slug: "beauty"
     name: "Beauty"

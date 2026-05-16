@@ -4,7 +4,7 @@ publishedDate: "2015-10-08"
 excerpt: "It’s only the first week of October, and you probably already see a recurring theme on my blog posts: Halloween! I just can’t get enough of it! Today I’m sharing a bunch of my favorite Etsy Halloween picks. Expect more of the theme throughout the month!"
 featuredImage:
   src: "./featured.png"
-  alt: "My Etsy Picks: Halloween Favorites on Katie Crafts; http://www.katiecrafts.com"
+  alt: "My Etsy Picks: Halloween Favorites"
 categories:
   - slug: "hodgepodge"
     name: "Hodgepodge"

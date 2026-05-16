@@ -4,7 +4,7 @@ publishedDate: "2016-02-08"
 excerpt: "The last Valentine’s day nail art look I shared was a very simple red glitter polish. I went a step further this time and used actual glitter in the design! I was going to make little hearts and stuff, but I decided this look was classier and more versatile. Besides, I can’t say no to […]"
 featuredImage:
   src: "./featured.jpg"
-  alt: "Glittering Valentine's Day Nails, tutorial from Katie Crafts; http://www.katiecrafts.com"
+  alt: "Glittering Valentine's Day Nails, tutorial"
 categories:
   - slug: "beauty"
     name: "Beauty"
@@ -63,17 +63,17 @@ I shared was a very simple red glitter polish. I went a step further this time a
 
 * On the the thumbs, using either the clear or the pink polish, paint a thick french tip and immediately cover it in glitter. Let dry.
 
-![Glittering Valentine's Day Nails, tutorial from Katie Crafts; http://www.katiecrafts.com](./img-0704.jpg)
+![Glittering Valentine's Day Nails, tutorial](./img-0704.jpg)
 
 - When all nails are dry, seal in look with clear top coat, skipping the glitter portions if you like. I skipped the glitter so that it would stay extra sparkly!
 
-![Glittering Valentine's Day Nails, tutorial from Katie Crafts; http://www.katiecrafts.com](./img-0705.jpg)
+![Glittering Valentine's Day Nails, tutorial](./img-0705.jpg)
 
 - While the nails are still wet, add a nail gem to the bottom center of each non-accent nail.
 
 - Enjoy your sweet Valentine’s manicure… and your Valentine’s Day!
 
-![Glittering Valentine's Day Nails, tutorial from Katie Crafts; http://www.katiecrafts.com](./img-0709.jpg)
+![Glittering Valentine's Day Nails, tutorial](./img-0709.jpg)
 
 Don’t forget to check out Valentine’s nail looks from the past! There are cute ones from
 

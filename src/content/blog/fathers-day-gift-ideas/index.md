@@ -4,7 +4,7 @@ publishedDate: "2014-05-29"
 excerpt: "Hello all! I am Natalia from Natalia’s Jewellery and this is my guest post at Katie Crafts. I always struggled to come up with gift ideas for men. This year, I decided to do research and find a few great ideas."
 featuredImage:
   src: "./featured.jpg"
-  alt: "Father's Day Gift Ideas by Natalia Khon on Katie Crafts; http://www.katiecrafts.com"
+  alt: "Father's Day Gift Ideas by Natalia Khon"
 categories:
   - slug: "crafts"
     name: "Crafts"

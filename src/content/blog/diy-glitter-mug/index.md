@@ -4,7 +4,7 @@ publishedDate: "2016-03-17"
 excerpt: "Glitter may be the “herpes” of the craft world, but I love it just the same! I’ve been glittering everything lately, and thought I would show you guys how to do it as well. You can do ANY shape you like, or even your initial if you prefer. I have several mugs with “K” already on […]"
 featuredImage:
   src: "./featured.jpg"
-  alt: "DIY Glitter Mug Tutorial on Katie Crafts; http://www.katiecrafts.com"
+  alt: "DIY Glitter Mug Tutorial"
 categories:
   - slug: "crafts"
     name: "Crafts"
@@ -95,11 +95,11 @@ _use your Silhouette Cameo machine to craft one_
 
 - Use a thin coat of Mod Podge on your foam brush to completely cover the inside of the stencil- in my case, the shamrock. On places that are thinner cuts that may want to come up (like the inside slivers of the clover leaves), sweep the Mod Podge on from the outside towards the inside. If you go from the inside to the outside, your brush may pull up the stencil.
 
-![DIY Glitter Mug Tutorial on Katie Crafts; http://www.katiecrafts.com](./img-0977.jpg)
+![DIY Glitter Mug Tutorial](./img-0977.jpg)
 
 - Tap the glitter all over your Mod Podge’d area until it is completely covered. Be sure to do so over the paper so you don’t make a mess!
 
-![DIY Glitter Mug Tutorial on Katie Crafts; http://www.katiecrafts.com](./img-0978.jpg)
+![DIY Glitter Mug Tutorial](./img-0978.jpg)
 
 - Let the mug sit and dry for an hour.
 
@@ -107,15 +107,15 @@ _use your Silhouette Cameo machine to craft one_
 
 - Repeat the Mod Podge/Glitter steps a second time if there are spots showing through without glitter.
 
-![DIY Glitter Mug Tutorial on Katie Crafts; http://www.katiecrafts.com](./img-0980.jpg)
+![DIY Glitter Mug Tutorial](./img-0980.jpg)
 
 - Remove stencil and let mug dry for an hour.
 
-![DIY Glitter Mug Tutorial on Katie Crafts; http://www.katiecrafts.com](./img-0988.jpg)
+![DIY Glitter Mug Tutorial](./img-0988.jpg)
 
 - Use dry paintbrush to again brush off excess glitter. Use your fingernail to scrape off any parts that bother you and make it look pretty!
 
-![DIY Glitter Mug Tutorial on Katie Crafts; http://www.katiecrafts.com](./img-0992.jpg)
+![DIY Glitter Mug Tutorial](./img-0992.jpg)
 
 - Dab some Mod Podge on your foam brush and go over the image one last time, this time to seal the glitter in.
 
@@ -123,7 +123,7 @@ _use your Silhouette Cameo machine to craft one_
 
 - Let mug dry for a day before you use it!
 
-![DIY Glitter Mug Tutorial on Katie Crafts; http://www.katiecrafts.com](./img-0996.jpg)
+![DIY Glitter Mug Tutorial](./img-0996.jpg)
 
 ## Tips:
 

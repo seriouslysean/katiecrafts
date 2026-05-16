@@ -15,8 +15,8 @@ tags:
     name: "mabel"
 ---
 
-![Mabel Faceplant on Katie Crafts; https://www.katiecrafts.com](./img-3437.jpg)
+![Mabel Faceplant](./img-3437.jpg)
 
-![Mabel Faceplant on Katie Crafts; https://www.katiecrafts.com](./img-3436.jpg)
+![Mabel Faceplant](./img-3436.jpg)
 
-![Mabel Faceplant on Katie Crafts; https://www.katiecrafts.com](./img-3434.jpg)
+![Mabel Faceplant](./img-3434.jpg)

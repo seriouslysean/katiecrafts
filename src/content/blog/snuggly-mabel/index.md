@@ -13,4 +13,4 @@ tags:
     name: "snuggly"
 ---
 
-![Snuggly Cat on Katie Crafts; http://www.katiecrafts.com](./img-0847.jpg)
+![Snuggly Cat](./img-0847.jpg)

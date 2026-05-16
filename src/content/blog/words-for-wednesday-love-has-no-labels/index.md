@@ -4,7 +4,7 @@ publishedDate: "2015-07-01"
 excerpt: "Words For Wednesday: Love Has No Labels In light of last Friday’s wonderful news, today’s words are about love! Love knows no gender, no age, no race. Love has no labels. Everyone deserves love, plain and simple. #LoveWins #MarriageEquality"
 featuredImage:
   src: "./featured.jpg"
-  alt: "Words For Wednesday: Love Has No Labels on Katie Crafts; http://www.katiecrafts.com"
+  alt: "Words For Wednesday: Love Has No Labels"
 categories:
   - slug: "hodgepodge"
     name: "Hodgepodge"

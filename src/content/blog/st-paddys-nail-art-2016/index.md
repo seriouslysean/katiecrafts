@@ -4,7 +4,7 @@ publishedDate: "2016-03-14"
 excerpt: "I’ve rocked some pretty cute nail art designs for St. Patrick’s Days past (remember my Classy Clovers and Plaid and Shamrocks looks?), so I obviously had to come up with something adorable for this year too! I took my inspiration from the buckle on a Leprechaun’s hat for this year’s look and am loving my […]"
 featuredImage:
   src: "./featured.jpg"
-  alt: "St. Paddy's Day Nail Art 2016 by Katie Crafts; http://www.katiecrafts.com"
+  alt: "St. Paddy's Day Nail Art 2016 by"
 categories:
   - slug: "beauty"
     name: "Beauty"
@@ -67,20 +67,20 @@ looks?), so I obviously had to come up with something adorable for this year too
 
 - When the yellow is dry, clean your nail art brush and dip it in the black polish. Carefully fill in the middle of the buckle and then draw two lines to complete the belt. Don’t worry if it looks imperfect or bumpy at all- when you seal it with clear coat later on, that will all be smoothed out.
 
-![St. Paddy's Day Nail Art 2016 by Katie Crafts; https://www.katiecrafts.com](./st-paddys-day-nails-3.jpg)
+![St. Paddy's Day Nail Art 2016 by](./st-paddys-day-nails-3.jpg)
 
-![St. Paddy's Day Nail Art 2016 by Katie Crafts; https://www.katiecrafts.com](./st-paddys-day-nails-4.jpg)
+![St. Paddy's Day Nail Art 2016 by](./st-paddys-day-nails-4.jpg)
 
 - Next it is time for the little shamrocks on your thumb. I used the dotting tool to create them in the yellow nail polish and added the rhinestones right on top while the yellow was still wet. You can do the same thing with the green polish you used as your base if you do not want yellow showing through.
 
-![St. Paddy's Day Nail Art 2016 by Katie Crafts; https://www.katiecrafts.com](./st-paddys-day-nails-5.jpg)
+![St. Paddy's Day Nail Art 2016 by](./st-paddys-day-nails-5.jpg)
 
-![St. Paddy's Day Nail Art 2016 by Katie Crafts; https://www.katiecrafts.com](./st-paddys-day-nails-7.jpg)
+![St. Paddy's Day Nail Art 2016 by](./st-paddys-day-nails-7.jpg)
 
 - Lastly, use your chunky gold glitter for your remaining nails. Start at the tip and swipe down. Let dry, and repeat, concentrating the glitter towards the top to create a gradient.
 
 * Let your nails dry completely (110%!) before you seal each nail in clear nail polish. When that is dry, you can clean up the bits that are still on your skin.
 
-![St. Paddy's Day Nail Art 2016 by Katie Crafts; http://www.katiecrafts.com](./st-paddys-day-nails-8.jpg)
+![St. Paddy's Day Nail Art 2016 by](./st-paddys-day-nails-8.jpg)
 
 Enjoy your green and gold nails and have a Happy St. Patrick’s Day, whether you’re Irish or not!

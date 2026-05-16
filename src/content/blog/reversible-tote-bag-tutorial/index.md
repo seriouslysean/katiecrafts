@@ -64,23 +64,23 @@ This bag takes me a couple of hours to make, but hopefully with practice I can g
 
 - One fabric at a time, lay them flat wrong side up, and measure 15 inches across the width, and 30 inches down the length. Mark with your chalk or pencil. Do so for the second fabric as well. You won’t end up using the entire yard of either fabric, but put the scraps away for another project!
 
-* ![Reversible Tote Bag Tutorial by Katie Crafts; http://www.katiecrafts.com](./img-1415.jpg)
+* ![Reversible Tote Bag Tutorial by](./img-1415.jpg)
 
   Cut along your chalk/pencil lines on each fabric and you’ll end up with two long pieces of fabric.
 
-![Reversible Tote Bag Tutorial by Katie Crafts; http://www.katiecrafts.com](./img-1143.jpg)
+![Reversible Tote Bag Tutorial by](./img-1143.jpg)
 
 - Next, take fabric 1 (which I’ll refer to now as “whales”) and fold it in half, right sides facing each other, to make a square. Pin on three sides, leaving the top of the bag opened & unpinned.
 
 - Do the same for fabric 2 (which I’ll refer to now as “polka dots”).
 
-![Reversible Tote Bag Tutorial by Katie Crafts; http://www.katiecrafts.com](./img-1144.jpg)
+![Reversible Tote Bag Tutorial by](./img-1144.jpg)
 
 - Now do a straight stitch around the pinned sides of “whales,” approximately a half inch away from each edge. Repeat for “polka dots.”
 
 - Use scissors or pinking shears to snip off the excess fabric.
 
-![Reversible Tote Bag Tutorial by Katie Crafts; http://www.katiecrafts.com](./img-1416.jpg)
+![Reversible Tote Bag Tutorial by](./img-1416.jpg)
 
 - Now it’s time to make the neat little boxed corners. Simply pinch the sewed corners of the bag to make a triangle, smooth the ridge over to one side, and stitch across it about 1″ to 1 1/2″ from the corner. See photos below for help!
 
@@ -92,11 +92,11 @@ This bag takes me a couple of hours to make, but hopefully with practice I can g
 
 - Now flip just one of the bag halves inside out (I did “whales”), and then stick it inside the other bag (“polka dots”)! Right sides of the fabrics (the patterned sides) should be facing.
 
-![Reversible Tote Bag Tutorial by Katie Crafts; http://www.katiecrafts.com](./img-1419.jpg)
+![Reversible Tote Bag Tutorial by](./img-1419.jpg)
 
 - The four layers of fabric should look like this:
 
-![Reversible Tote Bag Tutorial by Katie Crafts; http://www.katiecrafts.com](./img-1422.jpg)
+![Reversible Tote Bag Tutorial by](./img-1422.jpg)
 
 - Now you’ll need to make the handles. You can make your own using the same fabric, but I really like to use heavy nylon webbing. It’s strong, sturdy, and SO much easier than making your own. Just measure and snip! I buy mine from
 

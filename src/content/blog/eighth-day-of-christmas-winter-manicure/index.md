@@ -4,7 +4,7 @@ publishedDate: "2014-12-08"
 excerpt: "Eighth Day of Christmas: Winter Manicure ♫ On the eighth day of Christmas, Katie Crafts gave to me- a Manicure Monday design that’s wintery! ♫ Wow, a full week of our 12 Days of Christmas has already gone by! So far we’ve enjoyed a recipe, some festive origami, an easy sewing project, and not one, […]"
 featuredImage:
   src: "./featured.png"
-  alt: "Eighth Day of Christmas: Winter Manicure on Katie Crafts; http://www.katiecrafts.com"
+  alt: "Eighth Day of Christmas: Winter Manicure"
 categories:
   - slug: "beauty"
     name: "Beauty"
@@ -79,50 +79,50 @@ Ahh, much better with two coats!
 
 - If streaky, do a second coat of blue nail polish and let dry.
 
-![Eighth Day of Christmas: Winter Manicure on Katie Crafts; http://www.katiecrafts.com](./img-6563.jpg)
+![Eighth Day of Christmas: Winter Manicure](./img-6563.jpg)
 
 - Pour a little of the white nail polish or acrylic paint on to a paper plate (or in my case, a piece of cardboard from a package!) Rip a corner of the makeup sponge off and dab it in the white.
 
-![Eighth Day of Christmas: Winter Manicure on Katie Crafts; https://www.katiecrafts.com](./img-6565.jpg)
+![Eighth Day of Christmas: Winter Manicure](./img-6565.jpg)
 
-![Eighth Day of Christmas: Winter Manicure on Katie Crafts; https://www.katiecrafts.com](./img-6566.jpg)
+![Eighth Day of Christmas: Winter Manicure](./img-6566.jpg)
 
-![Eighth Day of Christmas: Winter Manicure on Katie Crafts; https://www.katiecrafts.com](./img-6567.jpg)
+![Eighth Day of Christmas: Winter Manicure](./img-6567.jpg)
 
 - Gently sponge on some white on the tip of each nail to make it look like accumulated snow. Let dry.
 
 - Go back and do the same thing on the lowest portion of the tip of your nail so that the bottom is more opaque. Let dry.
 
-![Eighth Day of Christmas: Winter Manicure on Katie Crafts; https://www.katiecrafts.com](./img-6569.jpg)
+![Eighth Day of Christmas: Winter Manicure](./img-6569.jpg)
 
-![Eighth Day of Christmas: Winter Manicure on Katie Crafts; https://www.katiecrafts.com](./img-6570.jpg)
+![Eighth Day of Christmas: Winter Manicure](./img-6570.jpg)
 
-![Eighth Day of Christmas: Winter Manicure on Katie Crafts; https://www.katiecrafts.com](./img-6572.jpg)
+![Eighth Day of Christmas: Winter Manicure](./img-6572.jpg)
 
-![Eighth Day of Christmas: Winter Manicure on Katie Crafts; https://www.katiecrafts.com](./img-6573.jpg)
+![Eighth Day of Christmas: Winter Manicure](./img-6573.jpg)
 
 - Dip the dotting tool or toothpick in to the white and on to your nails to look like little dots of falling snow. Let dry.
 
-![Eighth Day of Christmas: Winter Manicure on Katie Crafts; https://www.katiecrafts.com](./img-6575.jpg)
+![Eighth Day of Christmas: Winter Manicure](./img-6575.jpg)
 
-![Eighth Day of Christmas: Winter Manicure on Katie Crafts; https://www.katiecrafts.com](./img-6576.jpg)
+![Eighth Day of Christmas: Winter Manicure](./img-6576.jpg)
 
-![Eighth Day of Christmas: Winter Manicure on Katie Crafts; https://www.katiecrafts.com](./img-6578.jpg)
+![Eighth Day of Christmas: Winter Manicure](./img-6578.jpg)
 
 - Use clear polish to lock in look. Let dry.
 
 - Clean up your nails from any nail polish that was sponged on your skin.
 
-![Eighth Day of Christmas: Winter Manicure on Katie Crafts; http://www.katiecrafts.com](./img-6588.jpg)
+![Eighth Day of Christmas: Winter Manicure](./img-6588.jpg)
 
 - Share your nails with Mr. Christmas Owl and enjoy your wintery wonderland look!
 
-![Eighth Day of Christmas: Winter Manicure on Katie Crafts; http://www.katiecrafts.com](./img-6582.jpg)
+![Eighth Day of Christmas: Winter Manicure](./img-6582.jpg)
 
 ## Tip:
 
 - On my thumb nails, since they are bigger, I dabbed the sponge up the sides slightly to look like the snow was accumulating there too- as it would in a window sill. 🙂
 
-![Eighth Day of Christmas: Winter Manicure on Katie Crafts; http://www.katiecrafts.com](./img-6583.jpg)
+![Eighth Day of Christmas: Winter Manicure](./img-6583.jpg)
 
 That’s it! SUPER easy nail art to enjoy on a snowy day- or any Winter day, really! I love Manicure Monday. What nail design will you be donning this Christmas?

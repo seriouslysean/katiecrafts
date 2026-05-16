@@ -4,7 +4,7 @@ publishedDate: "2015-03-03"
 excerpt: "Sooo I may have just participated in two redditgifts exchanges a mere month ago, but they just announced a dozen new ones and I’m in love with 7 of them. OF COURSE I won’t participate in all seven (I don’t have that kind of money!), but I have to do at least one, or two, […]"
 featuredImage:
   src: "./featured.png"
-  alt: "MORE Redditgifts Exchanges!? on Katie Crafts; http://www.katiecrafts.com"
+  alt: "MORE Redditgifts Exchanges!?"
 categories:
   - slug: "hodgepodge"
     name: "Hodgepodge"

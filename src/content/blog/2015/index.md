@@ -15,6 +15,6 @@ tags:
     name: "lucky"
 ---
 
-![Happy Birthday Kelly, Love Lucky on Katie Crafts; http://www.katiecrafts.com](./img-2957.jpg)
+![Happy Birthday Kelly, Love Lucky](./img-2957.jpg)
 
 Happy Birthday, Aunt Kelly! Love, Lucky Bear

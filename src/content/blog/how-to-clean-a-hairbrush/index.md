@@ -4,7 +4,7 @@ publishedDate: "2014-07-31"
 excerpt: "How to Clean a Hairbrush! You are supposed to clean your hairbrush once a month, but it’s one of those things that I completely forget about until I notice a golf ball sized amount of hair in it. Then I pull out the hair, throw it in the trash, the cat fishes it out to […]"
 featuredImage:
   src: "./featured.jpg"
-  alt: "How to Clean a Hairbrush by Katie Crafts; http://www.katiecrafts.com"
+  alt: "How to Clean a Hairbrush by"
 categories:
   - slug: "beauty"
     name: "Beauty"

@@ -4,7 +4,7 @@ publishedDate: "2015-07-21"
 excerpt: "Cherry pie filling, cherry tarts, an amigurumi cherry pattern– it’s time for one last cherry post! I used my Sally Hansen Miracle Gel (no UV light needed!) and made a cute look perfect for the Summer."
 featuredImage:
   src: "./featured.png"
-  alt: "Cherry Nail Art by Katie Crafts; http://www.katiecrafts.com"
+  alt: "Cherry Nail Art by"
 categories:
   - slug: "beauty"
     name: "Beauty"
@@ -59,9 +59,9 @@ I loooove the Miracle Gel polishes! They still chip like regular polish, but the
 
 ## Instructions:
 
-![Cherry Nail Art by Katie Crafts; https://www.katiecrafts.com](./img-2738.jpg)
+![Cherry Nail Art by](./img-2738.jpg)
 
-![Cherry Nail Art by Katie Crafts; https://www.katiecrafts.com](./img-2743.jpg)
+![Cherry Nail Art by](./img-2743.jpg)
 
 - No need to do a base coat with the Sally Hansen Miracle Gels. Do one coat of the pretty periwinkle Sugar Fix, let dry, and do a second coat. Let that dry too!
 
@@ -71,11 +71,11 @@ I loooove the Miracle Gel polishes! They still chip like regular polish, but the
 
 * Use a white striper or white nail polish and nail art brush to create small a small dot or line to create a little “shiny glare spot.” Let dry.
 
-![Cherry Nail Art by Katie Crafts; http://www.katiecrafts.com](./img-2754.jpg)
+![Cherry Nail Art by](./img-2754.jpg)
 
 - When your nails are totally dry, give them each a quick coat of the Miracle Gel Top Coat. Let dry and enjoy your nails!
 
-![Cherry Nail Art by Katie Crafts; http://www.katiecrafts.com](./img-2757.jpg)
+![Cherry Nail Art by](./img-2757.jpg)
 
 Happy Cherry gives this design a thumbs up!
 

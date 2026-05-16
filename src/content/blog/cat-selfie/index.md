@@ -16,6 +16,6 @@ tags:
     name: "samantha"
 ---
 
-![Cat Selfie on Katie Crafts; http://www.katiecrafts.com](./img-0093.jpg)
+![Cat Selfie](./img-0093.jpg)
 
 Hi! I’m here! And I’m just going to keep rubbing my face on your head and eating your hair until you pay attention to me!

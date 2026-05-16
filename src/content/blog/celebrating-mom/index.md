@@ -4,7 +4,7 @@ publishedDate: "2014-05-01"
 excerpt: "It’s officially May. That means a few things for me. First, it’s festival season here in Philly (yay!!!). Second, it’s birthday season in my family so I’ll be quite poor by the 31st (I’m counting at least 6!). Third, Mother’s Day is just around the corner on May 11th. And fourth, it’s Brain Tumor Awareness […]"
 featuredImage:
   src: "./featured.jpg"
-  alt: "Celebrating Mom on Katie Crafts; http://www.katiecrafts.com"
+  alt: "Celebrating Mom"
 categories:
   - slug: "hodgepodge"
     name: "Hodgepodge"

@@ -4,7 +4,7 @@ publishedDate: "2014-11-25"
 excerpt: "DIY Christmas Gifts Round Up With Thanksgiving in just a few days and my 12 Days of Christmas* right around the corner (December 1st through December 12th!), I thought it would be a good idea to do a round up of past DIY projects that would make great Christmas gifts!"
 featuredImage:
   src: "./featured.png"
-  alt: "DIY Christmas Gifts Round Up by Katie Crafts; http://www.katiecrafts.com"
+  alt: "DIY Christmas Gifts Round Up by"
 categories:
   - slug: "crafts"
     name: "Crafts"
@@ -49,7 +49,7 @@ Another fabulous DIY is one you can make for your sister or best friend:
 
 ! These can be made in any fabric you like, so it can be made to match a Christmas outfit, in someone’s favorite color, or even using fabric patterned with their fave sports team’s logo!
 
-[![DIY Turban Headband Tutorial on Katie Crafts; http://www.katiecrafts.com](./turban-headband-main1.jpg)](/diy-turban-headband-tutorial/)
+[![DIY Turban Headband Tutorial](./turban-headband-main1.jpg)](/diy-turban-headband-tutorial/)
 
 If your bestie isn’t really in to headbands, but really loves hair accessories, try making her a
 
@@ -61,7 +61,7 @@ If your bestie isn’t really in to headbands, but really loves hair accessories
 
 !
 
-[![How To Sew A Hair Bow on Katie Crafts; http://www.katiecrafts.com](./how-to-sew-a-hair-bow-main.jpg)](/how-to-sew-a-hair-bow/)
+[![How To Sew A Hair Bow](./how-to-sew-a-hair-bow-main.jpg)](/how-to-sew-a-hair-bow/)
 
 If you have the time to spare, a homemade
 
@@ -69,7 +69,7 @@ If you have the time to spare, a homemade
 
 is a fabulous gift for any lady in your life! It can be made to fit anyone, as long as you have their measurements! It’s also a super fun skirt for twirling in! 🙂
 
-[![DIY Circle Skirt Tutorial on Katie Crafts; http://www.katiecrafts.com](./diy-circle-skirt-main.jpg)](/diy-circle-skirt-tutorial/)
+[![DIY Circle Skirt Tutorial](./diy-circle-skirt-main.jpg)](/diy-circle-skirt-tutorial/)
 
 Looking for something to give a little warmth? You should definitely try this
 
@@ -77,9 +77,9 @@ Looking for something to give a little warmth? You should definitely try this
 
 ! It works up in under two hours and is an amazing gift this Winter!
 
-[![Crochet Vintage Hat Pattern on Katie Crafts; http://www.katiecrafts.com](./crochet-vintage-hat1.png)](/vintage-hat-crochet-pattern/)
+[![Crochet Vintage Hat Pattern](./crochet-vintage-hat1.png)](/vintage-hat-crochet-pattern/)
 
-[![3 Wedding Mason Jar Ideas on Katie Crafts; http://www.katiecrafts.com](./wedding-mason-jars-main.jpg)](/wedding-mason-jars-3-diys/)
+[![3 Wedding Mason Jar Ideas](./wedding-mason-jars-main.jpg)](/wedding-mason-jars-3-diys/)
 
 A few gifts that are good for anyone in your life are up next! If you have extra
 
@@ -91,9 +91,9 @@ lying around, you can make salt shakers, candles or candy jars like those above.
 
 out of them like below!
 
-[![How To Turn Your Old T-Shirt In To A Pillow on Katie Crafts; http://www.katiecrafts.com](./tshirt-pillow-main.jpg)](/how-to-turn-your-t-shirt-in-to-a-pillow/)
+[![How To Turn Your Old T-Shirt In To A Pillow](./tshirt-pillow-main.jpg)](/how-to-turn-your-t-shirt-in-to-a-pillow/)
 
-[![Reversible Tote Bag Tutorial on Katie Crafts; http://www.katiecrafts.com](./img-1427.jpg)](/reversible-tote-bag-tutorial/)
+[![Reversible Tote Bag Tutorial](./img-1427.jpg)](/reversible-tote-bag-tutorial/)
 
 Last Christmas, I made pretty much everyone I know a
 
@@ -105,15 +105,15 @@ Last Christmas, I made pretty much everyone I know a
 
 you decorated yourself! Personalize it with your friend’s name, or a fun design, and add some packages of hot chocolate and mini marshmallows for a great gift to your co-workers or anyone else you make take coffee breaks with!
 
-[![DIY Sharpie Mug on Katie Crafts; http://www.katiecrafts.com](./img-1374.jpg)](/diy-sharpie-mug/)
+[![DIY Sharpie Mug](./img-1374.jpg)](/diy-sharpie-mug/)
 
 Lastly, you can’t forget your furbabies! You can make this
 
-[_**cozy catnip pillow**_](/cozy-catnip-kitty-pillow/ "Cozy Catnip Kitty Pillow on Katie Crafts; http://www.katiecrafts.com")
+[_**cozy catnip pillow**_](/cozy-catnip-kitty-pillow/ "Cozy Catnip Kitty Pillow on Katie Crafts; ")
 
 for your feline friend, or nix the catnip and make a fluffy bed for your pup! They will be thrilled to have a new soft place to sleep, when they aren’t on your lap of course.
 
-[![Cozy Catnip Kitty Pillow on Katie Crafts; http://www.katiecrafts.com](./img-1275.jpg)](/cozy-catnip-kitty-pillow/)
+[![Cozy Catnip Kitty Pillow](./img-1275.jpg)](/cozy-catnip-kitty-pillow/)
 
 Be sure to check out
 

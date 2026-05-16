@@ -4,7 +4,7 @@ publishedDate: "2016-02-25"
 excerpt: "The Winter isn’t over yet! That means more yummy and easy meals in the Crock Pot are on the menu. This week we made a ton of slow cooker sausage & peppers and they came out to die for! Want to know the minimal ingredients, super easy recipe? Of course you do!"
 featuredImage:
   src: "./featured.jpg"
-  alt: "Slow Cooker Sausage and Peppers Recipe by Katie Crafts; http://www.katiecrafts.com"
+  alt: "Slow Cooker Sausage and Peppers Recipe by"
 categories:
   - slug: "cooks"
     name: "Cooks"

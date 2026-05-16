@@ -4,7 +4,7 @@ publishedDate: "2015-03-18"
 excerpt: "Wordless Wednesday: Close-up Already the middle of the week! It’s flying by. So far this week has been pretty nice outside. A little rain on the weekend, a little chilly wind yesterday, but mostly nice. Currently the birds are all singing outside my window and the sunbeams are shining in (which the kitties adore, of […]"
 featuredImage:
   src: "./featured.jpg"
-  alt: "Wordless Wednesday: Close-up by Katie Crafts; http://www.katiecrafts.com"
+  alt: "Wordless Wednesday: Close-up by"
 categories:
   - slug: "hodgepodge"
     name: "Hodgepodge"

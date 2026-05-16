@@ -4,7 +4,7 @@ publishedDate: "2015-01-06"
 excerpt: "2015 Reading Challenge Happy New Year! So far, it’s been less than happy for me. My dad’s cat ran away the day after Christmas and hasn’t come home yet, and we’re quickly running out of hope. 🙁 🙁 Also, I have the flu! For ten days now! I missed the last two weekends in a […]"
 featuredImage:
   src: "./featured.png"
-  alt: "2015 Reading Challenge on Katie Crafts; http://www.katiecrafts.com"
+  alt: "2015 Reading Challenge"
 categories:
   - slug: "hodgepodge"
     name: "Hodgepodge"

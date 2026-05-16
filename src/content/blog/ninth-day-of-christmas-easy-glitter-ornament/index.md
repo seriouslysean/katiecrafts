@@ -4,7 +4,7 @@ publishedDate: "2014-12-09"
 excerpt: "Ninth Day of Christmas: Easy Glitter Ornament ♫ On the ninth day of Christmas, Katie Crafts gave to me- an ornament that’s super sparkly! ♫ Today’s DIY craft is the easiest ornament you will ever make, requires no sewing, no gluing, no thinking, and basically no time at all! Let’s get started!"
 featuredImage:
   src: "./featured.png"
-  alt: "Ninth Day of Christmas: Easy Glitter Ornament by Katie Crafts; http://www.katiecrafts.com"
+  alt: "Ninth Day of Christmas: Easy Glitter Ornament by"
 categories:
   - slug: "crafts"
     name: "Crafts"
@@ -49,19 +49,19 @@ This tutorial really is easy, so it goes pretty quickly! The white one pictured 
 
 - Put the top back on the ornament, making sure it is secure, and give it a shake! This will make the little flecks of glitter stick to the sides of the ornament.
 
-![Ninth Day of Christmas: Easy Glitter Ornament by Katie Crafts; http://www.katiecrafts.com](./ornament-3.jpg)
+![Ninth Day of Christmas: Easy Glitter Ornament by](./ornament-3.jpg)
 
 - That’s it! You’re done! Repeat for any other ornaments you may have.
 
-![Ninth Day of Christmas: Easy Glitter Ornament by Katie Crafts; http://www.katiecrafts.com](./ornament-4.jpg)
+![Ninth Day of Christmas: Easy Glitter Ornament by](./ornament-4.jpg)
 
 - Use a pretty ribbon or an ornament hook and hang them on your tree. Enjoy!
 
-![Ninth Day of Christmas: Easy Glitter Ornament by Katie Crafts; http://www.katiecrafts.com](./ornament-6.jpg)
+![Ninth Day of Christmas: Easy Glitter Ornament by](./ornament-6.jpg)
 
-![Ninth Day of Christmas: Easy Glitter Ornament by Katie Crafts; https://www.katiecrafts.com](./ornament-5.jpg)
+![Ninth Day of Christmas: Easy Glitter Ornament by](./ornament-5.jpg)
 
-![Ninth Day of Christmas: Easy Glitter Ornament by Katie Crafts; https://www.katiecrafts.com](./ornament-7.jpg)
+![Ninth Day of Christmas: Easy Glitter Ornament by](./ornament-7.jpg)
 
 This is a great project to do for large groups of people, at parties for favors or with kids! Just make sure you lay down some paper or a table cloth- it may get messy with all that glitter! Merry Christmas!
 

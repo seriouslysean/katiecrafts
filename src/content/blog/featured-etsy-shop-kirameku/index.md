@@ -4,7 +4,7 @@ publishedDate: "2014-04-08"
 excerpt: "Featured Etsy Shop: Kirameku Today’s featured Etsy shop artist, Maxime, is a very special one! Here are three reasons to love Maxime: 1- Her really fun blog, “Sparkling & Sweet,” is one of my sponsors (see her ad right there on the right sidebar?); 2- She has a super cute Etsy shop, Kirameku, filled with […]"
 featuredImage:
   src: "./featured.png"
-  alt: "Featured Etsy Shop: Kirameku on Katie Crafts; http://www.katiecrafts.com"
+  alt: "Featured Etsy Shop: Kirameku"
 categories:
   - slug: "hodgepodge"
     name: "Hodgepodge"
@@ -37,9 +37,9 @@ is one of my sponsors (see her ad right there on the right sidebar?); 2- She has
 
 ## Tell us a little about yourself…
 
-_Hi there, I’m Maxime, nice to meet you all! : ) I’m now 26, I’m a graphic designer by day and illustrator/jewelry maker by night. I’m living with Montreal, Canada. I love baking sweets, shoes and anything that shines! I love to create and I love to share, that is why I was drawn in with Etsy. I have studied Fine Arts for more than 7 years and my favourite mediums are acrylics and inks._
+_Hi there, I’m Maxime, nice to meet you all!: ) I’m now 26, I’m a graphic designer by day and illustrator/jewelry maker by night. I’m living with Montreal, Canada. I love baking sweets, shoes and anything that shines! I love to create and I love to share, that is why I was drawn in with Etsy. I have studied Fine Arts for more than 7 years and my favourite mediums are acrylics and inks._
 
-![Featured Etsy Shop: Kirameku on Katie Crafts; http://www.katiecrafts.com](./il-570xn-536762226-tvcv.jpg)
+![Featured Etsy Shop: Kirameku](./il-570xn-536762226-tvcv.jpg)
 
 ## What do you love about your craft?
 
@@ -49,19 +49,19 @@ _What I love the most about Kirameku is to be able to make your wishes come true
 
 _Favorite to make… wow this is a hard question, I love them all!!! If I have to choose only one, I would say I love my new wedding line; I simply love how the pearls and crystals enhance the beauty of the berry charm._
 
-![Featured Etsy Shop: Kirameku on Katie Crafts; http://www.katiecrafts.com](./il-570xn-170927301.jpg)
+![Featured Etsy Shop: Kirameku](./il-570xn-170927301.jpg)
 
 ## Where do you find your creative inspiration?
 
 _I think jewelry should be feminine and classy. And I love glamorous and sparkling things! These are my main inspirational guidelines. I would say that my inspiration comes from various fashion magazines or clothes I see in stores, as well as vintage jewelry, especially from the 50’s. I can be shopping and once I’ll be home, I’ll start sketching about this new earrings that would fit for example this fit and flare dress I just saw. I want to have a feminine collection but with bold colors that will give it a modern look._
 
-![Featured Etsy Shop: Kirameku on Katie Crafts; http://www.katiecrafts.com](./il-570xn-527867979-556t.jpg)
+![Featured Etsy Shop: Kirameku](./il-570xn-527867979-556t.jpg)
 
 ## How did you decide to open your Etsy shop?
 
 _Whenever I wanted jewelry, I could never find a piece that suited my taste and my budget. So I started sketching, experimenting and eventually discovered the ”Berries”. A friend of mine suggested Etsy as my designs became more and more popular with my entourage, and I loved the concept! 🙂 I wanted to share my creations with women around the world that were also looking for that very unique and hard to find jewelry pieces._
 
-![Featured Etsy Shop: Kirameku on Katie Crafts; http://www.katiecrafts.com](./il-570xn-530429351-khe8.jpg)
+![Featured Etsy Shop: Kirameku](./il-570xn-530429351-khe8.jpg)
 
 ## Any advice for others who want to start their own Etsy shop, or who are looking to fulfill their passion for crafting?
 

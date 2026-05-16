@@ -4,7 +4,7 @@ publishedDate: "2015-10-26"
 excerpt: "Halloween is under a week away! My last nail design for this season is my favorite so far. It’s a spooky twist on a french tip and was very easy to do. Hope you enjoy my Frankenstein nail art!"
 featuredImage:
   src: "./featured.png"
-  alt: "Frankenstein Nail Art Tutorial on Katie Crafts; http://www.katiecrafts.com"
+  alt: "Frankenstein Nail Art Tutorial"
 categories:
   - slug: "beauty"
     name: "Beauty"
@@ -35,8 +35,6 @@ tags:
 
 Halloween is under a week away! My last nail design for this season is my favorite so far. It’s a spooky twist on a french tip and was very easy to do. Hope you enjoy my Frankenstein nail art!
 
-
-
 ## Materials:
 
 - Clear top/base coat
@@ -59,9 +57,9 @@ Halloween is under a week away! My last nail design for this season is my favori
 
 - Paint the rest of your nails with a white french tip. Let dry.
 
-![Frankenstein Nail Art Tutorial on Katie Crafts; https://www.katiecrafts.com](./img-4231.jpg)
+![Frankenstein Nail Art Tutorial](./img-4231.jpg)
 
-![Frankenstein Nail Art Tutorial on Katie Crafts; https://www.katiecrafts.com](./img-4232.jpg)
+![Frankenstein Nail Art Tutorial](./img-4232.jpg)
 
 - Use the green nail polish to completely cover all white polish. The white will help the green POP!
 
@@ -75,17 +73,17 @@ Halloween is under a week away! My last nail design for this season is my favori
 
 - Go back over the lines to darken them, and make small stitches on each. Let dry.
 
-![Frankenstein Nail Art Tutorial on Katie Crafts; https://www.katiecrafts.com](./img-4238.jpg)
+![Frankenstein Nail Art Tutorial](./img-4238.jpg)
 
-![Frankenstein Nail Art Tutorial on Katie Crafts; https://www.katiecrafts.com](./img-4240.jpg)
+![Frankenstein Nail Art Tutorial](./img-4240.jpg)
 
 - Use the white nail polish to make small eyes (that are slightly bigger than the gems) on each Frankenstein face. Let dry.
 
 - Use clear polish to seal in your look. Before the clear dries, stick the rhinestone gems on the white dots to make the eyeballs.
 
-![Frankenstein Nail Art Tutorial on Katie Crafts; https://www.katiecrafts.com](./img-4242.jpg)
+![Frankenstein Nail Art Tutorial](./img-4242.jpg)
 
-![Frankenstein Nail Art Tutorial on Katie Crafts; https://www.katiecrafts.com](./img-4250.jpg)
+![Frankenstein Nail Art Tutorial](./img-4250.jpg)
 
 Aren’t these little monsters cute!? I looooove them! And I really love how simple they were to do! I hope you enjoyed them too! Let me know if you get a chance to try out this tutorial!
 

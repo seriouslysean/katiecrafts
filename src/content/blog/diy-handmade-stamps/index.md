@@ -4,7 +4,7 @@ publishedDate: "2014-04-04"
 excerpt: "Project: DIY Handmade Stamps I recently bought little kraft brown jewelry boxes to ship my rings and earrings on Etsy, but they are plain and I wanted to give them my personal touch. I have Katie Crafts logo stickers, and they are cute! But they are white. I really wanted to keep the handmade kraft […]"
 featuredImage:
   src: "./featured.png"
-  alt: "DIY Handmade Stamps on Katie Crafts; http://www.katiecrafts.com"
+  alt: "DIY Handmade Stamps"
 categories:
   - slug: "crafts"
     name: "Crafts"
@@ -57,48 +57,48 @@ I bought a super cheap kit (it was under ten bucks!) that included a 4×6 sheet 
 
 - Scissors
 
-![DIY Handmade Stamps on Katie Crafts; http://www.katiecrafts.com](./diy-handmade-stamps-kit.png)
+![DIY Handmade Stamps](./diy-handmade-stamps-kit.png)
 
 ## Instructions:
 
 - First, you’ll need to either draw, print or find the image you want to use. In my case, I took one of my logo stickers and stuck it to a piece of paper to use as my image. I sized how much tracing paper and rubber I’d be using for it, and cut it with scissors. If you are using the whole sheet of rubber for one large image, you can skip that part.
 
-![DIY Handmade Stamps on Katie Crafts; http://www.katiecrafts.com](./img-2329.jpg)
+![DIY Handmade Stamps](./img-2329.jpg)
 
 - Next, use the tracing paper to trace your image. Go over it a couple of times to make it nice and dark.
 
-![DIY Handmade Stamps on Katie Crafts; http://www.katiecrafts.com](./diy-handmade-stamp-trace.png)
+![DIY Handmade Stamps](./diy-handmade-stamp-trace.png)
 
 - Your image will be backwards on the rubber, but once inked will print correctly.
 
-![DIY Handmade Stamps on Katie Crafts; https://www.katiecrafts.com](./img-2331.jpg)
+![DIY Handmade Stamps](./img-2331.jpg)
 
-![DIY Handmade Stamps on Katie Crafts; https://www.katiecrafts.com](./img-2332.jpg)
+![DIY Handmade Stamps](./img-2332.jpg)
 
 - When you’re happy with your image, it’s time to transfer it to the rubber block. Center and place the tracing paper ink-side down (backwards) on the rubber. Gently (but firmly) press and rub the image with your fingers to transfer the marker drawing.
 
-![DIY Handmade Stamps on Katie Crafts; http://www.katiecrafts.com](./diy-handmade-stamps-transfer.png)
+![DIY Handmade Stamps](./diy-handmade-stamps-transfer.png)
 
 - If you’d like to darken the image on the rubber so you can see it better, just use your marker again or a pen. I intentionally thickened my lines a little when I did this.
 
 - Using your took and the smaller tip, start removing the negative space around the image! This means scraping out everything EXCEPT the circle, the “K” and the hearts. Even the inside of the hearts had to be scraped out.
 
-![DIY Handmade Stamps on Katie Crafts; http://www.katiecrafts.com](./diy-handmade-stamps-cut.png)
+![DIY Handmade Stamps](./diy-handmade-stamps-cut.png)
 
 - If you don’t remove enough of the rubber, ink will catch on the highest points that you left and transfer to your paper when you use the stamp. Test if you’ve done a good job by inking up your stamp on your ink pad, and giving it a shot.
 
-![DIY Handmade Stamps on Katie Crafts; http://www.katiecrafts.com](./img-2335.jpg)
+![DIY Handmade Stamps](./img-2335.jpg)
 
 You can see the spots around the circle where I didn’t quite take enough rubber off.
 
 - Go back in with your tool and remove the extra pieces that need removing and any excess. Be careful not to get ink all over you! Test again to see if the stamp is how you want it.
 
-![DIY Handmade Stamps on Katie Crafts; https://www.katiecrafts.com](./img-2338.jpg)
+![DIY Handmade Stamps](./img-2338.jpg)
 
-![DIY Handmade Stamps on Katie Crafts; https://www.katiecrafts.com](./img-2336.jpg)
+![DIY Handmade Stamps](./img-2336.jpg)
 
 Have fun stamping everything you can get your hands on!
 
-![DIY Handmade Stamps on Katie Crafts; http://www.katiecrafts.com](./img-2337.jpg)
+![DIY Handmade Stamps](./img-2337.jpg)
 
 Let me know in the comments if you try out this project, and what stamps you create!

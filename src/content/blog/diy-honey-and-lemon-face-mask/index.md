@@ -4,7 +4,7 @@ publishedDate: "2014-03-25"
 excerpt: "Project: DIY Honey and Lemon Face Mask If you liked my post about making your own lip scrub, you’re going to love today’s post! This face mask contains only three ingredients and is all natural. It’s great for your skin and will leave you feeling refreshed. It also makes a great homemade addition to an […]"
 featuredImage:
   src: "./featured.jpg"
-  alt: "DIY Honey and Lemon Face Mask on Katie Crafts; http://www.katiecrafts.com"
+  alt: "DIY Honey and Lemon Face Mask"
 categories:
   - slug: "beauty"
     name: "Beauty"
@@ -57,7 +57,7 @@ I bought 4 oz.
 
 , made up cards saying what the favors were along with their ingredients and instructions on using them, and enlisted my sister to help me make two giant batches of scrubs- one was a tea tree oil sugar body scrub and the other was a honey & lemon face mask. I also made little mini flower and leaf molded soaps, but that’s a whole different post altogether. 🙂
 
-![DIY Honey and Lemon Face Mask on Katie Crafts; http://www.katiecrafts.com](./soaps.jpg)
+![DIY Honey and Lemon Face Mask](./soaps.jpg)
 
 ## Ingredients (& Their Properties) For Every 1 ounce:
 
@@ -75,7 +75,7 @@ I bought 4 oz.
 
 _With these all natural ingredients, this mask (like the lip scrub) is totally edible!_
 
-![DIY Honey and Lemon Face Mask on Katie Crafts; http://www.katiecrafts.com](./img-7044.jpg)
+![DIY Honey and Lemon Face Mask](./img-7044.jpg)
 
 ## Instructions For Recipe:
 
@@ -101,4 +101,4 @@ That’s all you need to do! If you are interested in trying some before buying 
 
 Next time I’ll teach you how to make the tea tree oil sugar scrub! Or maybe not. Don’t want to give away ALL my secrets just yet. 😉
 
-![DIY Honey and Lemon Face Mask on Katie Crafts; http://www.katiecrafts.com](./img-7823.jpg)
+![DIY Honey and Lemon Face Mask](./img-7823.jpg)

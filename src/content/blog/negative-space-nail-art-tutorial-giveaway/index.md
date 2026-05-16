@@ -4,7 +4,7 @@ publishedDate: "2015-05-18"
 excerpt: "Negative Space Nail Art Tutorial + GIVEAWAY! A couple weeks ago, I began a giveaway for a cuticle pen (congrats again on winning, May!) and asked readers to tell me what looks they wanted to see in the future. I had a few people mention geometric and simple designs. I thought it would be a […]"
 featuredImage:
   src: "./featured.png"
-  alt: "Negative Space Nail Art Tutorial *AND* Nail Tape Giveaway! on Katie Crafts; http://www.katiecrafts.com"
+  alt: "Negative Space Nail Art Tutorial *AND* Nail Tape Giveaway!"
 categories:
   - slug: "beauty"
     name: "Beauty"
@@ -51,9 +51,9 @@ First, let’s tackle the nail art! I wanted something warm and summery, so I pi
 
 ## Instructions:
 
-![Negative Space Nail Art Tutorial \*AND\* Nail Tape Giveaway! on Katie Crafts; https://www.katiecrafts.com](./img-1603.jpg)
+![Negative Space Nail Art Tutorial \*AND\* Nail Tape Giveaway!](./img-1603.jpg)
 
-![Negative Space Nail Art Tutorial \*AND\* Nail Tape Giveaway! on Katie Crafts; https://www.katiecrafts.com](./img-1604.jpg)
+![Negative Space Nail Art Tutorial \*AND\* Nail Tape Giveaway!](./img-1604.jpg)
 
 - Starting with clean, dry nails, make designs with your nail tape. Use the nail clippers to cut it off the roll. Make sure the tape is pressed down firmly on your nail and skin a little, so there is less of a chance of the polish bleeding underneath.
 
@@ -61,25 +61,25 @@ First, let’s tackle the nail art! I wanted something warm and summery, so I pi
 
 - Repeat with your second and third colors, or until all sections are painted.
 
-![Negative Space Nail Art Tutorial \*AND\* Nail Tape Giveaway! on Katie Crafts; https://www.katiecrafts.com](./img-1610.jpg)
+![Negative Space Nail Art Tutorial \*AND\* Nail Tape Giveaway!](./img-1610.jpg)
 
-![Negative Space Nail Art Tutorial \*AND\* Nail Tape Giveaway! on Katie Crafts; https://www.katiecrafts.com](./img-1613.jpg)
+![Negative Space Nail Art Tutorial \*AND\* Nail Tape Giveaway!](./img-1613.jpg)
 
 - Quickly (and gently) peel off the nail tape to reveal your negative space lines. The faster you work, the more defined and perfect the lines will be. As the polish begins to dry, the lines become jagged! Mine started to do that because I was doing multiple colors AND stopping to take photos of everything. If you work paint and remove the tape quickly you will have much better luck!
 
-![Negative Space Nail Art Tutorial \*AND\* Nail Tape Giveaway! on Katie Crafts; https://www.katiecrafts.com](./img-1614.jpg)
+![Negative Space Nail Art Tutorial \*AND\* Nail Tape Giveaway!](./img-1614.jpg)
 
-![Negative Space Nail Art Tutorial \*AND\* Nail Tape Giveaway! on Katie Crafts; https://www.katiecrafts.com](./img-1617.jpg)
+![Negative Space Nail Art Tutorial \*AND\* Nail Tape Giveaway!](./img-1617.jpg)
 
 - Do a coat of clear polish and let dry. Then do a second coat of clear and let dry. The second coat really helps smooth everything out and give your nails an even, glossy look! Check out the difference between one and two coats on my thumb below.
 
-![Negative Space Nail Art Tutorial \*AND\* Nail Tape Giveaway! on Katie Crafts; https://www.katiecrafts.com](./img-1615.jpg)
+![Negative Space Nail Art Tutorial \*AND\* Nail Tape Giveaway!](./img-1615.jpg)
 
-![Negative Space Nail Art Tutorial \*AND\* Nail Tape Giveaway! on Katie Crafts; https://www.katiecrafts.com](./img-1629.jpg)
+![Negative Space Nail Art Tutorial \*AND\* Nail Tape Giveaway!](./img-1629.jpg)
 
 Enjoy your negative space nail art, and have fun coming up with really cool designs with the tape!!
 
-![Negative Space Nail Art Tutorial \*AND\* Nail Tape Giveaway! on Katie Crafts; http://www.katiecrafts.com](./img-1627.jpg)
+![Negative Space Nail Art Tutorial \*AND\* Nail Tape Giveaway!](./img-1627.jpg)
 
 ## Tip:
 
@@ -87,7 +87,7 @@ Enjoy your negative space nail art, and have fun coming up with really cool desi
 
 ![](./img-1632.jpg)
 
-![Negative Space Nail Art Tutorial \*AND\* Nail Tape Giveaway! on Katie Crafts; https://www.katiecrafts.com](./img-1636.jpg)
+![Negative Space Nail Art Tutorial \*AND\* Nail Tape Giveaway!](./img-1636.jpg)
 
 Okay, now on to the giveaway!
 

@@ -4,7 +4,7 @@ publishedDate: "2014-10-01"
 excerpt: "Wordless Wednesday: Foliage Ahh, Fall foliage. So pretty! As promised last Wednesday, this week is another shot by one of my wedding photographers last October! Isn’t this scenery gorgeous?! This is where I got married."
 featuredImage:
   src: "./featured.png"
-  alt: "Wordless Wednesday: Foliage on Katie Crafts; http://www.katiecrafts.com"
+  alt: "Wordless Wednesday: Foliage"
 categories:
   - slug: "hodgepodge"
     name: "Hodgepodge"

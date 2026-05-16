@@ -4,7 +4,7 @@ publishedDate: "2015-12-01"
 excerpt: "This week is all about giveaways! Win this great e.l.f. haul and start celebrating the 12 Days of Christmas!"
 featuredImage:
   src: "./featured.png"
-  alt: "12 Days of Christmas: Day 1; e.l.f. Haul Giveaway! on Katie Crafts; http://www.katiecrafts.com"
+  alt: "12 Days of Christmas: Day 1; e.l.f. Haul Giveaway!"
 categories:
   - slug: "beauty"
     name: "Beauty"
@@ -43,11 +43,11 @@ giveaway to kick off the holiday season! Since the 12 days of Christmas span ove
 
 Today’s giveaway is a great bundle of loot from e.l.f.! Eyes Lips Face is one of my favorite beauty companies. They have great products and they are so affordable. That’s why I got extras of all my favorite items to share with you today! You’ll get a complete natural look perfect for the holidays, or you can wrap them each separately and use them for fun stocking stuffers!
 
-![12 Days of Christmas: Day 1; e.l.f. Haul Giveaway! on Katie Crafts; https://www.katiecrafts.com](./img-4692.jpg)
+![12 Days of Christmas: Day 1; e.l.f. Haul Giveaway!](./img-4692.jpg)
 
-![12 Days of Christmas: Day 1; e.l.f. Haul Giveaway! on Katie Crafts; https://www.katiecrafts.com](./img-4693.jpg)
+![12 Days of Christmas: Day 1; e.l.f. Haul Giveaway!](./img-4693.jpg)
 
-![12 Days of Christmas: Day 1; e.l.f. Haul Giveaway! on Katie Crafts; https://www.katiecrafts.com](./img-4694.jpg)
+![12 Days of Christmas: Day 1; e.l.f. Haul Giveaway!](./img-4694.jpg)
 
 One lucky winner will receive all of the following:
 

@@ -4,7 +4,7 @@ publishedDate: "2016-01-13"
 excerpt: "I went on a trip to Longwood Gardens last week to check out the Christmas displays before they were over. I’ll share a recap tomorrow with lots of photos from my trip (it was so pretty!) but I’m sharing my fave pic today! I took this one in the Conservatory right after some of the plants were sprayed with water."
 featuredImage:
   src: "./featured.jpg"
-  alt: "Wordless Wednesday: Water Droplets on Katie Crafts; http://www.katiecrafts.com"
+  alt: "Wordless Wednesday: Water Droplets"
 categories:
   - slug: "hodgepodge"
     name: "Hodgepodge"

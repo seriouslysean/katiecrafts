@@ -4,7 +4,7 @@ publishedDate: "2015-06-10"
 excerpt: "Wordless Wednesday: The Great Wave in LEGO One of the gifts I gave the Husband for his birthday was an afternoon at The Franklin Institute checking out some of their exhibits. One of them was called “The Art of Brick” and contained TONS of amazing artworks made of LEGO Bricks by contemporary artist Nathan Sawaya."
 featuredImage:
   src: "./featured.jpg"
-  alt: "Wordless Wednesday: The Great Wave in Legos on Katie Crafts; http://www.katiecrafts.com"
+  alt: "Wordless Wednesday: The Great Wave in Legos"
 categories:
   - slug: "hodgepodge"
     name: "Hodgepodge"

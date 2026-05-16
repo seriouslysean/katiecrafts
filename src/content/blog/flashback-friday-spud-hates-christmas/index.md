@@ -16,6 +16,6 @@ tags:
     name: "spud"
 ---
 
-![Flashback Friday: Spud Hates Christmas on Katie Crafts; http://www.katiecrafts.com](./spud-christmas.jpg)
+![Flashback Friday: Spud Hates Christmas](./spud-christmas.jpg)
 
 Flashback to Spud snuggled up on the Christmas stockings, not giving a damn about Christmas!

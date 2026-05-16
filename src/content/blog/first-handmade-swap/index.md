@@ -4,7 +4,7 @@ publishedDate: "2014-04-10"
 excerpt: "I adore getting packages in the mail, especially when I have no idea what the contents are! I’ve been thinking of doing a handmade swap for awhile now, and came up with some ideas on how to do it. You need not be an Etsy seller or even a superstar crafter to participate! Anyone who […]"
 featuredImage:
   src: "./featured.png"
-  alt: "First Handmade Swap on Katie Crafts; http://www.katiecrafts.com"
+  alt: "First Handmade Swap"
 categories:
   - slug: "hodgepodge"
     name: "Hodgepodge"

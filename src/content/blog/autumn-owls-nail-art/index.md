@@ -4,7 +4,7 @@ publishedDate: "2015-11-16"
 excerpt: "Full disclosure: I’m a little obsessed with owls. There are owl related items in various places around my house. One of my favorite shirts has a big metallic owl on it. I watch cute videos of owls whenever they pop up in my feed. Honestly, I’m surprised it took me this long to make some […]"
 featuredImage:
   src: "./featured.png"
-  alt: "Autumn Owls Nail Art Tutorial by Katie Crafts; http://www.katiecrafts.com"
+  alt: "Autumn Owls Nail Art Tutorial by"
 categories:
   - slug: "beauty"
     name: "Beauty"
@@ -73,17 +73,17 @@ _If you are doing each nail a different color owl, choose which nails you want f
 
 - With your first owl body color, swipe the polish from the top corner of your nail to the bottom middle of your nail. Do the same on the opposite side. Fill in any empty spaces on the bottom. This will create the owl ears and owl head/body.
 
-![Autumn Owls Nail Art Tutorial by Katie Crafts; https://www.katiecrafts.com](./img-4549.jpg)
+![Autumn Owls Nail Art Tutorial by](./img-4549.jpg)
 
-![Autumn Owls Nail Art Tutorial by Katie Crafts; https://www.katiecrafts.com](./img-4551.jpg)
+![Autumn Owls Nail Art Tutorial by](./img-4551.jpg)
 
 - Continue doing this for each nail until all are completed. When they are totally try, do a second coat on any that need it.
 
-![Autumn Owls Nail Art Tutorial by Katie Crafts; https://www.katiecrafts.com](./img-4552.jpg)
+![Autumn Owls Nail Art Tutorial by](./img-4552.jpg)
 
-![Autumn Owls Nail Art Tutorial by Katie Crafts; https://www.katiecrafts.com](./img-4554.jpg)
+![Autumn Owls Nail Art Tutorial by](./img-4554.jpg)
 
-![Autumn Owls Nail Art Tutorial by Katie Crafts; https://www.katiecrafts.com](./img-4555.jpg)
+![Autumn Owls Nail Art Tutorial by](./img-4555.jpg)
 
 Second coat!
 
@@ -93,18 +93,18 @@ Second coat!
 
 * With gold glitter nail polish, cover the white of each belly. Let dry.
 
-![Autumn Owls Nail Art Tutorial by Katie Crafts; http://www.katiecrafts.com](./2015-11-15-at-10-34-pm1.png)
+![Autumn Owls Nail Art Tutorial by](./2015-11-15-at-10-34-pm1.png)
 
 - When all the polish is all dry, paint clear top coat on each nail one at a time. As soon as you’ve painted a nail clear and it is still wet, place your gems on the white eyes so they stick. Then move on to the next. Painting clear on TOP of the eyes definitely makes them stay a lot longer, but it takes away some of the sparkle of the rhinestones, so for this tutorial I did not do that. You may, however!
 
-![Autumn Owls Nail Art Tutorial by Katie Crafts; https://www.katiecrafts.com](./img-4563.jpg)
+![Autumn Owls Nail Art Tutorial by](./img-4563.jpg)
 
-![Autumn Owls Nail Art Tutorial by Katie Crafts; https://www.katiecrafts.com](./img-4565.jpg)
+![Autumn Owls Nail Art Tutorial by](./img-4565.jpg)
 
 - Clean up any stray polish on your fingers and you’re done! Enjoy your new little owl friends!
 
-![Autumn Owls Nail Art Tutorial by Katie Crafts; https://www.katiecrafts.com](./img-4569.jpg)
+![Autumn Owls Nail Art Tutorial by](./img-4569.jpg)
 
-![Autumn Owls Nail Art Tutorial by Katie Crafts; https://www.katiecrafts.com](./img-4570.jpg)
+![Autumn Owls Nail Art Tutorial by](./img-4570.jpg)
 
 What do you think of my cute little autumn owls nail art design? What other woodland creatures should I try out?

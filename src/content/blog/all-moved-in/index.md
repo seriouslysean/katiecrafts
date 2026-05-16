@@ -4,7 +4,7 @@ publishedDate: "2014-09-23"
 excerpt: "All our stuff is officially moved in, and we handed in our keys to our old apartment with a half hour to spare on Saturday night. Lucky is loving the new house, but Mabel- not so much!"
 featuredImage:
   src: "./featured.png"
-  alt: "All Moved In! on Katie Crafts; http://www.katiecrafts.com"
+  alt: "All Moved In!"
 categories:
   - slug: "cats"
     name: "Cats"

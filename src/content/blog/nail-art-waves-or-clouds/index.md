@@ -4,7 +4,7 @@ publishedDate: "2015-06-22"
 excerpt: "Nail Art: Waves or Clouds? Sorry I’ve been MIA this past week- I’ve had the worst cold ever! I’m still pretty sick, but I managed to give myself a cute manicure yesterday while binge watching Netflix and it’s just in time for Manicure Monday! This is one of my favorite nail art looks to do […]"
 featuredImage:
   src: "./featured.png"
-  alt: "Nail Art: Waves or Clouds? by Katie Crafts; http://www.katiecrafts.com"
+  alt: "Nail Art: Waves or Clouds? by"
 categories:
   - slug: "beauty"
     name: "Beauty"
@@ -51,23 +51,23 @@ This next part is what creates the design, and it’s simple because you aren’
 
 * Do a second coat of that wave/cloud color on top of it, if it isn’t standing out enough for you. Let dry.
 
-![Nail Art: Waves or Clouds? by Katie Crafts; http://www.katiecrafts.com](./nail-art-waves-clouds-3.jpg)
+![Nail Art: Waves or Clouds? by](./nail-art-waves-clouds-3.jpg)
 
 - Now you will repeat the process above directly on top of the one you just made, only a little bit lower. This allows that “layer” to show through a bit. Use the same colors as the very first coat for the last wave/cloud. Double coat only if necessary. Let completely dry.
 
-![Nail Art: Waves or Clouds? by Katie Crafts; http://www.katiecrafts.com](./nail-art-waves-clouds-4.jpg)
+![Nail Art: Waves or Clouds? by](./nail-art-waves-clouds-4.jpg)
 
 - Seal in with a quick clear top coat and let dry completely. It will take a bit to be totally dry, as you have a LOT of layers of nail polish on your nails!
 
-![Nail Art: Waves or Clouds? by Katie Crafts; http://www.katiecrafts.com](./nail-art-waves-clouds-6.jpg)
+![Nail Art: Waves or Clouds? by](./nail-art-waves-clouds-6.jpg)
 
 These colors totally remind me of the glow bracelets I just bought for our 4th of July picnic!
 
 Clouds or Waves????
 
-![Nail Art: Waves or Clouds? by Katie Crafts; https://www.katiecrafts.com](./nail-art-waves-clouds-8.jpg)
+![Nail Art: Waves or Clouds? by](./nail-art-waves-clouds-8.jpg)
 
-![Nail Art: Waves or Clouds? by Katie Crafts; https://www.katiecrafts.com](./nail-art-waves-clouds-5.jpg)
+![Nail Art: Waves or Clouds? by](./nail-art-waves-clouds-5.jpg)
 
 Enjoy your new look!! Next week, I will show the same look again, with a little twist! Stay tuned…. 😉
 

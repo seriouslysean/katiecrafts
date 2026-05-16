@@ -4,7 +4,7 @@ publishedDate: "2014-05-28"
 excerpt: "Featured Etsy Shop: RockaBeauty Boutique We aren’t quite done celebrating Memorial Day yet, so we are continuing with the most adorable red, white and blue (and pink, and more!) bows, headbands and accessories you ever did see! They come from TJ at RockaBeauty Boutique on Etsy, who is our featured artist of the week! Learn […]"
 featuredImage:
   src: "./featured.jpg"
-  alt: "Featured Etsy Shop: RockaBeauty Boutique on Katie Crafts; http://www.katiecrafts.com"
+  alt: "Featured Etsy Shop: RockaBeauty Boutique"
 categories:
   - slug: "crafts"
     name: "Crafts"
@@ -49,13 +49,13 @@ _[RockaBeauty Boutique on Etsy](https://www.etsy.com/shop/RockaBeautyBoutique "R
 
 _I’m TJ aka RockaBeauty Mama and I live in the beautiful but drizzly Pacific Northwest. I spend most of my days at home either working on my Etsy shop, RockaBeauty Boutique, or playing with and teaching my almost 5 year old daughter. When my husband is home we like to spend most of our time exploring the abundance of nature that surrounds us!_
 
-[![Featured Etsy Shop: RockaBeauty Boutique on Katie Crafts; http://www.katiecrafts.com](./icm-fullxfull-39849460-eiio8em5ub4sk8044o4g.jpg)](https://www.etsy.com/listing/181845198/red-nautical-stripes-fabric-hair-bow?ref=shop_home_feat_4)
+[![Featured Etsy Shop: RockaBeauty Boutique](./icm-fullxfull-39849460-eiio8em5ub4sk8044o4g.jpg)](https://www.etsy.com/listing/181845198/red-nautical-stripes-fabric-hair-bow?ref=shop_home_feat_4)
 
 ## What do you love most about your craft?
 
 _I have always loved creating since I was a little girl. It is like a need I was born with that I can’t get away from (not that I would want to). Sculpting fabric into something wearable is an amazing outlet for my creativity. My creations are an extension of my own style. I have always been an alternative retro gal with a love for beauty and fashion and now I create the pieces that make up my style on a daily basis. What’s not to love!_
 
-[![Featured Etsy Shop: RockaBeauty Boutique on Katie Crafts; http://www.katiecrafts.com](./icm-fullxfull-39860185-1bblbefnvszocgg40w4c.jpg)](https://www.etsy.com/listing/184882082/pink-and-white-striped-retro-heaband-pin?ref=shop_home_active_11)
+[![Featured Etsy Shop: RockaBeauty Boutique](./icm-fullxfull-39860185-1bblbefnvszocgg40w4c.jpg)](https://www.etsy.com/listing/184882082/pink-and-white-striped-retro-heaband-pin?ref=shop_home_active_11)
 
 ## What item was your favorite to make so far?
 
@@ -65,7 +65,7 @@ _I love them all so much it is hard to choose! I always keep the first version o
 
 _My personal style has been the main inspiration for my creations. Most of the items in my shop have a retro/punk/rockabilly feel with a hint of girly-ness on the side. I swoon over the bright and bold patterns of the past but I also love anything that is a little dark and playful._
 
-[![Featured Etsy Shop: RockaBeauty Boutique on Katie Crafts; http://www.katiecrafts.com](./icm-fullxfull-39849914-a5rrzjwo2wow4o4wc4gk.jpg)](https://www.etsy.com/listing/188978738/fabric-bow-earrings-handmade-black-and?ref=listing-shop-header-2)
+[![Featured Etsy Shop: RockaBeauty Boutique](./icm-fullxfull-39849914-a5rrzjwo2wow4o4wc4gk.jpg)](https://www.etsy.com/listing/188978738/fabric-bow-earrings-handmade-black-and?ref=listing-shop-header-2)
 
 ## How did you decide to open your Etsy shop?
 
@@ -106,7 +106,7 @@ Instagram:
 
 [instagram.com/rockabeautyboutique](http://instagram.com/rockabeautyboutique)
 
-[![Featured Etsy Shop: RockaBeauty Boutique on Katie Crafts; http://www.katiecrafts.com](./icm-fullxfull-41085038-7sxd2o8fhu8soc0kw4ks.jpg)](http://rockabeautyboutique.com/2014/05/23/button-earring-giveaway/)
+[![Featured Etsy Shop: RockaBeauty Boutique](./icm-fullxfull-41085038-7sxd2o8fhu8soc0kw4ks.jpg)](http://rockabeautyboutique.com/2014/05/23/button-earring-giveaway/)
 
 TJ is currently holding a giveaway on her blog for some super cute button earrings! It only goes til tomorrow, so you better
 

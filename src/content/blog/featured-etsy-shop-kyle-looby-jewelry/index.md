@@ -4,7 +4,7 @@ publishedDate: "2014-07-09"
 excerpt: "Featured Etsy Shop: Kyle Looby Jewelry The featured artist of the day is Kyle from Kyle Looby Jewelry on Etsy! She is a super talented artisan who recycles everyday items into beautiful unique pieces of jewelry. Read all about her and her work below, and then find out how you can enter to win the […]"
 featuredImage:
   src: "./featured.jpg"
-  alt: "Featured Etsy Shop: Kyle Looby Jewelry on Katie Crafts; http://www.katiecrafts.com"
+  alt: "Featured Etsy Shop: Kyle Looby Jewelry"
 categories:
   - slug: "crafts"
     name: "Crafts"
@@ -45,7 +45,7 @@ _Kyle Looby is a jewelry artist living and working in Springfield, Illinois. She
 
 _After a three year hiatus from designing, Looby immersed herself in her jewelry work and expanded access to her designs through wholesale opportunities and by joining a locally-owned artist co-op. Her first show in three years was the juried Gazebo Art Festival in Macomb, Illinois, where her unusual designs were a big hit. In 2014, she began shipping out pieces all over the United States via her Etsy shop and appearing at numerous local art and craft shows. Her work is currently located at the Studio on 6th in Springfield, Illinois, and Tossed and Found retail store also in Springfield._
 
-[![Featured Etsy Shop: Kyle Looby Jewelry on Katie Crafts; http://www.katiecrafts.com](./il-570xn-607033838-nodx.jpg)](https://www.etsy.com/listing/190855114/pink-fabric-bead-wrap?ref=shop_home_active_17)
+[![Featured Etsy Shop: Kyle Looby Jewelry](./il-570xn-607033838-nodx.jpg)](https://www.etsy.com/listing/190855114/pink-fabric-bead-wrap?ref=shop_home_active_17)
 
 ## What do you love about your craft?
 
@@ -55,7 +55,7 @@ _The very best thing about what I do is the look on someone’s face when they f
 
 _A necklace made with a small, ornate clock key. My grandfather collected clocks, among other antiques. My grandparents’ living room walls were covered ceiling to floor with shelves of clocks. He died when I was in college and my key necklace reminds me of him. I wear it almost every day. It’s one of the few pieces of my jewelry that I have kept for myself._
 
-[![Featured Etsy Shop: Kyle Looby Jewelry on Katie Crafts; http://www.katiecrafts.com](./il-570xn-611834007-6r1f.jpg)](https://www.etsy.com/listing/192167631/yoga-jewelry-namaste-jewelry-silver-coin?ref=shop_home_active_15)
+[![Featured Etsy Shop: Kyle Looby Jewelry](./il-570xn-611834007-6r1f.jpg)](https://www.etsy.com/listing/192167631/yoga-jewelry-namaste-jewelry-silver-coin?ref=shop_home_active_15)
 
 ## Where do you find your creative inspiration?
 
@@ -63,13 +63,13 @@ _The “junk” itself inspires me. I rarely have a design in mind when I shop f
 
 _And of course, I find inspiration in other artists. Diana Frey, Deryn Mentock, and Audrey Charlton (Principessa Jewels) are amazingly talented women who do what I do, but do it much better._
 
-[![Featured Etsy Shop: Kyle Looby Jewelry on Katie Crafts; http://www.katiecrafts.com](./il-570xn-617057978-jxqy.jpg)](https://www.etsy.com/listing/179749567/vintage-text-insect-glass-tile-pendant?ref=shop_home_active_1)
+[![Featured Etsy Shop: Kyle Looby Jewelry](./il-570xn-617057978-jxqy.jpg)](https://www.etsy.com/listing/179749567/vintage-text-insect-glass-tile-pendant?ref=shop_home_active_1)
 
 ## How did you decide to open your Etsy shop?
 
 _I was getting so much positive feedback from friends about my work and one friend suggested I sell on Etsy. I hadn’t sold to anyone but friends and family at that point, but of course I loved the idea of making money from the thing I loved doing best so I could buy more junk! The work is the main thing for me; making money from it is icing on the cake._
 
-[![Featured Etsy Shop: Kyle Looby Jewelry on Katie Crafts; http://www.katiecrafts.com](./il-570xn-616099308-rp0p.jpg)](https://www.etsy.com/listing/175553236/gold-buckle-brass-crystal-necklace?ref=shop_home_active_2)
+[![Featured Etsy Shop: Kyle Looby Jewelry](./il-570xn-616099308-rp0p.jpg)](https://www.etsy.com/listing/175553236/gold-buckle-brass-crystal-necklace?ref=shop_home_active_2)
 
 ## Any advice for others who want to start their own Etsy shop, or who are looking to fulfill their passion for crafting?
 

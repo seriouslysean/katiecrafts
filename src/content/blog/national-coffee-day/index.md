@@ -4,7 +4,7 @@ publishedDate: "2014-09-29"
 excerpt: "Yippee! Today is National Coffee Day– my Husband’s favorite holiday! He’s quite the coffee addict… err… lover. We will celebrate this morning with a few cups in our kitchen and later with a FREE cup from Dunkin! All Dunkin Donuts are giving away a free cup of their new Dark Roast, which sounds pretty great to […]"
 featuredImage:
   src: "./featured.png"
-  alt: "National Coffee Day on Katie Crafts; http://www.katiecrafts.com"
+  alt: "National Coffee Day"
 categories:
   - slug: "hodgepodge"
     name: "Hodgepodge"

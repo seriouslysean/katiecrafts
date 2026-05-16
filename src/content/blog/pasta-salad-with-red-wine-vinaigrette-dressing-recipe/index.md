@@ -4,7 +4,7 @@ publishedDate: "2014-07-08"
 excerpt: "Pasta Salad w/ Red Wine Vinaigrette Dressing Recipe You already know about our fun picnic on Fourth of July! Everyone brought delicious nibbles and we had a great time! I made spinach dip and pasta salad which I make every year. This year, I tried out a different dressing for it- one I’ve been using […]"
 featuredImage:
   src: "./featured.jpg"
-  alt: "Pasta Salad w/ Red Wine Vinaigrette Dressing Recipe by Katie Crafts; http://www.katiecrafts.com"
+  alt: "Pasta Salad w/ Red Wine Vinaigrette Dressing Recipe by"
 categories:
   - slug: "cooks"
     name: "Cooks"
@@ -95,24 +95,24 @@ The following ingredients for dressing will give you one bottle’s worth, which
 
 I don’t have any pics of us eating the pasta salad, but here are a few shots of our picnic! If you make the pasta salad or dressing and love it too, tell me in the comments!
 
-![Pasta Salad w/ Red Wine Vinaigrette Dressing Recipe by Katie Crafts; https://www.katiecrafts.com](./img-4293.jpg)
+![Pasta Salad w/ Red Wine Vinaigrette Dressing Recipe by](./img-4293.jpg)
 
-![Pasta Salad w/ Red Wine Vinaigrette Dressing Recipe by Katie Crafts; https://www.katiecrafts.com](./img-4302.jpg)
+![Pasta Salad w/ Red Wine Vinaigrette Dressing Recipe by](./img-4302.jpg)
 
-![Pasta Salad w/ Red Wine Vinaigrette Dressing Recipe by Katie Crafts; https://www.katiecrafts.com](./img-4304.jpg)
+![Pasta Salad w/ Red Wine Vinaigrette Dressing Recipe by](./img-4304.jpg)
 
-![Pasta Salad w/ Red Wine Vinaigrette Dressing Recipe by Katie Crafts; https://www.katiecrafts.com](./img-4296.jpg)
+![Pasta Salad w/ Red Wine Vinaigrette Dressing Recipe by](./img-4296.jpg)
 
-![Pasta Salad w/ Red Wine Vinaigrette Dressing Recipe by Katie Crafts; http://www.katiecrafts.com](./img-4292.jpg)
+![Pasta Salad w/ Red Wine Vinaigrette Dressing Recipe by](./img-4292.jpg)
 
-![Pasta Salad w/ Red Wine Vinaigrette Dressing Recipe by Katie Crafts; https://www.katiecrafts.com](./img-4309.jpg)
+![Pasta Salad w/ Red Wine Vinaigrette Dressing Recipe by](./img-4309.jpg)
 
-![Pasta Salad w/ Red Wine Vinaigrette Dressing Recipe by Katie Crafts; https://www.katiecrafts.com](./img-4338.jpg)
+![Pasta Salad w/ Red Wine Vinaigrette Dressing Recipe by](./img-4338.jpg)
 
-![Pasta Salad w/ Red Wine Vinaigrette Dressing Recipe by Katie Crafts; https://www.katiecrafts.com](./img-4344.jpg)
+![Pasta Salad w/ Red Wine Vinaigrette Dressing Recipe by](./img-4344.jpg)
 
-![Pasta Salad w/ Red Wine Vinaigrette Dressing Recipe by Katie Crafts; https://www.katiecrafts.com](./img-4346.jpg)
+![Pasta Salad w/ Red Wine Vinaigrette Dressing Recipe by](./img-4346.jpg)
 
 Oh, I lied! I found a pic of Husband and I having a “leftovers” picnic the next day, where we are having some pasta salad! Isn’t he handsome? 🙂
 
-![Pasta Salad w/ Red Wine Vinaigrette Dressing Recipe by Katie Crafts; http://www.katiecrafts.com](./img-4352.jpg)
+![Pasta Salad w/ Red Wine Vinaigrette Dressing Recipe by](./img-4352.jpg)

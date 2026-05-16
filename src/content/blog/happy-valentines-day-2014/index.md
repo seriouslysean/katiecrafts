@@ -11,6 +11,6 @@ tags:
     name: "valentine's day"
 ---
 
-![Happy Valentine's Day!](./img-3296.jpg "Valentine's Lucky Cat on Katie Crafts; http://www.katiecrafts.com/")
+![Happy Valentine's Day!](./img-3296.jpg "Valentine's Lucky Cat on Katie Crafts; ")
 
 Happy Valentine’s Day!

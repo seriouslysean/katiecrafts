@@ -4,7 +4,7 @@ publishedDate: "2016-06-29"
 excerpt: "Sorry I’ve been MIA the last couple weeks! I needed a little blogging break to start out the Summer- hope you didn’t miss me too much. 😉 It’s Shark Week on the Discovery Channel, so I had to share a few pics of the sharks we saw at the National Aquarium!"
 featuredImage:
   src: "./featured.jpg"
-  alt: "Wordless Wednesday: Shark Week on Katie Crafts; http://www.katiecrafts.com"
+  alt: "Wordless Wednesday: Shark Week"
 categories:
   - slug: "hodgepodge"
     name: "Hodgepodge"

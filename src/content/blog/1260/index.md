@@ -13,18 +13,18 @@ tags:
     name: "mabel"
 ---
 
-![Mabel and Lucky on Katie Crafts; https://www.katiecrafts.com](./img-6469.jpg)
+![Mabel and Lucky](./img-6469.jpg)
 
-![Mabel and Lucky on Katie Crafts; https://www.katiecrafts.com](./img-6468.jpg)
+![Mabel and Lucky](./img-6468.jpg)
 
-![Mabel and Lucky on Katie Crafts; https://www.katiecrafts.com](./img-6467.jpg)
+![Mabel and Lucky](./img-6467.jpg)
 
-![Mabel and Lucky on Katie Crafts; https://www.katiecrafts.com](./img-6466.jpg)
+![Mabel and Lucky](./img-6466.jpg)
 
-![Mabel and Lucky on Katie Crafts; https://www.katiecrafts.com](./img-6465.jpg)
+![Mabel and Lucky](./img-6465.jpg)
 
-![Mabel and Lucky on Katie Crafts; https://www.katiecrafts.com](./img-6464.jpg)
+![Mabel and Lucky](./img-6464.jpg)
 
-![Mabel and Lucky on Katie Crafts; https://www.katiecrafts.com](./img-6463.jpg)
+![Mabel and Lucky](./img-6463.jpg)
 
-![Mabel and Lucky on Katie Crafts; https://www.katiecrafts.com](./img-6462.jpg)
+![Mabel and Lucky](./img-6462.jpg)

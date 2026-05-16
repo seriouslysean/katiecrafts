@@ -4,7 +4,7 @@ publishedDate: "2015-08-26"
 excerpt: "This weekend I followed my bliss… right to Longwood Gardens! I have some pink dahlias in a pot in front of my house, but they aren’t loving the constant heat right now. I assumed this was something all dahlias had in common until I went to the gardens and found a huge courtyard filled with them!"
 featuredImage:
   src: "./featured.png"
-  alt: "Words for Wednesday: Follow Your Bliss on Katie Crafts; http://www.katiecrafts.com"
+  alt: "Words for Wednesday: Follow Your Bliss"
 categories:
   - slug: "hodgepodge"
     name: "Hodgepodge"

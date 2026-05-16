@@ -16,6 +16,6 @@ tags:
     name: "new years eve"
 ---
 
-![New Year's Cat on Katie Crafts; http://www.katiecrafts.com](./img-6387.jpg)
+![New Year's Cat](./img-6387.jpg)
 
 New Year’s Cat wants to know how you spent your holiday!

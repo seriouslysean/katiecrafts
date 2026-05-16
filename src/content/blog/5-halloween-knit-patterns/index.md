@@ -4,7 +4,7 @@ publishedDate: "2015-10-20"
 excerpt: "I was so excited to find all the Halloween Crochet Patterns a few weeks ago, that I decided to do a follow up post only with knits! Check out these five wonderful knit patterns I found on Ravelry that are completely perfect for the upcoming holiday."
 featuredImage:
   src: "./featured.png"
-  alt: "Five Halloween Knit Patterns on Katie Crafts; http://www.katiecrafts.com"
+  alt: "Five Halloween Knit Patterns"
 categories:
   - slug: "crafts"
     name: "Crafts"
@@ -43,17 +43,17 @@ The first pattern is totally free! It’s called the
 
 and it’s designed by Alison Hogg. Such a cute and creepy idea for a pincushion for all your sewing and crafting needs! I feel like the same pattern would be perfect for making a gingerbread man pincushion for later on in the year, too!
 
-![Five Halloween Knit Patterns on Katie Crafts; https://www.katiecrafts.com](./5-knit-halloween-projects-6.jpg)
+![Five Halloween Knit Patterns](./5-knit-halloween-projects-6.jpg)
 
-![Five Halloween Knit Patterns on Katie Crafts; https://www.katiecrafts.com](./5-knit-halloween-projects-5.jpg)
+![Five Halloween Knit Patterns](./5-knit-halloween-projects-5.jpg)
 
-![Five Halloween Knit Patterns on Katie Crafts; https://www.katiecrafts.com](./5-knit-halloween-projects-2.jpg)
+![Five Halloween Knit Patterns](./5-knit-halloween-projects-2.jpg)
 
-![Five Halloween Knit Patterns on Katie Crafts; https://www.katiecrafts.com](./5-knit-halloween-projects-9.jpg)
+![Five Halloween Knit Patterns](./5-knit-halloween-projects-9.jpg)
 
-![Five Halloween Knit Patterns on Katie Crafts; https://www.katiecrafts.com](./5-knit-halloween-projects-1.jpg)
+![Five Halloween Knit Patterns](./5-knit-halloween-projects-1.jpg)
 
-![Five Halloween Knit Patterns on Katie Crafts; https://www.katiecrafts.com](./5-knit-halloween-projects-4.jpg)
+![Five Halloween Knit Patterns](./5-knit-halloween-projects-4.jpg)
 
 The next pattern is less scary and way cute! It comes from Alan Dart and is simply called
 
@@ -77,7 +77,7 @@ A fourth pattern I loved is another freebie. This one is from the creative mind 
 
 ! I imagine if a real life candy corn suddenly grew eyes, fangs and feet it would probably be quite terrifying, but these guys make it sweet.
 
-![Five Halloween Knit Patterns on Katie Crafts; http://www.katiecrafts.com](./5-knit-halloween-projects-8.jpg)
+![Five Halloween Knit Patterns](./5-knit-halloween-projects-8.jpg)
 
 The last pattern I’ll share today is something to keep your toes warm on Halloween night! These
 

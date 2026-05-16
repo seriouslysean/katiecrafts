@@ -4,7 +4,7 @@ publishedDate: "2016-02-18"
 excerpt: "GREAT NEWS!! Today, February 18th, is National Drink Wine Day! Just in case you needed another reason to pour yourself a glass of red or white with dinner, this is the perfect excuse. Did you say you wanted to shop, too? Perfect! Here is a treasury with all my favorite Etsy picks for all things wine!"
 featuredImage:
   src: "./featured.jpg"
-  alt: "My Etsy Picks: National Drink Wine Day Gift Guide on Katie Crafts; http://www.katiecrafts.com"
+  alt: "My Etsy Picks: National Drink Wine Day Gift Guide"
 categories:
   - slug: "hodgepodge"
     name: "Hodgepodge"

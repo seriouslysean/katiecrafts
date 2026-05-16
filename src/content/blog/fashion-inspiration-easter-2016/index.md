@@ -4,7 +4,7 @@ publishedDate: "2016-03-21"
 excerpt: "I don’t know about you, but I hate when my holidays are back-to-back! Just last week was St. Patrick’s Day and all I could think about was green and gold and shamrocks. Now it’s already Easter week and I have to think about Springtime and bunnies! In case you need a little fashion inspiration for […]"
 featuredImage:
   src: "./featured.jpg"
-  alt: "Fashion Inspiration: Easter 2016 - Shop the look on Katie Crafts; http://www.katiecrafts.comFashion Inspiration: Easter 2016 - Shop the look on Katie Crafts; http://www.katiecrafts.com"
+  alt: "Fashion Inspiration: Easter 2016 - Shop the look on Katie Crafts; http://www.katiecrafts.comFashion Inspiration: Easter 2016 - Shop the look"
 categories:
   - slug: "beauty"
     name: "Beauty"

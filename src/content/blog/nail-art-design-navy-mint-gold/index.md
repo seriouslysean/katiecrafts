@@ -69,36 +69,36 @@ How Shiny!
 
 - Pick which nails you want to paint mint green and paint them! I chose my ring finger and thumb on each hand. My mint needed two coats, so once the first coat was dry, I went back and did a second on each. (See the difference below?)
 
-![Nail Art Design: Navy, Mint & Gold by Katie Crafts; https://www.katiecrafts.comnavy-mint-gold-nails-slice](./img-5472.jpg)
+![Nail Art Design: Navy, Mint & Gold bynavy-mint-gold-nails-slice](./img-5472.jpg)
 
-![Nail Art Design: Navy, Mint & Gold by Katie Crafts; https://www.katiecrafts.comnavy-mint-gold-nails-slice](./img-5474.jpg)
+![Nail Art Design: Navy, Mint & Gold bynavy-mint-gold-nails-slice](./img-5474.jpg)
 
 - All that is left is your middle finger nail (or whichever you left for the end!) Paint remaining nails navy blue and let dry. Do two coats if you have to!
 
-![Nail Art Design: Navy, Mint & Gold by Katie Crafts; http://www.katiecrafts.comnavy-mint-gold-nails-slice](./img-5475.jpg)
+![Nail Art Design: Navy, Mint & Gold bynavy-mint-gold-nails-slice](./img-5475.jpg)
 
 - Here are the three colors together!
 
-![Nail Art Design: Navy, Mint & Gold by Katie Crafts; http://www.katiecrafts.comnavy-mint-gold-nails-slice](./img-5476.jpg)
+![Nail Art Design: Navy, Mint & Gold bynavy-mint-gold-nails-slice](./img-5476.jpg)
 
 Love these shades!
 
 - Next, use the navy polish to make a french tip on the nails that you painted mint green.
 
-![Nail Art Design: Navy, Mint & Gold by Katie Crafts; http://www.katiecrafts.comnavy-mint-gold-nails-slice](./img-5478.jpg)
+![Nail Art Design: Navy, Mint & Gold bynavy-mint-gold-nails-slice](./img-5478.jpg)
 
 - Use your nail art brush and the gold polish to make a fun abstract design! Do whatever your heart desires and make it your own unique design.
 
-![Nail Art Design: Navy, Mint & Gold by Katie Crafts; https://www.katiecrafts.comnavy-mint-gold-nails-slice](./img-5481.jpg)
+![Nail Art Design: Navy, Mint & Gold bynavy-mint-gold-nails-slice](./img-5481.jpg)
 
-![Nail Art Design: Navy, Mint & Gold by Katie Crafts; https://www.katiecrafts.comnavy-mint-gold-nails-slice](./img-5483.jpg)
+![Nail Art Design: Navy, Mint & Gold bynavy-mint-gold-nails-slice](./img-5483.jpg)
 
 - Put a coat of clear on your nails to lock in your design and make it even glossier!
 
-![Nail Art Design: Navy, Mint & Gold by Katie Crafts; http://www.katiecrafts.comnavy-mint-gold-nails-slice](./img-5488.jpg)
+![Nail Art Design: Navy, Mint & Gold bynavy-mint-gold-nails-slice](./img-5488.jpg)
 
 Enjoy your navy, mint and gold nails!
 
-![Nail Art Design: Navy, Mint & Gold by Katie Crafts; http://www.katiecrafts.comnavy-mint-gold-nails-slice](./img-5490.jpg)
+![Nail Art Design: Navy, Mint & Gold bynavy-mint-gold-nails-slice](./img-5490.jpg)
 
 What colors do you totally love together?

@@ -4,7 +4,7 @@ publishedDate: "2016-04-06"
 excerpt: "Mother’s Day is on May 8th- just a month away! Tell your Mama you think she is the World’s Greatest Okay-est Mom with this awesome travel mug, available for purchase in Katie Crafts’s shop!"
 featuredImage:
   src: "./featured.jpg"
-  alt: "Mother's Day Gift Idea: Travel Mug on Katie Crafts; http://www.katiecrafts.com"
+  alt: "Mother's Day Gift Idea: Travel Mug"
 categories:
   - slug: "crafts"
     name: "Crafts"

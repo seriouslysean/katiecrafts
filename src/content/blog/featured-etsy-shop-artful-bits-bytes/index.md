@@ -4,7 +4,7 @@ publishedDate: "2014-07-23"
 excerpt: "Featured Etsy Shop: Artful Bits and Bytes Today’s featured Wednesday artist is Laurie Anne of Artful Bits and Bytes on Etsy! She makes awesome whimsical one-of-a-kind artworks using acrylic, mixed media, collage and more! Check out her unique works below and find out how you can get a great discount in her shop!"
 featuredImage:
   src: "./featured.jpg"
-  alt: "Featured Etsy Shop: Artful Bits and Bytes on Katie Crafts; http://www.katiecrafts.com"
+  alt: "Featured Etsy Shop: Artful Bits and Bytes"
 categories:
   - slug: "crafts"
     name: "Crafts"
@@ -41,7 +41,7 @@ _I love that messy total consuming focus of creating something from the heart. I
 
 _[Here is a link](/artfulbitsandbytes.blogspot.com/2013/06/the-making-of-friendship.html "The Making of Friendship on Artful Bits and Bytes Blog")showing the creation of a piece called friendship from idea to final product (I think this bog post reflects/represents my love of what I do rather well)._
 
-[![Featured Etsy Shop: Artful Bits and Bytes on Katie Crafts; http://www.katiecrafts.com](./il-570xn-547758854-4rcw.jpg)](https://www.etsy.com/listing/174949263/tempus-fugit-art-print-beautiful-surreal)
+[![Featured Etsy Shop: Artful Bits and Bytes](./il-570xn-547758854-4rcw.jpg)](https://www.etsy.com/listing/174949263/tempus-fugit-art-print-beautiful-surreal)
 
 ## What item was your favorite to make so far?
 
@@ -63,7 +63,7 @@ _[“Magenta”](https://www.etsy.com/listing/191398771/modern-african-american-
 
 _. Painting these women, is so addictive. Everyone I see plants the seed of a new painting. The whole collection represents a bit of all women. We are each beautiful, homely, pious, provocative, joyful, sorrowful, black, white, …. We have so many sides that it is therapeutic to give them an almost intuitive form and I love the extra layer of depth that the recycled book pages add._
 
-## [![Featured Etsy Shop: Artful Bits and Bytes on Katie Crafts; http://www.katiecrafts.com](./il-570xn-608946710-698i.jpg)](https://www.etsy.com/listing/191398771/modern-african-american-young-woman-with)Where do you find your creative inspiration?
+## [![Featured Etsy Shop: Artful Bits and Bytes](./il-570xn-608946710-698i.jpg)](https://www.etsy.com/listing/191398771/modern-african-american-young-woman-with)Where do you find your creative inspiration?
 
 _My need to create comes from an insatiable curiosity and need to explore. It is the journey more than the destination that keeps my interest. I want my artwork to reflect who I am and connect to the viewer’s heart. Nature, music, poetry, scripture, mythology, people (I am an avid people watcher), graffiti, discarded scraps of ephemera and daydreams all blend and inspire my art._
 
@@ -77,7 +77,7 @@ _A few years ago, I found myself filling countless sketchbooks at a remarkable r
 
 _Soon I had quite a collection of artwork, and Etsy seemed to be the perfect fit -a place where both the fine arsty art and the cute craftsy doodles could co-exist. I could also be in control. Etsy is so easy to set up and get started that unlike other venues, it didn’t feel scary or un-doable for a novice like me. Also a plus was that setting up a shop didn’t cost anything – only a small amount for listing and then a small percentage when something sells._
 
-[![Featured Etsy Shop: Artful Bits and Bytes on Katie Crafts; http://www.katiecrafts.com](./il-570xn-540451640-pzy6.jpg)](https://www.etsy.com/listing/172955651/aceo-miniature-collectable-artworks)
+[![Featured Etsy Shop: Artful Bits and Bytes](./il-570xn-540451640-pzy6.jpg)](https://www.etsy.com/listing/172955651/aceo-miniature-collectable-artworks)
 
 ## Any advice for others who want to start their own Etsy shop, or who are looking to fulfill their passion for crafting?
 
@@ -115,6 +115,6 @@ at checkout which is good for
 
 everything over $10 for the year 2014.
 
-[![Featured Etsy Shop: Artful Bits and Bytes on Katie Crafts; http://www.katiecrafts.com](./il-570xn-375237601-aqhe.jpg)](https://www.etsy.com/listing/109466942/bookish-beauty-in-red-cat-eye-glasses?ref=listing-shop-header-0)
+[![Featured Etsy Shop: Artful Bits and Bytes](./il-570xn-375237601-aqhe.jpg)](https://www.etsy.com/listing/109466942/bookish-beauty-in-red-cat-eye-glasses?ref=listing-shop-header-0)
 
 Thanks for sharing your lovely artworks with us, Laurie!! What was your favorite piece, readers?

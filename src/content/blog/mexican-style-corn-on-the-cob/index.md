@@ -4,7 +4,7 @@ publishedDate: "2015-07-02"
 excerpt: "Recipe: Mexican-Style Corn on the Cob A few weeks ago was the Italian Festival here in Philly. Street festivals of any kind usually mean grilled corn on the cob, Mexican style. It’s one of my favorite things to eat, so I decided to give making it at home a whirl, and it came out GREAT! You’ll […]"
 featuredImage:
   src: "./featured.png"
-  alt: "Mexican-Style Corn on the Cob Recipe by Katie Crafts; http://www.katiecrafts.com"
+  alt: "Mexican-Style Corn on the Cob Recipe by"
 categories:
   - slug: "cooks"
     name: "Cooks"
@@ -57,22 +57,22 @@ This recipe is so easy, I wish I’d thought to try it out sooner! We’ve alrea
 
 * Shuck the corn, removing husk and silk
 
-![Mexican-Style Corn on the Cob Recipe by Katie Crafts; http://www.katiecrafts.com](./corn-6.jpg)
+![Mexican-Style Corn on the Cob Recipe by](./corn-6.jpg)
 
 - Put one or two entire cobs into the baggie. Squish the mayo/butter mixture around to get every edge of the corn.
 
-![Mexican-Style Corn on the Cob Recipe by Katie Crafts; http://www.katiecrafts.com](./corn-9.jpg)
+![Mexican-Style Corn on the Cob Recipe by](./corn-9.jpg)
 
 - Remove corn and place on a plate.
 
-![Mexican-Style Corn on the Cob Recipe by Katie Crafts; http://www.katiecrafts.com](./corn-10.jpg)
+![Mexican-Style Corn on the Cob Recipe by](./corn-10.jpg)
 
 - Shake some cheese all over the cob and sprinkle more cayenne if you’d like it extra spicy.
 
-![Mexican-Style Corn on the Cob Recipe by Katie Crafts; http://www.katiecrafts.com](./corn-12.jpg)
+![Mexican-Style Corn on the Cob Recipe by](./corn-12.jpg)
 
 - Enjoy your amazing corn on the cob, Mexican-style!
 
-![Mexican-Style Corn on the Cob Recipe by Katie Crafts; http://www.katiecrafts.com](./corn-14.jpg)
+![Mexican-Style Corn on the Cob Recipe by](./corn-14.jpg)
 
 Have you ever tried corn this way before? What is your favorite street festival food?

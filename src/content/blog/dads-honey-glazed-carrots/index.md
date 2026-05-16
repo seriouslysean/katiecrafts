@@ -4,7 +4,7 @@ publishedDate: "2015-06-04"
 excerpt: "Recipe: Dad’s Honey Glazed Carrots Last week, I shared my Mom’s recipe for the best ever chicken cutlets! I promised that I’d also give you a look at my Dad’s recipe for Honey Glazed Carrots, and here it is! My Husband specifically requested these veggies as part of his birthday dinner, and maybe you’ll like them […]"
 featuredImage:
   src: "./featured.png"
-  alt: "Dad's Honey Glazed Carrots Recipe on Katie Crafts; http://www.katiecrafts.com"
+  alt: "Dad's Honey Glazed Carrots Recipe"
 categories:
   - slug: "cooks"
     name: "Cooks"

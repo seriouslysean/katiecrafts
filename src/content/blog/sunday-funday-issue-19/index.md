@@ -4,7 +4,7 @@ publishedDate: "2014-06-29"
 excerpt: "Sunday Funday: Issue 19 Hello everyone! Today’s Sunday Funday is going to be slightly different. While normally Katie is the one who does these posts, she has been busy getting things ready for the 4th of July picnic coming up and asked me to do it. My name is Jessica and I am Katie’s younger […]"
 featuredImage:
   src: "./featured.png"
-  alt: "Sunday Funday: Issue 19 on Katie Crafts; http://www.katiecrafts.com"
+  alt: "Sunday Funday: Issue 19"
 categories:
   - slug: "hodgepodge"
     name: "Hodgepodge"
@@ -37,8 +37,6 @@ Hello everyone! Today’s Sunday Funday is going to be slightly different. While
 
 I love watching videos on YouTube and several years ago I came across these videos. I found them funny back then but stumbled upon them again today so I decided these would be a good way to share the laughter. 🙂
 
-
-
 ## What I’m Reading: “Crossed” by Ally Condle
 
 My sister mentioned the book
@@ -55,13 +53,13 @@ that she borrowed from me. I know she has been waiting patiently for me to read 
 
 Now usually I’m not the biggest fan of shopping and my sister can probably complain to you guys about fights we’ve had about my style of dress when we go somewhere fancy. My sister is really into cute skirts, dresses and pretty blouses while I tend to love graphic tees and jeans. We always tend to have different ideas of where great choices in clothes are but one place I don’t mind going to is the Gap Outlet because it has what we both love. I can get my graphic t-shirts, jeans and a few choice hoodies as well, while she can find the cute clothes she likes. (Shhh don’t tell her, but I tend to under pack my clothes when I visit just for an excuse to go there!)
 
-[![IMG\_4153](./img-4153.jpg)](https://i2.wp.com/www.katiecrafts.com/wp-content/uploads/2014/06/IMG_4153.jpg?ssl=1)
+![IMG\_4153](./img-4153.jpg)
 
 ## Something Delicious: Birthday Cake Macaron made by Dana’s Bakery
 
 While out walking to the post office with my sister we passed by a place that was selling Macarons. As I’m sure my sister has mentioned them before, she got excited and we had to buy some. Well, I chose this one because it sounded the most delicious and indeed it was- with edible glitter to boot.
 
-[![IMG\_4150](./img-4150.jpg)](https://i0.wp.com/www.katiecrafts.com/wp-content/uploads/2014/06/IMG_4150.jpg?ssl=1)
+![IMG\_4150](./img-4150.jpg)
 
 ## Project That Inspires: Jumbo Clip Bookmarks
 

@@ -4,7 +4,7 @@ publishedDate: "2015-12-03"
 excerpt: "?On the third day of Christmas, Katie Crafts gave to me…? A sweet little handmade hat for your baby! I crocheted this little guy using baby alpaca yarn so it is sure to keep your little one’s head super cozy!"
 featuredImage:
   src: "./featured.png"
-  alt: "Crocheted Baby Hat Giveaway by Katie Crafts; http://www.katiecrafts.com"
+  alt: "Crocheted Baby Hat Giveaway by"
 categories:
   - slug: "crafts"
     name: "Crafts"
@@ -45,9 +45,9 @@ Baby Alpaca Chunky Paints 100% baby alpaca hand-painted yarn, in case you wanted
 
 This hat was made following a newborn hat pattern, but because it’s chunky it ended up larger. Still, it’s a tiny hat meant for a tiny head, so if you have a baby on the way, know someone who is due soon or just had a little one, this is a perfect gift for you! Here are a couple of photos of the hat next to a regular ballpoint pen for sizing purposes.
 
-![Crocheted Baby Hat Giveaway by Katie Crafts; https://www.katiecrafts.com](./img-4711.jpg)
+![Crocheted Baby Hat Giveaway by](./img-4711.jpg)
 
-![Crocheted Baby Hat Giveaway by Katie Crafts; https://www.katiecrafts.com](./img-4712.jpg)
+![Crocheted Baby Hat Giveaway by](./img-4712.jpg)
 
 Enter the giveaway below and score your favorite little girl a soft hat for this Winter!
 

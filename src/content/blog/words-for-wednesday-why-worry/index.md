@@ -4,7 +4,7 @@ publishedDate: "2014-10-08"
 excerpt: "Words For Wednesday: Why Worry? I love this quote by Walt Disney. “Why worry? If you’ve done the very best you can, worrying won’t make it any better.” This is something I should be reminding myself of daily, as I pretty much never stop worrying about every little thing imaginable! Having constant anxiety over everything […]"
 featuredImage:
   src: "./featured.png"
-  alt: "Words For Wednesday: Worrying by Katie Crafts; http://www.katiecrafts.com"
+  alt: "Words For Wednesday: Worrying by"
 categories:
   - slug: "hodgepodge"
     name: "Hodgepodge"

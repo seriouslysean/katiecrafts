@@ -4,7 +4,7 @@ publishedDate: "2015-09-15"
 excerpt: "It’s the third week of the September Blog Hop! You have until Friday night to add your links and check out everyone else’s picks. Maybe you’ll even get featured for next week, who knows! Check out the rules and see what everyone is up to below, and click the link at the bottom of the […]"
 featuredImage:
   src: "./featured.png"
-  alt: "What Are You Doing? Blog Hop #115 on Katie Crafts; http://www.katiecrafts.com"
+  alt: "What Are You Doing? Blog Hop #115"
 categories:
   - slug: "hodgepodge"
     name: "Hodgepodge"
@@ -39,9 +39,9 @@ Kassandra from
 
 ### [Meet your co-hosts for the Month of September:](http://coffeeandtheirkisses.com/)
 
-[![](https://i0.wp.com/3.bp.blogspot.com/-5UPEagcbtig/Ve8R6lqrcfI/AAAAAAAAGBg/Jr42bHerjVw/s320/katie-mabel.jpg?w=980)\
+[\
 Katie from](http://coffeeandtheirkisses.com/)[Katie Crafts](/)\
-[Pinterest](https://www.pinterest.com/imkatiecrafts/)[Twitter](https://twitter.com/imkatiecrafts)[G+](https://plus.google.com/+Katiecrafts215/posts)[Instagram](https://instagram.com/imkatiecrafts/)[Bloglovin](https://www.bloglovin.com/blogs/katie-crafts-crafting-sewing-recipes-more-11771265)[Facebook](https://www.facebook.com/imkatiecrafts)![](https://i2.wp.com/www.jrrmblog.com/wp-content/uploads/2015/07/my-photo-e1438113143676.jpg?resize=200%2C186)
+[Pinterest](https://www.pinterest.com/imkatiecrafts/)[Twitter](https://twitter.com/imkatiecrafts)[G+](https://plus.google.com/+Katiecrafts215/posts)[Instagram](https://instagram.com/imkatiecrafts/)[Bloglovin](https://www.bloglovin.com/blogs/katie-crafts-crafting-sewing-recipes-more-11771265)[Facebook](https://www.facebook.com/imkatiecrafts)!
 
 Joan from
 
@@ -56,8 +56,6 @@ Posted below is the featured blog post of the week. I love to find unique blogs 
 
 Lisa wrote a moving post about chronic pain awareness month and Pain Reality Day on September 9th. It’s difficult to talk about chronic pain. With my mom who is going through chemotherapy treatments and my sister who gets sciatic pain, it takes some time to sit and think on how strong the pain is compared to yesterday. Chronic pain sufferers like Lisa have to endure pain on a daily basis with no relief. I know other ladies that suffer through MS and fibromyalgia. Thank you for this post Lisa, and the constant reminder of what others may be going through.
 
-
-
 **Congratulations to the featured blogs!**
 
 ![](./cmfeatured150.png)
@@ -65,8 +63,6 @@ Lisa wrote a moving post about chronic pain awareness month and Pain Reality Day
 <http://contentemeant.blogspot.com/2015/9/what-are-you-doing-blog-hop-115.html”>
 
 <http://1.bp.blogspot.com/-fCYgXzygf4c/UZ-ThPpFezI/AAAAAAAABPs/Sf2bHKunHp4/s1600/CMfeatured150.png”>
-
-
 
 Don’t forget to check out the other blogs from last week!
 

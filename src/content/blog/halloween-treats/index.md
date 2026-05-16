@@ -4,7 +4,7 @@ publishedDate: "2014-10-31"
 excerpt: "Halloween Treats: 2 Easy Recipes Though I didn’t get to make any of these treats this year, they have both been on my table at some point or another! They are very easy (and fun) and so I thought I’d share them with you in case you want to add them to you Halloween party […]"
 featuredImage:
   src: "./featured.png"
-  alt: "Halloween Treats on Katie Crafts; http://www.katiecrafts.com"
+  alt: "Halloween Treats"
 categories:
   - slug: "cooks"
     name: "Cooks"
@@ -97,7 +97,7 @@ _**Worms In Dirt Cupcakes**_
 
 - Enjoy.
 
-![Halloween Treats on Katie Crafts; http://www.katiecrafts.com](./dsc-0258.jpg)
+![Halloween Treats](./dsc-0258.jpg)
 
 ## Tips:
 

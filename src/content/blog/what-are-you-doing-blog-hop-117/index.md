@@ -4,7 +4,7 @@ publishedDate: "2015-09-29"
 excerpt: "It’s the last What Are You Doing? blog hop of September! I’ve had fun participating as a co-host this month and maybe I’ll give it another go in the future, too! Special thanks to Sara from Content in the Meantime for hosting! For now, check out the last featured post for the month and add […]"
 featuredImage:
   src: "./featured.png"
-  alt: "What Are You Doing? Blog Hop #117 on Katie Crafts; http://www.katiecrafts.com"
+  alt: "What Are You Doing? Blog Hop #117"
 categories:
   - slug: "hodgepodge"
     name: "Hodgepodge"
@@ -45,9 +45,9 @@ Kassandra from
 
 ### [Meet your co-hosts for the Month of September:](http://coffeeandtheirkisses.com/)
 
-[![](https://i0.wp.com/3.bp.blogspot.com/-5UPEagcbtig/Ve8R6lqrcfI/AAAAAAAAGBg/Jr42bHerjVw/s320/katie-mabel.jpg?w=980)\
+[\
 Katie from](http://coffeeandtheirkisses.com/)[Katie Crafts](/)\
-[Pinterest](https://www.pinterest.com/imkatiecrafts/)[Twitter](https://twitter.com/imkatiecrafts)[G+](https://plus.google.com/+Katiecrafts215/posts)[Instagram](https://instagram.com/imkatiecrafts/)[Bloglovin](https://www.bloglovin.com/blogs/katie-crafts-crafting-sewing-recipes-more-11771265)[Facebook](https://www.facebook.com/imkatiecrafts)![](https://i2.wp.com/www.jrrmblog.com/wp-content/uploads/2015/07/my-photo-e1438113143676.jpg?resize=200%2C186)
+[Pinterest](https://www.pinterest.com/imkatiecrafts/)[Twitter](https://twitter.com/imkatiecrafts)[G+](https://plus.google.com/+Katiecrafts215/posts)[Instagram](https://instagram.com/imkatiecrafts/)[Bloglovin](https://www.bloglovin.com/blogs/katie-crafts-crafting-sewing-recipes-more-11771265)[Facebook](https://www.facebook.com/imkatiecrafts)!
 
 Joan from
 
@@ -73,8 +73,6 @@ looks great to make for a any sports watch party, and it’s gluten free! Thanks
 <http://contentemeant.blogspot.com/2015/9/what-are-you-doing-blog-hop-117.html”>
 
 <http://1.bp.blogspot.com/-fCYgXzygf4c/UZ-ThPpFezI/AAAAAAAABPs/Sf2bHKunHp4/s1600/CMfeatured150.png”>
-
-
 
 Don’t forget to check out the other blogs from last week!
 

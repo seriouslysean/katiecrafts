@@ -4,7 +4,7 @@ publishedDate: "2014-03-08"
 excerpt: "I mentioned that I bought some plants at the Flower Show the other day. Well, they weren’t just any plants. They were air plants, that are super cool and require little attention and can be mounted on my wall in weird test tube type glass containers. So it’s basically true love."
 featuredImage:
   src: "./featured.png"
-  alt: "Colorful Air Plant Display by Katie Crafts; http://www.katiecrafts.com"
+  alt: "Colorful Air Plant Display by"
 categories:
   - slug: "crafts"
     name: "Crafts"
@@ -71,27 +71,27 @@ We picked up two Wall Tubes to mount on the wall above my new crafting table, an
 
 The instructions are too easy for me to even list for you. Just pour the ingredients in one by one, layering them sand-rocks-moss. Place plant on top. Finish with little rubber animal. Enjoy your new plant. Need/want photos of the process? Here ya go!
 
-![Colorful Air Plant Display by Katie Crafts; https://www.katiecrafts.com](./img-1812.jpg)
+![Colorful Air Plant Display by](./img-1812.jpg)
 
-![Colorful Air Plant Display by Katie Crafts; https://www.katiecrafts.com](./img-1814.jpg)
+![Colorful Air Plant Display by](./img-1814.jpg)
 
-![Colorful Air Plant Display by Katie Crafts; https://www.katiecrafts.com](./img-1816.jpg)
+![Colorful Air Plant Display by](./img-1816.jpg)
 
-![Colorful Air Plant Display by Katie Crafts; https://www.katiecrafts.com](./img-1817.jpg)
+![Colorful Air Plant Display by](./img-1817.jpg)
 
-![Colorful Air Plant Display by Katie Crafts; https://www.katiecrafts.com](./img-1819.jpg)
+![Colorful Air Plant Display by](./img-1819.jpg)
 
-![Colorful Air Plant Display by Katie Crafts; https://www.katiecrafts.com](./img-1820.jpg)
+![Colorful Air Plant Display by](./img-1820.jpg)
 
 Seriously, how cute is that little piggy!? I placed him right under a spike to make it look like he’s trying to nom it.
 
-![Colorful Air Plant Display by Katie Crafts; https://www.katiecrafts.com](./img-1821.jpg)
+![Colorful Air Plant Display by](./img-1821.jpg)
 
-![Colorful Air Plant Display by Katie Crafts; https://www.katiecrafts.com](./img-1823.jpg)
+![Colorful Air Plant Display by](./img-1823.jpg)
 
-![Colorful Air Plant Display by Katie Crafts; https://www.katiecrafts.com](./img-1824.jpg)
+![Colorful Air Plant Display by](./img-1824.jpg)
 
-![Colorful Air Plant Display by Katie Crafts; https://www.katiecrafts.com](./img-1826.jpg)
+![Colorful Air Plant Display by](./img-1826.jpg)
 
 I love how the tiger is prowling through a jungle of plant spikes!
 
@@ -109,6 +109,6 @@ for a few hours to prevent the roots from rotting), the moss should be
 
 more often than that to keep it from totally drying up. Don’t go crazy watering it, though- it’s just moss!
 
-![Colorful Air Plant Display by Katie Crafts; http://www.katiecrafts.com](./img-1828.jpg)
+![Colorful Air Plant Display by](./img-1828.jpg)
 
 I can’t show you the rest of the wall yet, since my craft area still isn’t ready, but what do you think about my new little air tube plants? I can’t wait to show you the other things I have in store for this craft station! {hint: my mom’s gorgeous wooden tea cart made it to the apartment to serve as a sewing table next to me!}

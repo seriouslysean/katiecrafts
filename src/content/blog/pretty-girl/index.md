@@ -14,6 +14,6 @@ tags:
     name: "mabel"
 ---
 
-![Pretty Girl on Katie Crafts; http://www.katiecrafts.com](./img-3951.jpg)
+![Pretty Girl](./img-3951.jpg)
 
 Prettiest Cat Award goes to…

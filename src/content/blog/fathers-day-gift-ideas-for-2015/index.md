@@ -4,7 +4,7 @@ publishedDate: "2015-05-19"
 excerpt: "Father’s Day Gift Ideas for 2015 My Dad is SO hard to buy for. His birthday is at the end of May, and then Father’s Day is just a month later, so I usually have a hard time coming up with presents for BOTH days. Luckily, Etsy has some really amazing choices!"
 featuredImage:
   src: "./featured.png"
-  alt: "Father's Day Gift Ideas on Katie Crafts; http://www.katiecrafts.com"
+  alt: "Father's Day Gift Ideas"
 categories:
   - slug: "hodgepodge"
     name: "Hodgepodge"

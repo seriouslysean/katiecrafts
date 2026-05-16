@@ -4,7 +4,7 @@ publishedDate: "2015-03-10"
 excerpt: "My Etsy Picks: Gettin’ Lucky Fun Fact: While a week from today is Saint Patrick’s Day, a week from yesterday is my kitty’s birthday! Lucky turns the big 1-0 on Monday, March 16th! He was born mid-March and is a natural red-head, so he’s obviously Irish. But that is just part of why his name […]"
 featuredImage:
   src: "./featured.png"
-  alt: "My Etsy Picks: Gettin' Lucky by Katie Crafts; http://www.katiecrafts.com"
+  alt: "My Etsy Picks: Gettin' Lucky by"
 categories:
   - slug: "hodgepodge"
     name: "Hodgepodge"

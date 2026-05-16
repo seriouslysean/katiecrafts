@@ -4,7 +4,7 @@ publishedDate: "2015-06-26"
 excerpt: "My Etsy Picks: Patriotic Next weekend is the Fourth of July! It’s one of my favorite days because we host an annual picnic on the banks of the river (7 years going strong!) and we sit, and eat, and drink, and hang out with friends until the fireworks go off over the Art Museum. It’s […]"
 featuredImage:
   src: "./featured.png"
-  alt: "My Etsy Picks: Patriotic by Katie Crafts; http://www.katiecrafts.com"
+  alt: "My Etsy Picks: Patriotic by"
 categories:
   - slug: "crafts"
     name: "Crafts"

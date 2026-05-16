@@ -54,7 +54,7 @@ Materials:
 
 - Scissors
 
-![](./heartcollage.jpg "Crocheted Hearts Pattern by Katie Crafts; http://www.katiecrafts.com/")
+![](./heartcollage.jpg "Crocheted Hearts Pattern by Katie Crafts; ")
 
 Pattern:
 
@@ -72,4 +72,4 @@ Key: ch = chain; dc = double crochet; tr = triple crochet; sl st = slip stitch
 
 That’s it! A mere 5 minutes later and you have a cute little heart! Go make a million and let me know in the comments how you used them in your projects!
 
-![ta da!](./img-0604.jpg "Crocheted Hearts Pattern by Katie Crafts; http://www.katiecrafts.com/")
+![ta da!](./img-0604.jpg "Crocheted Hearts Pattern by Katie Crafts; ")

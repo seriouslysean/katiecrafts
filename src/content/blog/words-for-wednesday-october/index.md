@@ -4,7 +4,7 @@ publishedDate: "2014-10-15"
 excerpt: "Even though yesterday was far too warm to be considered Fall, I love this quote about October from L.M. Montgomery! “I’m so glad I live in a world where there are Octobers.”"
 featuredImage:
   src: "./featured.png"
-  alt: "Words For Wednesday: October on Katie Crafts; http://www.katiecrafts.com"
+  alt: "Words For Wednesday: October"
 categories:
   - slug: "hodgepodge"
     name: "Hodgepodge"

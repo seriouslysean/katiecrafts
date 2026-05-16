@@ -4,7 +4,7 @@ publishedDate: "2015-09-28"
 excerpt: "The last two weeks have been so crazy. Traveling to and from the hospital to see my Dad, back and forth from out of state several times, then getting locked in Philly for Pope Weekend. Husband and I took today OFF so we could play catch up."
 featuredImage:
   src: "./featured.png"
-  alt: "Motivation Monday: Let's Do This! on Katie Crafts; http://www.katiecrafts.com"
+  alt: "Motivation Monday: Let's Do This!"
 categories:
   - slug: "hodgepodge"
     name: "Hodgepodge"

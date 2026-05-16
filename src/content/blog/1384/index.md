@@ -16,10 +16,10 @@ tags:
 
 What happens when you leave a tote box unattended…
 
-![Peek-a-boo Lucky on Katie Crafts; http://www.katiecrafts.com](./img-3811.jpg)
+![Peek-a-boo Lucky](./img-3811.jpg)
 
-![Peek-a-boo Lucky on Katie Crafts; http://www.katiecrafts.com](./img-3810.jpg)
+![Peek-a-boo Lucky](./img-3810.jpg)
 
-![Peek-a-boo Lucky on Katie Crafts; http://www.katiecrafts.com](./img-3809.jpg)
+![Peek-a-boo Lucky](./img-3809.jpg)
 
-![Peek-a-boo Lucky on Katie Crafts; http://www.katiecrafts.com](./img-3808.jpg)
+![Peek-a-boo Lucky](./img-3808.jpg)

@@ -4,7 +4,7 @@ publishedDate: "2014-03-28"
 excerpt: "Recipe: Chocolate Covered Easter Peeps! It’s getting close enough to Easter now that I can start sharing some fun Easter crafts and recipes! Next week I’ll post my super adorable “bird’s nest cupcakes,” but for today we’re going simple with melted chocolate and everyone’s favorite sugary marshmallow treats!"
 featuredImage:
   src: "./featured.jpg"
-  alt: "Chocolate Covered Easter Peeps on Katie Crafts; http://www.katiecrafts.com"
+  alt: "Chocolate Covered Easter Peeps"
 categories:
   - slug: "cooks"
     name: "Cooks"
@@ -75,7 +75,7 @@ Last year, I tried covering them in chocolate and sprinkles. This made them even
 
 - Throw in fridge to harden up. Enjoy!
 
-![Chocolate Covered Easter Peeps on Katie Crafts; http://www.katiecrafts.com](./chocolate-peeps-1.jpg)
+![Chocolate Covered Easter Peeps](./chocolate-peeps-1.jpg)
 
 ## Tips:
 

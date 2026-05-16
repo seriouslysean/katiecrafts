@@ -4,7 +4,7 @@ publishedDate: "2015-02-03"
 excerpt: "Bang Bang Chicken Recipe Oh. My. Gosh. A few weeks ago, I was diligently working scouring Pinterest when I saw May pin this recipe. I immediately repinned it to my “Things To Eat” board and kept it in the back of my mind for future reference. When I was making my shopping list last week, […]"
 featuredImage:
   src: "./featured.png"
-  alt: "Bang Bang Chicken Recipe on Katie Crafts; http://www.katiecrafts.com"
+  alt: "Bang Bang Chicken Recipe"
 categories:
   - slug: "cooks"
     name: "Cooks"

@@ -4,7 +4,7 @@ publishedDate: "2014-04-17"
 excerpt: "Project: Origami Ninja Star Tutorial Hey there! It’s me again, The Husband™! I’m back again with something new to talk about. Only this time you can’t eat what I’m cooking up, you might just put your eye out! When I was younger (and in grade school), I would spend my time doing anything that gave […]"
 featuredImage:
   src: "./featured.jpg"
-  alt: "Origami with the Husband: Ninja Star on Katie Crafts; http://www.katiecrafts.com"
+  alt: "Origami with the Husband: Ninja Star"
 categories:
   - slug: "crafts"
     name: "Crafts"
@@ -37,9 +37,9 @@ When I was younger (and in grade school), I would spend my time doing anything t
 
 ## How to make an Origami Ninja Star
 
-![Origami with the Husband: Ninja Star on Katie Crafts; https://www.katiecrafts.com](./ninja-star-step-1.jpg)
+![Origami with the Husband: Ninja Star](./ninja-star-step-1.jpg)
 
-![Origami with the Husband: Ninja Star on Katie Crafts; https://www.katiecrafts.com](./ninja-star-step-2.jpg)
+![Origami with the Husband: Ninja Star](./ninja-star-step-2.jpg)
 
 ### Step 1
 
@@ -53,9 +53,9 @@ Fold each piece of paper in half and make sure the seam is crisp. That part is r
 
 .
 
-![Origami with the Husband: Ninja Star on Katie Crafts; https://www.katiecrafts.com](./ninja-star-step-3.jpg)
+![Origami with the Husband: Ninja Star](./ninja-star-step-3.jpg)
 
-![Origami with the Husband: Ninja Star on Katie Crafts; https://www.katiecrafts.com](./ninja-star-step-4.jpg)
+![Origami with the Husband: Ninja Star](./ninja-star-step-4.jpg)
 
 ### Step 3
 
@@ -69,9 +69,9 @@ Take the two pieces and fold them once more, towards the inner fold — make sur
 
 This part is a little tricky because the paper needs to be sitting a certain way before you fold it. With the cupboard fold, make sure you fold the edges in, and then fold the paper in on to itself again (as if you’re ‘closing’ the cupboard). Then, make sure both of the openings are facing left. Once you’ve done that, fold both pieces up, directly in half, and press the seam to help it stay down.
 
-![Origami with the Husband: Ninja Star on Katie Crafts; https://www.katiecrafts.com](./ninja-star-step-5.jpg)
+![Origami with the Husband: Ninja Star](./ninja-star-step-5.jpg)
 
-![Origami with the Husband: Ninja Star on Katie Crafts; https://www.katiecrafts.com](./ninja-star-step-6.jpg)
+![Origami with the Husband: Ninja Star](./ninja-star-step-6.jpg)
 
 ### Step 5
 
@@ -97,9 +97,9 @@ _right piece_
 
 , fold the bottom right corner up, in to a triangle fold; these parts should also mirror one another.
 
-![Origami with the Husband: Ninja Star on Katie Crafts; https://www.katiecrafts.com](./ninja-star-step-7.jpg)
+![Origami with the Husband: Ninja Star](./ninja-star-step-7.jpg)
 
-![Origami with the Husband: Ninja Star on Katie Crafts; https://www.katiecrafts.com](./ninja-star-step-8.jpg)
+![Origami with the Husband: Ninja Star](./ninja-star-step-8.jpg)
 
 ### Step 7
 
@@ -125,9 +125,9 @@ _right triangle_
 
 is pointing right.
 
-![Origami with the Husband: Ninja Star on Katie Crafts; https://www.katiecrafts.com](./ninja-star-step-9.jpg)
+![Origami with the Husband: Ninja Star](./ninja-star-step-9.jpg)
 
-![Origami with the Husband: Ninja Star on Katie Crafts; https://www.katiecrafts.com](./ninja-star-step-10.jpg)
+![Origami with the Husband: Ninja Star](./ninja-star-step-10.jpg)
 
 ### Step 9
 
@@ -149,9 +149,9 @@ _right piece_
 
 We’re almost done! Take the right piece and place it on top of the left piece.
 
-![Origami with the Husband: Ninja Star on Katie Crafts; https://www.katiecrafts.com](./ninja-star-step-11.jpg)
+![Origami with the Husband: Ninja Star](./ninja-star-step-11.jpg)
 
-![Origami with the Husband: Ninja Star on Katie Crafts; https://www.katiecrafts.com](./ninja-star-step-12.jpg)
+![Origami with the Husband: Ninja Star](./ninja-star-step-12.jpg)
 
 ### Step 11
 

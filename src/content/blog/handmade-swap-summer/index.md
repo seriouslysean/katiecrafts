@@ -4,7 +4,7 @@ publishedDate: "2014-07-29"
 excerpt: "Handmade Swap: Summer August is right around the corner! I’m not quite sure where the Summer ran off to, since I feel like it was May only yesterday, but it’s time for another Handmade Swap! Our last theme of Spring was so fun, that I figured we’d go ahead with the seasonal motif, and continue […]"
 featuredImage:
   src: "./featured.jpg"
-  alt: "Handmade Swap: Summer on Katie Crafts; http://www.katiecrafts.com"
+  alt: "Handmade Swap: Summer"
 categories:
   - slug: "crafts"
     name: "Crafts"

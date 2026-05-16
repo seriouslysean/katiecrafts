@@ -14,6 +14,6 @@ tags:
     name: "mabel"
 ---
 
-![BOOP! Got Your Nose! on Katie Crafts; http://www.katiecrafts.com](./img-3877.jpg)
+![BOOP! Got Your Nose!](./img-3877.jpg)
 
 “BOOP! GOT YOUR NOSE!”

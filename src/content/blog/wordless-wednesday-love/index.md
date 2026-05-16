@@ -4,7 +4,7 @@ publishedDate: "2015-02-11"
 excerpt: "Wordless Wednesday: Love Since this whole week is devoted to Valentine’s Day, it’s appropriate that today’s photo is one from my parent’s wedding day. They got married on February 14th, 1976, which means it would have been their 39th anniversary this year."
 featuredImage:
   src: "./featured.jpg"
-  alt: "Wordless Wednesday: Love on Katie Crafts; http://www.katiecrafts.com"
+  alt: "Wordless Wednesday: Love"
 categories:
   - slug: "hodgepodge"
     name: "Hodgepodge"

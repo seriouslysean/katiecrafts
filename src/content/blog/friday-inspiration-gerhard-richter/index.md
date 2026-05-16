@@ -28,7 +28,7 @@ tags:
     name: "watercolors"
 ---
 
-[![Friday Inspiration: Gerhard Ritcher on Katie Crafts; http://www.katiecrafts.com](./5917.jpg)](http://www.gerhard-richter.com)
+[![Friday Inspiration: Gerhard Ritcher](./5917.jpg)](http://www.gerhard-richter.com)
 
 ## **“Art is the highest form of hope.” \~Gerhard Richter**
 
@@ -48,31 +48,31 @@ My undeveloped style of painting was still undecided until I learned about Richt
 
 I don’t want this to seem any more than a book report like it already has- I just really wanted to share what (or who, rather!) inspires me. I’ve put together a short list of my favorite pieces, both abstract and concrete (if I put them all, you’d be here all day) so that you can enjoy my favorite artist, too! Sit back and enjoy how he plays with colors and paints, and who knows- maybe you’ll come away with a new appreciation and fondness for the arts as well!
 
-[![Friday Inspiration: Gerhard Ritcher on Katie Crafts; http://www.katiecrafts.com](./5279.jpg)](http://www.gerhard-richter.com)
+[![Friday Inspiration: Gerhard Ritcher](./5279.jpg)](http://www.gerhard-richter.com)
 
 Colour Fields, 1974;
 
 **6 Arrangements of 1260 Colours (Yellow-Red-Blue)**
 
-[![Friday Inspiration: Gerhard Ritcher on Katie Crafts; http://www.katiecrafts.com](./7663.jpg)](http://www.gerhard-richter.com)
+[![Friday Inspiration: Gerhard Ritcher](./7663.jpg)](http://www.gerhard-richter.com)
 
 Fextal, 1989; 10 cm x 15 cm; Oil on colour photograph
 
-[![Friday Inspiration: Gerhard Ritcher on Katie Crafts; http://www.katiecrafts.com](./6214.jpg)](http://www.gerhard-richter.com)
+[![Friday Inspiration: Gerhard Ritcher](./6214.jpg)](http://www.gerhard-richter.com)
 
 One of my absolute favorites!
 
 Cage 6, 2006; 300 cm x 300 cm; Catalogue Raisonné: 897-6; Oil on canvas
 
-[![Friday Inspiration: Gerhard Ritcher on Katie Crafts; http://www.katiecrafts.com](./3408.jpg)](http://www.gerhard-richter.com)
+[![Friday Inspiration: Gerhard Ritcher](./3408.jpg)](http://www.gerhard-richter.com)
 
 Eis 2/Ice 2, 1989; 200 cm x 160 cm; Catalogue Raisonné: 706-2; Oil on canvas
 
-[![Friday Inspiration: Gerhard Ritcher on Katie Crafts; http://www.katiecrafts.com](./13473.jpg)](http://www.gerhard-richter.com)
+[![Friday Inspiration: Gerhard Ritcher](./13473.jpg)](http://www.gerhard-richter.com)
 
 Abstraktes Bild/Abstract Painting, 1992; 200 cm x 160 cm; Catalogue Raisonné: 769-1; Oil on canvas
 
-[![Friday Inspiration: Gerhard Ritcher on Katie Crafts; http://www.katiecrafts.com](./8791.jpg)](http://www.gerhard-richter.com)
+[![Friday Inspiration: Gerhard Ritcher](./8791.jpg)](http://www.gerhard-richter.com)
 
 Abstraktes Bild/Abstract Painting, 1999; 50 cm x 72 cm; Catalogue Raisonné: 858-3; Oil on Alu Dibond
 

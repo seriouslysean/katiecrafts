@@ -4,7 +4,7 @@ publishedDate: "2014-07-30"
 excerpt: "Featured Etsy Shop: Natalia’s Jewellry Today’s featured Wednesday artist is one you all know and love: Natalia Khon! I’ve loved Natalia’s fine jewelry since the first time I saw it a few months ago, and am very excited to host a giveaway of one of her unique pieces! Learn more about Natalia below, and find […]"
 featuredImage:
   src: "./featured.jpg"
-  alt: "Featured Etsy Shop: Natalia's Jewellry on Katie Crafts; http://www.katiecrafts.com"
+  alt: "Featured Etsy Shop: Natalia's Jewellry"
 categories:
   - slug: "crafts"
     name: "Crafts"
@@ -45,13 +45,13 @@ _As a result Natalia enrolled herself in the two-year Jewelry Art and Design pro
 
 _When Natalia is away from her studio, she is busy sharing her knowledge of silver-smithing with her students; she enjoys the joy of experimentation and development through teaching. Natalia’s work has been exhibited at art and fashion shows and is available in galleries and boutiques throughout the Lower Mainland._
 
-[![Featured Etsy Shop: Natalia's Jewellry on Katie Crafts; http://www.katiecrafts.com](./il-570xn-485687351-pf8h.jpg)](https://www.etsy.com/listing/123372206/big-butterfly-necklace-statement-jewelry?ref=shop_home_active_3)\
+[![Featured Etsy Shop: Natalia's Jewellry](./il-570xn-485687351-pf8h.jpg)](https://www.etsy.com/listing/123372206/big-butterfly-necklace-statement-jewelry?ref=shop_home_active_3)\
 What do you love about your craft?
 ----------------------------------
 
 _I love working with the metal. It is a long term passion that did not come overnight. I loved making jewelry and signed up for a 2-year course without knowing anything about metalwork. When I started learning… I hated it! I could not saw a straight line and could not solder a ring. I prepaid for the course and did not dare to drop out. That kept me going and made me learn. The techniques that I hated the most have become my favorites over time. I’ve mastered my metal piercing and my soldering technique that I use to make my signature designs now with._
 
-[![Featured Etsy Shop: Natalia's Jewellry on Katie Crafts; http://www.katiecrafts.com](./il-570xn-493611502-hn2r.jpg)](https://www.etsy.com/listing/160531749/sterling-silver-squirrel-necklace-wild?ref=shop_home_active_2\&ga_search_query=squirrel)\
+[![Featured Etsy Shop: Natalia's Jewellry](./il-570xn-493611502-hn2r.jpg)](https://www.etsy.com/listing/160531749/sterling-silver-squirrel-necklace-wild?ref=shop_home_active_2\&ga_search_query=squirrel)\
 What item was your favorite to make so far?
 -------------------------------------------
 
@@ -67,7 +67,7 @@ _I knew I would make it a long time before I had the skills for it. I had my gra
 
 _When I begin working on a new piece of jewelry, I am reminded of my love for nature and the necessity for the new piece to be comfortable on the wearer and become part of their everyday life. When people see my work, I hope that they are reminded of nature in all its beauty and are reminded of their soulful connection to nature. I want my nature-inspired jewelry to enhance the wearer’s beauty. I am happy if I succeed in making a piece that the wearer does not have to wait for a special occasion to wear._
 
-[![Featured Etsy Shop: Natalia's Jewellry on Katie Crafts; http://www.katiecrafts.com](./il-570xn-610388387-r70a.jpg)](https://www.etsy.com/listing/191762891/long-beetle-wings-earrings-elytra-insect?ref=shop_home_active_7)\
+[![Featured Etsy Shop: Natalia's Jewellry](./il-570xn-610388387-r70a.jpg)](https://www.etsy.com/listing/191762891/long-beetle-wings-earrings-elytra-insect?ref=shop_home_active_7)\
 How did you decide to open your Etsy shop?
 ------------------------------------------
 
@@ -77,7 +77,7 @@ _Deciding to open was easy. Artists at the craft fairs would always put their Et
 
 _Etsy is a great place that lets you start even if you have just a few things to sell. You start little by little, no rush, no pressure. Join as many teams as you can, read on SEO and participate in the promotional games. It takes some work to get noticed. If you are willing to work you will get sales._
 
-[![Featured Etsy Shop: Natalia's Jewellry on Katie Crafts; http://www.katiecrafts.com](./il-570xn-301206977.jpg)](https://www.etsy.com/listing/190117109/organic-statement-ring-with-australian?ref=shop_home_active_21)
+[![Featured Etsy Shop: Natalia's Jewellry](./il-570xn-301206977.jpg)](https://www.etsy.com/listing/190117109/organic-statement-ring-with-australian?ref=shop_home_active_21)
 
 Follow
 
@@ -99,7 +99,7 @@ on all her social media sites below!
 
 [Pinterest](http://www.pinterest.com/jewelleryfan/ "Natalia Khon Jewellry on Pinterest")
 
-![Featured Etsy Shop: Natalia's Jewellry on Katie Crafts; http://www.katiecrafts.com](./giveaway-pendant-2.jpg)
+![Featured Etsy Shop: Natalia's Jewellry](./giveaway-pendant-2.jpg)
 
 You can win this!!
 

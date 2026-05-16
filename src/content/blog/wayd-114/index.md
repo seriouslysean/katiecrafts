@@ -4,7 +4,7 @@ publishedDate: "2015-09-08"
 excerpt: "Welcome to week two of the September blog hop! Last week, Robin of Redo It Yourself Inspirations posted an amazing DIY on refashioning old bottles and jars into spooky apothecary Halloween decor! She even pinned an entire Pinterest board devoted to labels, of which I’ve already scoured and downloaded tons. I’m so glad she’s the […]"
 featuredImage:
   src: "./featured.png"
-  alt: "What Are You Doing? Blog Hop #114 on Katie Crafts; http://www.katiecrafts.com"
+  alt: "What Are You Doing? Blog Hop #114"
 categories:
   - slug: "hodgepodge"
     name: "Hodgepodge"
@@ -35,8 +35,6 @@ posted an amazing DIY on refashioning old bottles and jars into spooky apothecar
 
 **This blog hop runs from Monday 12:00 PM through Friday 11:59 PM EST.**
 
-
-
 (I know today is Tuesday, so I extended the blog hop until Saturday!)
 
 ### Your hosts:
@@ -51,9 +49,9 @@ Kassandra from
 
 ### [Meet your co-hosts for the Month of September:](http://coffeeandtheirkisses.com/)
 
-[![](https://i0.wp.com/3.bp.blogspot.com/-5UPEagcbtig/Ve8R6lqrcfI/AAAAAAAAGBg/Jr42bHerjVw/s320/katie-mabel.jpg?w=980)\
+[\
 Katie from](http://coffeeandtheirkisses.com/)[Katie Crafts](/)\
-[Pinterest](https://www.pinterest.com/imkatiecrafts/)[Twitter](https://twitter.com/imkatiecrafts)[G+](https://plus.google.com/+Katiecrafts215/posts)[Instagram](https://instagram.com/imkatiecrafts/)[Bloglovin](https://www.bloglovin.com/blogs/katie-crafts-crafting-sewing-recipes-more-11771265)[Facebook](https://www.facebook.com/imkatiecrafts)![](https://i2.wp.com/www.jrrmblog.com/wp-content/uploads/2015/07/my-photo-e1438113143676.jpg?resize=200%2C186)
+[Pinterest](https://www.pinterest.com/imkatiecrafts/)[Twitter](https://twitter.com/imkatiecrafts)[G+](https://plus.google.com/+Katiecrafts215/posts)[Instagram](https://instagram.com/imkatiecrafts/)[Bloglovin](https://www.bloglovin.com/blogs/katie-crafts-crafting-sewing-recipes-more-11771265)[Facebook](https://www.facebook.com/imkatiecrafts)!
 
 Joan from
 
@@ -77,8 +75,6 @@ has made some great decorations for Halloween! I love the designs of the labels,
 <http://contentemeant.blogspot.com/2015/8/what-are-you-doing-blog-hop-113.html”>
 
 <http://1.bp.blogspot.com/-fCYgXzygf4c/UZ-ThPpFezI/AAAAAAAABPs/Sf2bHKunHp4/s1600/CMfeatured150.png”/>
-
-
 
 Don’t forget to check out the other blogs from last week!
 
@@ -133,8 +129,6 @@ Katie’s Post:
 **Follow Content in the Meantime for future blog hops!**[![](./google.png)](https://plus.google.com/u/0/102082303564323150341/ "Google +")[![](./facebook.png)](http://www.facebook.com/contentinthemeantime "Facebook")[![](./pinterest.png)](http://www.pinterest.com/saracraft "Pinterest")[![](./twitter.png)](http://www.twitter.com/contentemeant "Twitter")[![](./instagram.png)](http://www.instagram.com/silvercchile "Instagram")[![](./bloglovin.png)](http://www.bloglovin.com/blog/4903715 "BlogLovin")[![](./etsy.png)](http://www.etsy.com/shop/HandCraftLove "Etsy")**Follow Coffee and Their Kisses!**[![follow](./rss-1-zps4b8ea437.png)](http://feeds.feedburner.com/blogspot/gYdiq)[![follow](./facebook-1-zps5b4001ca.png)](http://www.facebook.com/coffeeandtheirkisses)[![follow](./twitter-1-zpsf43e4ed2.png)](http://twitter.com/#!/coffeenkisses)[![follow](./pinterest-1-zps18a4f669.png)](http://pinterest.com/coffeenkisses)[![follow](./google-zpsd2822194.png)](https://plus.google.com/100298261260205705728/)[![check](./etsy-zpseb459b91.png)](https://mrscraftypantsdesign.etsy.com/)[![follow](./instagram-zps2b232067.png)](http://instagram.com/coffeenkisses)[![follow](./bloglovin-zpsa18cffd0.png)](http://www.bloglovin.com/blog/4533695/?claim=g47k844be4k)
 
 //
-
-
 
 **Powered by Linky Tools**
 

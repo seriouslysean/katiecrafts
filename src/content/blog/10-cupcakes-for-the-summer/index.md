@@ -4,7 +4,7 @@ publishedDate: "2015-04-23"
 excerpt: "Recipes: 10 Cupcakes for the Summer Cupcakes are one of my favorite things to bake. May is just around the corner, which means my sister’s birthday, my dad’s birthday, my husband’s birthday, his grandmother’s birthday, Mother’s Day and Memorial Day are all almost here. Yeah- May is a very busy month! I searched for recipes […]"
 featuredImage:
   src: "./featured.jpg"
-  alt: "10 Awesome Cupcakes for the Summer that you have to try!! on Katie Crafts; http://www.katiecrafts.com"
+  alt: "10 Awesome Cupcakes for the Summer that you have to try!!"
 categories:
   - slug: "cooks"
     name: "Cooks"

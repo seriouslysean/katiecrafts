@@ -17,4 +17,4 @@ tags:
     name: "snuggly cats"
 ---
 
-![Lucky and Mabel on Katie Crafts; http://www.katiecrafts.com](./img-6412.jpg)
+![Lucky and Mabel](./img-6412.jpg)

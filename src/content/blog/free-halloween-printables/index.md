@@ -4,7 +4,7 @@ publishedDate: "2015-10-30"
 excerpt: "Halloween is TOMORROW! Yay! Amongst my decorations for the day, I found dozens of really great printables to add some spookiness to my decor. The best part is they are all free! You can download and print these for your own Halloween party!"
 featuredImage:
   src: "./featured.png"
-  alt: "Free Halloween Printables on Katie Crafts; http://www.katiecrafts.com"
+  alt: "Free Halloween Printables"
 categories:
   - slug: "crafts"
     name: "Crafts"
@@ -55,13 +55,13 @@ These are the labels I used from
 
 , but there are other choices as well! Check them all out!
 
-![Free Halloween Printables on Katie Crafts; http://www.katiecrafts.com](./halloween-bingo-free-printable.jpg)
+![Free Halloween Printables](./halloween-bingo-free-printable.jpg)
 
 [Artsy Fartsy Mama](http://www.artsyfartsymama.com/2011/10/halloween-bingo-free-printable.html)
 
 shared a really cute printable Bingo game that is Halloween themed! Perfect for any kiddies attending your party!
 
-![Free Halloween Printables on Katie Crafts; http://www.katiecrafts.com](./5-halloween-silhouettes-free-printables-nobiggie-net.jpg)
+![Free Halloween Printables](./5-halloween-silhouettes-free-printables-nobiggie-net.jpg)
 
 I love these Halloween silhouettes from
 
@@ -69,7 +69,7 @@ I love these Halloween silhouettes from
 
 ! If you have some matching frames or some spray paint to make them match, you can print these out and make a little scary wall collage!
 
-![Free Halloween Printables on Katie Crafts; http://www.katiecrafts.com](./halloween-chalkboard-printables.png)
+![Free Halloween Printables](./halloween-chalkboard-printables.png)
 
 These chalkboard printables from
 
@@ -77,7 +77,7 @@ These chalkboard printables from
 
 are so fun! Instead of print one out, I used the “Double, Double, Toil and Trouble…” one as my reference and drew it on my wall chalkboard. It looks great!
 
-![Free Halloween Printables on Katie Crafts; http://www.katiecrafts.com](./candy-collectors-web1.jpg)
+![Free Halloween Printables](./candy-collectors-web1.jpg)
 
 This printable from
 
@@ -85,7 +85,7 @@ This printable from
 
 would make a great sign for a front door, to let Trick-or-Treaters know you mean business!
 
-![Free Halloween Printables on Katie Crafts; http://www.katiecrafts.com](./halloween-labels-ppc.jpg)
+![Free Halloween Printables](./halloween-labels-ppc.jpg)
 
 Here are some more apothecary labels that would make your bottles look great! They come from
 
@@ -93,7 +93,7 @@ Here are some more apothecary labels that would make your bottles look great! Th
 
 .
 
-![Free Halloween Printables on Katie Crafts; http://www.katiecrafts.com](./16-easy-but-awesome-homemade-halloween-decorations-mice.jpg)
+![Free Halloween Printables](./16-easy-but-awesome-homemade-halloween-decorations-mice.jpg)
 
 I bought these mice silhouettes from Martha Stewart a few years ago, and they look SUPER cute going up my stairs! If I’d thought about it then, I probably could have just found and printed some at home instead! You can print some from
 
@@ -101,7 +101,7 @@ I bought these mice silhouettes from Martha Stewart a few years ago, and they lo
 
 .
 
-![Free Halloween Printables on Katie Crafts; http://www.katiecrafts.com](./halloween-party-sample-01-edab8c19-31a8-47da-a50e-8b9192d2c30f.png)
+![Free Halloween Printables](./halloween-party-sample-01-edab8c19-31a8-47da-a50e-8b9192d2c30f.png)
 
 Lastly,
 

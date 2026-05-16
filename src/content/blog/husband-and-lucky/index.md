@@ -16,6 +16,6 @@ tags:
     name: "lucky"
 ---
 
-![Husband and Lucky on Katie Crafts; http://www.katiecrafts.com](./img-1220.jpg)
+![Husband and Lucky](./img-1220.jpg)
 
 How sweet is my Husband and kitty? So in love!

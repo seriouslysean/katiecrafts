@@ -4,7 +4,7 @@ publishedDate: "2016-04-07"
 excerpt: "I’m spending the weekend in Washington D.C. to check out (what’s left of) the cherry blossoms! It’s something I’ve always wanted to see, since I love when the bloom around Philly. Of course, several bad storms have knocked most of the petals off the trees, but I can’t wait to walk around anyway! It’s pretty obvious […]"
 featuredImage:
   src: "./featured.jpg"
-  alt: "Fashion Inspiration: Cherry Blossoms on Katie Crafts; http://www.katiecrafts.com"
+  alt: "Fashion Inspiration: Cherry Blossoms"
 categories:
   - slug: "beauty"
     name: "Beauty"

@@ -12,6 +12,6 @@ tags:
     name: "mabel"
 ---
 
-![Mabel Loves The New Chairs on Katie Crafts; http://www.katiecrafts.com](./img-6178.jpg)
+![Mabel Loves The New Chairs](./img-6178.jpg)
 
 “Oh thank you, thank you, thank you for the new chairs, Mom! I love them!”

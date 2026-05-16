@@ -4,7 +4,7 @@ publishedDate: "2014-06-06"
 excerpt: "Fact: The first Friday in June is National Donut Day. How delicious! That means depending on where you live, you can go out and grab a free donut (or doughnut, if you prefer) today to enjoy with your afternoon coffee. If you aren’t in to eating the sugary treats but still enjoy the idea of […]"
 featuredImage:
   src: "./featured.jpg"
-  alt: "Happy Donut Day! on Katie Crafts; http://www.katiecrafts.com"
+  alt: "Happy Donut Day!"
 categories:
   - slug: "hodgepodge"
     name: "Hodgepodge"
@@ -37,35 +37,35 @@ Paper Source (all photos taken in their Philadelphia Walnut Street store) has th
 
 First of all, isn’t the store adorable?
 
-![Happy Donut Day! on Katie Crafts; http://www.katiecrafts.com](./img-3754.jpg)
+![Happy Donut Day!](./img-3754.jpg)
 
 Seriously, I spend a lot of money here. I love everything!
 
-![Happy Donut Day! on Katie Crafts; http://www.katiecrafts.com](./img-3751.jpg)
+![Happy Donut Day!](./img-3751.jpg)
 
 In addition to the donut wrapping paper at the top of this post, there are also various sizes of donut gift bags!
 
-![Happy Donut Day! on Katie Crafts; http://www.katiecrafts.com](./img-3752.jpg)
+![Happy Donut Day!](./img-3752.jpg)
 
 Also giant donut tote bags.
 
-![Happy Donut Day! on Katie Crafts; http://www.katiecrafts.com](./img-3749.jpg)
+![Happy Donut Day!](./img-3749.jpg)
 
 This donut pillow looked so comfy!
 
-![Happy Donut Day! on Katie Crafts; http://www.katiecrafts.com](./img-3748.jpg)
+![Happy Donut Day!](./img-3748.jpg)
 
 A cookbook on making mini donuts? Yes please! Also, those mini donut journals are so sweet! (see what I did there?)
 
-![Happy Donut Day! on Katie Crafts; http://www.katiecrafts.com](./img-3747.jpg)
+![Happy Donut Day!](./img-3747.jpg)
 
 Love these too!
 
-![Happy Donut Day! on Katie Crafts; http://www.katiecrafts.com](./img-3746.jpg)
+![Happy Donut Day!](./img-3746.jpg)
 
 OBSESSED with this iPhone case! And the magnets and garland are cute too!
 
-![Happy Donut Day! on Katie Crafts; http://www.katiecrafts.com](./img-3750.jpg)
+![Happy Donut Day!](./img-3750.jpg)
 
 If you need 480 donut sticky notes, I know where to get them! Also a cute little zipper pouch to put them in!
 

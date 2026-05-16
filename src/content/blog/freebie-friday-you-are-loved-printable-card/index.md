@@ -4,7 +4,7 @@ publishedDate: "2016-02-12"
 excerpt: "Happy Friday, readers! Sunday is Valentine’s Day, finally! You have probably already purchased your big heart shaped box of chocolates and sappy/silly/amazing cards, but JUST IN CASE YOU HAVEN’T YET!!, I have a cute little card you can download and print for free!"
 featuredImage:
   src: "./featured.png"
-  alt: "Freebie Friday: You Are Loved Printable Valentine's Day Card from Katie Crafts; http://www.katiecrafts.com"
+  alt: "Freebie Friday: You Are Loved Printable Valentine's Day Card"
 categories:
   - slug: "crafts"
     name: "Crafts"
@@ -35,7 +35,7 @@ You can print this as many times as you like, and give it to your co-workers, be
 
 _[(Need a reminder on how to fold? Check out last year’s tips and download the five freebies from 2015 if you like!)](/freebie-friday-5-printable-valentines-cards/)_
 
-[Click here to download this Valentine’s Day Freebie: You Are Loved printable card!](/wp-content/uploads/2016/02/you-are-loved.pdf)
+Click here to download this Valentine’s Day Freebie: You Are Loved printable card!
 
 I have big plans on Sunday of going to see Deadpool with my Hubby and then some surprise he has in store afterwards! I can’t wait to see what it is! 🙂 Hope your day is extra special too!
 

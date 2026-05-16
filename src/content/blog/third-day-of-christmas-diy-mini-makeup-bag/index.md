@@ -4,7 +4,7 @@ publishedDate: "2014-12-03"
 excerpt: "Third Day of Christmas: DIY Mini Makeup Bag Tutorial ♫ On the third day of Christmas, Katie Crafts gave to me- a makeup bag that is so mini! ♫ On the third day of Christmas, I decided it was time to whip out the sewing machine! This mini makeup bag will fit in any purse […]"
 featuredImage:
   src: "./featured.png"
-  alt: "Third Day of Christmas: DIY Mini Makeup Bag Tutorial by Katie Crafts; http://www.katiecrafts.com"
+  alt: "Third Day of Christmas: DIY Mini Makeup Bag Tutorial by"
 categories:
   - slug: "crafts"
     name: "Crafts"
@@ -69,15 +69,15 @@ Four panels, measured and cut in adorable Christmas fabric!
 
 - Pin across.
 
-![Third Day of Christmas: DIY Mini Makeup Bag Tutorial by Katie Crafts; https://www.katiecrafts.com](./makeup-bag-3.jpg)
+![Third Day of Christmas: DIY Mini Makeup Bag Tutorial by](./makeup-bag-3.jpg)
 
-![Third Day of Christmas: DIY Mini Makeup Bag Tutorial by Katie Crafts; https://www.katiecrafts.com](./makeup-bag-4.jpg)
+![Third Day of Christmas: DIY Mini Makeup Bag Tutorial by](./makeup-bag-4.jpg)
 
-![Third Day of Christmas: DIY Mini Makeup Bag Tutorial by Katie Crafts; https://www.katiecrafts.com](./makeup-bag-5.jpg)
+![Third Day of Christmas: DIY Mini Makeup Bag Tutorial by](./makeup-bag-5.jpg)
 
 - Sew together along the seam with a straight stitch. Below is what it looks like after it’s stitched and opened!
 
-![Third Day of Christmas: DIY Mini Makeup Bag Tutorial by Katie Crafts; http://www.katiecrafts.com](./makeup-bag-6.jpg)
+![Third Day of Christmas: DIY Mini Makeup Bag Tutorial by](./makeup-bag-6.jpg)
 
 - Time to make another sandwich! Close back up the stitched panel you just made so that the exterior and interior panels are flat and their wrong sides are touching.
 
@@ -87,55 +87,55 @@ Four panels, measured and cut in adorable Christmas fabric!
 
 - Place an interior panel right side DOWN on top, making sure all edges are even. As you can see from the third photo below, I have some major trimming to do, so I took care of that before going on to the next step!
 
-![Third Day of Christmas: DIY Mini Makeup Bag Tutorial by Katie Crafts; https://www.katiecrafts.com](./makeup-bag-7.jpg)
+![Third Day of Christmas: DIY Mini Makeup Bag Tutorial by](./makeup-bag-7.jpg)
 
-![Third Day of Christmas: DIY Mini Makeup Bag Tutorial by Katie Crafts; https://www.katiecrafts.com](./makeup-bag-8.jpg)
+![Third Day of Christmas: DIY Mini Makeup Bag Tutorial by](./makeup-bag-8.jpg)
 
-![Third Day of Christmas: DIY Mini Makeup Bag Tutorial by Katie Crafts; https://www.katiecrafts.com](./makeup-bag-9.jpg)
+![Third Day of Christmas: DIY Mini Makeup Bag Tutorial by](./makeup-bag-9.jpg)
 
 - Pin across.
 
 - Sew together along the seam with a straight stitch. If you are not using a zipper foot, just sew to the end where the zipper is, stop, raise your needle, push zipper past your needle, lower needle and finish sewing as pictured below.
 
-![Third Day of Christmas: DIY Mini Makeup Bag Tutorial by Katie Crafts; https://www.katiecrafts.com](./makeup-bag-10.jpg)
+![Third Day of Christmas: DIY Mini Makeup Bag Tutorial by](./makeup-bag-10.jpg)
 
-![Third Day of Christmas: DIY Mini Makeup Bag Tutorial by Katie Crafts; https://www.katiecrafts.com](./makeup-bag-11.jpg)
+![Third Day of Christmas: DIY Mini Makeup Bag Tutorial by](./makeup-bag-11.jpg)
 
 - You should now have all your panels attached to your zipper and it should look like the below photos!
 
-![Third Day of Christmas: DIY Mini Makeup Bag Tutorial by Katie Crafts; https://www.katiecrafts.com](./makeup-bag-12.jpg)
+![Third Day of Christmas: DIY Mini Makeup Bag Tutorial by](./makeup-bag-12.jpg)
 
-![Third Day of Christmas: DIY Mini Makeup Bag Tutorial by Katie Crafts; https://www.katiecrafts.com](./makeup-bag-13.jpg)
+![Third Day of Christmas: DIY Mini Makeup Bag Tutorial by](./makeup-bag-13.jpg)
 
 - Fold the panels like a book, with exterior panels showing and interior wedged between, zipper as flat as possible. See below.
 
-![Third Day of Christmas: DIY Mini Makeup Bag Tutorial by Katie Crafts; https://www.katiecrafts.com](./makeup-bag-14.jpg)
+![Third Day of Christmas: DIY Mini Makeup Bag Tutorial by](./makeup-bag-14.jpg)
 
-![Third Day of Christmas: DIY Mini Makeup Bag Tutorial by Katie Crafts; https://www.katiecrafts.com](./makeup-bag-15.jpg)
+![Third Day of Christmas: DIY Mini Makeup Bag Tutorial by](./makeup-bag-15.jpg)
 
 - Stitch closed along seam to create a tube.
 
 - Turn tube so that zipper is on top in the middle, and unzipper from the inside about halfway.\* \*Very Important Step for turning!
 
-![Third Day of Christmas: DIY Mini Makeup Bag Tutorial by Katie Crafts; https://www.katiecrafts.com](./makeup-bag-16.jpg)
+![Third Day of Christmas: DIY Mini Makeup Bag Tutorial by](./makeup-bag-16.jpg)
 
-![Third Day of Christmas: DIY Mini Makeup Bag Tutorial by Katie Crafts; https://www.katiecrafts.com](./makeup-bag-18.jpg)
+![Third Day of Christmas: DIY Mini Makeup Bag Tutorial by](./makeup-bag-18.jpg)
 
 - Sew across the top that is currently zippered. If you have to go across the teeth themselves, that’s fine!
 
-![Third Day of Christmas: DIY Mini Makeup Bag Tutorial by Katie Crafts; https://www.katiecrafts.com](./makeup-bag-19.jpg)
+![Third Day of Christmas: DIY Mini Makeup Bag Tutorial by](./makeup-bag-19.jpg)
 
-![Third Day of Christmas: DIY Mini Makeup Bag Tutorial by Katie Crafts; https://www.katiecrafts.com](./makeup-bag-20.jpg)
+![Third Day of Christmas: DIY Mini Makeup Bag Tutorial by](./makeup-bag-20.jpg)
 
 - Pin other side closed (leaving that zipper still open!) and stitch across again.
 
-![Third Day of Christmas: DIY Mini Makeup Bag Tutorial by Katie Crafts; https://www.katiecrafts.com](./makeup-bag-21.jpg)
+![Third Day of Christmas: DIY Mini Makeup Bag Tutorial by](./makeup-bag-21.jpg)
 
-![Third Day of Christmas: DIY Mini Makeup Bag Tutorial by Katie Crafts; https://www.katiecrafts.com](./makeup-bag-22.jpg)
+![Third Day of Christmas: DIY Mini Makeup Bag Tutorial by](./makeup-bag-22.jpg)
 
 - Your bag will now look like this!
 
-![Third Day of Christmas: DIY Mini Makeup Bag Tutorial by Katie Crafts; http://www.katiecrafts.com](./makeup-bag-23.jpg)
+![Third Day of Christmas: DIY Mini Makeup Bag Tutorial by](./makeup-bag-23.jpg)
 
 - Make boxed corners by pinching each corner into a triangle and sewing across, as you learned in my
 
@@ -147,21 +147,21 @@ Four panels, measured and cut in adorable Christmas fabric!
 
 - Flip inside out through the unzipped hole you left.
 
-![Third Day of Christmas: DIY Mini Makeup Bag Tutorial by Katie Crafts; https://www.katiecrafts.com](./makeup-bag-24.jpg)
+![Third Day of Christmas: DIY Mini Makeup Bag Tutorial by](./makeup-bag-24.jpg)
 
-![Third Day of Christmas: DIY Mini Makeup Bag Tutorial by Katie Crafts; https://www.katiecrafts.com](./makeup-bag-25.jpg)
+![Third Day of Christmas: DIY Mini Makeup Bag Tutorial by](./makeup-bag-25.jpg)
 
 - Enjoy your new little bag! (Note: inside seams visible in below photos)
 
-![Third Day of Christmas: DIY Mini Makeup Bag Tutorial by Katie Crafts; http://www.katiecrafts.com](./makeup-bag-26.jpg)
+![Third Day of Christmas: DIY Mini Makeup Bag Tutorial by](./makeup-bag-26.jpg)
 
-![Third Day of Christmas: DIY Mini Makeup Bag Tutorial by Katie Crafts; https://www.katiecrafts.com](./makeup-bag-27.jpg)
+![Third Day of Christmas: DIY Mini Makeup Bag Tutorial by](./makeup-bag-27.jpg)
 
-![Third Day of Christmas: DIY Mini Makeup Bag Tutorial by Katie Crafts; https://www.katiecrafts.com](./makeup-bag-28.jpg)
+![Third Day of Christmas: DIY Mini Makeup Bag Tutorial by](./makeup-bag-28.jpg)
 
 This little bag works up super quickly and is really cute! I’ll be making one for the Husband’s manbag (though I won’t be using Christmas patterned fabric!) so that he can hold the Advil, Chapstick, etc. that I’m always asking him to hold for me. So really, I’m just making the bag for myself. We won’t tell him that part.
 
-![Third Day of Christmas: DIY Mini Makeup Bag Tutorial by Katie Crafts; http://www.katiecrafts.com](./makeup-bag-finished.jpg)
+![Third Day of Christmas: DIY Mini Makeup Bag Tutorial by](./makeup-bag-finished.jpg)
 
 Hope you enjoyed my mini makeup bag tutorial on this third day of Christmas on Katie Crafts! Don’t forget about our first day of Christmas giveaway!
 

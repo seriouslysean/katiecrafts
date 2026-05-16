@@ -4,7 +4,7 @@ publishedDate: "2015-04-22"
 excerpt: "Wordless Wednesday: Earth Day Today is Earth Day! I thought it would be fitting to have today’s Wordless Wednesday pics be nature inspired ones in honor of the day. More specifically, things we planted over the weekend! They come with a funny story, making this a very WORDY Wednesday…"
 featuredImage:
   src: "./featured.jpg"
-  alt: "Wordless Wednesday: Earth Day on Katie Crafts; http://www.katiecrafts.com"
+  alt: "Wordless Wednesday: Earth Day"
 categories:
   - slug: "hodgepodge"
     name: "Hodgepodge"

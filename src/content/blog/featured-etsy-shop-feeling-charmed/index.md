@@ -4,7 +4,7 @@ publishedDate: "2014-06-25"
 excerpt: "Featured Etsy Shop: Feeling Charmed You know what day it is! It’s featured artist day! Yay! Today you’ll get to know Christina from Feeling Charmed a bit better, check out some of her unique Earth inspired jewelry and get a fantastic coupon code to get your own piece!"
 featuredImage:
   src: "./featured.jpg"
-  alt: "Featured Etsy Shop: Feeling Charmed on Katie Crafts; http://www.katiecrafts.com"
+  alt: "Featured Etsy Shop: Feeling Charmed"
 categories:
   - slug: "crafts"
     name: "Crafts"
@@ -47,13 +47,13 @@ _My name is Christina Brown and I am from Los Angeles, CA. I am a wife and a mot
 
 _What I love most about my craft is the design process. There is nothing better than coming up with new ideas and bringing them to life. I enjoy putting different beads, accents and charms together to create a unique, one of a kind bracelet._
 
-## [![Featured Etsy Shop: Feeling Charmed on Katie Crafts; http://www.katiecrafts.com](./feeling-charmed-5.jpg)](https://www.etsy.com/listing/191046267/copper-river-bracelet-from-the-earth?ref=shop_home_active_9)
+## [![Featured Etsy Shop: Feeling Charmed](./feeling-charmed-5.jpg)](https://www.etsy.com/listing/191046267/copper-river-bracelet-from-the-earth?ref=shop_home_active_9)
 
 ## What item was your favorite to make so far?
 
 _I would have to say that my favorite item to make so far has been the Firestone Bracelet because I used all organic and natural materials. It was the first bracelet in my organic line and I wanted to make it eye catching and special so that people would respond positively to it. The recycled glass gives it a whole different look and feel. It feels earthy and vintage because you think about where the materials came from and what they might have been used for in a past life._
 
-[![Featured Etsy Shop: Feeling Charmed on Katie Crafts; http://www.katiecrafts.com](./feeling-charmed-4.jpg)](https://www.etsy.com/listing/192305484/firestone-bracelet-from-the-earth?ref=shop_home_active_14)
+[![Featured Etsy Shop: Feeling Charmed](./feeling-charmed-4.jpg)](https://www.etsy.com/listing/192305484/firestone-bracelet-from-the-earth?ref=shop_home_active_14)
 
 ## Where do you find your creative inspiration?
 
@@ -63,13 +63,13 @@ _I find my creative inspiration all around me. When I first started making brace
 
 _I got started making bracelets that I could wear and enjoy. I realized that I had a love for designing and creating them but it wasn’t until I started getting compliments on them that I realized I wanted to sell them so that others could enjoy them the way I do._
 
-## [![Featured Etsy Shop: Feeling Charmed on Katie Crafts; http://www.katiecrafts.com](./feeling-charmed-2.jpg)](https://www.etsy.com/listing/190870428/dart-bracelet-from-the-earth-collection?ref=shop_home_active_1)
+## [![Featured Etsy Shop: Feeling Charmed](./feeling-charmed-2.jpg)](https://www.etsy.com/listing/190870428/dart-bracelet-from-the-earth-collection?ref=shop_home_active_1)
 
 ## Any advice for others who want to start their own Etsy shop, or who are looking to fulfill their passion for crafting?
 
 _I think anyone that has a passion for crafting should go for it. However, opening an Etsy shop and selling your items takes patience, which I am still learning. You have to get your name and your products out there before you will see any sales. It is hard because sometimes to have to focus more on promoting than on your actual craft. But hopefully, in the long run it will all pay off and creating can become your main focus._
 
-[![Featured Etsy Shop: Feeling Charmed on Katie Crafts; http://www.katiecrafts.com](./feeling-charmed-3.jpg)](https://www.etsy.com/listing/192315227/woodlands-bracelet-from-the-earth?ref=shop_home_active_12)
+[![Featured Etsy Shop: Feeling Charmed](./feeling-charmed-3.jpg)](https://www.etsy.com/listing/192315227/woodlands-bracelet-from-the-earth?ref=shop_home_active_12)
 
 You can also catch Feeling Charmed on these social media sites!:
 

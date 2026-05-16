@@ -16,8 +16,8 @@ tags:
     name: "winter"
 ---
 
-![Mabel Curled Into Ball on Katie Crafts; http://www.katiecrafts.com](./img-6844.jpg)
+![Mabel Curled Into Ball](./img-6844.jpg)
 
 Because it’s been awhile since I’ve posted any cat pics… Here are two furry kits hiding their faces because they hate the Winter. Notice how Mabel managed to get herself into the perfect ball?
 
-![Lucky Hiding on Katie Crafts; http://www.katiecrafts.com](./img-6106.jpg)
+![Lucky Hiding](./img-6106.jpg)

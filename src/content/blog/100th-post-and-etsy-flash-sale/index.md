@@ -4,7 +4,7 @@ publishedDate: "2014-04-15"
 excerpt: "Katie Crafts has only been officially launched for a little over two months now, but today is the 100th post! Okay, okay, you got me. About 30 of the posts are cat pics. Whatever. That means 70 are full on content, and I’m still excited to see “100 published posts” on the top of my […]"
 featuredImage:
   src: "./featured.png"
-  alt: "100th Post & Etsy Flash Sale on Katie Crafts; http://www.katiecrafts.com"
+  alt: "100th Post & Etsy Flash Sale"
 categories:
   - slug: "hodgepodge"
     name: "Hodgepodge"

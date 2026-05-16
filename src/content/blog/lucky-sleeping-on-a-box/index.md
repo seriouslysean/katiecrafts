@@ -11,4 +11,4 @@ tags:
     name: "lucky"
 ---
 
-![Katie Crafts; http://www.katiecrafts.com](./img-0204.jpg)
+![](./img-0204.jpg)

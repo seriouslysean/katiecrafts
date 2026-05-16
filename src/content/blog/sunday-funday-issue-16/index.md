@@ -4,7 +4,7 @@ publishedDate: "2014-06-08"
 excerpt: "Sunday Funday: Issue 16 Happy Sunday! Today is sure a hot one. We are spending as much of today as we can in the air conditioning, but are planning to take a wander outside at some point. Chances are, we’ll end up in a coffee shop anyway! For now, here are my weekly picks!"
 featuredImage:
   src: "./featured.jpg"
-  alt: "Sunday Funday: Issue 16 on Katie Crafts; http://www.katiecrafts.com"
+  alt: "Sunday Funday: Issue 16"
 categories:
   - slug: "hodgepodge"
     name: "Hodgepodge"
@@ -51,13 +51,13 @@ I know I gave you an overload of
 
 the other day, so it made sense to use it as my place I love this week! There are very few art stores in my area of the city, and were zero crafting stores until Paper Source opened. I’m very glad it did, though my wallet probably isn’t. Things in the store are quite pricey, but also super adorable! It’s especially great when I have a specific project in mind and can’t wait for the materials for it to be delivered- I can just walk the three blocks to Paper Source and get what I need. I love it!
 
-![Sunday Funday: Issue 16 on Katie Crafts; http://www.katiecrafts.com](./img-3755.jpg)
+![Sunday Funday: Issue 16](./img-3755.jpg)
 
 ## Something Delicious: Cheesy Pull Apart Rolls
 
 This recipe looks insanely easy! I have GOT to try them out! I know Husband will approve! Yummm!
 
-[![Sunday Funday: Issue 16 on Katie Crafts; http://www.katiecrafts.com](./41602008430118118260648792.jpg)](http://food.4myday.info/easy-cheesy-pull-apart-rolls/)
+[![Sunday Funday: Issue 16](./41602008430118118260648792.jpg)](http://food.4myday.info/easy-cheesy-pull-apart-rolls/)
 
 ## Project That Inspires: How To Wear A Head Scarf
 
@@ -67,6 +67,6 @@ Okay, so this isn’t a project, really. Still, I love all the different ways
 
 suggests how to wear a head scarf, especially since I have a few that I still don’t know how to wear! I will definitely try all five ways and see if any of them look good on me.
 
-![Sunday Funday: Issue 16 on Katie Crafts; http://www.katiecrafts.com](./wpid-photo-20140607223950.jpg)
+![Sunday Funday: Issue 16](./wpid-photo-20140607223950.jpg)
 
 That’s all I’ve got for today! Hope your Sunday is as fabulous as that pup!

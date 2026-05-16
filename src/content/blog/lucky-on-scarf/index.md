@@ -14,6 +14,6 @@ tags:
     name: "lucky"
 ---
 
-![Lucky On Scarf on Katie Crafts; http://www.katiecrafts.com](./img-5127.jpg)
+![Lucky On Scarf](./img-5127.jpg)
 
 This is what happens when you walk away from any article of clothing for 30 seconds. You come back to find a Luckybear snuggled up on it, refusing to move.

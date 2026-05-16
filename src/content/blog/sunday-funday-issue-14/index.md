@@ -4,7 +4,7 @@ publishedDate: "2014-05-25"
 excerpt: "Sunday Funday: Issue 14 Happy Sunday! Also, happy almost Memorial Day! Many of you have off tomorrow and are looking forward to a nice long weekend (you lucky people who I am mega jealous of!), so why not spend some extra relaxing time by checking out today’s post! There are some great ideas in it, […]"
 featuredImage:
   src: "./featured.jpg"
-  alt: "Sunday Funday: Issue 14; http://www.katiecrafts.com"
+  alt: "Sunday Funday: Issue 14"
 categories:
   - slug: "hodgepodge"
     name: "Hodgepodge"
@@ -61,7 +61,7 @@ It’s gotta be pretty obvious, considering my post on Friday! I just adored it 
 
 to see more pics!
 
-![NOLA in a Nutshell on Katie Crafts; http://www.katiecrafts.com](./img-3472.jpg)
+![NOLA in a Nutshell](./img-3472.jpg)
 
 ## Something Delicious: Skinny Caramel Frappucino
 
@@ -71,7 +71,7 @@ When I spotted this recipe on
 
 , I knew I had to try it! I can’t wait to get all the ingredients and give it a go. It looks so yummy!
 
-[![Sunday Funday: Issue 14; http://www.katiecrafts.com](./caramelfrappuccino-19.jpg)](http://www.averiecooks.com/2013/06/skinny-caramel-frappuccino.html)
+[![Sunday Funday: Issue 14](./caramelfrappuccino-19.jpg)](http://www.averiecooks.com/2013/06/skinny-caramel-frappuccino.html)
 
 ## Project That Inspires: Lace Back Flannel
 
@@ -81,6 +81,6 @@ I have both an old flannel shirt that I was about to throw away, and a large sec
 
 !
 
-[![Sunday Funday: Issue 14; http://www.katiecrafts.com](./diy-plaiddress-with-lace-before-after.jpg)](http://fashion.onblog.at/en/diy-tutorial-6-spice-up-a-plaid-dress-with-lace)
+[![Sunday Funday: Issue 14](./diy-plaiddress-with-lace-before-after.jpg)](http://fashion.onblog.at/en/diy-tutorial-6-spice-up-a-plaid-dress-with-lace)
 
 Have a fabulous rest-of-your Memorial Day Weekend!

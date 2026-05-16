@@ -4,7 +4,7 @@ publishedDate: "2014-09-19"
 excerpt: "Ahoy! Today is my baby cat’s birthday! Little Mabel turns three today and we are celebrating by cleaning the entire old apartment and trying to unpack some of the new house. Probably not as fun as she’d like, but we’ll give her toys and treats throughout the day and she won’t notice. Happy birthday, Peanut! […]"
 featuredImage:
   src: "./featured.jpg"
-  alt: "Happy 3rd Birthday, Mabel! on Katie Crafts; http://www.katiecrafts.com"
+  alt: "Happy 3rd Birthday, Mabel!"
 categories:
   - slug: "cats"
     name: "Cats"

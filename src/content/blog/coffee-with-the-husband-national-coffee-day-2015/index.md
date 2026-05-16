@@ -4,7 +4,7 @@ publishedDate: "2015-09-29"
 excerpt: "Hey everyone! Today is National Coffee Day and I absolute LOVE coffee (technically it should be International Coffee Day and even more technically it should officially take place on October 1st according to Wikipedia, but everyone else seems to be celebrating today so we’ll go with it). I took this chance to commandeer the blog […]"
 featuredImage:
   src: "./featured.jpg"
-  alt: "Coffee with the Husband: National Coffee Day on Katie Crafts http://www.katiecrafts.com"
+  alt: "Coffee with the Husband: National Coffee Day"
 categories:
   - slug: "hodgepodge"
     name: "Hodgepodge"

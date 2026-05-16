@@ -15,6 +15,6 @@ tags:
     name: "lucky"
 ---
 
-![Crochet Kitty](./img-0424.jpg "Lucky Cat on Katie Crafts; http://www.katiecrafts.com/")
+![Crochet Kitty](./img-0424.jpg "Lucky Cat on Katie Crafts; ")
 
 Crochet Kitty

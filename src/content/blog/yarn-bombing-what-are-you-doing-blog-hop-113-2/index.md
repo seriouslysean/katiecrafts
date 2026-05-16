@@ -4,7 +4,7 @@ publishedDate: "2015-09-01"
 excerpt: "Yarn Bombing- also known as yarn storming, guerrilla knitting and graffiti knitting: type of street art wherein colorful yarn displays are crocheted or knitted around objects. There are many trees, signs, poles and more around Philadelphia that have been yarn bombed by others, but I was feeling the tree outside our house was kind of […]"
 featuredImage:
   src: "./featured.png"
-  alt: "Yarn Bombing + What Are You Doing? Blog Hop #113 on Katie Crafts; http://www.katiecrafts.com"
+  alt: "Yarn Bombing + What Are You Doing? Blog Hop #113"
 categories:
   - slug: "crafts"
     name: "Crafts"
@@ -52,7 +52,7 @@ Sara from
 Katie from
 
 [Katie Crafts](/)\
-[Pinterest](https://www.pinterest.com/imkatiecrafts/)[Twitter](https://twitter.com/imkatiecrafts)[G+](https://plus.google.com/+Katiecrafts215/posts)[Instagram](https://instagram.com/imkatiecrafts/)[Bloglovin](https://www.bloglovin.com/blogs/katie-crafts-crafting-sewing-recipes-more-11771265)[Facebook](https://www.facebook.com/imkatiecrafts)![](https://i2.wp.com/www.jrrmblog.com/wp-content/uploads/2015/07/my-photo-e1438113143676.jpg?resize=200%2C186)
+[Pinterest](https://www.pinterest.com/imkatiecrafts/)[Twitter](https://twitter.com/imkatiecrafts)[G+](https://plus.google.com/+Katiecrafts215/posts)[Instagram](https://instagram.com/imkatiecrafts/)[Bloglovin](https://www.bloglovin.com/blogs/katie-crafts-crafting-sewing-recipes-more-11771265)[Facebook](https://www.facebook.com/imkatiecrafts)!
 
 Joan from
 
@@ -74,8 +74,6 @@ shared a great post on challenging yourself on the changes you make in your life
 <http://contentemeant.blogspot.com/2015/8/what-are-you-doing-blog-hop-113.html”>
 
 <http://1.bp.blogspot.com/-fCYgXzygf4c/UZ-ThPpFezI/AAAAAAAABPs/Sf2bHKunHp4/s1600/CMfeatured150.png”/>
-
-
 
 Don’t forget to check out the other blogs from last week!
 
@@ -139,17 +137,11 @@ Follow Coffee and Their Kisses!
 
 \#mc\_embed\_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
 
-
-
 /\* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
-
-
 
 We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. \*/
 
 (function($) {window\.fnames = new Array(); window\.ftypes = new Array();fnames\[0]=’EMAIL’;ftypes\[0]=’email’;fnames\[1]=’FNAME’;ftypes\[1]=’text’;fnames\[2]=’LNAME’;ftypes\[2]=’text’;}(jQuery));var $mcj = jQuery.noConflict(true);
-
-
 
 **Powered by Linky Tools**
 

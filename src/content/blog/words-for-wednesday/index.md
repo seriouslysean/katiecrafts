@@ -4,7 +4,7 @@ publishedDate: "2016-02-17"
 excerpt: "Remember when I said last week that the Husband had a Valentine’s Day surprise for me? Well, he gifted me theatre tickets for Sunday night! We went to see “Harvey” at the Walnut Street Theatre and it was an excellent show. Since I still have warm fuzzies from the weekend, I knew today’s Words for Wednesday obviously needed to be of the love variety. I thought in the spirit of all things romantic, I’d share mine and Husband’s wedding vows with you!"
 featuredImage:
   src: "./featured.jpg"
-  alt: "Words for Wednesday: Wedding Vows on Katie Crafts; http://www.katiecrafts.com"
+  alt: "Words for Wednesday: Wedding Vows"
 categories:
   - slug: "hodgepodge"
     name: "Hodgepodge"

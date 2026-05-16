@@ -4,7 +4,7 @@ publishedDate: "2014-04-29"
 excerpt: "May is in just a few days, so it’s time to seek out new cute blogs to swap ads with again! We also have some new choices for sponsorships, if that is something you are looking for. Read on below for more details if you want to sponsor or swap ads with Katie Crafts this […]"
 featuredImage:
   src: "./featured.png"
-  alt: "May Ad Swap on Katie Crafts; http://www.katiecrafts.com"
+  alt: "May Ad Swap"
 categories:
   - slug: "hodgepodge"
     name: "Hodgepodge"

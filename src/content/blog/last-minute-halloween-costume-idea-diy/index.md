@@ -4,7 +4,7 @@ publishedDate: "2014-10-30"
 excerpt: "Last Minute Halloween Costume Idea DIY: Animal Headbands Tomorrow is finally Halloween! While Husband and I will be Blair Waldorf and Chuck Bass later on in the evening at the annual Halloween party we go to, we need something fun for when the kids come trick-or-treating earlier in the evening. I have a cute vampire […]"
 featuredImage:
   src: "./featured.png"
-  alt: "Last Minute Halloween Costume Idea: Animal Headbands DIY by Katie Crafts; http://www.katiecrafts.com"
+  alt: "Last Minute Halloween Costume Idea: Animal Headbands DIY by"
 categories:
   - slug: "crafts"
     name: "Crafts"

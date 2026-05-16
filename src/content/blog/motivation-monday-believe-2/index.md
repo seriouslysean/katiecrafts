@@ -4,7 +4,7 @@ publishedDate: "2015-08-03"
 excerpt: "I had a very lovely and relaxing weekend, though I didn’t get done a fraction of what I wanted to. That is why I thought it would be a good time for a Motivation Monday quote! This one comes from T. Roosevelt."
 featuredImage:
   src: "./featured.jpg"
-  alt: "Motivation Monday: Believe on Katie Crafts; http://www.katiecrafts.com"
+  alt: "Motivation Monday: Believe"
 categories:
   - slug: "hodgepodge"
     name: "Hodgepodge"

@@ -4,7 +4,7 @@ publishedDate: "2015-07-31"
 excerpt: "Saturday, August 1st is National Girlfriends Day! Whether you honor it by having a long phone call with a long distant bestie, a glass of wine with your favorite sister or even a spin class with your gal pal, be sure to wish every lady in your life a great day!"
 featuredImage:
   src: "./featured.jpg"
-  alt: "TOMORROW is National Girlfriends Day! on Katie Crafts; http://www.katiecrafts.com"
+  alt: "TOMORROW is National Girlfriends Day!"
 categories:
   - slug: "hodgepodge"
     name: "Hodgepodge"

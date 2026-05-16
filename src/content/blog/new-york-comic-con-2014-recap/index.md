@@ -4,7 +4,7 @@ publishedDate: "2014-10-16"
 excerpt: "New York Comic Con 2014 Recap Last Friday, October 9th, I headed to Manhattan for New York Comic Con at the Javits Center! The Husband and I go every year, though we usually hit it up on a Saturday. Last year was insanely horrifically packed, so we were pretty lucky to get Friday tickets this […]"
 featuredImage:
   src: "./featured.png"
-  alt: "New York Comic Con 2014 Recap! by Katie Crafts; http://www.katiecrafts.com"
+  alt: "New York Comic Con 2014 Recap! by"
 categories:
   - slug: "hodgepodge"
     name: "Hodgepodge"
@@ -35,31 +35,31 @@ was a highlight of the weekend.
 
 There were SO many great vendors on the Show Floor that I wanted to buy pretty much every silly shirt and every adorable stuffed guy that I saw. See that Super Mario Galaxy star above? I am determined to create a pattern to make him myself!
 
-![New York Comic Con 2014 Recap! by Katie Crafts; http://www.katiecrafts.com](./img-5936.jpg)
+![New York Comic Con 2014 Recap! by](./img-5936.jpg)
 
 Here are the comics that Husband and I went home with! I only read one so far, but he powered through at least half of them on the train ride home.
 
-![New York Comic Con 2014 Recap! by Katie Crafts; http://www.katiecrafts.com](./comics-1.jpg)
+![New York Comic Con 2014 Recap! by](./comics-1.jpg)
 
-![New York Comic Con 2014 Recap! by Katie Crafts; http://www.katiecrafts.com](./comics-2.png)
+![New York Comic Con 2014 Recap! by](./comics-2.png)
 
 We bought super cute pins from Frombie (the friendly zombies) again this year too. Last year I bought a glow in the dark zombie llama, but I can’t find him anywhere! This year, husband bought a glow in the dark skull to adorn to his work bag, and I bought a skeleton cameo that is oh-so-cute. They gave us a free tote and free stickers to boot!
 
-![New York Comic Con 2014 Recap! by Katie Crafts; https://www.katiecrafts.com](./img-59221.jpg)
+![New York Comic Con 2014 Recap! by](./img-59221.jpg)
 
-![New York Comic Con 2014 Recap! by Katie Crafts; https://www.katiecrafts.com](./img-5948.jpg)
+![New York Comic Con 2014 Recap! by](./img-5948.jpg)
 
-![New York Comic Con 2014 Recap! by Katie Crafts; https://www.katiecrafts.com](./img-5958.jpg)
+![New York Comic Con 2014 Recap! by](./img-5958.jpg)
 
-![New York Comic Con 2014 Recap! by Katie Crafts; https://www.katiecrafts.com](./frombie.jpg)
+![New York Comic Con 2014 Recap! by](./frombie.jpg)
 
 Of COURSE I had to get a t-shirt and tote bag, because those are my favorite things to collect!
 
-![New York Comic Con 2014 Recap! by Katie Crafts; https://www.katiecrafts.com](./img-5956.jpg)
+![New York Comic Con 2014 Recap! by](./img-5956.jpg)
 
-![New York Comic Con 2014 Recap! by Katie Crafts; https://www.katiecrafts.com](./img-5950.jpg)
+![New York Comic Con 2014 Recap! by](./img-5950.jpg)
 
-![New York Comic Con 2014 Recap! by Katie Crafts; http://www.katiecrafts.com](./img-5949.jpg)
+![New York Comic Con 2014 Recap! by](./img-5949.jpg)
 
 How adorable is the above print from modHero? It’s going to be perfect in our green kitchen. Husband also bought a similar print from the same artist, swapping out a cute snail for a sleepy owl! It was a birthday gift for his sister, along with another awesome Where The Wild Things Are inspired print from
 
@@ -67,25 +67,25 @@ How adorable is the above print from modHero? It’s going to be perfect in our 
 
 (another of my fave vendors to visit each year!) Isn’t it adorable?
 
-![New York Comic Con 2014 Recap! by Katie Crafts; http://www.katiecrafts.com](./kcook-wtwta-4web.jpg)
+![New York Comic Con 2014 Recap! by](./kcook-wtwta-4web.jpg)
 
 photo courtesy of katiecandraw\.bigcartel.com
 
 And here is Katie Cook busy at work in her booth in Artist’s Alley!
 
-![New York Comic Con 2014 Recap! by Katie Crafts; https://www.katiecrafts.com](./img-5924.jpg)
+![New York Comic Con 2014 Recap! by](./img-5924.jpg)
 
-![New York Comic Con 2014 Recap! by Katie Crafts; https://www.katiecrafts.com](./img-59251.jpg)
+![New York Comic Con 2014 Recap! by](./img-59251.jpg)
 
-![New York Comic Con 2014 Recap! by Katie Crafts; http://www.katiecrafts.com](./img-5957.jpg)
+![New York Comic Con 2014 Recap! by](./img-5957.jpg)
 
 This little robot mermaid will go somewhere I can see it all the time- like my iPad case! It’s so cute!
 
-![New York Comic Con 2014 Recap! by Katie Crafts; http://www.katiecrafts.com](./img-5935.jpg)
+![New York Comic Con 2014 Recap! by](./img-5935.jpg)
 
 The little girl in this photo was totally obsessed, crawling all over him and laughing and smiling. It was crazy adorable to watch!
 
-![New York Comic Con 2014 Recap! by Katie Crafts; http://www.katiecrafts.com](./img-5959.jpg)
+![New York Comic Con 2014 Recap! by](./img-5959.jpg)
 
 Here’s my magnet from Red Rocket Farm! Check out his
 
@@ -93,7 +93,7 @@ Here’s my magnet from Red Rocket Farm! Check out his
 
 , too! You are going to love Jason’s work too, I promise.
 
-![New York Comic Con 2014 Recap! by Katie Crafts; http://www.katiecrafts.com](./img-5930.jpg)
+![New York Comic Con 2014 Recap! by](./img-5930.jpg)
 
 While I wasn’t dressing up in a full on costume for the convention, I couldn’t go in just any street clothes! So, I made a skirt with some adorable bats on it to show my Halloween-y side. It took a million years to make, but I love it!
 

@@ -4,7 +4,7 @@ publishedDate: "2015-09-17"
 excerpt: "Come October, Husband and I will be celebrating 2 years of marriage (and 6 years of dating!) During our year and a half engagement, I spent the majority of my life crafting for the wedding! We wanted nature to guide our theme, as our wedding was outdoors at a beautiful arboretum. I’ve shared a few […]"
 featuredImage:
   src: "./featured.jpg"
-  alt: "A Special Look at my Fall Wedding... on Katie Crafts; http://www.katiecrafts.com"
+  alt: "A Special Look at my Fall Wedding..."
 categories:
   - slug: "crafts"
     name: "Crafts"
@@ -51,7 +51,7 @@ Just about every detail and decoration was made by yours truly, with very few ex
 
 Each and every tablescape was unique: a collection of various old books, pumpkins, candles, balls, plants and more. Each table had a disposable camera on it with it’s own version of “I SPY” so that no two photos would be the same. We haven’t developed these yet!! Hopefully for our two year anniversary we will!!! (Need ideas for your own I SPY game?
 
-[Here are the lists we used for ours!](/wp-content/uploads/2015/09/ISpy.pdf)
+Here are the lists we used for ours!
 
 )
 
@@ -83,148 +83,148 @@ The hotel guest bags were filled with personalized water bottles, snacks, itiner
 
 There are a billion things I made that I’m not even thinking of right now, I’m sure. I wanted to record all the blood, sweat and tears that went in to each project I took on in written form, but I knew I couldn’t juggle finishing everything for the wedding AND a fledgling blog simultaneously, but it’s the reason Katie Crafts began just a few months later. I needed a creative outlet with wedding planning over! Now with my two year anniversary coming up, it’s time to share photos of all my labors of love. Hopefully you future Fall brides will get an idea or two, and I’m happy to help in any way! If you see a DIY you love, let me know and I’ll try to get a full post up on it! For now, enjoy some of my wedding pics and pin what you like!
 
-![A Special Look at my Fall Wedding... on Katie Crafts; https://www.katiecrafts.com](./plants-3.jpg)
+![A Special Look at my Fall Wedding...](./plants-3.jpg)
 
-![A Special Look at my Fall Wedding... on Katie Crafts; https://www.katiecrafts.com](./plants-2.jpg)
+![A Special Look at my Fall Wedding...](./plants-2.jpg)
 
-![A Special Look at my Fall Wedding... on Katie Crafts; https://www.katiecrafts.com](./plants-1.jpg)
+![A Special Look at my Fall Wedding...](./plants-1.jpg)
 
-![A Special Look at my Fall Wedding... on Katie Crafts; http://www.katiecrafts.com](./bridesmaids-necklaces.jpg)
+![A Special Look at my Fall Wedding...](./bridesmaids-necklaces.jpg)
 
-![A Special Look at my Fall Wedding... on Katie Crafts; https://www.katiecrafts.com](./superhero-wallets-e1441759602905.jpg)
+![A Special Look at my Fall Wedding...](./superhero-wallets-e1441759602905.jpg)
 
-![A Special Look at my Fall Wedding... on Katie Crafts; https://www.katiecrafts.com](./cufflinks-all.jpg)
+![A Special Look at my Fall Wedding...](./cufflinks-all.jpg)
 
-![A Special Look at my Fall Wedding... on Katie Crafts; https://www.katiecrafts.com](./ring-pumpkin-pillow.jpg)
+![A Special Look at my Fall Wedding...](./ring-pumpkin-pillow.jpg)
 
-![A Special Look at my Fall Wedding... on Katie Crafts; https://www.katiecrafts.com](./cardbox-3.jpg)
+![A Special Look at my Fall Wedding...](./cardbox-3.jpg)
 
-![A Special Look at my Fall Wedding... on Katie Crafts; http://www.katiecrafts.com](./books.jpg)
+![A Special Look at my Fall Wedding...](./books.jpg)
 
-![A Special Look at my Fall Wedding... on Katie Crafts; https://www.katiecrafts.com](./masks.jpg)
+![A Special Look at my Fall Wedding...](./masks.jpg)
 
-![A Special Look at my Fall Wedding... on Katie Crafts; https://www.katiecrafts.com](./rehearsal-dinner-goodies.jpg)
+![A Special Look at my Fall Wedding...](./rehearsal-dinner-goodies.jpg)
 
-![A Special Look at my Fall Wedding... on Katie Crafts; https://www.katiecrafts.com](./glowsticks.jpg)
+![A Special Look at my Fall Wedding...](./glowsticks.jpg)
 
-![A Special Look at my Fall Wedding... on Katie Crafts; http://www.katiecrafts.com](./robes-1.jpg)
+![A Special Look at my Fall Wedding...](./robes-1.jpg)
 
-![A Special Look at my Fall Wedding... on Katie Crafts; https://www.katiecrafts.com](./caramels.jpg)
+![A Special Look at my Fall Wedding...](./caramels.jpg)
 
-![A Special Look at my Fall Wedding... on Katie Crafts; https://www.katiecrafts.com](./rehearsal-dinner-goodies.jpg)
+![A Special Look at my Fall Wedding...](./rehearsal-dinner-goodies.jpg)
 
-![A Special Look at my Fall Wedding... on Katie Crafts; http://www.katiecrafts.com](./wedding-party-shoes.jpg)
+![A Special Look at my Fall Wedding...](./wedding-party-shoes.jpg)
 
-![A Special Look at my Fall Wedding... on Katie Crafts; https://www.katiecrafts.com](./wrapped-gift.jpg)
+![A Special Look at my Fall Wedding...](./wrapped-gift.jpg)
 
-![A Special Look at my Fall Wedding... on Katie Crafts; https://www.katiecrafts.com](./wine-glasses.jpg)
+![A Special Look at my Fall Wedding...](./wine-glasses.jpg)
 
-![A Special Look at my Fall Wedding... on Katie Crafts; https://www.katiecrafts.com](./katie-flower.jpg)
+![A Special Look at my Fall Wedding...](./katie-flower.jpg)
 
-![A Special Look at my Fall Wedding... on Katie Crafts; https://www.katiecrafts.com](./jess-flower.jpg)
+![A Special Look at my Fall Wedding...](./jess-flower.jpg)
 
-![A Special Look at my Fall Wedding... on Katie Crafts; http://www.katiecrafts.com](./ringbearer-flowergirl.jpg)
+![A Special Look at my Fall Wedding...](./ringbearer-flowergirl.jpg)
 
-![A Special Look at my Fall Wedding... on Katie Crafts; https://www.katiecrafts.com](./peppermint-mocha.jpg)
+![A Special Look at my Fall Wedding...](./peppermint-mocha.jpg)
 
-![A Special Look at my Fall Wedding... on Katie Crafts; http://www.katiecrafts.com](./flower-girl-basket.jpg)
+![A Special Look at my Fall Wedding...](./flower-girl-basket.jpg)
 
-![A Special Look at my Fall Wedding... on Katie Crafts; https://www.katiecrafts.com](./ring-pillow.jpg)
+![A Special Look at my Fall Wedding...](./ring-pillow.jpg)
 
-![A Special Look at my Fall Wedding... on Katie Crafts; https://www.katiecrafts.com](./bouquet-pic.jpg)
+![A Special Look at my Fall Wedding...](./bouquet-pic.jpg)
 
-![A Special Look at my Fall Wedding... on Katie Crafts; http://www.katiecrafts.com](./bouquet-pic-2.jpg)
+![A Special Look at my Fall Wedding...](./bouquet-pic-2.jpg)
 
-![A Special Look at my Fall Wedding... on Katie Crafts; http://www.katiecrafts.com](./bouquets.jpg)
+![A Special Look at my Fall Wedding...](./bouquets.jpg)
 
-![A Special Look at my Fall Wedding... on Katie Crafts; https://www.katiecrafts.com](./handmade-garter.jpg)
+![A Special Look at my Fall Wedding...](./handmade-garter.jpg)
 
-![A Special Look at my Fall Wedding... on Katie Crafts; https://www.katiecrafts.com](./handmade-cufflink-spiderman.jpg)
+![A Special Look at my Fall Wedding...](./handmade-cufflink-spiderman.jpg)
 
-![A Special Look at my Fall Wedding... on Katie Crafts; http://www.katiecrafts.com](./programs-lavender.jpg)
+![A Special Look at my Fall Wedding...](./programs-lavender.jpg)
 
-![A Special Look at my Fall Wedding... on Katie Crafts; https://www.katiecrafts.com](./babys-breath-mason-jars.jpg)
+![A Special Look at my Fall Wedding...](./babys-breath-mason-jars.jpg)
 
-![A Special Look at my Fall Wedding... on Katie Crafts; https://www.katiecrafts.com](./ceremony-chairs.jpg)
+![A Special Look at my Fall Wedding...](./ceremony-chairs.jpg)
 
-![A Special Look at my Fall Wedding... on Katie Crafts; https://www.katiecrafts.com](./mom-photo.jpg)
+![A Special Look at my Fall Wedding...](./mom-photo.jpg)
 
-![A Special Look at my Fall Wedding... on Katie Crafts; https://www.katiecrafts.com](./ring-flower-aisle.jpg)
+![A Special Look at my Fall Wedding...](./ring-flower-aisle.jpg)
 
-![A Special Look at my Fall Wedding... on Katie Crafts; https://www.katiecrafts.com](./mom-photo-2.jpg)
+![A Special Look at my Fall Wedding...](./mom-photo-2.jpg)
 
-![A Special Look at my Fall Wedding... on Katie Crafts; https://www.katiecrafts.com](./signing.jpg)
+![A Special Look at my Fall Wedding...](./signing.jpg)
 
-![A Special Look at my Fall Wedding... on Katie Crafts; https://www.katiecrafts.com](./first-kiss.jpg)
+![A Special Look at my Fall Wedding...](./first-kiss.jpg)
 
-![A Special Look at my Fall Wedding... on Katie Crafts; http://www.katiecrafts.com](./aisle.jpg)
+![A Special Look at my Fall Wedding...](./aisle.jpg)
 
-![A Special Look at my Fall Wedding... on Katie Crafts; https://www.katiecrafts.com](./boys-shirts-2.jpg)
+![A Special Look at my Fall Wedding...](./boys-shirts-2.jpg)
 
-![A Special Look at my Fall Wedding... on Katie Crafts; https://www.katiecrafts.com](./bridesmaids.jpg)
+![A Special Look at my Fall Wedding...](./bridesmaids.jpg)
 
-![A Special Look at my Fall Wedding... on Katie Crafts; https://www.katiecrafts.com](./boys-shirts-1.jpg)
+![A Special Look at my Fall Wedding...](./boys-shirts-1.jpg)
 
-![A Special Look at my Fall Wedding... on Katie Crafts; http://www.katiecrafts.com](./standing-bench-pic.jpg)
+![A Special Look at my Fall Wedding...](./standing-bench-pic.jpg)
 
-![A Special Look at my Fall Wedding... on Katie Crafts; http://www.katiecrafts.com](./cabin.jpg)
+![A Special Look at my Fall Wedding...](./cabin.jpg)
 
-![A Special Look at my Fall Wedding... on Katie Crafts; https://www.katiecrafts.com](./thumbprint-tree.jpg)
+![A Special Look at my Fall Wedding...](./thumbprint-tree.jpg)
 
-![A Special Look at my Fall Wedding... on Katie Crafts; https://www.katiecrafts.com](./guestbook-tree.jpg)
+![A Special Look at my Fall Wedding...](./guestbook-tree.jpg)
 
-![A Special Look at my Fall Wedding... on Katie Crafts; https://www.katiecrafts.com](./guestbook-tree-2.jpg)
+![A Special Look at my Fall Wedding...](./guestbook-tree-2.jpg)
 
-![A Special Look at my Fall Wedding... on Katie Crafts; https://www.katiecrafts.com](./pumpkins.jpg)
+![A Special Look at my Fall Wedding...](./pumpkins.jpg)
 
-![A Special Look at my Fall Wedding... on Katie Crafts; https://www.katiecrafts.com](./cardbox.jpg)
+![A Special Look at my Fall Wedding...](./cardbox.jpg)
 
-![A Special Look at my Fall Wedding... on Katie Crafts; https://www.katiecrafts.com](./dancing-shoes.jpg)
+![A Special Look at my Fall Wedding...](./dancing-shoes.jpg)
 
-![A Special Look at my Fall Wedding... on Katie Crafts; https://www.katiecrafts.com](./pin-closeup.jpg)
+![A Special Look at my Fall Wedding...](./pin-closeup.jpg)
 
-![A Special Look at my Fall Wedding... on Katie Crafts; http://www.katiecrafts.com](./tablescape-4.jpg)
+![A Special Look at my Fall Wedding...](./tablescape-4.jpg)
 
-![A Special Look at my Fall Wedding... on Katie Crafts; https://www.katiecrafts.com](./tablescape-3.jpg)
+![A Special Look at my Fall Wedding...](./tablescape-3.jpg)
 
-![A Special Look at my Fall Wedding... on Katie Crafts; https://www.katiecrafts.com](./tablescape-1.jpg)
+![A Special Look at my Fall Wedding...](./tablescape-1.jpg)
 
-![A Special Look at my Fall Wedding... on Katie Crafts; http://www.katiecrafts.com](./tablescape-2.jpg)
+![A Special Look at my Fall Wedding...](./tablescape-2.jpg)
 
-![A Special Look at my Fall Wedding... on Katie Crafts; https://www.katiecrafts.com](./melissa-tablescape-e1441759444457.jpg)
+![A Special Look at my Fall Wedding...](./melissa-tablescape-e1441759444457.jpg)
 
-![A Special Look at my Fall Wedding... on Katie Crafts; https://www.katiecrafts.com](./table-names-2.jpg)
+![A Special Look at my Fall Wedding...](./table-names-2.jpg)
 
-![A Special Look at my Fall Wedding... on Katie Crafts; https://www.katiecrafts.com](./table-names-3.jpg)
+![A Special Look at my Fall Wedding...](./table-names-3.jpg)
 
-![A Special Look at my Fall Wedding... on Katie Crafts; http://www.katiecrafts.com](./flag-sign.jpg)
+![A Special Look at my Fall Wedding...](./flag-sign.jpg)
 
-![A Special Look at my Fall Wedding... on Katie Crafts; https://www.katiecrafts.com](./table-names.jpg)
+![A Special Look at my Fall Wedding...](./table-names.jpg)
 
-![A Special Look at my Fall Wedding... on Katie Crafts; https://www.katiecrafts.com](./table-name-sign.jpg)
+![A Special Look at my Fall Wedding...](./table-name-sign.jpg)
 
-![A Special Look at my Fall Wedding... on Katie Crafts; http://www.katiecrafts.com](./table-books.jpg)
+![A Special Look at my Fall Wedding...](./table-books.jpg)
 
-![A Special Look at my Fall Wedding... on Katie Crafts; https://www.katiecrafts.com](./photobooth-table.jpg)
+![A Special Look at my Fall Wedding...](./photobooth-table.jpg)
 
-![A Special Look at my Fall Wedding... on Katie Crafts; https://www.katiecrafts.com](./photobooth-table-2.jpg)
+![A Special Look at my Fall Wedding...](./photobooth-table-2.jpg)
 
-![A Special Look at my Fall Wedding... on Katie Crafts; https://www.katiecrafts.com](./social-media-sign.jpg)
+![A Special Look at my Fall Wedding...](./social-media-sign.jpg)
 
-![A Special Look at my Fall Wedding... on Katie Crafts; https://www.katiecrafts.com](./photobooth-kiss.jpg)
+![A Special Look at my Fall Wedding...](./photobooth-kiss.jpg)
 
-![A Special Look at my Fall Wedding... on Katie Crafts; http://www.katiecrafts.com](./mom-lips.jpg)
+![A Special Look at my Fall Wedding...](./mom-lips.jpg)
 
-![A Special Look at my Fall Wedding... on Katie Crafts; https://www.katiecrafts.com](./mr-sign.jpg)
+![A Special Look at my Fall Wedding...](./mr-sign.jpg)
 
-![A Special Look at my Fall Wedding... on Katie Crafts; https://www.katiecrafts.com](./mrs-sign.jpg)
+![A Special Look at my Fall Wedding...](./mrs-sign.jpg)
 
-![A Special Look at my Fall Wedding... on Katie Crafts; http://www.katiecrafts.com](./candy-table.jpg)
+![A Special Look at my Fall Wedding...](./candy-table.jpg)
 
-![A Special Look at my Fall Wedding... on Katie Crafts; https://www.katiecrafts.com](./wedding-cake-topper.jpg)
+![A Special Look at my Fall Wedding...](./wedding-cake-topper.jpg)
 
-![A Special Look at my Fall Wedding... on Katie Crafts; https://www.katiecrafts.com](./wedding-cake.jpg)
+![A Special Look at my Fall Wedding...](./wedding-cake.jpg)
 
-![A Special Look at my Fall Wedding... on Katie Crafts; http://www.katiecrafts.com](./drink-menu.jpg)
+![A Special Look at my Fall Wedding...](./drink-menu.jpg)
 
-![A Special Look at my Fall Wedding... on Katie Crafts; http://www.katiecrafts.com](./chalkboard.jpg)
+![A Special Look at my Fall Wedding...](./chalkboard.jpg)

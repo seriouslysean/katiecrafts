@@ -18,6 +18,6 @@ tags:
     name: "mabel"
 ---
 
-![NO, IT'S MY STRING! on Katie Crafts; http://www.katiecrafts.com](./img-37801.jpg)
+![NO, IT'S MY STRING!](./img-37801.jpg)
 
 When she was still a kitten, Lucky had no problem telling Mabel ‘NO, THAT’S MY STRING!’ Now he just watches her play with his things and goes back to sleep.

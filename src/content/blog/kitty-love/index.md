@@ -13,4 +13,4 @@ tags:
     name: "mabel"
 ---
 
-![kitty love](./img-0612.jpg "Kitty Love! on Katie Crafts; http://www.katiecrafts.com/")
+![kitty love](./img-0612.jpg "Kitty Love! on Katie Crafts; ")

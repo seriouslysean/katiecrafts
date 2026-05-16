@@ -16,6 +16,6 @@ tags:
     name: "mabel"
 ---
 
-![Me & Mabel on Katie Crafts; http://www.katiecrafts.com](./img-3744.jpg)
+![Me & Mabel](./img-3744.jpg)
 
 Husband is out for the day, so kits and I are enjoying some “us” time!

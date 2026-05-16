@@ -4,7 +4,7 @@ publishedDate: "2014-05-08"
 excerpt: "Since it’s National Pet Week, I went through all the tutorials I have bookmarked so I could share with you a bunch of fun and easy DIY pet projects! Some of these projects are ones I’ve completed already, some are ones I have on my “to-make” list. All are awesome! Pull up a chair, grab […]"
 featuredImage:
   src: "./featured.jpg"
-  alt: "8 Pet Projects on Katie Crafts; http://www.katiecrafts.com"
+  alt: "8 Pet Projects"
 categories:
   - slug: "crafts"
     name: "Crafts"

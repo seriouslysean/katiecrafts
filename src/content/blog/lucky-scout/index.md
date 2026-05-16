@@ -16,6 +16,6 @@ tags:
     name: "scout"
 ---
 
-![Lucky the Boy Scout on Katie Crafts; http://www.katiecrafts.com](./img-5216.jpg)
+![Lucky the Boy Scout](./img-5216.jpg)
 
 Found a bandana. Tied it around Lucky’s neck. He purred and purred. Think he wants to be a boy scout?

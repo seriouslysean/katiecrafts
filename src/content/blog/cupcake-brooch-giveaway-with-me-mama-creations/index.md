@@ -4,7 +4,7 @@ publishedDate: "2015-12-04"
 excerpt: "On the fourth day of Christmas, Katie Crafts gave to me… a cute little Kawaii cupcake brooch from Me and Mama Creations! Today’s giveaway is a handmade cross stitched strawberry cupcake brooch from the talented Lia. Read her interview below, check out some of her other adorable works and enter to win the absolutely sweetest stocking stuffer ever!"
 featuredImage:
   src: "./featured.png"
-  alt: "Cupcake Brooch Giveaway with Me and Mama Creations on Katie Crafts; http://www.katiecrafts.com"
+  alt: "Cupcake Brooch Giveaway with Me and Mama Creations"
 categories:
   - slug: "crafts"
     name: "Crafts"
@@ -49,11 +49,11 @@ _sweetest_
 
 stocking stuffer ever!
 
-![Cupcake Brooch Giveaway with Me and Mama Creations on Katie Crafts; https://www.katiecrafts.com](./il-570xn-758857335-cd3s.jpg)
+![Cupcake Brooch Giveaway with Me and Mama Creations](./il-570xn-758857335-cd3s.jpg)
 
-![Cupcake Brooch Giveaway with Me and Mama Creations on Katie Crafts; https://www.katiecrafts.com](./il-570xn-681130091-40q7.jpg)
+![Cupcake Brooch Giveaway with Me and Mama Creations](./il-570xn-681130091-40q7.jpg)
 
-![Cupcake Brooch Giveaway with Me and Mama Creations on Katie Crafts; https://www.katiecrafts.com](./il-570xn-643590321-xi7o.jpg)
+![Cupcake Brooch Giveaway with Me and Mama Creations](./il-570xn-643590321-xi7o.jpg)
 
 What is your name, your shop’s name and where are you located?
 
@@ -81,7 +81,7 @@ What is your favorite part of the holiday season?
 
 My favorite part of the holiday season is that kids are off from school and we can do crafting together.
 
-![Cupcake Brooch Giveaway with Me and Mama Creations on Katie Crafts; http://www.katiecrafts.com](./il-570xn-784146023-5mvh.jpg)
+![Cupcake Brooch Giveaway with Me and Mama Creations](./il-570xn-784146023-5mvh.jpg)
 
 photo from Me and Mama Creations
 
@@ -89,7 +89,7 @@ Great interview, Lia!!! Now it is giveaway time! One lucky winner will receive:
 
 - The below photoed Kawaii Strawberry Cupcake Brooch. Cross stitch, hand embroidered dessert pin. Size is 4.5cm (1.38in) x 4.5cm (1.38 in). 10 Colors of thread making it an intricate piece. Comprised of 350 cross stitches (that’s 700 stitches!)
 
-![Cupcake Brooch Giveaway with Me and Mama Creations on Katie Crafts; http://www.katiecrafts.com](./prize-pic-2.jpg)
+![Cupcake Brooch Giveaway with Me and Mama Creations](./prize-pic-2.jpg)
 
 photo from Me and Mama Creations
 

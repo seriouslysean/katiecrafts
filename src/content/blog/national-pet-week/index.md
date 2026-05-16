@@ -4,7 +4,7 @@ publishedDate: "2014-05-06"
 excerpt: "Guess what! This week is National Pet Week! How purrrfect! From May 4th through May 10th, we should all spend a little extra time loving our fur babies, who spend the entirety of their lives loving us! This Saturday, May 9th, my post will be devoted to all of the pets who make our lives […]"
 featuredImage:
   src: "./featured.jpg"
-  alt: "National Pet Week on Katie Crafts; http://www.katiecrafts.com"
+  alt: "National Pet Week"
 categories:
   - slug: "cats"
     name: "Cats"

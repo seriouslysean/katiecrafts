@@ -50,7 +50,7 @@ This is a
 
 I’ve been using for ages! Still, if my mom hadn’t taught me about it years ago, I guess I wouldn’t have known. Folding the elastic over on itself and pinning it together with a safety pin before running it through your skirt/pants makes it so much easier to find and gather!
 
-![10 Sewing Tips You Should Try on Katie Crafts; http://www.katiecrafts.com](./1-7.jpg)
+![10 Sewing Tips You Should Try](./1-7.jpg)
 
 photo from andreasnotebook.com
 
@@ -62,7 +62,7 @@ Another trick for a rubber band! I’ve seen people talk about drawing a line on
 
 of slipping a rubber band around it. Perfect!
 
-![10 Sewing Tips You Should Try on Katie Crafts; http://www.katiecrafts.com](./img-6074.jpg)
+![10 Sewing Tips You Should Try](./img-6074.jpg)
 
 photo from makeit-loveit.com
 
@@ -74,7 +74,7 @@ I won’t lie- I’ve had trouble with zippers in the past. This wonderful tip f
 
 seems pretty foolproof though! I’ll be trying this way out the next time I have to sew a zipper.
 
-![10 Sewing Tips You Should Try on Katie Crafts; http://www.katiecrafts.com](./2646111019-24706490c7-o.jpg)
+![10 Sewing Tips You Should Try](./2646111019-24706490c7-o.jpg)
 
 photo from craftypod.com
 
@@ -86,7 +86,7 @@ Making a new pin cushion is on my “to-do” list right now. I have rice to abs
 
 !
 
-![10 Sewing Tips You Should Try on Katie Crafts; http://www.katiecrafts.com](./double-hem-sewing.jpeg)
+![10 Sewing Tips You Should Try](./double-hem-sewing.jpeg)
 
 photo from thesewingloftblog.com
 
@@ -98,7 +98,7 @@ When I started sewing (which honestly wasn’t very long ago) it somehow never o
 
 .
 
-![10 Sewing Tips You Should Try on Katie Crafts; http://www.katiecrafts.com](./stay-tape-for-knits-wm.jpg)
+![10 Sewing Tips You Should Try](./stay-tape-for-knits-wm.jpg)
 
 photo from thesewingloftblog.com
 
@@ -110,7 +110,7 @@ Another tip from
 
 (I just love her!) is using Stay Tape when sewing knits! It keeps the knit fabric from stretching too much and makes your sewing go much smoother. I will need to try this out!
 
-![10 Sewing Tips You Should Try on Katie Crafts; http://www.katiecrafts.com](./img-9498-1.jpg)
+![10 Sewing Tips You Should Try](./img-9498-1.jpg)
 
 photo from makeit-loveit.com
 
@@ -122,7 +122,7 @@ Sometimes, you just need pockets. I have a few summer skirts that would be 100% 
 
 ! She shows just how simple it is to add pockets to an already existing skirt!
 
-![10 Sewing Tips You Should Try on Katie Crafts; http://www.katiecrafts.com](./img-4889.jpg)
+![10 Sewing Tips You Should Try](./img-4889.jpg)
 
 photo from scavengerhuntblog.com
 

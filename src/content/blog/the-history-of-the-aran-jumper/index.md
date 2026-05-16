@@ -4,7 +4,7 @@ publishedDate: "2015-09-04"
 excerpt: "Happy Friday, friends! I bumped my scheduled post for today (those long awaited Longwood Gardens photos- they will be Monday’s post now, I promise!) in favor of this really cool one! It’s an interactive timeline depicting the history of the Aran Jumper- so it’s a fashion AND knitting post all in one. How perfect, right!?"
 featuredImage:
   src: "./featured.jpg"
-  alt: "The History of the Aran Jumper on Katie Crafts; http://www.katiecrafts.com"
+  alt: "The History of the Aran Jumper"
 categories:
   - slug: "crafts"
     name: "Crafts"

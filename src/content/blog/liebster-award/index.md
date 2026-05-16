@@ -4,7 +4,7 @@ publishedDate: "2014-03-10"
 excerpt: "Hip hip hooray! Katie Crafts has been nominated for a Liebster Award! “What the heck is that?” you ask? Well, I’ll tell you. First, let’s define Liebster: it’s German origins tag it as meaning “beloved, sweetheart, darling.” That being said, it’s an award that is given to bloggers by bloggers, to recognize us little guys […]"
 featuredImage:
   src: "./featured.png"
-  alt: "Liebster Award! on Katie Crafts; http://www.katiecrafts.com"
+  alt: "Liebster Award!"
 categories:
   - slug: "hodgepodge"
     name: "Hodgepodge"
@@ -51,7 +51,7 @@ I love the way this Award works. It’s all about meeting new bloggers, networki
 
 4\. Copy and paste the Award right onto your blog so everyone knows how amazing you are, because you totally are!
 
-![Liebster Award! on Katie Crafts; http://www.katiecrafts.com](./liebster2.png)
+![Liebster Award!](./liebster2.png)
 
 On to the questions! Alison asked me these eleven things:
 
@@ -65,7 +65,7 @@ _Everything! Which is precisely why I began the blog. I’ve found inspiration i
 
 3\. If you could have any animal as your pet, what would your ultimate pet be?
 
-_I want all the pets! I want a cute little hedgehog, and I want a fuzzy little piglet, and I want a miniature pony, and I want all the English bulldog puppies in the world along with all the baby tiger/lion/big cat cubs. . . but for now, my beloved kitty children will just have to do!_
+_I want all the pets! I want a cute little hedgehog, and I want a fuzzy little piglet, and I want a miniature pony, and I want all the English bulldog puppies in the world along with all the baby tiger/lion/big cat cubs.. . but for now, my beloved kitty children will just have to do!_
 
 4\. What’s your biggest guilty pleasure?
 
@@ -103,7 +103,7 @@ _This is usually dependent on the weather! When it’s warm and sunny, I like to
 
 _How to make a pretty knotted headband! I won’t feature it til I’ve perfected it, but I’ve already made several for myself and totally love them!_
 
-## 11 Random things about me. . .
+## 11 Random things about me.. .
 
 1. For the last 4 years, I’ve worked from my couch. I only \*just\* got a desk to work from last week. I’m not used to it yet, and am writing this right now from, you guessed it…
 
@@ -127,7 +127,7 @@ _How to make a pretty knotted headband! I won’t feature it til I’ve perfecte
 
 11. I love coffee. Coffee does not love me.
 
-## I nominate (& encourage you to check out) these fine blogs! . . .
+## I nominate (& encourage you to check out) these fine blogs!. ..
 
 I recently started following each of these blogs, and have to say- I love ’em! You’re all great, guys!
 
@@ -143,7 +143,7 @@ I recently started following each of these blogs, and have to say- I love ’em!
 10. [Always Wear Your Invisible Crown](http://alwayswearyour-invisiblecrown.blogspot.nl/ "Always Wear Your Invisible Crown")
 11. [The Domestic Betch](http://thedomesticbetch.com/ "The Domestic Betch")
 
-![Liebster Award! on Katie Crafts; http://www.katiecrafts.com](./liebsterblogaward.png)
+![Liebster Award!](./liebsterblogaward.png)
 
 ## Nominees, please answer these questions in your own blogs!
 
@@ -171,4 +171,4 @@ I recently started following each of these blogs, and have to say- I love ’em!
 
 Yes, I know, I didn’t need to add ALL of the different Award buttons that I added, but they were all so cute. I couldn’t pick just one to use. 😉 Happy reading, and congrats to all the new nominees! xo!
 
-![Liebster Award! on Katie Crafts; http://www.katiecrafts.com](./liebster-award.png)
+![Liebster Award!](./liebster-award.png)

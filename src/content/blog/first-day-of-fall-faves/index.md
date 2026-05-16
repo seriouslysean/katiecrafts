@@ -4,7 +4,7 @@ publishedDate: "2016-09-22"
 excerpt: "Today is officially the beginning of Fall! Yippee! Autumn is by far my favorite season, and it is way too short in my opinion. With how long Summer has become in recent years (it’s in the high 80’s all week here still!!!) and how quickly Winter comes upon us, Fall seems to get lost in […]"
 featuredImage:
   src: "./featured.png"
-  alt: "First Day of Fall Faves by Katie Crafts; http://www.katiecrafts.com"
+  alt: "First Day of Fall Faves by"
 categories:
   - slug: "hodgepodge"
     name: "Hodgepodge"

@@ -16,27 +16,27 @@ tags:
     name: "lucky"
 ---
 
-![Adorable to Fierce in 2.6 Seconds on Katie Crafts; http://www.katiecrafts.com](./img-4781.jpg)
+![Adorable to Fierce in 2.6 Seconds](./img-4781.jpg)
 
 Adorable.
 
-![Adorable to Fierce in 2.6 Seconds on Katie Crafts; http://www.katiecrafts.com](./img-4785.jpg)
+![Adorable to Fierce in 2.6 Seconds](./img-4785.jpg)
 
 Adorable
 
-![Adorable to Fierce in 2.6 Seconds on Katie Crafts; http://www.katiecrafts.com](./img-4783.jpg)
+![Adorable to Fierce in 2.6 Seconds](./img-4783.jpg)
 
 Adorable.
 
-![Adorable to Fierce in 2.6 Seconds on Katie Crafts; http://www.katiecrafts.com](./img-4784.jpg)
+![Adorable to Fierce in 2.6 Seconds](./img-4784.jpg)
 
 Adorable.
 
-![Adorable to Fierce in 2.6 Seconds on Katie Crafts; http://www.katiecrafts.com](./img-4785.jpg)
+![Adorable to Fierce in 2.6 Seconds](./img-4785.jpg)
 
 Adorable.
 
-![Adorable to Fierce in 2.6 Seconds on Katie Crafts; http://www.katiecrafts.com](./img-4786.jpg)
+![Adorable to Fierce in 2.6 Seconds](./img-4786.jpg)
 
 FIERCE.
 

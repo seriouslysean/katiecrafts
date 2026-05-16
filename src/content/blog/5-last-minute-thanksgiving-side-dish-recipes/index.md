@@ -4,7 +4,7 @@ publishedDate: "2015-11-24"
 excerpt: "Don’t know what to serve with your #turkey? Try these 5 Last Minute #Thanksgiving Side Dish #Recipes!"
 featuredImage:
   src: "./featured.png"
-  alt: "5 Last Minute Thanksgiving Side Dishes Recipes on Katie Crafts; http://www.katiecrafts.com"
+  alt: "5 Last Minute Thanksgiving Side Dishes Recipes"
 categories:
   - slug: "cooks"
     name: "Cooks"
@@ -53,7 +53,7 @@ is almost exactly the recipe I’ve had at every Thanksgiving since I was born! 
 
 _[Get the recipe here.](http://www.cinnamonspiceandeverythingnice.com/homestyle-sausage-stuffing/)_
 
-![5 Last Minute Thanksgiving Sides Recipes on Katie Crafts; http://www.katiecrafts.com](./potato-and-celery-root-gratin-with-leeks.jpg)
+![5 Last Minute Thanksgiving Sides Recipes](./potato-and-celery-root-gratin-with-leeks.jpg)
 
 Heavy Cream, Garlic & Gruyère- Oh My!
 
@@ -63,7 +63,7 @@ has a wonderful take on a normal side that makes you want to dig in! I will defi
 
 _[Get the recipe here.](http://www.bonappetit.com/recipe/potato-and-celery-root-gratin-with-leeks)_
 
-![5 Last Minute Thanksgiving Sides Recipes on Katie Crafts; http://www.katiecrafts.com](./carrots.jpg)
+![5 Last Minute Thanksgiving Sides Recipes](./carrots.jpg)
 
 Last but not least, don’t forget the carrots! My Dad’s recipe for honey glazed carrots is still my favorite, so I just had to include it for your dining pleasure! They’d be the perfect side dish to bring to whatever meal you’re attending.
 

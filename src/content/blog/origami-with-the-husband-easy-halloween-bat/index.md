@@ -4,7 +4,7 @@ publishedDate: "2015-10-01"
 excerpt: "Project: Origami Easy Halloween Bat Tutorial Hey everyone, Husband here! I’m back after a longer than intended absence with a new origami for you! I’m not sure if you all know, but Halloween is one of our favorite holidays around here– Katie absolutely ADORES it and seeing her get into it as much as she […]"
 featuredImage:
   src: "./featured.jpg"
-  alt: "Origami Halloween Bat Tutorial on Katie Crafts http://www.katiecrafts.com"
+  alt: "Origami Halloween Bat Tutorial"
 categories:
   - slug: "crafts"
     name: "Crafts"
@@ -41,9 +41,9 @@ is one of our favorite holidays around here– Katie absolutely ADORES it and se
 
 Get out your scariest crafting supplies and let’s do this!
 
-![Origami Halloween Bat Tutorial on Katie Crafts https://www.katiecrafts.com](./origami-bat-step-001.jpg)
+![Origami Halloween Bat Tutorial](./origami-bat-step-001.jpg)
 
-![Origami Halloween Bat Tutorial on Katie Crafts https://www.katiecrafts.com](./origami-bat-step-002.jpg)
+![Origami Halloween Bat Tutorial](./origami-bat-step-002.jpg)
 
 ### Step 1
 
@@ -53,9 +53,9 @@ Start with a square of origami paper with the color side down.
 
 Fold the bottom corner up and create a triangle.
 
-![Origami Halloween Bat Tutorial on Katie Crafts https://www.katiecrafts.com](./origami-bat-step-003.jpg)
+![Origami Halloween Bat Tutorial](./origami-bat-step-003.jpg)
 
-![Origami Halloween Bat Tutorial on Katie Crafts https://www.katiecrafts.com](./origami-bat-step-004.jpg)
+![Origami Halloween Bat Tutorial](./origami-bat-step-004.jpg)
 
 ### Step 3
 
@@ -65,9 +65,9 @@ Fold the right corner over to the left corner and make sure the folds are tight.
 
 Unfold the right corner and instead fold it up, touching the point of the triangle.
 
-![Origami Halloween Bat Tutorial on Katie Crafts https://www.katiecrafts.com](./origami-bat-step-005.jpg)
+![Origami Halloween Bat Tutorial](./origami-bat-step-005.jpg)
 
-![Origami Halloween Bat Tutorial on Katie Crafts https://www.katiecrafts.com](./origami-bat-step-006.jpg)
+![Origami Halloween Bat Tutorial](./origami-bat-step-006.jpg)
 
 ### Step 5
 
@@ -77,9 +77,9 @@ Still using the right corner, fold it back down until it touches the bottom of t
 
 Using the top of the piece you just folded, fold the top part down and to the right again.
 
-![Origami Halloween Bat Tutorial on Katie Crafts https://www.katiecrafts.com](./origami-bat-step-007.jpg)
+![Origami Halloween Bat Tutorial](./origami-bat-step-007.jpg)
 
-![Origami Halloween Bat Tutorial on Katie Crafts https://www.katiecrafts.com](./origami-bat-step-008.jpg)
+![Origami Halloween Bat Tutorial](./origami-bat-step-008.jpg)
 
 ### Step 7
 
@@ -89,9 +89,9 @@ Repeat steps 4, 5 and 6 on the lefthand side making sure they both match.
 
 Flip the paper over and fold the two top pieces down until they touch the bottom of the triangle.
 
-![Origami Halloween Bat Tutorial on Katie Crafts https://www.katiecrafts.com](./origami-bat-step-009.jpg)
+![Origami Halloween Bat Tutorial](./origami-bat-step-009.jpg)
 
-![Origami Halloween Bat Tutorial on Katie Crafts https://www.katiecrafts.com](./origami-bat-step-010.jpg)
+![Origami Halloween Bat Tutorial](./origami-bat-step-010.jpg)
 
 ### Step 9
 
@@ -101,11 +101,11 @@ Fold both pieces back up a bit more than halfway and press the crease.
 
 Fold the tip of the piece you just folded under itself to make the bat’s little head!
 
-![Origami Halloween Bat Tutorial on Katie Crafts https://www.katiecrafts.com](./origami-bat-step-011.jpg)
+![Origami Halloween Bat Tutorial](./origami-bat-step-011.jpg)
 
-![Origami Halloween Bat Tutorial on Katie Crafts https://www.katiecrafts.com](./origami-bat-step-012.jpg)
+![Origami Halloween Bat Tutorial](./origami-bat-step-012.jpg)
 
-![Origami Halloween Bat Tutorial on Katie Crafts https://www.katiecrafts.com](./origami-bat-step-013.jpg)
+![Origami Halloween Bat Tutorial](./origami-bat-step-013.jpg)
 
 ### Step 11
 

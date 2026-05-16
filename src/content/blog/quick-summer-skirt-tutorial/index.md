@@ -4,7 +4,7 @@ publishedDate: "2015-04-20"
 excerpt: "Project: Quick Summer Skirt Tutorial This weekend was gorgeous! It wasn’t quite skirt weather, but almost! New dresses and skirts are always the first thing I want to buy when the weather gets warm, but if you have the fabric and a little bit of time, why not make your own?"
 featuredImage:
   src: "./featured.jpg"
-  alt: "Quick Summer Skirt Tutorial by Katie Crafts; http://www.katiecrafts.com"
+  alt: "Quick Summer Skirt Tutorial by"
 categories:
   - slug: "crafts"
     name: "Crafts"
@@ -83,7 +83,7 @@ If you want to be more accurate, you can measure during the beginning steps as I
 
 I used a 100% polyester fabric with cute polka dots! Polyester is a little hard to work with because it’s slippery, so I had to go very slowly while sewing and probably should have used a zig zag stitch the entire time, rather than a straight stitch for this next step. If you’re just using a cotton fabric, a straight stitch will do just fine for all the steps!
 
-![Quick Summer Skirt Tutorial by Katie Crafts; http://www.katiecrafts.com](./quick-summer-skirt-3.jpg)
+![Quick Summer Skirt Tutorial by](./quick-summer-skirt-3.jpg)
 
 See how problematic the straight stitch can be on 100% polyester?
 
@@ -91,15 +91,15 @@ See how problematic the straight stitch can be on 100% polyester?
 
 - With the wrong sides still facing, fold the bottom of the fabric up a half inch, and then up on itself a half inch again to create a nice neat hem. Pin all the way around.
 
-![Quick Summer Skirt Tutorial by Katie Crafts; http://www.katiecrafts.com](./quick-summer-skirt-4.jpg)
+![Quick Summer Skirt Tutorial by](./quick-summer-skirt-4.jpg)
 
 - Sew with a zig zag stitch (if using polyester) all the way around.
 
-![Quick Summer Skirt Tutorial by Katie Crafts; http://www.katiecrafts.com](./quick-summer-skirt-5.jpg)
+![Quick Summer Skirt Tutorial by](./quick-summer-skirt-5.jpg)
 
 - For top of skirt, fold fabric down one inch, then fold it again another inch on top of itself- just like for the hem. Pin all the way around. Put the elastic next to the tube to make sure it’s large enough to pass through!
 
-![Quick Summer Skirt Tutorial by Katie Crafts; http://www.katiecrafts.com](./quick-summer-skirt-6.jpg)
+![Quick Summer Skirt Tutorial by](./quick-summer-skirt-6.jpg)
 
 - Sew around all but an inch or two.
 
@@ -107,21 +107,21 @@ See how problematic the straight stitch can be on 100% polyester?
 
 - Using a safety pin, wriggle your elastic through the gap you left open in the top of the skirt tube, pushing and gathering as you go so the elastic doesn’t disappear inside all the way.
 
-![Quick Summer Skirt Tutorial by Katie Crafts; http://www.katiecrafts.com](./quick-summer-skirt-9.jpg)
+![Quick Summer Skirt Tutorial by](./quick-summer-skirt-9.jpg)
 
 - When you get to the end, remove the safety pin and overlap the elastic that extra inch. Pin to hold it in place until you can get it on your machine.
 
-![Quick Summer Skirt Tutorial by Katie Crafts; http://www.katiecrafts.com](./quick-summer-skirt-10.jpg)
+![Quick Summer Skirt Tutorial by](./quick-summer-skirt-10.jpg)
 
 - Use many zig zag stitches to sew the overlapping elastic together. Make sure it’s nice and reinforced and strong!
 
-![Quick Summer Skirt Tutorial by Katie Crafts; https://www.katiecrafts.com](./quick-summer-skirt-7.jpg)
+![Quick Summer Skirt Tutorial by](./quick-summer-skirt-7.jpg)
 
-![Quick Summer Skirt Tutorial by Katie Crafts; https://www.katiecrafts.com](./quick-summer-skirt-8.jpg)
+![Quick Summer Skirt Tutorial by](./quick-summer-skirt-8.jpg)
 
 - Push elastic back inside skirt and sew the gap closed.
 
-![Quick Summer Skirt Tutorial by Katie Crafts; http://www.katiecrafts.com](./quick-summer-skirt-11.jpg)
+![Quick Summer Skirt Tutorial by](./quick-summer-skirt-11.jpg)
 
 Enjoy your brand new Summer skirt that took you basically no time to make!
 

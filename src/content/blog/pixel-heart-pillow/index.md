@@ -50,7 +50,7 @@ With his love of old school pixel art video games in mind, I had an idea in my h
 
 - Pattern, (
 
-  [download here](/wp-content/uploads/2014/02/KC-Pixel-Heart.pdf)
+  download here
 
   )
 
@@ -72,15 +72,15 @@ With his love of old school pixel art video games in mind, I had an idea in my h
 
 Download and print pattern. Cut out pixel heart. Fold fabric in half and pin heart, making sure pins go through both layers of fabric.
 
-![cut](./screen-shot-2014-02-04-at-5-18-42-pm.png "Pixel Heart Pillow Free Pattern by Katie Crafts; http://www.katiecrafts.com/")
+![cut](./screen-shot-2014-02-04-at-5-18-42-pm.png "Pixel Heart Pillow Free Pattern by Katie Crafts; ")
 
 Cut the pattern out in your fabric carefully. If still folded on top, cut apart to make two hearts.
 
-![pinned](./img-0498.jpg "Pixel Heart Pillow Free Pattern by Katie Crafts; http://www.katiecrafts.com/")
+![pinned](./img-0498.jpg "Pixel Heart Pillow Free Pattern by Katie Crafts; ")
 
 With right sides facing each other, match up the edges and pin all the way around.
 
-![half stitched](./screen-shot-2014-02-04-at-5-25-35-pm.png "Pixel Heart Pillow Free Pattern by Katie Crafts; http://www.katiecrafts.com/")
+![half stitched](./screen-shot-2014-02-04-at-5-25-35-pm.png "Pixel Heart Pillow Free Pattern by Katie Crafts; ")
 
 Head over to your sewing machine. Using matching thread (I’ve used black just to make it visible for photos), use the pixel edges as guides and go all the way around. Be patient. You’ll need to start, back stitch, continue forward, lower needle in to fabric, lift pressure foot, turn fabric, lower presser foot, forward and back stitch again for each and every pixel side. The first whole side of the heart went slowly be very easily. For whatever reason, things all wonky when I got to the other side, and I had to completely remove and restart a few times. Go all the way around, leaving about a
 
@@ -90,17 +90,17 @@ at the top. This is where you’ll turn the fabric inside out and fill.
 
 The napkin fabric I used was quite hard to work with, so all the imperfections are very visible but make it look extra homemade. I expect using a regular cotton fabric will render much cleaner results, as well as an easier time with the sewing machine.
 
-![WHAT is going on here?!](./img-0538.jpg "Pixel Heart Pillow Free Pattern by Katie Crafts; http://www.katiecrafts.com/")
+![WHAT is going on here?!](./img-0538.jpg "Pixel Heart Pillow Free Pattern by Katie Crafts; ")
 
 WHAT is going on here?!
 
 Don’t worry about seriously crazy threads and hanging strings. They are going to be inside the pillow hidden away, anyway.
 
-![turn out](./screen-shot-2014-02-04-at-5-41-56-pm.png "Pixel Heart Pillow Free Pattern by Katie Crafts; http://www.katiecrafts.com/")
+![turn out](./screen-shot-2014-02-04-at-5-41-56-pm.png "Pixel Heart Pillow Free Pattern by Katie Crafts; ")
 
 Next, turn the fabric inside out gently. Then, using the eraser end of a pencil (or something similar), push out each little corner to form your cute tiny pixels. If you see wrinkles, now is the time to steam them out before you fill it!
 
-![push out pixels](./screen-shot-2014-02-04-at-5-43-03-pm.png "Pixel Heart Pillow Free Pattern by Katie Crafts; http://www.katiecrafts.com/")
+![push out pixels](./screen-shot-2014-02-04-at-5-43-03-pm.png "Pixel Heart Pillow Free Pattern by Katie Crafts; ")
 
 On to the filling! Take small amounts at a time and gently squish it in the pillow until you’re happy it’s fat enough. Be sure to push it down a bit by the opening so it’s not popping out. I use
 
@@ -108,11 +108,11 @@ On to the filling! Take small amounts at a time and gently squish it in the pill
 
 . It came in a gigantic 5 pound box, so I’ll be using it for quite awhile. If you have a brand you love even more, please share! I’d love to hear other opinions on different brands.
 
-![fill](./screen-shot-2014-02-04-at-5-47-42-pm.png "Pixel Heart Pillow Free Pattern by Katie Crafts; http://www.katiecrafts.com/")
+![fill](./screen-shot-2014-02-04-at-5-47-42-pm.png "Pixel Heart Pillow Free Pattern by Katie Crafts; ")
 
 Lastly, fold over the opening on top (make sure it’s even with the other side of the heart!), pin it together and hand stitch it shut!
 
-![finished!](./img-0537.jpg "Pixel Heart Pillow Free Pattern by Katie Crafts; http://www.katiecrafts.com/")
+![finished!](./img-0537.jpg "Pixel Heart Pillow Free Pattern by Katie Crafts; ")
 
 I left the pillow on the Husband’s keyboard while he was at work, and when he returned he found it. He thinks it’s super cute, though I can already see the cat eying it up as well. Guess it will be hers soon.
 

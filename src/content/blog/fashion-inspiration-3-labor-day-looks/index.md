@@ -4,7 +4,7 @@ publishedDate: "2015-08-25"
 excerpt: "Labor Day always signifies the end of Summer vacation. Whether you spend it at a picnic or BBQ with family, hanging out in the city with friends, or lounging on the beach solo, you’ll want your last outfit of the season to be perfect! I came up with three perfect Labor Day looks that will […]"
 featuredImage:
   src: "./featured.png"
-  alt: "Fashion Inspiration: 3 Labor Day Looks by Katie Crafts; http://www.katiecrafts.com"
+  alt: "Fashion Inspiration: 3 Labor Day Looks by"
 categories:
   - slug: "crafts"
     name: "Crafts"

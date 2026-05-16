@@ -4,7 +4,7 @@ publishedDate: "2015-01-01"
 excerpt: "Thanks for being a Katie Crafts reader this year! From the first day I launched this site in February, it’s been a great ride! I’m looking forward to the year ahead and hope that you are too. There will be lots of great DIYs and tutorials, guest posts and features, giveaways and more coming […]"
 featuredImage:
   src: "./featured.png"
-  alt: "Happy New Year from Katie Crafts; http://www.katiecrafts.com"
+  alt: "Happy New Year"
 categories:
   - slug: "hodgepodge"
     name: "Hodgepodge"

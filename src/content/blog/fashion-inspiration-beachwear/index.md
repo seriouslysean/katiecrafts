@@ -4,7 +4,7 @@ publishedDate: "2015-06-18"
 excerpt: "Fashion Inspiration: Beachwear The Summer is officially here in just three days! Many people have already been flocking to the shore to enjoy the sunshine, but many more will be there soon. That’s why today’s Fashion Inspiration is inspired by the beach, and almost all items were found at Target!"
 featuredImage:
   src: "./featured.png"
-  alt: "Fashion Inspiration: Beachwear on Katie Crafts; http://www.katiecrafts.com"
+  alt: "Fashion Inspiration: Beachwear"
 categories:
   - slug: "beauty"
     name: "Beauty"

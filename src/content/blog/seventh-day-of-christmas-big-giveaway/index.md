@@ -4,7 +4,7 @@ publishedDate: "2014-12-07"
 excerpt: "Seventh Day of Christmas: Big Giveaway! ♫ On the seventh day of Christmas, Katie Crafts gave to me- a giveaway with tons of goodies! ♫ Happy Sunday! I’m very excited to announce a big giveaway here on Katie Crafts! It will only last the duration of this week so get your entries in pronto- you […]"
 featuredImage:
   src: "./featured.png"
-  alt: "Seventh Day of Christmas: Big Giveaway from Katie Crafts!; http://www.katiecrafts.com"
+  alt: "Seventh Day of Christmas: Big Giveaway from Katie Crafts!"
 categories:
   - slug: "hodgepodge"
     name: "Hodgepodge"
@@ -37,11 +37,11 @@ _♫ On the seventh day of Christmas, Katie Crafts gave to me- a giveaway with t
 
 Happy Sunday! I’m very excited to announce a big giveaway here on Katie Crafts! It will only last the duration of this week so get your entries in pronto- you don’t want to miss it! Jewelry, craft supplies, cards, Christmas items and more could all be yours!
 
-![Seventh Day of Christmas: Big Giveaway from Katie Crafts!; https://www.katiecrafts.com](./img-6537.jpg)
+![Seventh Day of Christmas: Big Giveaway from Katie Crafts!](./img-6537.jpg)
 
-![Seventh Day of Christmas: Big Giveaway from Katie Crafts!; https://www.katiecrafts.com](./img-6544.jpg)
+![Seventh Day of Christmas: Big Giveaway from Katie Crafts!](./img-6544.jpg)
 
-![Seventh Day of Christmas: Big Giveaway from Katie Crafts!; https://www.katiecrafts.com](./img-6540.jpg)
+![Seventh Day of Christmas: Big Giveaway from Katie Crafts!](./img-6540.jpg)
 
 The lucky winner of this giveaway will receive ALL of the following:
 

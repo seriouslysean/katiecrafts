@@ -4,7 +4,7 @@ publishedDate: "2014-10-23"
 excerpt: "3 Mason Jar Dessert Ideas for the Holidays I am a BIG fan of DIY gifts during the holiday season. Partly because I never ever have the money to just BUY everyone gifts, but also partly because it gives me such a great reason to put my crafting habit (and supplies) to good use! I […]"
 featuredImage:
   src: "./featured.png"
-  alt: "3 Mason Jar Dessert Ideas for the Holidays on Katie Crafts; http://www.katiecrafts.com"
+  alt: "3 Mason Jar Dessert Ideas for the Holidays"
 categories:
   - slug: "cooks"
     name: "Cooks"

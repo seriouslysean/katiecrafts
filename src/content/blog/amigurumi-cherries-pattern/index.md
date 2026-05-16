@@ -4,7 +4,7 @@ publishedDate: "2015-07-13"
 excerpt: "Happy Monday! Last week, I shared a to-die-for homemade cherry pie filling recipe. Later this week, I’ll talk about the tarts that I used the filling in. In keeping with my cherry theme, today’s post is a crochet pattern to make the cutest Amigurumi cherries you ever did see! Maybe I’ll have to do some […]"
 featuredImage:
   src: "./featured.png"
-  alt: "Amigurumi Cherries Pattern on Katie Crafts; http://www.katiecrafts.com"
+  alt: "Amigurumi Cherries Pattern"
 categories:
   - slug: "crafts"
     name: "Crafts"

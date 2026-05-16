@@ -4,7 +4,7 @@ publishedDate: "2015-07-10"
 excerpt: "Recipe: Cherry Pie Filling A few weeks ago, I stole a good amount of sour cherries from my Dad’s cherry tree. I put them to great use last weekend when I made homemade cherry pie filling for some cherry tarts! Next week, I will share the very easy no-bake recipe for those, but today it’s […]"
 featuredImage:
   src: "./featured.png"
-  alt: "Cherry Pie Filling Recipe by Katie Crafts; http://www.katiecrafts.com"
+  alt: "Cherry Pie Filling Recipe by"
 categories:
   - slug: "cooks"
     name: "Cooks"
@@ -29,9 +29,9 @@ Recipe: Cherry Pie Filling
 
 A few weeks ago, I stole a good amount of sour cherries from my Dad’s cherry tree. I put them to great use last weekend when I made homemade cherry pie filling for some cherry tarts! Next week, I will share the very easy no-bake recipe for those, but today it’s all about the filling!
 
-![Cherry Pie Filling Recipe by Katie Crafts; https://www.katiecrafts.com](./img-2165.jpg)
+![Cherry Pie Filling Recipe by](./img-2165.jpg)
 
-![Cherry Pie Filling Recipe by Katie Crafts; https://www.katiecrafts.com](./img-2166.jpg)
+![Cherry Pie Filling Recipe by](./img-2166.jpg)
 
 Fact: I don’t like cherries. I never order cherry pie or cherry flavored things, but I wanted to make a red, white and blue dessert for 4th of July and I really wanted to use Dad’s fresh cherries to do it. When I tried the filling, I just about died. It’s so delicious! Turns out I
 
@@ -39,9 +39,9 @@ _do_
 
 like cherries, but only if they are fresh! I hope you’ll love this recipe too!
 
-![Cherry Pie Filling Recipe by Katie Crafts; https://www.katiecrafts.com](./img-2167.jpg)
+![Cherry Pie Filling Recipe by](./img-2167.jpg)
 
-![Cherry Pie Filling Recipe by Katie Crafts; https://www.katiecrafts.com](./img-2168.jpg)
+![Cherry Pie Filling Recipe by](./img-2168.jpg)
 
 ## Ingredients:
 
@@ -59,11 +59,11 @@ like cherries, but only if they are fresh! I hope you’ll love this recipe too!
 
 ## Instructions:
 
-![Cherry Pie Filling Recipe by Katie Crafts; https://www.katiecrafts.com](./img-2466.jpg)
+![Cherry Pie Filling Recipe by](./img-2466.jpg)
 
-![Cherry Pie Filling Recipe by Katie Crafts; https://www.katiecrafts.com](./img-2467.jpg)
+![Cherry Pie Filling Recipe by](./img-2467.jpg)
 
-![Cherry Pie Filling Recipe by Katie Crafts; https://www.katiecrafts.com](./img-2473.jpg)
+![Cherry Pie Filling Recipe by](./img-2473.jpg)
 
 Before you begin, pit your cherries! This part was time consuming, extremely messy (we’re talking cherry juice flying every which way!- wear gloves!!), but pretty easy to do. You just push a disposable straw through the top of the cherry and pop the pit out of the bottom. Easy peasy.
 
@@ -79,7 +79,7 @@ Ahh, turning into a nice syrupy mix now!
 
 - Enjoy the most wonderful cherry pie filling you’ve ever had!
 
-![Cherry Pie Filling Recipe by Katie Crafts; http://www.katiecrafts.com](./img-2509.jpg)
+![Cherry Pie Filling Recipe by](./img-2509.jpg)
 
 ## Tips:
 

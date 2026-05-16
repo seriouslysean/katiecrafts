@@ -15,4 +15,4 @@ tags:
     name: "window"
 ---
 
-![Window Cats on Katie Crafts; http://www.katiecrafts.com](./img-7684.jpg)
+![Window Cats](./img-7684.jpg)

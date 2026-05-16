@@ -4,7 +4,7 @@ publishedDate: "2015-04-13"
 excerpt: "Nail Art Design: Pink Zebras This last week was so busy! With Easter, my cat getting sick and having to go to the vet twice, a Phillies game and about a million other things, I knew I wasn’t going to have time to blog as much as I wanted to. Thankfully, May from La Vie […]"
 featuredImage:
   src: "./featured.jpg"
-  alt: "Nail Art Design: Pink Zebras on Katie Crafts; http://www.katiecrafts.com"
+  alt: "Nail Art Design: Pink Zebras"
 categories:
   - slug: "beauty"
     name: "Beauty"
@@ -60,7 +60,7 @@ _Hot pink base is Essie’s ‘Bottle Service’ (similar_
 _[here](http://www.amazon.com/gp/product/B00770KI4Y/ref=as_li_tl?ie=UTF8\&camp=1789\&creative=390957\&creativeASIN=B00770KI4Y\&linkCode=as2\&tag=lavienma-20\&linkId=YQ6DWUAGU5GJFRFF)) and stripes are_\
 _[Essie’s ‘Licorice’](http://www.amazon.com/gp/product/B00GXW0VBC/ref=as_li_tl?ie=UTF8\&camp=1789\&creative=390957\&creativeASIN=B00GXW0VBC\&linkCode=as2\&tag=lavienma-20\&linkId=JKPJR4N3RYPMGIIY)_
 
-![Nail Art Design: Pink Zebras on Katie Crafts; http://www.katiecrafts.com](./diy-050.jpg)
+![Nail Art Design: Pink Zebras](./diy-050.jpg)
 
 _Ignore the pinky..it’s a bit messy to say the least._
 

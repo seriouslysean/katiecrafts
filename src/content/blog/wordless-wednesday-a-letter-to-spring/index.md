@@ -4,7 +4,7 @@ publishedDate: "2015-03-25"
 excerpt: "Wordless Wednesday: A Letter To Spring Dear Spring, I know you’re out there, somewhere. Still, I’m currently shivering and under a blanket as I type. Get your act together. I want warmth and flowers like the ones above, stat! Love, Katie"
 featuredImage:
   src: "./featured.jpg"
-  alt: "Wordless Wednesday: A Letter to Spring by Katie Crafts; http://www.katiecrafts.com"
+  alt: "Wordless Wednesday: A Letter to Spring by"
 categories:
   - slug: "hodgepodge"
     name: "Hodgepodge"

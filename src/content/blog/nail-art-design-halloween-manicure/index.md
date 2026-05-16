@@ -4,7 +4,7 @@ publishedDate: "2014-10-20"
 excerpt: "Nail Art Design: Halloween Manicure! Yay! Halloween is almost here! Since the evening of Halloween I will be sporting a plain manicure to go with my costume (I’m dressing up as Blair Waldorf and Husband will be Chuck Bass."
 featuredImage:
   src: "./featured.png"
-  alt: "Nail Art Design: Halloween Nails by Katie Crafts; http://www.katiecrafts.com"
+  alt: "Nail Art Design: Halloween Nails by"
 categories:
   - slug: "beauty"
     name: "Beauty"
@@ -43,9 +43,9 @@ _Gossip Girl_
 
 My nail art dotting tools, brushes and such are still packed away in a box, probably never to be discovered again (ugh, I hope that isn’t true!), and since I was painting these on the third floor of the house and the toothpicks were all the way in a cabinet on the first floor, I decided I would be lazy and use neither to make cleaner/crisper designs. I just winged it! Some came out perfectly fine with this method, and others definitely would have benefited from the tools. I’ll leave it up to you to decide what to use on yourself!
 
-![Nail Art Design: Halloween Nails by Katie Crafts; https://www.katiecrafts.com](./img-5980.jpg)
+![Nail Art Design: Halloween Nails by](./img-5980.jpg)
 
-![Nail Art Design: Halloween Nails by Katie Crafts; https://www.katiecrafts.com](./img-5981.jpg)
+![Nail Art Design: Halloween Nails by](./img-5981.jpg)
 
 These nails may LOOK super involved and time consuming, but they were actually quite quick! I did them all from start to finish while watching one TV show! Here’s what you need to complete the looks.
 
@@ -97,6 +97,6 @@ And here is last year’s design, in case you were curious! It was inspired by a
 
 ! Check her out!
 
-![Nail Art Design: Halloween Nails by Katie Crafts; http://www.katiecrafts.com](./img-00051.jpg)
+![Nail Art Design: Halloween Nails by](./img-00051.jpg)
 
 What designs will you do this Halloween? Which was your favorite?

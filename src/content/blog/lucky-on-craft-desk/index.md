@@ -16,6 +16,6 @@ tags:
     name: "lucky"
 ---
 
-![Lucky On Craft Desk on Katie Crafts; http://www.katiecrafts.com](./img-1943.jpg)
+![Lucky On Craft Desk](./img-1943.jpg)
 
 “Hi Mom! I’m just keeping your craft table warm…”

@@ -4,7 +4,7 @@ publishedDate: "2015-02-12"
 excerpt: "Fashion Inspiration: Valentine’s Day Maybe you have your dress and heels picked out for your fancy Valentine’s Dinner, but maybe you’re keeping it low key that day and still want to look cute. Here are a few pieces that when put together are perfect for this Saturday!"
 featuredImage:
   src: "./featured.png"
-  alt: "Fashion Inspiration: Valentine's Day (two looks!) by Katie Crafts; http://www.katiecrafts.com"
+  alt: "Fashion Inspiration: Valentine's Day (two looks!) by"
 categories:
   - slug: "beauty"
     name: "Beauty"

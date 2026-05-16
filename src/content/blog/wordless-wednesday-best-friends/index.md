@@ -4,7 +4,7 @@ publishedDate: "2015-02-04"
 excerpt: "Wordless Wednesday: Best Friends If a picture is worth a thousand words, how many words is a four-in-one collage worth? This week, I must say “goodbye” see you soon to my best friend here in Philly, Tasha. She and her husband (and their adorable pup, Ollie) are moving a few hours away. I miss her […]"
 featuredImage:
   src: "./featured.png"
-  alt: "Wordless Wednesday: Best Friends on Katie Crafts; http://www.katiecrafts.com"
+  alt: "Wordless Wednesday: Best Friends"
 categories:
   - slug: "hodgepodge"
     name: "Hodgepodge"

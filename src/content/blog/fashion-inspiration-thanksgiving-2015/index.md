@@ -4,7 +4,7 @@ publishedDate: "2015-11-19"
 excerpt: "Thanksgiving is just a week away! I’ve given you a few great ideas for themed nail art (did you like the leaves or the owls better?) and I’ve handed you a pretty great Thanksgiving shopping list, too! Since Turkey Day is just one week away, I figured I’d share my Fashion Inspiration for the holiday as […]"
 featuredImage:
   src: "./featured.png"
-  alt: "Fashion Inspiration: Thanksgiving 2015 on Katie Crafts; http://www.katiecrafts.com"
+  alt: "Fashion Inspiration: Thanksgiving 2015"
 categories:
   - slug: "beauty"
     name: "Beauty"

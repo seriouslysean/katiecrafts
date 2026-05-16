@@ -4,7 +4,7 @@ publishedDate: "2015-12-06"
 excerpt: "On the sixth day of Christmas, Katie Crafts gave to me.. A Krampus filled treasury that’s creepy! Sometimes it isn’t Santa Claus that comes down your chimney… sometimes it’s KRAMPUS! Check out this wonderful Holiday Devil themed treasury courtesy of Kaitlin Statz."
 featuredImage:
   src: "./featured.png"
-  alt: "Greetings From Krampus! on Katie Crafts; http://www.katiecrafts.com"
+  alt: "Greetings From Krampus!"
 categories:
   - slug: "hodgepodge"
     name: "Hodgepodge"

@@ -30,6 +30,6 @@ Happy (almost) Valentine’s Day! Though it isn’t Freebie Friday yet, I’m po
 
 You can download the
 
-**[free printable card right here](/wp-content/uploads/2014/02/Valentines-Card.pdf)**
+**free printable card right here**
 
 , and follow instructions below to fold it properly. Enjoy!

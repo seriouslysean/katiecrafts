@@ -4,7 +4,7 @@ publishedDate: "2014-07-22"
 excerpt: "Project: DIY Flip Flops Tutorial! Summer may already be halfway over (Ugh! Where did the time go?!) but that doesn’t mean you have to put away your flip flops just yet. Actually, why don’t you do the opposite and make a few new pairs yourself! These flippies are so incredibly easy to make (and will […]"
 featuredImage:
   src: "./featured.jpg"
-  alt: "DIY Flip Flops Tutorial by Katie Crafts; http://www.katiecrafts.com"
+  alt: "DIY Flip Flops Tutorial by"
 categories:
   - slug: "crafts"
     name: "Crafts"
@@ -71,11 +71,11 @@ I’ll show you two slightly different ways to make them, but since they are SO 
 
 ## Instructions:
 
-![DIY Flip Flop Tutorial by Katie Crafts; http://www.katiecrafts.com](./img-4620.jpg)
+![DIY Flip Flop Tutorial by](./img-4620.jpg)
 
 - Cut the rubber thong out of the flip flops to use the bottom as your “base” by cutting off the bottom parts of the rubber, leaving the thong in tact. Repeat for other shoe.
 
-![DIY Flip Flop Tutorial by Katie Crafts; http://www.katiecrafts.com](./img-4623.jpg)
+![DIY Flip Flop Tutorial by](./img-4623.jpg)
 
 - For the look on the
 
@@ -95,13 +95,13 @@ I’ll show you two slightly different ways to make them, but since they are SO 
 
   .
 
-![DIY Flip Flops Tutorial by Katie Crafts; https://www.katiecrafts.com](./img-4636.jpg)
+![DIY Flip Flops Tutorial by](./img-4636.jpg)
 
-![DIY Flip Flops Tutorial by Katie Crafts; https://www.katiecrafts.com](./img-4648.jpg)
+![DIY Flip Flops Tutorial by](./img-4648.jpg)
 
 - To measure length for an extra long strip: Stretch out the thong and use that to measure how much fabric you will need. Get it as straight as you can and add on an additional two inches to that length. Again, you’ll need ONE for each shoe.
 
-![DIY Flip Flop Tutorial by Katie Crafts; http://www.katiecrafts.com](./img-4624.jpg)
+![DIY Flip Flop Tutorial by](./img-4624.jpg)
 
 - To measure length for a long strip: Make one extra long strip and cut it in half! Again, you’ll need TWO for each shoe.
 
@@ -109,29 +109,29 @@ I’ll show you two slightly different ways to make them, but since they are SO 
 
 - To measure length for a short strip: 8″ x 2″ should do the trick! You can cut off excess later.
 
-![DIY Flip Flops Tutorial by Katie Crafts; https://www.katiecrafts.com](./img-4625.jpg)
+![DIY Flip Flops Tutorial by](./img-4625.jpg)
 
-![DIY Flip Flops Tutorial by Katie Crafts; https://www.katiecrafts.com](./img-4626.jpg)
+![DIY Flip Flops Tutorial by](./img-4626.jpg)
 
-![DIY Flip Flops Tutorial by Katie Crafts; https://www.katiecrafts.com](./img-4627.jpg)
+![DIY Flip Flops Tutorial by](./img-4627.jpg)
 
 - Fold all strips in half lengthwise with right sides of fabric facing each other, pin across.
 
 - Using your sewing machine (or hand stitch), straight stitch across to form tubes. Be sure to back stitch!
 
-![DIY Flip Flops Tutorial by Katie Crafts; https://www.katiecrafts.com](./img-4630.jpg)
+![DIY Flip Flops Tutorial by](./img-4630.jpg)
 
-![DIY Flip Flops Tutorial by Katie Crafts; https://www.katiecrafts.com](./img-4631.jpg)
+![DIY Flip Flops Tutorial by](./img-4631.jpg)
 
 - Using your fingers, a chopstick, a pencil or the like, turn all tubes inside out so right sides are now facing you. Iron out wrinkles if you like.
 
-![DIY Flip Flops Tutorial by Katie Crafts; https://www.katiecrafts.com](./img-4637.jpg)
+![DIY Flip Flops Tutorial by](./img-4637.jpg)
 
-![DIY Flip Flops Tutorial by Katie Crafts; https://www.katiecrafts.com](./img-4635.jpg)
+![DIY Flip Flops Tutorial by](./img-4635.jpg)
 
-![DIY Flip Flops Tutorial by Katie Crafts; https://www.katiecrafts.com](./img-4641.jpg)
+![DIY Flip Flops Tutorial by](./img-4641.jpg)
 
-![DIY Flip Flops Tutorial by Katie Crafts; https://www.katiecrafts.com](./img-4642.jpg)
+![DIY Flip Flops Tutorial by](./img-4642.jpg)
 
 - If you
 
@@ -141,11 +141,11 @@ I’ll show you two slightly different ways to make them, but since they are SO 
 
 - Take each of the other ends separately and stick them through the left and right holes, knotting twice. Use some hot glue to hold in place underneath the bottom, if you like (I did on some pairs and did not on others, and never had a problem either way!) Cut off excess fabric.
 
-- Done! . . .
+- Done!. ..
 
-![DIY Flip Flop Tutorial by Katie Crafts; http://www.katiecrafts.com](./img-4646.jpg)
+![DIY Flip Flop Tutorial by](./img-4646.jpg)
 
-- . . . Unless you
+-. .. Unless you
 
   **want**
 
@@ -153,23 +153,23 @@ I’ll show you two slightly different ways to make them, but since they are SO 
 
 - With your short tube, make a loop around the extra long tube to act as the thong between the toes (again, with seams facing inwards so they are not visible) and stick it through the top hole. Pull through as much as you like (think of how big it is on your favorite pair of flip flops now and go from there) and knot it twice.
 
-![DIY Flip Flops Tutorial by Katie Crafts; https://www.katiecrafts.com](./img-4650.jpg)
+![DIY Flip Flops Tutorial by](./img-4650.jpg)
 
-![DIY Flip Flops Tutorial by Katie Crafts; https://www.katiecrafts.com](./img-4647.jpg)
+![DIY Flip Flops Tutorial by](./img-4647.jpg)
 
 - Place shoe on your foot, making sure it’s tight enough with the middle loop. If all feels okay, knot that last knot to complete shoe. Otherwise, adjust it to fit comfortably and knot. Done again!
 
-![DIY Flip Flop Tutorial by Katie Crafts; http://www.katiecrafts.com](./wedding-flip-flops.jpg)
+![DIY Flip Flop Tutorial by](./wedding-flip-flops.jpg)
 
 Wear your new customized flip flops to the beach, out shopping, or let your cat play dress up with them. Mabel took over mine almost immediately. She loves shoes. Such a girl, that one. Hope you enjoyed this tutorial!
 
-![DIY Flip Flops Tutorial by Katie Crafts; https://www.katiecrafts.com](./img-4659.jpg)
+![DIY Flip Flops Tutorial by](./img-4659.jpg)
 
-![DIY Flip Flops Tutorial by Katie Crafts; https://www.katiecrafts.com](./img-4660.jpg)
+![DIY Flip Flops Tutorial by](./img-4660.jpg)
 
-![DIY Flip Flops Tutorial by Katie Crafts; https://www.katiecrafts.com](./img-4661.jpg)
+![DIY Flip Flops Tutorial by](./img-4661.jpg)
 
-![DIY Flip Flops Tutorial by Katie Crafts; https://www.katiecrafts.com](./img-4663.jpg)
+![DIY Flip Flops Tutorial by](./img-4663.jpg)
 
 ## Tips:
 
@@ -177,7 +177,7 @@ Wear your new customized flip flops to the beach, out shopping, or let your cat 
 
 - Make a batch for your bridesmaids like I did, or maybe for a bachelorette party enjoying a spa day!
 
-![DIY Flip Flops Tutorial by Katie Crafts; http://www.katiecrafts.com](./img-8103.jpg)
+![DIY Flip Flops Tutorial by](./img-8103.jpg)
 
 Cute rosette detail!
 
@@ -189,8 +189,8 @@ Cute rosette detail!
 
 - Ditch the sewing all together and try this out by simply ironing the ends in! With fabric laying right side down, fold both ends (lengthwise) towards the center and iron flat. Pretend that is your “seam” as you pull through and knot. There is more chance of fraying or of the bottoms moving around and showing but it still isn’t super likely. My green pairs were done this way, no sewing involved!
 
-![DIY Flip Flops Tutorial by Katie Crafts; https://www.katiecrafts.com](./img-4651.jpg)
+![DIY Flip Flops Tutorial by](./img-4651.jpg)
 
-![DIY Flip Flops Tutorial by Katie Crafts; https://www.katiecrafts.com](./img-4642.jpg)
+![DIY Flip Flops Tutorial by](./img-4642.jpg)
 
 If you make a pair of flippies yourself, share a pic in the comments!

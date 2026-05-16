@@ -16,6 +16,6 @@ tags:
     name: "lucky"
 ---
 
-![Lucky Loves Corn on the Cob on Katie Crafts; http://www.katiecrafts.com](./img-2946.jpg)
+![Lucky Loves Corn on the Cob](./img-2946.jpg)
 
 I love finding new things that Lucky loves. This was the day we found out he loves corn on the cob.

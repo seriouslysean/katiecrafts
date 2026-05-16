@@ -18,6 +18,6 @@ tags:
     name: "packing"
 ---
 
-![Exhausted Cats on Katie Crafts; http://www.katiecrafts.com](./img-5466.jpg)
+![Exhausted Cats](./img-5466.jpg)
 
 The babies are so tired from helping us pack. So much so, that Mabel had no choice but to faceplant.

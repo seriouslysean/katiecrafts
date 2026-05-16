@@ -4,7 +4,7 @@ publishedDate: "2014-04-24"
 excerpt: "Tax season is finally over, yet even when it’s come and gone it always leaves a little something behind. Sometimes it’s a little extra cash in our pockets (yay!) Sometimes it’s a huge bill for taxes still due (boo!) Sometimes, it’s a spreadsheet of your expenses and earnings over the last year and a very […]"
 featuredImage:
   src: "./featured.png"
-  alt: "Why (and how) I Changed My Etsy Shop Prices + Etsy Pricer by Katie Crafts; http://www.katiecrafts.com"
+  alt: "Why (and how) I Changed My Etsy Shop Prices + Etsy Pricer by"
 categories:
   - slug: "hodgepodge"
     name: "Hodgepodge"
@@ -59,11 +59,11 @@ _\&#xA;_
 
 Retail + Shipping = SUM3
 
-Paypal Transaction Fee of .30 cents + 2.7% of total money collected (item + shipping, aka SUM3)
+Paypal Transaction Fee of.30 cents + 2.7% of total money collected (item + shipping, aka SUM3)
 
 _OR_
 
-Direct Checkout Fee of Etsy of .25 per transaction + 3% of total money collected (item + shipping, aka SUM3)
+Direct Checkout Fee of Etsy of.25 per transaction + 3% of total money collected (item + shipping, aka SUM3)
 
 So,
 
@@ -87,7 +87,7 @@ You can imagine my surprise to find out that many of my items should have been p
 
 Let’s use the above covered button earrings as an example on my new pricing:
 
-![Etsy Pricer Tool on Katie Crafts; http://www.katiecrafts.com](./screen-shot-2014-04-23-at-6-06-41-pm.png)
+![Etsy Pricer Tool](./screen-shot-2014-04-23-at-6-06-41-pm.png)
 
 :::Breakdown:::
 
@@ -99,13 +99,13 @@ _Dollars I want to make per hour:_
 
 _**$15.00**_
 
-_Materials: Earring bases & backs = .08 per earring, (.17 per pair); Button Covers, size 20 1/2” = .16 each, (.32 per pair); Fabric for covered buttons = .05 per pair; E6000 Glue = bottle is $7; use = .10 per pair —_
+_Materials: Earring bases & backs =.08 per earring, (.17 per pair); Button Covers, size 20 1/2” =.16 each, (.32 per pair); Fabric for covered buttons =.05 per pair; E6000 Glue = bottle is $7; use =.10 per pair —_
 
 _**$0.64 total**_
 
-_Expenses: Etsy listing fee = .20; Earring box = .26; Business card = .10; Printed receipt & label = .10; 4×8 Bubble Wrap Mailer = .16 (I KNOW! I CAN’T BELIEVE I FOUND THEM FOR SO CHEAP! THANK YOU_
+_Expenses: Etsy listing fee =.20; Earring box =.26; Business card =.10; Printed receipt & label =.10; 4×8 Bubble Wrap Mailer =.16 (I KNOW! I CAN’T BELIEVE I FOUND THEM FOR SO CHEAP! THANK YOU_
 
-_[**AMAZON**](http://amzn.to/Qz1KQy "25 4X8 BUBBLE MAILERS ON AMAZON")!); Twine, tape, sticker, freebie = .45; Tissue paper/bubble wrap = .10 —**$1.37 total**_
+_[**AMAZON**](http://amzn.to/Qz1KQy "25 4X8 BUBBLE MAILERS ON AMAZON")!); Twine, tape, sticker, freebie =.45; Tissue paper/bubble wrap =.10 —**$1.37 total**_
 
 _Profit:_
 

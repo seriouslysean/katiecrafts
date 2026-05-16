@@ -18,6 +18,6 @@ tags:
     name: "mabel"
 ---
 
-![Laundry Day on Katie Crafts; http://www.katiecrafts.com](./img-7304.jpg)
+![Laundry Day](./img-7304.jpg)
 
 Laundry Day! See ya there! Under things, tumbling…

@@ -4,7 +4,7 @@ publishedDate: "2014-03-24"
 excerpt: "WHOA! Do you guys smell that? It totally smells like Chicken Cordon Bleu in a Crockpot to me! While Katie was away partying with the ladies this weekend, I decided to hunker down in the kitchen with our two cats, Lucky and Mabel, to recreate one of the first meals I ever made for her!"
 featuredImage:
   src: "./featured.jpg"
-  alt: "The Husband's Recipe Box: Crockpot Chicken Cordon Bleu on Katie Crafts; http://www.katiecrafts.com"
+  alt: "The Husband's Recipe Box: Crockpot Chicken Cordon Bleu"
 categories:
   - slug: "cooks"
     name: "Cooks"
