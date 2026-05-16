@@ -86,34 +86,20 @@ const shareUrl = Astro.site ? new URL(canonical, Astro.site).href : canonical;
       <Content />
     </div>
 
-    <ShareButtons title={title} url={shareUrl} />
-
-    {(categories.length || tags.length) ? (
+    {tags.length ? (
       <footer class="post__footer">
-        {categories.length ? (
-          <p class="post__taxonomy">
-            <strong>Categories:</strong>{' '}
-            {categories.map((category, idx) => (
-              <>
-                {idx > 0 ? ', ' : null}
-                <a href={`/category/${category.slug}/`}>{category.name}</a>
-              </>
-            ))}
-          </p>
-        ) : null}
-        {tags.length ? (
-          <p class="post__taxonomy">
-            <strong>Tags:</strong>{' '}
-            {tags.map((tag, idx) => (
-              <>
-                {idx > 0 ? ', ' : null}
-                <a href={`/tag/${tag.slug}/`}>{tag.name}</a>
-              </>
-            ))}
-          </p>
-        ) : null}
+        <span class="post__footer-label">Tagged</span>
+        <ul class="post__tags">
+          {tags.map(tag => (
+            <li>
+              <a class="post__tag" href={`/tag/${tag.slug}/`}>{tag.name}</a>
+            </li>
+          ))}
+        </ul>
       </footer>
     ) : null}
+
+    <ShareButtons title={title} url={shareUrl} />
 
     <PostNav prev={prev} next={next} />
   </article>

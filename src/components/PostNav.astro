@@ -16,12 +16,12 @@ const { prev, next } = Astro.props;
         <span class="post-nav__direction">← Older</span>
         <span class="post-nav__title">{prev.data.title}</span>
       </a>
-    ) : <span class="post-nav__placeholder" />}
+    ) : null}
     {next ? (
       <a class="post-nav__link post-nav__link--next" href={`/blog/${next.id}/`}>
         <span class="post-nav__direction">Newer →</span>
         <span class="post-nav__title">{next.data.title}</span>
       </a>
-    ) : <span class="post-nav__placeholder" />}
+    ) : null}
   </nav>
 ) : null}
