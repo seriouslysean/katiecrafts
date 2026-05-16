@@ -75,6 +75,10 @@ a:focus-visible {
     padding: clamp(1.5rem, 4vw, 3rem) clamp(1rem, 4vw, 2rem) 3rem;
 }
 
+.main > * + * {
+    margin-top: clamp(2.5rem, 5vw, 4rem);
+}
+
 .header {
     position: relative;
     padding: clamp(1.5rem, 3vw + 1rem, 3rem) 0;
@@ -115,8 +119,8 @@ a:focus-visible {
     display: inline-flex;
     align-items: center;
     justify-content: center;
-    width: 2.5rem;
-    height: 2.5rem;
+    width: 2.75rem;
+    height: 2.75rem;
     padding: 0;
     border: 1px solid var(--color-border);
     border-radius: 999px;
@@ -394,7 +398,30 @@ a:focus-visible {
 }
 
 .listing__cta {
+    margin-top: clamp(0.5rem, 1vw, 1rem);
     text-align: center;
+}
+
+.listing__cta-link {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+    padding: 0.7rem 1.4rem;
+    border: 1px solid var(--color-border);
+    border-radius: 999px;
+    background: var(--color-panel);
+    color: var(--color-accent);
+    font-weight: 600;
+    text-decoration: none;
+    transition: background 0.15s ease, border-color 0.15s ease, transform 0.15s ease;
+}
+
+.listing__cta-link:hover,
+.listing__cta-link:focus-visible {
+    background: rgba(250, 241, 247, 0.85);
+    border-color: var(--color-accent);
+    transform: translateY(-1px);
+    text-decoration: none;
 }
 
 .listing__pagination {
@@ -422,8 +449,8 @@ a:focus-visible {
     display: inline-flex;
     align-items: center;
     justify-content: center;
-    min-width: 2.25rem;
-    min-height: 2.25rem;
+    min-width: 2.75rem;
+    min-height: 2.75rem;
     padding: 0.3rem 0.6rem;
     border-radius: 999px;
     border: 1px solid var(--color-border);
@@ -871,13 +898,25 @@ a:focus-visible {
     height: 100%;
 }
 
+.taxonomy-card__link,
+.taxonomy-card__link:hover,
+.taxonomy-card__link:focus-visible {
+    text-decoration: none;
+}
+
 .taxonomy-card__link:focus-visible {
     outline: 0.2rem solid rgba(150, 88, 138, 0.35);
     outline-offset: 0.35rem;
 }
 
+.taxonomy-card__link:hover .taxonomy-card__name,
+.taxonomy-card__link:focus-visible .taxonomy-card__name {
+    color: var(--color-accent);
+}
+
 .taxonomy-card__name {
     font-weight: 600;
+    transition: color 0.2s ease;
 }
 
 .taxonomy-card__count {

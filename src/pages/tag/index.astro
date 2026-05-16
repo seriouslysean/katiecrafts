@@ -19,10 +19,12 @@ const tags = getTagSummaries(posts);
     <ul class="taxonomy-list">
       {tags.map(tag => (
         <li class="taxonomy-card">
-          <a href={`/tag/${tag.slug}/`}>{tag.name}</a>
-          <span class="taxonomy-card__count">
-            {tag.count} {tag.count === 1 ? 'post' : 'posts'}
-          </span>
+          <a class="taxonomy-card__link" href={`/tag/${tag.slug}/`}>
+            <span class="taxonomy-card__name">{tag.name}</span>
+            <span class="taxonomy-card__count">
+              {tag.count} {tag.count === 1 ? 'post' : 'posts'}
+            </span>
+          </a>
         </li>
       ))}
     </ul>
