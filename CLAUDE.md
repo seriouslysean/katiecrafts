@@ -16,12 +16,24 @@ Static site for katiecrafts.com on Astro 6, content imported from a legacy WordP
 - `npm run lint` / `npm run lint:fix` — oxlint (ignores in `.oxlintignore`).
 - `npm run typecheck` — `tsc --noEmit` against `astro/tsconfigs/strict`.
 
+Quality gates (also run in CI before deploy):
+- `npm run audit` — full pipeline: `audit:content` → `audit:markdown` → `build` → `audit:html` → `audit:links`.
+- `npm run audit:content` — `tools/audit-content.ts`. Per-post structural checks (required frontmatter, image refs that don't resolve, etc.).
+- `npm run audit:markdown` — markdownlint-cli2 over post bodies.
+- `npm run audit:html` — html-validate over `dist/**/*.html` after build.
+- `npm run audit:links` — `tools/audit-links.ts`. Builds `dist/`, serves it on `localhost:5318` via linkinator, and resolves every internal link plus any absolute `katiecrafts.com` URL (rewritten to the local server). External hosts are skipped — link rot on someone else's site can't block deploys.
+
 WordPress migration pipeline (one-shot tooling, retained for re-imports):
 - `npm run tool:import-wordpress` — fetches `/wp-json/wp/v2/posts?_embed` from `www.katiecrafts.com`, writes `data/posts/<slug>/{post.json,wordpress.json,images/}` and updates `data/import-manifest.json`. Flags: `--dry-run`, `--start-page=N`, `--max-pages=N`.
 - `npm run tool:cleanup-posts -- --all` (or `--slug <slug>`) — runs the post HTML through unified (rehype-parse → cleanup passes → rehype-remark → remark-gfm → remark-stringify) and writes the resulting Markdown back into `post.json`. Warns when the output still contains non-trivial raw HTML.
 - `npm run tool:export-posts` — emits `src/content/blog/<slug>/index.md` plus co-located images from `data/posts/`. Rewrites body image refs (markdown + raw `<img>`) to local filenames.
 
 `data/posts/` and `data/import-manifest.json` are gitignored — they are scratch state for the import pipeline. The published source of truth is `src/content/blog/`.
+
+One-shot content maintenance scripts (run by hand, kept for re-use):
+- `tools/fix-internal-link-prefix.ts` — walks every post, builds the slug allow-list from disk, and prefixes `/blog/` to any markdown link href that points at a bare-slug internal target. Idempotent.
+- `tools/fix-broken-links.ts` — explicit list of per-post URL rewrites (Wayback snapshots for dead external links, scheme repairs for malformed bare URLs, unlinks for dead local routes). Each `replace-url` op is href-aware so re-runs don't double-rewrite.
+- `tools/lib/scrub-wp-urls.ts` — shared library used by `cleanup-posts` and `export-posts` to strip/relativize legacy WordPress URLs from post bodies and frontmatter alt text. Markdown link hrefs and autolinks that point at our own host are rewritten to internal paths so client-side navigation works.
 
 ## Content model
 
@@ -57,7 +69,7 @@ Taxonomy slugs come from each post's frontmatter `categories[]` / `tags[]` array
 - `src/utils/pagination.ts` — `POSTS_PER_PAGE` (6), `HOME_POSTS_LIMIT` (3), `paginatePosts<T>()`, `formatPublishedDate()`.
 - `src/utils/taxonomy.ts` — `BlogEntry` alias for `CollectionEntry<'blog'>`, `sortByPublishedDate`, `getCategorySummaries`/`getTagSummaries`, `getPostsByCategory`/`getPostsByTag`.
 
-There is intentionally no central `posts.ts`. Pages call `getCollection('blog')` directly and apply these helpers.
+Pages query the collection directly — there's no central `posts.ts` aggregator. Each page calls `getCollection('blog')` and applies these helpers as needed.
 
 ## Path aliases
 
@@ -65,13 +77,15 @@ Defined in both `tsconfig.json` (for TS) and `astro.config.mjs` `vite.resolve.al
 
 `~` → `src`, `~components`/`~layouts`/`~utils`/`~styles` → `src/*`; `~data` → `data`; `~tools` → `tools`.
 
-## Conventions
+## Principles
 
-- Post bodies are Markdown (the WordPress HTML was converted in `tools/cleanup-posts.ts`). Authoring is plain Markdown.
-- `Layout.astro` owns Open Graph / Twitter card / canonical / `article:*` meta and the `<link rel="alternate" type="application/rss+xml">`. Pass props rather than hand-writing `<head>` content in pages.
-- `[...slug].astro` is the canonical post template; there is no separate `Post.astro` layout. Don't add `layout:` to post frontmatter.
-- Excerpts may contain HTML (legacy WP excerpts) and are injected with `set:html` in `PostCard.astro` — trusted because they originate from our own export.
-- TypeScript is strict; oxlint runs over the whole tree minus `.astro/`.
+- **Markdown is the authoring surface.** Post bodies are plain markdown; the WordPress HTML→MD conversion in `tools/cleanup-posts.ts` is one-way and authoritative.
+- **Metadata lives in the layout.** `Layout.astro` owns Open Graph / Twitter card / canonical / `article:*` meta and the RSS link tag. Pages pass data as props.
+- **Dynamic routes own their templates.** `[...slug].astro` *is* the post template — frontmatter carries data, not view config.
+- **Trust the closed data path.** The pipeline is WP → cleanup → export → render. Excerpts and other legacy HTML can be injected with `set:html` because the inputs are ours.
+- **Elements own their spacing.** A `<section>` carries its own `margin-bottom`; rhythm is composed from each element's own rule, not from sibling selectors reaching across the document.
+- **Component styles scope themselves; only coordination is global.** Per-component CSS lives in Astro `<style>` blocks (auto-hashed). `src/styles/styles.css` carries only the primitives multiple components reference: `.main`, `.listing`, `.taxonomy-index`, `.hero`.
+- **Strict TypeScript, lint the whole tree.** `tsc --noEmit` against `astro/tsconfigs/strict`; oxlint over everything except `.astro/`.
 
 ## Deploy
 

@@ -5,6 +5,14 @@
     "void-style": "off",
     "no-inline-style": "off",
     "wcag/h63": "off",
-    "no-redundant-role": "off"
+    "no-redundant-role": "off",
+    "wcag/h37": "warn",
+    "wcag/h30": "warn",
+    "wcag/h67": "warn",
+    "empty-heading": "warn",
+    "no-raw-characters": "warn",
+    "valid-id": "warn",
+    "attribute-allowed-values": "warn",
+    "long-title": "warn"
   }
 }

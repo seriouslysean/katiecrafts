@@ -1,15 +1,15 @@
 {
   "name": "katiecrafts.com",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "type": "module",
   "description": "Katie Crafts blog - migrated from WordPress to Astro",
   "homepage": "https://www.katiecrafts.com",
   "bugs": {
-    "url": "https://github.com/seriouslysean/katiecrafts.com/issues"
+    "url": "https://github.com/seriouslysean/katiecrafts/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/seriouslysean/katiecrafts.com.git"
+    "url": "git+ssh://git@github.com/seriouslysean/katiecrafts.git"
   },
   "license": "MIT",
   "author": "Sean Kennedy <sean@codeserious.com>",
