@@ -1,30 +1,53 @@
 ---
 const inputId = 'site-search-input';
 const resultsId = 'site-search-results';
+const panelId = 'site-search-panel';
 ---
 
-<form class="search" role="search" autocomplete="off" data-search>
-  <label class="search__label" for={inputId}>Search posts</label>
-  <input
-    id={inputId}
-    type="search"
-    name="q"
-    class="search__input"
-    placeholder="Search posts…"
-    aria-controls={resultsId}
+<div class="search" data-search>
+  <button
+    type="button"
+    class="search__toggle"
+    aria-controls={panelId}
     aria-expanded="false"
-    autocomplete="off"
-  />
-  <ul id={resultsId} class="search__results" role="listbox" hidden></ul>
-</form>
+    aria-label="Open search"
+    data-search-toggle
+  >
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+      <circle cx="11" cy="11" r="7"></circle>
+      <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+    </svg>
+  </button>
+  <div class="search__panel" id={panelId} hidden>
+    <form class="search__form" role="search" autocomplete="off">
+      <label class="visually-hidden" for={inputId}>Search posts</label>
+      <input
+        id={inputId}
+        type="search"
+        name="q"
+        class="search__input"
+        placeholder="Search posts…"
+        aria-controls={resultsId}
+        autocomplete="off"
+      />
+    </form>
+    <p class="search__empty" data-search-empty hidden>No matches.</p>
+    <ul id={resultsId} class="search__results" role="listbox" hidden></ul>
+  </div>
+</div>
 
 <script>
   type Doc = { id: string; title: string; excerpt: string; categories: string; tags: string };
 
-  const form = document.querySelector<HTMLFormElement>('[data-search]');
-  if (form) {
-    const input = form.querySelector<HTMLInputElement>('input[name="q"]')!;
-    const results = form.querySelector<HTMLUListElement>('.search__results')!;
+  const root = document.querySelector<HTMLElement>('[data-search]');
+  if (root) {
+    const toggle = root.querySelector<HTMLButtonElement>('[data-search-toggle]')!;
+    const panel = root.querySelector<HTMLElement>('.search__panel')!;
+    const form = root.querySelector<HTMLFormElement>('.search__form')!;
+    const input = root.querySelector<HTMLInputElement>('input[name="q"]')!;
+    const results = root.querySelector<HTMLUListElement>('.search__results')!;
+    const empty = root.querySelector<HTMLElement>('[data-search-empty]')!;
+
     let index: import('minisearch').default<Doc> | undefined;
     let loading: Promise<void> | undefined;
     let debounce: number | undefined;
@@ -52,11 +75,16 @@ const resultsId = 'site-search-results';
       return loading;
     }
 
-    function render(items: Array<{ id: string; title: string }>) {
+    function render(items: Array<{ id: string; title: string }>, hasQuery: boolean) {
+      results.replaceChildren();
+      if (!hasQuery) {
+        results.hidden = true;
+        empty.hidden = true;
+        return;
+      }
       if (!items.length) {
         results.hidden = true;
-        results.replaceChildren();
-        input.setAttribute('aria-expanded', 'false');
+        empty.hidden = false;
         return;
       }
       const fragment = document.createDocumentFragment();
@@ -68,28 +96,63 @@ const resultsId = 'site-search-results';
         li.appendChild(a);
         fragment.appendChild(li);
       }
-      results.replaceChildren(fragment);
+      results.appendChild(fragment);
       results.hidden = false;
-      input.setAttribute('aria-expanded', 'true');
+      empty.hidden = true;
     }
 
     async function runSearch() {
       const query = input.value.trim();
       if (!query) {
-        render([]);
+        render([], false);
         return;
       }
       await ensureIndex();
       if (!index) return;
       const hits = index.search(query).slice(0, 10);
-      render(hits.map(hit => ({ id: hit.id as string, title: hit.title as string })));
+      render(
+        hits.map(hit => ({ id: hit.id as string, title: hit.title as string })),
+        true,
+      );
     }
 
-    input.addEventListener('focus', () => { void ensureIndex(); });
+    function open() {
+      panel.hidden = false;
+      toggle.setAttribute('aria-expanded', 'true');
+      toggle.setAttribute('aria-label', 'Close search');
+      void ensureIndex();
+      window.requestAnimationFrame(() => input.focus());
+    }
+
+    function close() {
+      panel.hidden = true;
+      toggle.setAttribute('aria-expanded', 'false');
+      toggle.setAttribute('aria-label', 'Open search');
+    }
+
+    toggle.addEventListener('click', () => {
+      if (panel.hidden) open();
+      else close();
+    });
+
     input.addEventListener('input', () => {
       window.clearTimeout(debounce);
       debounce = window.setTimeout(runSearch, 100);
     });
+
     form.addEventListener('submit', event => event.preventDefault());
+
+    document.addEventListener('keydown', event => {
+      if (event.key === 'Escape' && !panel.hidden) {
+        close();
+        toggle.focus();
+      }
+    });
+
+    document.addEventListener('click', event => {
+      if (panel.hidden) return;
+      if (root.contains(event.target as Node)) return;
+      close();
+    });
   }
 </script>
