@@ -19,10 +19,12 @@ const categories = getCategorySummaries(posts);
     <ul class="taxonomy-list">
       {categories.map(category => (
         <li class="taxonomy-card">
-          <a href={`/category/${category.slug}/`}>{category.name}</a>
-          <span class="taxonomy-card__count">
-            {category.count} {category.count === 1 ? 'post' : 'posts'}
-          </span>
+          <a class="taxonomy-card__link" href={`/category/${category.slug}/`}>
+            <span class="taxonomy-card__name">{category.name}</span>
+            <span class="taxonomy-card__count">
+              {category.count} {category.count === 1 ? 'post' : 'posts'}
+            </span>
+          </a>
         </li>
       ))}
     </ul>
