@@ -3,12 +3,6 @@
 import fs from 'node:fs/promises';
 import type { Dirent } from 'node:fs';
 import path from 'node:path';
-import { unified } from 'unified';
-import rehypeParse from 'rehype-parse';
-import rehypeStringify from 'rehype-stringify';
-import { visit } from 'unist-util-visit';
-import type { Element, Properties, Root, Text } from 'hast';
-import type { Node } from 'unist';
 import yargs from 'yargs';
 import { hideBin } from 'yargs/helpers';
 
@@ -37,8 +31,8 @@ const argv = await yargs(hideBin(process.argv))
   })
   .option('out', {
     type: 'string',
-    default: path.join(process.cwd(), 'src', 'pages', 'blog'),
-    description: 'Directory to write blog pages into',
+    default: path.join(process.cwd(), 'src', 'content', 'blog'),
+    description: 'Directory to write blog content collection entries into',
   })
   .option('data', {
     type: 'string',
@@ -51,6 +45,9 @@ const outputRoot = path.resolve(argv.out);
 const legacyPublicPostsDir = path.join(process.cwd(), 'public', 'posts');
 const legacyPublicBlogDir = path.join(process.cwd(), 'public', 'blog');
 const dataRoot = path.resolve(argv.data);
+
+const MARKDOWN_IMAGE_PATTERN = /(!\[[^\]]*\]\()([^)\s]+)(\s+"[^"]*")?(\))/g;
+const HTML_IMG_SRC_PATTERN = /(<img\b[^>]*\bsrc=["'])([^"']+)(["'])/gi;
 
 const selectedSlugs: string[] = argv.slug
   ? ([] as string[])
@@ -107,7 +104,7 @@ async function exportPost(slug: string) {
   const imageMaps = createImageMaps(imageFiles);
 
   const { content, ...frontmatter } = post;
-  const html = transformContent(content, slug, imageMaps, post.title);
+  const body = rewriteBodyImages(stripLeadingTitle(content, post.title), imageMaps);
 
   const targetDir = path.join(outputRoot, slug);
   await fs.rm(targetDir, { recursive: true, force: true });
@@ -116,20 +113,17 @@ async function exportPost(slug: string) {
   await copyImages(imagesDir, targetDir, imageMaps);
 
   const frontmatterLines = buildFrontmatter(frontmatter, imageMaps);
-  const markdown = `${frontmatterLines}\n${html}\n`;
+  const markdown = `${frontmatterLines}\n\n${body}\n`;
   await fs.writeFile(path.join(targetDir, 'index.md'), markdown, 'utf8');
 }
 
 async function copyImages(sourceDir: string, targetDir: string, maps: ImageMaps) {
   try {
     const files = await fs.readdir(sourceDir);
-    const assetsDir = path.join(targetDir, '_images');
-    await fs.rm(assetsDir, { recursive: true, force: true });
-    await fs.mkdir(assetsDir, { recursive: true });
     await Promise.all(
       files.map(async file => {
         const targetName = maps.fileMap.get(file) ?? file;
-        await fs.copyFile(path.join(sourceDir, file), path.join(assetsDir, targetName));
+        await fs.copyFile(path.join(sourceDir, file), path.join(targetDir, targetName));
       })
     );
   } catch (error: any) {
@@ -142,10 +136,7 @@ async function copyImages(sourceDir: string, targetDir: string, maps: ImageMaps)
 
 function buildFrontmatter(post: Omit<PostData, 'content'>, maps: ImageMaps): string {
   const lines = ['---'];
-  lines.push(`layout: "~/layouts/Post.astro"`);
   lines.push(`title: ${JSON.stringify(post.title)}`);
-  lines.push(`slug: ${JSON.stringify(post.slug)}`);
-  lines.push(`date: ${JSON.stringify(post.date)}`);
   lines.push(`publishedDate: ${JSON.stringify(post.publishedDate)}`);
 
   if (post.excerpt) {
@@ -157,13 +148,7 @@ function buildFrontmatter(post: Omit<PostData, 'content'>, maps: ImageMaps): str
     const targetName = resolveImageName(post.featuredImage.src, maps);
     if (targetName) {
       lines.push('featuredImage:');
-      lines.push(`  src: ${JSON.stringify(`./_images/${targetName}`)}`);
-      if (typeof post.featuredImage.width === 'number') {
-        lines.push(`  width: ${post.featuredImage.width}`);
-      }
-      if (typeof post.featuredImage.height === 'number') {
-        lines.push(`  height: ${post.featuredImage.height}`);
-      }
+      lines.push(`  src: ${JSON.stringify(`./${targetName}`)}`);
       if (post.featuredImage.alt) {
         lines.push(`  alt: ${JSON.stringify(post.featuredImage.alt)}`);
       }
@@ -194,117 +179,43 @@ function buildFrontmatter(post: Omit<PostData, 'content'>, maps: ImageMaps): str
   return lines.join('\n');
 }
 
-function transformContent(html: string, slug: string, maps: ImageMaps, title?: string): string {
-  const processor = unified()
-    .use(rehypeParse, { fragment: true })
-    .use(() => (tree: Root) => rewriteImageSources(tree, slug, maps))
-    .use(() => (tree: Root) => stripLeadingTitle(tree, title))
-    .use(rehypeStringify, { allowDangerousHtml: true });
-
-  const result = processor.processSync(html);
-  return result.toString().trim();
-}
-
-function rewriteImageSources(tree: Root, slug: string, maps: ImageMaps) {
-  visit(tree, 'element', (node: Element) => {
-    if (node.tagName !== 'img') return;
-    const properties = (node.properties ??= {});
-    if (!properties.src) return;
-    const src = String(properties.src);
-    const localName = resolveImageName(src, maps);
-    if (!localName) {
-      const placeholder = createPlaceholderImageBlock();
-      node.tagName = placeholder.tagName;
-      node.properties = placeholder.properties;
-      node.children = placeholder.children;
-      return;
-    }
-    properties.src = `./_images/${localName}`;
-    ensureImageClasses(properties);
-  });
-
-  visit(tree, 'element', (node: Element) => {
-    if (node.tagName !== 'figure') return;
-    const hasImage = node.children.some(child => child.type === 'element' && child.tagName === 'img');
-    if (hasImage) {
-      node.properties = {
-        ...(node.properties ?? {}),
-        className: mergeClassLists(node.properties?.className, ['post__figure']),
-      };
-    }
-  });
-}
-
-function stripLeadingTitle(tree: Root, title?: string) {
-  if (!title) return;
+function stripLeadingTitle(markdown: string, title?: string): string {
+  if (!title || !markdown) return markdown;
   const normalizedTitle = normalizeText(title);
-
-  for (let i = 0; i < tree.children.length; i++) {
-    const node = tree.children[i];
-    if (node.type === 'text') {
-      if (node.value.trim().length) break;
-      tree.children.splice(i, 1);
-      i--;
-      continue;
+  const lines = markdown.split('\n');
+  let i = 0;
+  while (i < lines.length && lines[i].trim() === '') i++;
+  if (i >= lines.length) return markdown;
+  const candidate = lines[i].replace(/^#+\s*/, '').trim();
+  if (normalizeText(candidate) === normalizedTitle) {
+    lines.splice(i, 1);
+    while (i < lines.length && lines[i].trim() === '') {
+      lines.splice(i, 1);
     }
-
-    if (node.type === 'element' && node.tagName === 'p') {
-      const textContent = normalizeText(extractText(node));
-      if (textContent === normalizedTitle) {
-        tree.children.splice(i, 1);
-      }
-    }
-    break;
   }
+  return lines.join('\n');
 }
 
-function ensureImageClasses(properties: Properties) {
-  properties.className = mergeClassLists(properties.className, ['post__image']);
+function normalizeText(value: string): string {
+  return value.replace(/\s+/g, ' ').trim().toLowerCase();
 }
 
-function mergeClassLists(value: Properties['className'], extra: string[]): string[] {
-  const existing = new Set(toClassList(value));
-  extra.forEach(cls => existing.add(cls));
-  return Array.from(existing);
-}
+function rewriteBodyImages(markdown: string, maps: ImageMaps): string {
+  if (!markdown) return markdown;
 
-function createPlaceholderImageBlock(): Element {
-  return {
-    type: 'element',
-    tagName: 'div',
-    properties: {
-      className: ['post__image', 'post__image--missing'],
-      role: 'img',
-      ariaLabel: 'Image unavailable',
-    },
-    children: [{ type: 'text', value: 'Image unavailable' }],
-  } as Element;
-}
+  let result = markdown.replace(MARKDOWN_IMAGE_PATTERN, (_match, prefix, url, title, suffix) => {
+    const localName = resolveImageName(url, maps);
+    if (!localName) return `${prefix}${url}${title ?? ''}${suffix}`;
+    return `${prefix}./${localName}${title ?? ''}${suffix}`;
+  });
 
-function createPlaceholderFigure(): Element {
-  return {
-    type: 'element',
-    tagName: 'figure',
-    properties: { className: ['post__image', 'post__image--missing'] },
-    children: [createPlaceholderImageBlock()],
-  } as Element;
-}
+  result = result.replace(HTML_IMG_SRC_PATTERN, (_match, prefix, url, suffix) => {
+    const localName = resolveImageName(url, maps);
+    if (!localName) return `${prefix}${url}${suffix}`;
+    return `${prefix}./${localName}${suffix}`;
+  });
 
-function extractText(node: Node): string {
-  if (node.type === 'text') {
-    return (node as Text).value;
-  }
-  if (node.type === 'element') {
-    return (node as Element).children.map(extractText).join('');
-  }
-  return '';
-}
-
-function toClassList(value: Properties['className']): string[] {
-  if (!value) return [];
-  if (Array.isArray(value)) return value.map(String);
-  if (typeof value === 'string') return value.split(/\s+/).filter(Boolean);
-  return [String(value)];
+  return result;
 }
 
 function basename(src: string): string {
@@ -360,10 +271,6 @@ function canonicalize(filename: string): string {
   const name = path.basename(filename, ext);
   const stripped = name.replace(/-\d+$/, '');
   return `${stripped}${ext}`;
-}
-
-function normalizeText(value: string): string {
-  return value.replace(/\s+/g, ' ').trim().toLowerCase();
 }
 
 async function pruneExtraneousDirs(

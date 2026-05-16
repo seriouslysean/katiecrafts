@@ -4,7 +4,9 @@ import fs from 'node:fs';
 import path from 'node:path';
 import { unified } from 'unified';
 import rehypeParse from 'rehype-parse';
-import rehypeStringify from 'rehype-stringify';
+import rehypeRemark from 'rehype-remark';
+import remarkGfm from 'remark-gfm';
+import remarkStringify from 'remark-stringify';
 import { visit, SKIP } from 'unist-util-visit';
 import type { Root, Element, Text, Parent, Properties, ElementContent } from 'hast';
 import type { Node } from 'unist';
@@ -15,9 +17,16 @@ interface Options {
   replaceRemoteImages: boolean;
 }
 
+interface CleanupResult {
+  markdown: string;
+  warnings: string[];
+}
+
 const KNOWN_SHORTCODES = [/\[kc-adswap[^\]]*\]/gi, /\[\s*\]/g];
 const ALIGN_CLASSES = new Set(['aligncenter', 'alignleft', 'alignright', 'alignnone']);
 const WORDPRESS_CLASS_PREFIX = /^wp-/;
+const HTML_TAG_PATTERN = /<([a-z][a-z0-9]*)\b[^>]*>/gi;
+const ALLOWED_RAW_TAGS = new Set(['figure', 'figcaption', 'div']);
 
 const argv = await yargs(hideBin(process.argv))
   .option('slug', {
@@ -32,8 +41,8 @@ const argv = await yargs(hideBin(process.argv))
   })
   .option('replace-remote-images', {
     type: 'boolean',
-    default: true,
-    description: 'Replace remote images with a placeholder figure',
+    default: false,
+    description: 'Replace remote images with a placeholder figure (legacy; off by default — export-posts now rewrites image src to local files)',
   })
   .parse();
 
@@ -65,17 +74,58 @@ for (const slug of slugs) {
     html = html.replace(pattern, '');
   });
 
+  const { markdown, warnings } = await convertHtmlToMarkdown(html, {
+    replaceRemoteImages: argv['replace-remote-images'],
+  });
+
+  json.content = markdown;
+  fs.writeFileSync(postPath, JSON.stringify(json, null, 2) + '\n', 'utf8');
+
+  if (warnings.length) {
+    console.warn(`⚠️  ${slug}: ${warnings.length} warning(s)`);
+    warnings.forEach(message => console.warn(`    - ${message}`));
+  } else {
+    console.log(`✅ Cleaned ${slug}`);
+  }
+}
+
+async function convertHtmlToMarkdown(html: string, options: Options): Promise<CleanupResult> {
   const processor = unified()
     .use(rehypeParse, { fragment: true })
-    .use(cleanupPlugin, { replaceRemoteImages: argv['replace-remote-images'] })
-    .use(rehypeStringify, { allowDangerousHtml: true });
+    .use(cleanupPlugin, options)
+    .use(rehypeRemark, { document: false })
+    .use(remarkGfm)
+    .use(remarkStringify, {
+      bullet: '-',
+      fences: true,
+      listItemIndent: 'one',
+      rule: '-',
+      emphasis: '_',
+      strong: '*',
+    });
 
-  const result = await processor.process(html);
-  const cleaned = String(result).trim();
+  const file = await processor.process(html);
+  const markdown = String(file).trim();
+  const warnings = collectMarkdownWarnings(markdown);
+  return { markdown, warnings };
+}
 
-  json.content = cleaned;
-  fs.writeFileSync(postPath, JSON.stringify(json, null, 2) + '\n', 'utf8');
-  console.log(`✅ Cleaned ${slug}`);
+function collectMarkdownWarnings(markdown: string): string[] {
+  const warnings: string[] = [];
+  const tagCounts = new Map<string, number>();
+  let match: RegExpExecArray | null;
+  while ((match = HTML_TAG_PATTERN.exec(markdown)) !== null) {
+    const tag = match[1].toLowerCase();
+    if (ALLOWED_RAW_TAGS.has(tag)) continue;
+    tagCounts.set(tag, (tagCounts.get(tag) ?? 0) + 1);
+  }
+  if (tagCounts.size) {
+    const summary = Array.from(tagCounts.entries())
+      .map(([tag, count]) => `<${tag}>×${count}`)
+      .join(', ');
+    warnings.push(`Markdown still contains raw HTML: ${summary}`);
+  }
+  return warnings;
 }
 
 function collectSlugs({
