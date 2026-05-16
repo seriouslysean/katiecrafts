@@ -63,11 +63,11 @@ The DIY ‘photo booth’ was a simply hung curtain near a table, which was home
 
 Bridesmaids and Groomsmen enjoyed a plethora of handmade gifts, including different superhero cufflinks to match their different superhero t-shirts and different superhero wallets, after ceremony
 
-[flip flops](/diy-flip-flops-tutorial/)
+[flip flops](/blog/diy-flip-flops-tutorial/)
 
 , necklaces,
 
-[hair combs](/diy-hair-combs-from-brooches/)
+[hair combs](/blog/diy-hair-combs-from-brooches/)
 
 and more.
 

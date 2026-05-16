@@ -27,7 +27,7 @@ tags:
 
 A few years ago, Husband bought me a stamping kit to further my nail art obsession. I tried it a few times and did not have much luck. Next week we are going to the
 
-**2016[Philadelphia Flower Show](/philly-flower-show-2015-recap/)**
+**2016[Philadelphia Flower Show](/blog/philly-flower-show-2015-recap/)**
 
 (my favorite day of the year!) and I want to have some super cute floral stamped nails for the occasion. I decided I should test out the nail art stamping technique once again!
 

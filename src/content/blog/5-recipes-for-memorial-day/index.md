@@ -81,6 +81,6 @@ photo from katiecrafts.com
 
 I know I’ve shared this recipe before, but it’s just SO DAMN GOOD, I had to share it again! Especially with picnic season beginning. It’s good hot, it’s good cold, it’s good all the time. And it is the absolute perfect (and EASY!) thing to make in the morning, walk away from, and then pack up and bring to a party later on. Try it- you will not be disappointed!
 
-_[Get the recipe right here!](/slow-cooker-bbq-pulled-chicken/)_
+_[Get the recipe right here!](/blog/slow-cooker-bbq-pulled-chicken/)_
 
 If you try any of these recipes, tell me what you thought in the comments! If you have another recipe I should try out this weekend, let me know! Have a happy and safe Memorial Day!

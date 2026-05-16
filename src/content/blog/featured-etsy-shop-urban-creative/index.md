@@ -31,7 +31,7 @@ tags:
 
 Today’s featured Etsy shop is one I found when I did my
 
-[_Etsy Picks: Back To School Guide post_](/my-etsy-picks-back-school-guide/ "My Etsy Picks: Back to School Guide")
+[_Etsy Picks: Back To School Guide post_](/blog/my-etsy-picks-back-school-guide/ "My Etsy Picks: Back to School Guide")
 
 !
 

@@ -55,7 +55,7 @@ st = stitch
 
 > _Need a quick reminder? Don’t forget about my_
 >
-> _**[crochet crash course!](/crash-course-in-crochet/ "Crash Course in Crochet")**_
+> _**[crochet crash course!](/blog/crash-course-in-crochet/ "Crash Course in Crochet")**_
 
 ## Instructions:
 

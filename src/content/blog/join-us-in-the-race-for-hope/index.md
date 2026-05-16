@@ -39,7 +39,7 @@ We walk for team
 
 , in remembrance of my Mother. I’ve talked about my
 
-**[Mom](/celebrating-mom/)**
+**[Mom](/blog/celebrating-mom/)**
 
 before when celebrating Brain Tumor Awareness Month in May, so you know how close to my heart the subject is. There are a lot of things I didn’t know about brain tumors until my mom was diagnosed, so I thought I’d share some with you so you can be informed!
 

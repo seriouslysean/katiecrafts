@@ -77,7 +77,7 @@ _\&#xA;_
 
 _“Meet Me at the Cupcake Café” by Jenny Colgan! I talk about it in my first_
 
-_[Sunday Funday Issue](/sunday-funday-issue-1/ "Sunday Funday: Issue 1")! So adorable. I just picked up another book by her in the same vein, “The Loveliest Chocolate Shop in Paris.” I hope to snuggle up on the couch in my PJs and start it soon!_
+_[Sunday Funday Issue](/blog/sunday-funday-issue-1/ "Sunday Funday: Issue 1")! So adorable. I just picked up another book by her in the same vein, “The Loveliest Chocolate Shop in Paris.” I hope to snuggle up on the couch in my PJs and start it soon!_
 
 6\. What’s your biggest pet peeve?
 

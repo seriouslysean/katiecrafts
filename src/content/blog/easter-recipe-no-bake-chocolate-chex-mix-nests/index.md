@@ -29,11 +29,11 @@ tags:
 
 I’ve made little
 
-[_coconut nest cupcakes_](/easter-recipe-birds-nest-cupcakes/ "Easter Recipe: Bird’s Nest Cupcakes")
+[_coconut nest cupcakes_](/blog/easter-recipe-birds-nest-cupcakes/ "Easter Recipe: Bird’s Nest Cupcakes")
 
 for Easter before, as well as
 
-[_chocolate covered Peeps_](/chocolate-covered-easter-peeps/ "Chocolate Covered Easter Peeps")
+[_chocolate covered Peeps_](/blog/chocolate-covered-easter-peeps/ "Chocolate Covered Easter Peeps")
 
 , but this year I wanted to kind of combine the two! I found a super easy recipe for no-bake chocolate Chex Mix Popped nests on Betty Crocker and I knew I had to give it a try.
 

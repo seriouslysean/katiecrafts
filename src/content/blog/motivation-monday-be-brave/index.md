@@ -29,7 +29,7 @@ Last year, I did a Featured Etsy Shop post for
 
 (formerly
 
-[Kyle Looby Jewelry](/featured-etsy-shop-kyle-looby-jewelry/)
+[Kyle Looby Jewelry](/blog/featured-etsy-shop-kyle-looby-jewelry/)
 
 ). She gave away a beautiful “Be Brave” bracelet in the post, and sent me one as a thank you as well (along with a customized Katie Crafts one!) I wear Be Brave every day with my bangles, as a daily reminder.
 

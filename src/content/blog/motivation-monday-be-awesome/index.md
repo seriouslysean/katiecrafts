@@ -27,7 +27,7 @@ I feel like we all may need a little motivation this Monday! Some people have al
 
 I thought the photo of the grass and sky was a pretty good fit for this quote. I took it at
 
-[Longwood Gardens](/wordless-for-wednesday-bliss/)
+[Longwood Gardens](/blog/wordless-for-wednesday-bliss/)
 
 (seriously, a photo post of my trip IS coming soon, I swear!) and I didn’t use a single filter. It was really just that gorgeous there! Can’t wait for you to see the rest!
 

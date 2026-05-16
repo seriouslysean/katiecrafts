@@ -85,6 +85,6 @@ I found this project on
 
 Well, that’s it for Issue 5! Don’t forget to enter
 
-[my giveaway](/featured-etsy-shop-hatt-street/ "Featured Etsy Shop: Hatt Street")
+[my giveaway](/blog/featured-etsy-shop-hatt-street/ "Featured Etsy Shop: Hatt Street")
 
 with Hatt Street for a free custom crocheted baby hat- it ends tomorrow! Have a good one, Marshmallows! 😉

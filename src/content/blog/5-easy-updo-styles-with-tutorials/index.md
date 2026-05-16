@@ -48,7 +48,7 @@ I love finding new hair style tutorials and
 
 pretty much everything I come across, but some of them are things I’ll never get around to doing. These, however, are five great how-tos from various websites that are not only amazing, but fairly quick and easy! Since I’m stuck in
 
-[**jury duty**](/nail-art-jury-duty-nails/ "Nail Art: Jury Duty Nails")
+[**jury duty**](/blog/nail-art-jury-duty-nails/ "Nail Art: Jury Duty Nails")
 
 this week, fast hair styles bright and early are the only way I’ll get there on time.
 

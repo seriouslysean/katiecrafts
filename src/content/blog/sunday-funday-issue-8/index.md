@@ -43,7 +43,7 @@ I know nothing of where this owl came from (yet another random image that Husban
 
 This week, on April 3rd, President Obama signed the
 
-[Gabriella Miller Kids First Research Act](/Gabriella%20Miller%20Kids%20First%20Research%20Act/ "https://www.govtrack.us/congress/bills/113/hr2019")
+[Gabriella Miller Kids First Research Act](https://www.govtrack.us/congress/bills/113/hr2019 "https://www.govtrack.us/congress/bills/113/hr2019")
 
 . It was introduced on May 16, 2013, passed by the House on Dec 11, 2013, passed Senate on Mar 11, 2014 and as of this week, officially enacted. The bill is to “eliminate taxpayer financing of political party conventions and reprogram savings to provide for a 10-year pediatric research initiative through the Common Fund administered by the National Institutes of Health, and for other purposes.”
 

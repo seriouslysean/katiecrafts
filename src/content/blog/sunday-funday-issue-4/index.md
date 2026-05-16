@@ -49,7 +49,7 @@ I wish I could knit! As a crocheter, that’s not something I’d typically say,
 
 I know I
 
-[just blogged about it,](/2014-philadelphia-flower-show-recap/ "2014 Philadelphia Flower Show Recap!")
+[just blogged about it,](/blog/2014-philadelphia-flower-show-recap/ "2014 Philadelphia Flower Show Recap!")
 
 but it was definitely my favorite place to visit this week. Go check out the post for tons of photos!
 

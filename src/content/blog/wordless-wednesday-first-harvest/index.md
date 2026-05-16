@@ -27,7 +27,7 @@ tags:
 
 We harvested our first little red tomato of the season! After the
 
-[very hungry caterpillar](/wordless-wednesday-hungry-visitor/)
+[very hungry caterpillar](/blog/wordless-wednesday-hungry-visitor/)
 
 ate a large portion of our tomato plant last week, we were unsure anything was going to survive on it, but this little cherry tomato proved us wrong.
 

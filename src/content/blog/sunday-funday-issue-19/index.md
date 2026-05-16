@@ -41,7 +41,7 @@ I love watching videos on YouTube and several years ago I came across these vide
 
 My sister mentioned the book
 
-**[“Matched”](/sunday-funday-issue-16/ "Sunday Funday: Issue 16")**
+**[“Matched”](/blog/sunday-funday-issue-16/ "Sunday Funday: Issue 16")**
 
 in
 

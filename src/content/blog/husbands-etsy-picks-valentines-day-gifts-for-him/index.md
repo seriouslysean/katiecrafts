@@ -27,7 +27,7 @@ It’s that time of year again! That time when you’re supposed to smother your
 
 Since she took care of the
 
-[Valentine’s Day gift ideas for her](/my-etsy-picks-valentines-day-gifts-for-her/ "My Etsy Picks: Valentine’s Day Gifts For Her")
+[Valentine’s Day gift ideas for her](/blog/my-etsy-picks-valentines-day-gifts-for-her/ "My Etsy Picks: Valentine’s Day Gifts For Her")
 
 , I figured I’d put together a treasury of items that I (or other men like me) would love to get on Valentine’s day. Based on the items I’ve picked, it’s highly possible that I’m lumberjack in disguise. Hopefully the man in your life has a beard and likes things made of wood and leather, too.
 
@@ -56,7 +56,7 @@ _[**why not check my treasury out right on Etsy**](https://www.etsy.com/treasury
 
 ALSO! Don’t forget to get your orders in before it’s too late! Katie has some really awesome
 
-[**Valentine’s Day Etsy items**](/katie-crafts-valentines-picks/ "Katie Crafts Valentine’s Picks")
+[**Valentine’s Day Etsy items**](/blog/katie-crafts-valentines-picks/ "Katie Crafts Valentine’s Picks")
 
 for sale!
 

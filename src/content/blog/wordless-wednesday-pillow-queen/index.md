@@ -31,7 +31,7 @@ I just had to share this photo of my little Pea for this week’s Wordless Wedne
 
 It’s not too late to show your appreciation to your kit or pup!
 
-**[Make them a super comfy pet bed](/cozy-catnip-kitty-pillow/)**
+**[Make them a super comfy pet bed](/blog/cozy-catnip-kitty-pillow/)**
 
 to snuggle up on and they’ll love you forever!
 

@@ -85,9 +85,64 @@ const jobs: Rewrite[] = [
       to: 'http://web.archive.org/web/20150624054621/http://shop.hobbylobby.com/products/aqua-sparkle-i-love-this-cotton-yarn-110213/',
     }],
   },
+  // Defunct local routes — the WP shop was retired, so links that used to
+  // point at /shop/* now go to the Etsy storefront the 404 page redirects to.
+  {
+    file: 'katie-crafts-will-be-at-spruce-street-harbor-park/index.md',
+    ops: [
+      { kind: 'replace-url', from: '/shop/category/bandanas/', to: 'https://www.etsy.com/shop/katiecrafts' },
+      { kind: 'replace-url', from: '/shop/category/tote-bags/', to: 'https://www.etsy.com/shop/katiecrafts' },
+      { kind: 'replace-url', from: '/shop/category/ornaments/', to: 'https://www.etsy.com/shop/katiecrafts' },
+      { kind: 'replace-url', from: '/shop/', to: 'https://www.etsy.com/shop/katiecrafts' },
+    ],
+  },
+  // Sponsors page is gone — drop the link, keep the label.
+  {
+    file: 'may-ad-swap-with-katie-crafts/index.md',
+    ops: [{ kind: 'unlink-url', url: '/sponsors/' }],
+  },
+  // Bare-URL refs from the WP export — the markdown link href is missing
+  // its scheme so it resolves as a relative path. The title attribute on
+  // the Gabriella link carries the actual destination URL.
+  {
+    file: 'sunday-funday-issue-8/index.md',
+    ops: [{
+      kind: 'replace-url',
+      from: '/Gabriella%20Miller%20Kids%20First%20Research%20Act/',
+      to: 'https://www.govtrack.us/congress/bills/113/hr2019',
+    }],
+  },
+  {
+    file: 'featured-etsy-shop-paper-kite-creations/index.md',
+    ops: [{
+      kind: 'replace-url',
+      from: '/paperkitecreations.blogspot.co.nz',
+      to: 'http://paperkitecreations.blogspot.co.nz/',
+    }],
+  },
+  {
+    file: 'featured-etsy-shop-artful-bits-bytes/index.md',
+    ops: [{
+      kind: 'replace-url',
+      from: '/artfulbitsandbytes.blogspot.com/2013/06/the-making-of-friendship.html',
+      to: 'http://artfulbitsandbytes.blogspot.com/2013/06/the-making-of-friendship.html',
+    }],
+  },
+  {
+    file: 'featured-etsy-shop-natalias-jewellry/index.md',
+    ops: [{
+      kind: 'replace-url',
+      from: '/www.etsy.com/ca/listing/161601763/wire-wrapped-necklace-made-of-copper/',
+      to: 'https://www.etsy.com/ca/listing/161601763/wire-wrapped-necklace-made-of-copper/',
+    }],
+  },
   // Orphan autolinks from "grab a button" HTML embed code that got rendered
   // as content in the markdown. Each line is a standalone <http://...> with
   // a stray `"/` from the dropped href= attribute.
+  {
+    file: 'what-are-you-doing-blog-hop-116/index.md',
+    ops: [{ kind: 'delete-autolink-substring', substring: 'WAYD.png”/' }],
+  },
   {
     file: 'what-are-you-doing-blog-hop-117/index.md',
     ops: [{ kind: 'delete-autolink-substring', substring: 'WAYD.png”/' }],
@@ -120,8 +175,15 @@ for (const job of jobs) {
 
   for (const op of job.ops) {
     if (op.kind === 'replace-url') {
+      // Only rewrite when `from` appears inside a markdown link href —
+      // `](from)` or `](from "title")`. This keeps the rewrite idempotent
+      // (no `](from` left after replace) and avoids accidental nested-URL
+      // rewrites when `from` happens to be a substring of `to` (wayback
+      // URLs embed the original) or when multiple ops share a `to`.
+      if (!next.includes(`](${op.from}`)) continue;
       const before = next;
-      next = next.split(op.from).join(op.to);
+      next = next.split(`](${op.from})`).join(`](${op.to})`);
+      next = next.split(`](${op.from} `).join(`](${op.to} `);
       if (next !== before) appliedOps++;
     } else if (op.kind === 'unlink-url') {
       // [label](url) → label

@@ -33,6 +33,6 @@ _Katie_
 
 > photo taken at the
 >
-> [Phila Flower Show](/philly-flower-show-2015-recap/ "Philly Flower Show 2015 Recap")
+> [Phila Flower Show](/blog/philly-flower-show-2015-recap/ "Philly Flower Show 2015 Recap")
 >
 > !

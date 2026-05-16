@@ -29,7 +29,7 @@ tags:
     name: "winter"
 ---
 
-[Yesterday](/wordless-wednesday/)
+[Yesterday](/blog/wordless-wednesday/)
 
 I shared a photo from my trip to Longwood Gardens last week. Husband and I took the day off to make the trip and check out the Christmas light displays before they were gone. Plus, I try to do something special every year on what would be Mom’s birthday, so this was the perfect thing!
 

@@ -35,7 +35,7 @@ Project: Origami Easy Halloween Bat Tutorial
 
 Hey everyone, Husband here! I’m back after a longer than intended absence with a new origami for you! I’m not sure if you all know, but
 
-[Halloween](/5-halloween-crochet-patterns/)
+[Halloween](/blog/5-halloween-crochet-patterns/)
 
 is one of our favorite holidays around here– Katie absolutely ADORES it and seeing her get into it as much as she does really makes me love it even more.
 

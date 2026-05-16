@@ -31,7 +31,7 @@ tags:
 
 I told you in my
 
-**[Crab nail art](/crab-nail-art/)**
+**[Crab nail art](/blog/crab-nail-art/)**
 
 post last week that I’d be continuing on with the Sea Theme until Summer was over, and here is the next installment! These are by far my favorite nails to date, and I’ll be doing them again in the future. I probably won’t even wait until the Summer! They were fun to paint and came out adorably!
 

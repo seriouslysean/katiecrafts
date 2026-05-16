@@ -31,7 +31,7 @@ Only one week left til Valentine’s Day! Next week, I’ll post a bunch of last
 
 When I went to the craft store, I found lots of Valentine’s decorations, signs and banners, but none were what I had in mind for the front door. I spent the last several years in apartment buildings, where we didn’t really dress up our front door because no one was seeing it anyway. Since we have a house now, I am taking advantage. Anyone who walks down our street can see the wreath,
 
-[**crocheted heart garland**](/5-minute-crocheted-hearts/ "5 Minute Crocheted Hearts")
+[**crocheted heart garland**](/blog/5-minute-crocheted-hearts/ "5 Minute Crocheted Hearts")
 
 , and assorted red, pink and white doily hearts in ALL the windows. Along with the silver garland I left from Christmas because I knew it would match my Valentine’s stuff. I am prepared.
 

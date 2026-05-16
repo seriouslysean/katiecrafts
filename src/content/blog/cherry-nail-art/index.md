@@ -27,15 +27,15 @@ tags:
     name: "sally hansen miracle gel"
 ---
 
-[Cherry pie filling](/cherry-pie-filling/)
+[Cherry pie filling](/blog/cherry-pie-filling/)
 
 ,
 
-[cherry tarts](/5-minute-cherry-tarts/)
+[cherry tarts](/blog/5-minute-cherry-tarts/)
 
 , an
 
-[amigurumi cherry pattern](/amigurumi-cherries-pattern/)
+[amigurumi cherry pattern](/blog/amigurumi-cherries-pattern/)
 
 – it’s time for one last cherry post! I used my Sally Hansen Miracle Gel (no UV light needed!) and made a cute look perfect for the Summer.
 
@@ -81,11 +81,11 @@ Happy Cherry gives this design a thumbs up!
 
 Cherries not your thing? Don’t forget about my
 
-[apple nail art design](/apples-nail-art-design/)
+[apple nail art design](/blog/apples-nail-art-design/)
 
 and
 
-[watermelon nail art design](/watermelon-nail-art-design/)
+[watermelon nail art design](/blog/watermelon-nail-art-design/)
 
 ! Any would be cute for a Summery look!
 

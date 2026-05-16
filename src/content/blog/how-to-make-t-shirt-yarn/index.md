@@ -40,7 +40,7 @@ Project: How To Make T-Shirt Yarn
 
 A few days ago, I posted a super easy DIY tutorial on how to make
 
-**[No Sew Braided Headbands](/no-sew-braided-headband/ "No Sew Braided Headband")**
+**[No Sew Braided Headbands](/blog/no-sew-braided-headband/ "No Sew Braided Headband")**
 
 . In case you were waiting for the weekend to arrive to try the project out, and have found yourself ready to begin but without the needed t-shirt yarn: fear not! I will show you in
 

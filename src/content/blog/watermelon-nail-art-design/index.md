@@ -33,7 +33,7 @@ _[Aquariann](http://blog.aquariann.com/2014/08/french-tip-manicure-watermelon-na
 
 watermelon nail wrap post, I decided to try my hand at making my own watermelon nail art design! My
 
-_[apple design](/apples-nail-art-design/ "Apples Nail Art Design")_
+_[apple design](/blog/apples-nail-art-design/ "Apples Nail Art Design")_
 
 is still my fave fruit so far, but these are a pretty cute way to end the summer. BONUS: If you skip one step, you end up with
 

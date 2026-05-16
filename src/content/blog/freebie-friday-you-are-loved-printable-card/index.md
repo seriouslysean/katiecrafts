@@ -33,7 +33,7 @@ Happy Friday, readers! Sunday is Valentine’s Day, finally! You have probably a
 
 You can print this as many times as you like, and give it to your co-workers, besties, significant others, kids, parents or even your pets (if you really wanted to!) Just print from your home printer on a regular 8.5″ x 11″ sheet of copy paper or cardstock. Then fold the card twice and you are good to go!
 
-_[(Need a reminder on how to fold? Check out last year’s tips and download the five freebies from 2015 if you like!)](/freebie-friday-5-printable-valentines-cards/)_
+_[(Need a reminder on how to fold? Check out last year’s tips and download the five freebies from 2015 if you like!)](/blog/freebie-friday-5-printable-valentines-cards/)_
 
 Click here to download this Valentine’s Day Freebie: You Are Loved printable card!
 

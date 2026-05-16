@@ -25,7 +25,7 @@ tags:
 
 If you remember anything about last year, you may recall my obsession with
 
-**[anchors](/anchors-away-etsy-picks/)**
+**[anchors](/blog/anchors-away-etsy-picks/)**
 
 during the Summer months. I thought it would be cute to do a quick nail art look based on them using some fun aquatic colors!
 

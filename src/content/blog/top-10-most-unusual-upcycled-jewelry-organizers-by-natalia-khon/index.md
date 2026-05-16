@@ -25,7 +25,7 @@ tags:
 
 _As I mentioned_
 
-_[Monday](/motivation-monday-be-brave/), this week is a rough one. I had one long post in drafts and was able to work up only a couple short ones for the week. Thankfully, a blogging buddy has offered to help out further! Today’s blog is a repost from our past guest blogger[Natalia Khon](http://magicjewellerybox.blogspot.ca/). She shared a really cool Top 10 with her readers last week that I thought you may enjoy as well\![Check out her original post here](http://magicjewellerybox.blogspot.ca/2015/09/top10-most-unusual-up-cycled-jewelry.html), and let me know below which your favorite upcycled jewelry organizer is! (Mine is the tree!)_
+_[Monday](/blog/motivation-monday-be-brave/), this week is a rough one. I had one long post in drafts and was able to work up only a couple short ones for the week. Thankfully, a blogging buddy has offered to help out further! Today’s blog is a repost from our past guest blogger[Natalia Khon](http://magicjewellerybox.blogspot.ca/). She shared a really cool Top 10 with her readers last week that I thought you may enjoy as well\![Check out her original post here](http://magicjewellerybox.blogspot.ca/2015/09/top10-most-unusual-up-cycled-jewelry.html), and let me know below which your favorite upcycled jewelry organizer is! (Mine is the tree!)_
 
 You do not have to give the legs to your old grater to turn it into a jewellery organizer… but you are creative, right? So, why not? Why stop at this either? Maybe a couple of wings too? 🙂
 

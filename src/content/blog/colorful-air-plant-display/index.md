@@ -39,7 +39,7 @@ tags:
 
 I mentioned that I bought some plants at the
 
-[Flower Show](/2014-philadelphia-flower-show-recap/ "2014 Philadelphia Flower Show Recap!")
+[Flower Show](/blog/2014-philadelphia-flower-show-recap/ "2014 Philadelphia Flower Show Recap!")
 
 the other day. Well, they weren’t just any plants. They were air plants, that are super cool and require little attention and can be mounted on my wall in weird test tube type glass containers. So it’s basically true love.
 

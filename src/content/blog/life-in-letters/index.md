@@ -71,7 +71,7 @@ R- Regenye. My maiden name!
 
 S- Soup. Soup is my favorite thing to eat! I love making it, I love trying different soups in restaurants, and if it was cold all the time I would eat soup every single day. There is only one meal I love more than soup, and that is….
 
-[![Life In Letters](./img-0452.jpg)](/slow-cooker-beer-and-cheese-chowder/)
+[![Life In Letters](./img-0452.jpg)](/blog/slow-cooker-beer-and-cheese-chowder/)
 
 T- Thanksgiving Dinner. My favorite meal of the whole year. Especially now that I cook it all myself. I love the satisfaction of a beautiful perfect meal that feeds the family on a big holiday that I was responsible for. That, and it’s so delicious!
 
@@ -93,7 +93,7 @@ Y- Yellow. The color of the walls we just painted my childhood bedroom over the 
 
 Z- Zeppoles. Every single year of Catholic school in Jersey ended with an end-of-year carnivals (also called fun-stival, because we were adorable.) All carnivals had a tent that sold funnel cake and zeppoles. Think smaller version of
 
-[beignets](/nola-in-a-nutshell/ "NOLA in a Nutshell")
+[beignets](/blog/nola-in-a-nutshell/ "NOLA in a Nutshell")
 
 . Hot, crispy on outside/soft on inside, covered in powdered sugar deliciousness and tossed in a greasy paper bag. I miss them.
 

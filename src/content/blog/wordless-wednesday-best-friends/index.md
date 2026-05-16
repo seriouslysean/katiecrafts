@@ -31,7 +31,7 @@ We were friendly for a couple years, and she was one of my favorite people to ha
 
 After that we just became closer, sharing the silliest stories, lots of wedding planning, a trip to
 
-[New Orleans](/new-orleans/ "New Orleans!")
+[New Orleans](/blog/new-orleans/ "New Orleans!")
 
 , and entirely too much food. It’s how we plan our evenings out… around what we want to eat. She’s one of my favorite people to talk to, and I hope that her absence in the city just forces us to chat more. I already promised her care packages and ridiculous cards in the mail, and I will start prepping them soon!
 

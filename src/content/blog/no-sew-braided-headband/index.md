@@ -46,7 +46,7 @@ Soon (hopefully very soon!) I’ll be able to put away my adorable winter hat an
 
 You already know I love being able to recycle something old into something new (read:
 
-[**5 Step T-Shirt Tote!**](/5-step-t-shirt-tote/ "5 Step T-Shirt Tote")
+[**5 Step T-Shirt Tote!**](/blog/5-step-t-shirt-tote/ "5 Step T-Shirt Tote")
 
 ), so I’m quite glad to be able to do the same for this project. In fact, I can just about guarantee you already have all the necessary materials to complete this quick DIY right now.
 

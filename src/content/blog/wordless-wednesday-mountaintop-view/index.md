@@ -20,7 +20,7 @@ tags:
 
 Happy Wednesday! Last week, I shared a few pics of my Husband’s work retreat at
 
-[Grape Hollow Farm](/wordless-wednesday-grape-hollow-farm/)
+[Grape Hollow Farm](/blog/wordless-wednesday-grape-hollow-farm/)
 
 ! The photo for this Wordless Wednesday also comes from that trip!
 

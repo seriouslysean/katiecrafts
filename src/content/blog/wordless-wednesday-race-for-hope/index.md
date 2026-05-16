@@ -23,7 +23,7 @@ tags:
 
 This past Sunday, November 1st, was the
 
-**[Race for Hope Philadelphia](/join-us-in-the-race-for-hope/)**
+**[Race for Hope Philadelphia](/blog/join-us-in-the-race-for-hope/)**
 
 ! It’s an annual race held by the National Brain Tumor Society which raises awareness and money for research in the fight against brain tumors. This year was their 10th year in Philly!
 

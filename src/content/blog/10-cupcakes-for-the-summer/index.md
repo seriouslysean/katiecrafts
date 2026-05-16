@@ -36,6 +36,6 @@ Seriously, how cute are some of these cupcakes! Watermelon?! Adorable. Also, the
 7. [Butterfinger Cupcakes from The Stir](http://thestir.cafemom.com/food_party/158821/butterfinger_cupcakes_recipe_will_make "Butterfinger Cupcakes from The Stir")
 8. [Cherry Icee Cupcakes from Crazy For Crust](http://www.crazyforcrust.com/2012/06/icee-cupcakes-and-other-fun-softball/ "Cherry Icee Cupcakes from Crazy For Crust")
 9. [Leinenkugel Cupcakes with Lemon Buttercream Frosting from b.u.i.cupcakes](http://buicupcakes.com/2013/07/09/leinenkugel-cupcakes-with-lemon-buttercream-frosting/?postpost=v2#content "Leinenkugel Cupcakes from buicupcakes")
-10. [Key Lime Frosted Cupcakes from ME!, Katie Crafts!](/fourth-day-of-christmas-key-lime-frosted-cupcake-recipe/ "Fourth Day of Christmas: Key Lime Frosted Cupcake Recipe")
+10. [Key Lime Frosted Cupcakes from ME!, Katie Crafts!](/blog/fourth-day-of-christmas-key-lime-frosted-cupcake-recipe/ "Fourth Day of Christmas: Key Lime Frosted Cupcake Recipe")
 
 Which cupcake are you going to try first? Let me know how they turn out!

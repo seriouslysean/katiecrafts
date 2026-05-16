@@ -71,7 +71,7 @@ This project is super easy, great for kids and teachers, and uses very few mater
 
 * Cut the paper to be the same size as your paint swatches. I did two sheets of paper at a time to get through it quicker, though if I’d been using my better paper cutter (which is sadly already
 
-  [packed for the move](/10-tips-tricks-for-moving/ "10 Tips & Tricks For Moving")
+  [packed for the move](/blog/10-tips-tricks-for-moving/ "10 Tips & Tricks For Moving")
 
   !) it would have been able to handle more sheets at a time. You can use scissors for this part too- just make sure to mark your lines with a pencil first!
 

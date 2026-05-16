@@ -87,7 +87,7 @@ Don’t forget to check out the other blogs from last week!
 
 - Katie’s Post:
 
-  [Katie Crafts – Fashion Inspiration: 3 Labor Day Looks](/fashion-inspiration-3-labor-day-looks/)
+  [Katie Crafts – Fashion Inspiration: 3 Labor Day Looks](/blog/fashion-inspiration-3-labor-day-looks/)
 
 [a Rafflecopter giveaway](http://www.rafflecopter.com/rafl/display/9948790e10/)
 

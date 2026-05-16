@@ -25,7 +25,7 @@ tags:
 
 You already know Fall is my favorite. Everything about it. I shared some Fashion Inspiration based on
 
-[Autumn Hues](/fashion-inspiration-autumn-hues/)
+[Autumn Hues](/blog/fashion-inspiration-autumn-hues/)
 
 last year and I thought I’d do the same this year. Today’s Fall picks are all about being comfy and cozy and warm!
 

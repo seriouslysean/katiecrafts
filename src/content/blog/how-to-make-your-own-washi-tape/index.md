@@ -33,7 +33,7 @@ Project: How To Make Your Own Washi Tape.. . in 3 different ways!
 
 Did you
 
-[_read Monday’s post_](/5-uses-for-washi-tape/ "5 Uses For: Washi Tape")
+[_read Monday’s post_](/blog/5-uses-for-washi-tape/ "5 Uses For: Washi Tape")
 
 about how completely awesome washi tape is? No? You should probably check it out now, so that you have ideas in your head on what you will use this tape for as you’re making it! My sister is visiting for the next week and a half, and she and I tried out
 

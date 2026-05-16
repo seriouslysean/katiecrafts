@@ -67,7 +67,7 @@ _[Get the recipe here.](http://www.bonappetit.com/recipe/potato-and-celery-root-
 
 Last but not least, don’t forget the carrots! My Dad’s recipe for honey glazed carrots is still my favorite, so I just had to include it for your dining pleasure! They’d be the perfect side dish to bring to whatever meal you’re attending.
 
-_[Get the recipe here.](/dads-honey-glazed-carrots/)_
+_[Get the recipe here.](/blog/dads-honey-glazed-carrots/)_
 
 For more deliciously easy recipe ideas, follow my
 

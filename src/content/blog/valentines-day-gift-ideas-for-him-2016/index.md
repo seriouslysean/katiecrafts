@@ -37,11 +37,11 @@ tags:
 
 Katie and I each shared our picks for Valentine’s Day last year and it was an absolute blast seeing what we each picked. See my
 
-**[gifts for him](/husbands-etsy-picks-valentines-day-gifts-for-him/)**
+**[gifts for him](/blog/husbands-etsy-picks-valentines-day-gifts-for-him/)**
 
 post and Katie’s
 
-**[gifts for her](/my-etsy-picks-valentines-day-gifts-for-her/)**
+**[gifts for her](/blog/my-etsy-picks-valentines-day-gifts-for-her/)**
 
 post to check them out. We had so much fun perusing through Etsy that we decided to do it all over again for 2016! I really love seeing how our tastes change over the course of a year.
 

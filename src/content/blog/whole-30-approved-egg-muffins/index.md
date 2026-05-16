@@ -37,7 +37,7 @@ tags:
 
 I’ll be the first to tell you, I hate breakfast. I like breakfast foods, but I don’t like eating as soon as I wake up. I’m never hungry in the morning- in fact, I get nauseous if I eat too early. And I never, ever, ever want to wake up and immediately cook. Husband is the opposite, being famished within moments of fluttering his eyes open. That’s why these
 
-[**Whole30**](/whole30-day-1/)**approved Egg Muffins**
+[**Whole30**](/blog/whole30-day-1/)**approved Egg Muffins**
 
 are such a lifesaver for both of us!
 

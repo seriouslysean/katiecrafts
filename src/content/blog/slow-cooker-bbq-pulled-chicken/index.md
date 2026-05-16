@@ -31,7 +31,7 @@ Recipe: Slow Cooker BBQ Pulled Chicken
 
 A few weeks ago after I made the
 
-[**Bang-Bang Chicken**](/bang-bang-chicken-recipe/ "Bang Bang Chicken Recipe")
+[**Bang-Bang Chicken**](/blog/bang-bang-chicken-recipe/ "Bang Bang Chicken Recipe")
 
 , I decided I wanted to try another recipe from Pinterest. I settled on something I could make in the crock pot, since those are by far my favorite meals. I found a recipe for slow cooker pulled BBQ chicken and made a bunch of adjustments to it, until it was pretty damn perfect. I will definitely be making this again soon- it was the easiest thing I’ve ever made in the crock pot and it was SO good!!
 

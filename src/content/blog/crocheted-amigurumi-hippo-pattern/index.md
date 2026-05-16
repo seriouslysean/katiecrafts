@@ -29,7 +29,7 @@ Project: Crocheted Amigurumi Hippo Pattern
 
 A few people in my family and friends circle are currently pregnant! That means come 2015 there will be a few baby showers that I’ll be attending, so I figured I better start making a ton of baby gifts now in preparation! Since we don’t know the sexes of the babies-to-be yet, I’m looking for gender-neutral projects that any little one could play with. In addition to some cute baby blankets (post-to-come!),
 
-[_play mats_](/diy-baby-play-mat/ "DIY Baby Play Mat")
+[_play mats_](/blog/diy-baby-play-mat/ "DIY Baby Play Mat")
 
 and clothing, I have been busy crocheting little zoo animals at my weekly Crochet/Knit class! The first one I completed was this adorable little hippo!
 

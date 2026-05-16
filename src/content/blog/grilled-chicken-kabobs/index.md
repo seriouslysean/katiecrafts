@@ -81,7 +81,7 @@ Because these skewers were a last minute meal, I did not have time to marinate t
 
 - Let cool for a few minutes and enjoy your kabobs right off the skewer! Pair with some
 
-  **[Mexican-style grilled corn on the cob](/mexican-style-corn-on-the-cob/)**
+  **[Mexican-style grilled corn on the cob](/blog/mexican-style-corn-on-the-cob/)**
 
   !
 

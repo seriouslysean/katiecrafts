@@ -23,7 +23,7 @@ tags:
 
 Mother’s Day is a tough day for me, having lost mine 3 and a half years ago to brain cancer (
 
-**[learn more about my mom here.](/celebrating-mom/)**
+**[learn more about my mom here.](/blog/celebrating-mom/)**
 
 ) I’m glad, though, that it falls when it does. May is Brain Tumor Awareness Month!
 

@@ -29,7 +29,7 @@ tags:
 
 Now that you know how to make my homemade
 
-**[cherry pie filling](/cherry-pie-filling/)**
+**[cherry pie filling](/blog/cherry-pie-filling/)**
 
 , let’s put it to use in the easiest possible way: cherry tarts! This dessert will take you all of five minutes to prepare- seriously. And it’s so delicious!
 
@@ -37,7 +37,7 @@ I don’t even think this can be considered a recipe, since there is no cooking 
 
 ## Ingredients:
 
-- **[Cherry pie filling (recipe here)](/cherry-pie-filling/)**
+- **[Cherry pie filling (recipe here)](/blog/cherry-pie-filling/)**
 
 - Ready-made graham cracker pie crusts, mini 4 oz crusts\*
 
@@ -59,7 +59,7 @@ _[Keebler’s Ready Crust 3 inch Mini Graham Cracker Crusts](http://amzn.to/1Lqt
 
 - Add whipped cream on top (store bought or
 
-  **[homemade](/homemade-whipped-cream-recipe/)**
+  **[homemade](/blog/homemade-whipped-cream-recipe/)**
 
   ).
 

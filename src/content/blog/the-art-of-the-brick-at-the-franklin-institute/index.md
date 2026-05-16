@@ -29,7 +29,7 @@ exhibit at The Franklin Institute here in Philly. Today I will share the rest of
 
 As I mentioned in yesterday’s post featuring
 
-_[The Great Wave](/wordless-wednesday-the-great-wave-in-lego/)_
+_[The Great Wave](/blog/wordless-wednesday-the-great-wave-in-lego/)_
 
 , contemporary artist
 

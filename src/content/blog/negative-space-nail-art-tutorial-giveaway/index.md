@@ -31,7 +31,7 @@ tags:
 
 A couple weeks ago, I began a giveaway for a
 
-[cuticle pen](/quick-spring-nail-art-giveaway/)
+[cuticle pen](/blog/quick-spring-nail-art-giveaway/)
 
 (congrats again on winning, May!) and asked readers to tell me what looks they wanted to see in the future. I had a few people mention geometric and simple designs. I thought it would be a perfect time to try out a negative space modern look using nail tape, and give away a few rolls of it too!
 

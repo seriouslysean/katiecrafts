@@ -29,7 +29,7 @@ I had a very lovely and relaxing weekend, though I didn’t get done a fraction 
 
 The photo behind the quote is one I took yesterday when I was visiting
 
-**[Shofuso Japanese Gardens](/shofuso-japanese-house-and-garden/)**
+**[Shofuso Japanese Gardens](/blog/shofuso-japanese-house-and-garden/)**
 
 . You may have already seen the original on
 

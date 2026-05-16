@@ -31,27 +31,27 @@ Wow, a full week of our
 
 has already gone by! So far we’ve enjoyed a
 
-**[recipe](/fourth-day-of-christmas-key-lime-frosted-cupcake-recipe/ "Fourth Day of Christmas: Key Lime Frosted Cupcake Recipe")**
+**[recipe](/blog/fourth-day-of-christmas-key-lime-frosted-cupcake-recipe/ "Fourth Day of Christmas: Key Lime Frosted Cupcake Recipe")**
 
 , some festive
 
-**[origami](/fifth-day-of-christmas-easy-origami-christmas-tree-diy/ "Fifth Day of Christmas: Easy Origami Christmas Tree DIY")**
+**[origami](/blog/fifth-day-of-christmas-easy-origami-christmas-tree-diy/ "Fifth Day of Christmas: Easy Origami Christmas Tree DIY")**
 
 , an easy
 
-**[sewing project](/third-day-of-christmas-diy-mini-makeup-bag/ "Third Day of Christmas: DIY Mini Makeup Bag")**
+**[sewing project](/blog/third-day-of-christmas-diy-mini-makeup-bag/ "Third Day of Christmas: DIY Mini Makeup Bag")**
 
 , and not
 
-**[one](/first-day-of-christmas-gift-tag-giveaway/ "First Day of Christmas: Gift Tag Giveaway")**
+**[one](/blog/first-day-of-christmas-gift-tag-giveaway/ "First Day of Christmas: Gift Tag Giveaway")**
 
 , but
 
-**[two](/seventh-day-of-christmas-big-giveaway/ "Seventh Day of Christmas: Big Giveaway!")**
+**[two](/blog/seventh-day-of-christmas-big-giveaway/ "Seventh Day of Christmas: Big Giveaway!")**
 
 giveaways! All while listening to some
 
-**[holiday tunes](/sixth-day-of-christmas-holiday-playlist/ "Sixth Day of Christmas: Holiday Playlist")**
+**[holiday tunes](/blog/sixth-day-of-christmas-holiday-playlist/ "Sixth Day of Christmas: Holiday Playlist")**
 
 ! Now it’s time to turn to a beauty post and do a fun little nail art design for Manicure Monday!
 

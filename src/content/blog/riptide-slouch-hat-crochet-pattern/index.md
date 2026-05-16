@@ -31,7 +31,7 @@ tags:
 
 It isn’t quite cold enough for our Winter hats yet (
 
-[we’ve only worn them but a few times](/fall-nail-art/)
+[we’ve only worn them but a few times](/blog/fall-nail-art/)
 
 ), but it’s definitely not too early to start making your own! While I have several I already wear, my Husband only has one, and he wanted a new one! He picked out a skein of yarn at Hobby Lobby and found this amazing free pattern online for the
 

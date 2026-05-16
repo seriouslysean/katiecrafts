@@ -111,14 +111,14 @@ has everything you need in one place to turn out a cute Halloween party!
 
 Hope you liked all the free Halloween printables I found! I think they’re pretty great! Don’t forget about my ideas for
 
-**[last minute Halloween costumes](/last-minute-halloween-costume-idea-diy/)**
+**[last minute Halloween costumes](/blog/last-minute-halloween-costume-idea-diy/)**
 
 ,
 
-**[DIY veils](/day-of-the-dead-easy-diy-veil/)**
+**[DIY veils](/blog/day-of-the-dead-easy-diy-veil/)**
 
 , and my
 
-**[several](/tombstone-nail-art/)[different](/nail-art-design-halloween-manicure/)[Halloween](/boo-tiful-halloween-nails/)[nail art tutorials](/frankenstein-nail-art-tutorial/)!**
+**[several](/blog/tombstone-nail-art/)[different](/blog/nail-art-design-halloween-manicure/)[Halloween](/blog/boo-tiful-halloween-nails/)[nail art tutorials](/blog/frankenstein-nail-art-tutorial/)!**
 
 Hope you have a happy and safe Halloweeeeeeen!

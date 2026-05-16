@@ -55,7 +55,7 @@ in Philadelphia this
 
 First, you’ve probably noticed the design changes. New year, new Katie Crafts! We changed up the logo and website to better reflect our needs going forward. I ditched Etsy and my husband (hi honeys!)
 
-[got a storefront up and running which you can access here.](/shop/)
+[got a storefront up and running which you can access here.](https://www.etsy.com/shop/katiecrafts)
 
 We are also officially, finally, a business. 🙂
 
@@ -77,7 +77,7 @@ _what!_
 
 A new love in my life meant new interests for craft projects, and so my bandana bibs were born. I initially made them just for the baby as a cute but practical means to catch the never ending drool he produces, but I really liked making them so I continued. Some of the bibbies are a layer of cotton fabric with terry cloth backing and a layer of interfacing between them. Others are reversible, with two different layers of cotton fabric and interfacing and diaper cloth between them.
 
-[All are absorbent, adorable and available for sale!](/shop/category/bandanas/)
+[All are absorbent, adorable and available for sale!](https://www.etsy.com/shop/katiecrafts)
 
 They fit infants, toddlers and your favorite pup as well!
 
@@ -85,13 +85,13 @@ They fit infants, toddlers and your favorite pup as well!
 
 I’m also still making tote bags, though I’ve added new designs to the mix and changed my supply from lightweight bags to better quality heavyweight bags.
 
-[You can find all my market tote bag options here.](/shop/category/tote-bags/)
+[You can find all my market tote bag options here.](https://www.etsy.com/shop/katiecrafts)
 
 ![Sample of Tote Bags For Sale](./totebag-samples.jpg)
 
 I made ornaments for friends and family last Christmas and will be opening up my sales to the public this year via my online store.
 
-[More of those will be added as the holiday months grow nearer.](/shop/category/ornaments/)
+[More of those will be added as the holiday months grow nearer.](https://www.etsy.com/shop/katiecrafts)
 
 Each can be personalized as well, making them really great gifts!
 

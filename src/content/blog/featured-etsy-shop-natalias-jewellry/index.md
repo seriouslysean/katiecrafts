@@ -105,7 +105,7 @@ You can win this!!
 
 Now is your chance to get one of Natalia’s wearing works of art for yourself! This
 
-[unique pendant](/www.etsy.com/ca/listing/161601763/wire-wrapped-necklace-made-of-copper/ "Wire Wrapped Necklace from Natalia Khon")
+[unique pendant](https://www.etsy.com/ca/listing/161601763/wire-wrapped-necklace-made-of-copper/ "Wire Wrapped Necklace from Natalia Khon")
 
 \[above] is a wire wrapped Botswana agate bead. The metals are copper and brass. This is one of a kind pendant! This giveaway is open for anyone
 
@@ -121,6 +121,6 @@ _11:59PM ET on August 5th_
 
 Don’t forget about the other
 
-[giveaway](/giveaway-chelsea-victoria/ "Giveaway with Chelsea Victoria")
+[giveaway](/blog/giveaway-chelsea-victoria/ "Giveaway with Chelsea Victoria")
 
 going on this week, too! Two giveaways in three days- must be a lucky week!

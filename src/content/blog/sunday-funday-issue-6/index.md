@@ -63,7 +63,7 @@ I know you’ve seen me post about them before, and chances are pretty good you�
 
 After adoring all the crazy cute creations over at
 
-[The Wandering Deer](/featured-etsy-shop-the-wandering-deer/ "Featured Etsy Shop: The Wandering Deer")
+[The Wandering Deer](/blog/featured-etsy-shop-the-wandering-deer/ "Featured Etsy Shop: The Wandering Deer")
 
 , I decided to look up some new patterns for amigurumi! It’s been awhile since I’ve done any, so I thought some new patterns would inspire me. This is one I definitely want to try! It’s by
 

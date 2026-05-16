@@ -33,11 +33,11 @@ tags:
 
 Last year, I had a very cute
 
-[**nail art design for Easter**](/nail-art-easter-design/ "Nail Art: Easter Design 2014")
+[**nail art design for Easter**](/blog/nail-art-easter-design/ "Nail Art: Easter Design 2014")
 
 that was reminiscent of a little basket with flowers and decorated eggs. This year, I went for a different Easter staple:
 
-[Peeps](/chocolate-covered-easter-peeps/ "Chocolate Covered Easter Peeps")
+[Peeps](/blog/chocolate-covered-easter-peeps/ "Chocolate Covered Easter Peeps")
 
 !
 

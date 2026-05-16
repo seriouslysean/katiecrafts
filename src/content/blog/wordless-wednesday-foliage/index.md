@@ -25,7 +25,7 @@ tags:
 
 Ahh, Fall foliage. So pretty! As promised last
 
-[Wednesday](/wordless-wednesday-autumn-begins/ "Wordless Wednesday: Autumn Begins")
+[Wednesday](/blog/wordless-wednesday-autumn-begins/ "Wordless Wednesday: Autumn Begins")
 
 , this week is another shot by one of my wedding photographers last October! Isn’t this scenery gorgeous?! This is where I got married. <3
 

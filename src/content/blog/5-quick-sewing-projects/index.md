@@ -39,7 +39,7 @@ It just sew happens (see what I did there?) that a few of these are hair accesso
 
 > Note: Some of my projects require only a teeny bit of sewing (like the
 >
-> [tutu](/how-to-make-a-no-sew-baby-tutu/ "How to Make a No Sew Baby Tutu")
+> [tutu](/blog/how-to-make-a-no-sew-baby-tutu/ "How to Make a No Sew Baby Tutu")
 >
 > ), making them almost no-sew. These are not those projects. You can expect at least 5 minutes of sewing with these. 🙂
 
@@ -47,7 +47,7 @@ It just sew happens (see what I did there?) that a few of these are hair accesso
 
 First up, we have these adorable
 
-[**Yo-Yo Flowers**](/yo-yo-flowers/ "Yo-Yo Flowers")
+[**Yo-Yo Flowers**](/blog/yo-yo-flowers/ "Yo-Yo Flowers")
 
 ! I recently made a dozen of these to decorate a banner for my friend’s baby shower. When the shower was over, I collected them back and will be turning them in to little baby hair clips. That is exactly what is so great about these things. They have a trillion uses!
 
@@ -55,7 +55,7 @@ First up, we have these adorable
 
 Next up is one I need to make more of, now that my hair is longer! These
 
-[**DIY Turban Headbands**](/diy-turban-headband-tutorial/ "DIY Turban Headband Tutorial")
+[**DIY Turban Headbands**](/blog/diy-turban-headband-tutorial/ "DIY Turban Headband Tutorial")
 
 are really cute and can be made with just about any material. Since I got some new fabric for Christmas, I should definitely sew up a few more for the upcoming Spring months!
 
@@ -67,7 +67,7 @@ are really cute and can be made with just about any material. Since I got some n
 
 I was just part of the redditgifts exchanges again (I can’t get enough!) and the girl I had mentioned liking lipstick and nail polish, etc. I made her some earrings, bought her some Burt’s Bees and Revlon, and made her a
 
-[**Mini Makeup Bag**](/third-day-of-christmas-diy-mini-makeup-bag/ "Third Day of Christmas: DIY Mini Makeup Bag")
+[**Mini Makeup Bag**](/blog/third-day-of-christmas-diy-mini-makeup-bag/ "Third Day of Christmas: DIY Mini Makeup Bag")
 
 to put all the things in (which I embroidered with her name… obviously). This project works up so quickly, you’ll wonder why you haven’t made a dozen of them for different purses/back packs/etc. already! Don’t let the word “Makeup” fool you. I use one to hold scissors and needles for my Knitting Class bag. You can use it for whatever your little heart desires.
 
@@ -79,7 +79,7 @@ to put all the things in (which I embroidered with her name… obviously). This 
 
 These
 
-[**DIY Hair Bows**](/how-to-sew-a-hair-bow/ "How To Sew A Hair Bow")
+[**DIY Hair Bows**](/blog/how-to-sew-a-hair-bow/ "How To Sew A Hair Bow")
 
 have become one of my staple accessories. I have them in many colors and patterns- pretty much something to match each of my outfits. I also have a few in my
 
@@ -95,7 +95,7 @@ have become one of my staple accessories. I have them in many colors and pattern
 
 This was one of my favorites to make! This
 
-[**Cozy Catnip Kitty Pillow**](/cozy-catnip-kitty-pillow/ "Cozy Catnip Kitty Pillow!")
+[**Cozy Catnip Kitty Pillow**](/blog/cozy-catnip-kitty-pillow/ "Cozy Catnip Kitty Pillow!")
 
 was mega simple and my cat, Lucky, loved it instantly. We just recently had to throw it away since it got too dirty to wash, so I’ll be making another one soon! I used soft flannel to make it cozier and he was obsessed. I think we have a cat bed on every floor of our house. Don’t forget to learn
 

@@ -27,7 +27,7 @@ tags:
 
 Hey guys, it’s Jess here with another round of needle art mysteries revealed! I know that I said in my
 
-[last issue](/needle-art-mysteries-sewing/ "Needle Art Mysteries")
+[last issue](/blog/needle-art-mysteries-sewing/ "Needle Art Mysteries")
 
 that I would be tackling knitting, however I found this needle art and thought it might be a good one to continue on from sewing. It’s the needle art of cross-stitching!
 

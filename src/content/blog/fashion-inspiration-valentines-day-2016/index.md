@@ -37,7 +37,7 @@ tags:
 
 I had a blast finding outfits for
 
-[last year’s Valentine’s Day](/fashion-inspiration-valentines-day/)
+[last year’s Valentine’s Day](/blog/fashion-inspiration-valentines-day/)
 
 , so I knew I had to do it again for this year! Here is my fashion inspiration for February 14th, 2016.
 

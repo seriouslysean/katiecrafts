@@ -43,7 +43,7 @@ Today is a “12 Days of Christmas” and “Words for Wednesday” cross-over! 
 
 A few months ago, I participated in a
 
-[**Teacher Gift**](/redditgifts-for-the-teachers-2014/ "Redditgifts For The Teachers 2014")
+[**Teacher Gift**](/blog/redditgifts-for-the-teachers-2014/ "Redditgifts For The Teachers 2014")
 
 event with Reddit Gifts. Some participants were randomly drawn to receive a free year of Reddit Gold or Reddit Elves, and I was one of them! I chose Elves and am currently involved in two holiday exchanges! One is a Holiday Card exchange, where you simply send a card (or in my case, a card and a $5 gift card to Starbucks to get a warm drink) to your “Secret Santa” redditor.
 
@@ -77,6 +77,6 @@ you can download it right here
 
 And don’t forget to enter my
 
-[**_big giveaway_**](/seventh-day-of-christmas-big-giveaway/ "Seventh Day of Christmas: Big Giveaway!")
+[**_big giveaway_**](/blog/seventh-day-of-christmas-big-giveaway/ "Seventh Day of Christmas: Big Giveaway!")
 
 ! It ends on Friday!

@@ -31,7 +31,7 @@ Happy Father’s Day, to all you Dads out there! We honor you today with all-thi
 
 It was much easier to make the
 
-[Sunday Funday: Mom Edition](/sunday-funday-issue-13-mom-edition/ "Sunday Funday: Issue 13, Mom Edition")
+[Sunday Funday: Mom Edition](/blog/sunday-funday-issue-13-mom-edition/ "Sunday Funday: Issue 13, Mom Edition")
 
 post, let me tell you! My mom always loved everything I loved, so seeing things from her perspective was very easy to do. My DAD, however, likes to hunt, go crabbing, cook, tend to his garden and watch terrible reality TV shows about repossessing cars and fishing. That’s about it. I still managed to find things to fit into my weekly categories that remind me of him, though! Enjoy!
 

@@ -78,7 +78,7 @@ Joan’s Post:
 
 Katie’s Post:
 
-[Katie Crafts – Wordless Wednesday: Eustoma](/wordless-wednesday-eustoma/)
+[Katie Crafts – Wordless Wednesday: Eustoma](/blog/wordless-wednesday-eustoma/)
 
 [a Rafflecopter giveaway](http://www.rafflecopter.com/rafl/display/9948790e10/)
 

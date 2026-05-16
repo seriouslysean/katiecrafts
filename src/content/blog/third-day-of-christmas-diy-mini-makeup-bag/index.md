@@ -139,7 +139,7 @@ Four panels, measured and cut in adorable Christmas fabric!
 
 - Make boxed corners by pinching each corner into a triangle and sewing across, as you learned in my
 
-  [Tote Bag Tutorial](/reversible-tote-bag-tutorial/ "Reversible Tote Bag Tutorial")
+  [Tote Bag Tutorial](/blog/reversible-tote-bag-tutorial/ "Reversible Tote Bag Tutorial")
 
   .
 
@@ -165,4 +165,4 @@ This little bag works up super quickly and is really cute! I’ll be making one 
 
 Hope you enjoyed my mini makeup bag tutorial on this third day of Christmas on Katie Crafts! Don’t forget about our first day of Christmas giveaway!
 
-[**_Click here to enter!!_**](/first-day-of-christmas-gift-tag-giveaway/ "First Day of Christmas: Gift Tag Giveaway")
+[**_Click here to enter!!_**](/blog/first-day-of-christmas-gift-tag-giveaway/ "First Day of Christmas: Gift Tag Giveaway")

@@ -57,7 +57,7 @@ Before you close this page thinking these owls are going to take too much time/b
 
 \*I don’t know
 
-[if you recall](/fall-nail-art/)
+[if you recall](/blog/fall-nail-art/)
 
 , but these all came in the same Klearcolor Nail Lacquer pack from
 

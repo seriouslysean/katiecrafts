@@ -29,7 +29,7 @@ tags:
 
 Happy Friday, friends! I bumped my scheduled post for today (those long awaited
 
-[Longwood Gardens](/motivation-monday-be-awesome/)
+[Longwood Gardens](/blog/motivation-monday-be-awesome/)
 
 photos- they will be Monday’s post now, I promise!) in favor of this really cool one! It’s an interactive timeline depicting the history of the Aran Jumper- so it’s a fashion AND knitting post all in one. How perfect, right!?
 

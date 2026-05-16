@@ -105,15 +105,15 @@ _**Worms In Dirt Cupcakes**_
 
 Don’t forget to check out my
 
-[**last minute Halloween costume idea**](/last-minute-halloween-costume-idea-diy/ "Last Minute Halloween Costume Idea DIY")
+[**last minute Halloween costume idea**](/blog/last-minute-halloween-costume-idea-diy/ "Last Minute Halloween Costume Idea DIY")
 
 , or my
 
-[**Halloween nail art designs**](/nail-art-design-halloween-manicure/ "Nail Art Design: Halloween Manicure!")
+[**Halloween nail art designs**](/blog/nail-art-design-halloween-manicure/ "Nail Art Design: Halloween Manicure!")
 
 ! And make sure you vote on who wore it best in my
 
-[**Halloween Cat Dressed As A Bat Challenge**](/throwback-thursday-halloween-cats-dressed-as-bats/ "Throwback Thursday: Halloween Cats Dressed As Bats")
+[**Halloween Cat Dressed As A Bat Challenge**](/blog/throwback-thursday-halloween-cats-dressed-as-bats/ "Throwback Thursday: Halloween Cats Dressed As Bats")
 
 !
 

@@ -31,7 +31,7 @@ Today’s Words for Wednesday are about tomorrow’s holiday! Here are a few quo
 
 that are about giving thanks. They are both lovely sentiments and really pretty to look at, too! Enjoy these quotes and enjoy your
 
-**[Thanksgiving](/5-last-minute-thanksgiving-side-dish-recipes/)**
+**[Thanksgiving](/blog/5-last-minute-thanksgiving-side-dish-recipes/)**
 
 !
 

@@ -35,7 +35,7 @@ tags:
 
 One of the rules of
 
-[Whole30](/whole-30-approved-egg-muffins/)
+[Whole30](/blog/whole-30-approved-egg-muffins/)
 
 is
 
