@@ -1,0 +1,6 @@
+{
+  "recurse": true,
+  "concurrency": 25,
+  "timeout": 15000,
+  "skip": "^(mailto:|tel:|javascript:)"
+}

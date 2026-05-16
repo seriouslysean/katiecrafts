@@ -24,7 +24,11 @@ jobs:
           node-version-file: package.json
           cache: npm
       - run: npm ci
+      - run: npm run audit:content
+      - run: npm run audit:markdown
       - run: npm run build
+      - run: npm run audit:html
+      - run: npm run audit:links
       - run: cp CNAME dist/CNAME
       - uses: actions/configure-pages@v6
       - uses: actions/upload-pages-artifact@v4

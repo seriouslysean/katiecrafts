@@ -30,9 +30,10 @@ const panelId = 'site-search-panel';
         aria-controls={resultsId}
         autocomplete="off"
       />
+      <button type="submit" class="visually-hidden">Search</button>
     </form>
     <p class="search__empty" data-search-empty hidden>No matches.</p>
-    <ul id={resultsId} class="search__results" role="listbox" hidden></ul>
+    <ul id={resultsId} class="search__results" hidden></ul>
   </div>
 </div>
 
