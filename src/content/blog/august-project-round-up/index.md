@@ -4,7 +4,7 @@ publishedDate: "2014-09-04"
 excerpt: "August Project Round Up Hello, September! I have mixed feelings about this month. It means Fall is just around the corner (which is my fave!) and it means the anniversary of the first time the Husband and I met/had our first date/officially started dating, but it’s also the anniversary of losing my mom. Now on […]"
 featuredImage:
   src: "./featured.jpg"
-  alt: "August Project Round Up on Katie Crafts; http://www.katiecrafts.com"
+  alt: "August Project Round Up"
 categories:
   - slug: "crafts"
     name: "Crafts"
@@ -49,7 +49,7 @@ I made this little pillow for my Sister out of my Husband’s old shirt, and it 
 
 This one is courtesy of the Husband! I love when he does origami posts for the blog, and this is my favorite so far. It reminded me of childhood so much! Who doesn’t love these kinds of paper crafts?
 
-[![August Project Round Up on Katie Crafts; http://www.katiecrafts.com](./origami-fortune-teller-main.jpg)](/origami-with-the-husband-fortune-teller/)
+[![August Project Round Up](./origami-fortune-teller-main.jpg)](/origami-with-the-husband-fortune-teller/)
 
 [](/crocheted-amigurumi-hippo-pattern/ "Crocheted Amigurumi Hippo Pattern")
 
@@ -57,7 +57,7 @@ This one is courtesy of the Husband! I love when he does origami posts for the b
 
 : While I cannot take credit for the pattern itself, I did make the little hippo using said pattern and it came out crazy adorable! I’m so glad I found it and was able to share it with you guys!
 
-[![August Project Round Up on Katie Crafts; http://www.katiecrafts.com](./amigurumi-hippo.jpg)](/crocheted-amigurumi-hippo-pattern/)
+[![August Project Round Up](./amigurumi-hippo.jpg)](/crocheted-amigurumi-hippo-pattern/)
 
 [DIY Mini Sketch Book](/diy-mini-sketch-book/ "DIY Mini Sketch Book")
 
@@ -65,7 +65,7 @@ This one is courtesy of the Husband! I love when he does origami posts for the b
 
 I still think this is such a great school project for a teacher to do with his/her class! Paint chip swatches are free at most hardware stores, you can use computer or notebook paper for the middle and one skein of yarn is way more than enough to bind all the sketch books in your classroom. Fun and easy project for kids!
 
-[![August Project Round Up on Katie Crafts; http://www.katiecrafts.com](./diy-mini-sketch-book-main.jpg)](/diy-mini-sketch-book/)
+[![August Project Round Up](./diy-mini-sketch-book-main.jpg)](/diy-mini-sketch-book/)
 
 ## Nail Art
 
@@ -75,7 +75,7 @@ I still think this is such a great school project for a teacher to do with his/h
 
 Just in time for back to school, my apples nail art design is perfect for the beginning of the season! It’s still one of my favorite designs! And way easier than it looks!
 
-[![August Project Round Up on Katie Crafts; http://www.katiecrafts.com](./apple-nail-art-design-main.jpg)](/apples-nail-art-design/)
+[![August Project Round Up](./apple-nail-art-design-main.jpg)](/apples-nail-art-design/)
 
 [Watermelon Design](/watermelon-nail-art-design/ "Watermelon Nail Art Design")
 
@@ -87,7 +87,7 @@ _“Good-Bye”_
 
 to the summer!
 
-[![August Project Round Up on Katie Crafts; http://www.katiecrafts.com](./watermelon-nail-art-design-main.jpg)](/watermelon-nail-art-design/)
+[![August Project Round Up](./watermelon-nail-art-design-main.jpg)](/watermelon-nail-art-design/)
 
 ## Speaking of “Good Byes”…
 
@@ -97,10 +97,10 @@ to the summer!
 
 : Saying “see ya later!” to our apartment and saying “hello!” to a new house is super stressful, but here are my top ten tips and tricks to make your big move easier! They are so handy- you will be glad to have them bookmarked!
 
-[![August Project Round Up on Katie Crafts; http://www.katiecrafts.com](./moving-boxes-tips-main.jpg)](/10-tips-tricks-for-moving/)
+[![August Project Round Up](./moving-boxes-tips-main.jpg)](/10-tips-tricks-for-moving/)
 
 We also said g’bye to these sweethearts the last weekend of August! We cat-sat for them for two and a half months and I really do miss them! They were the loviest trio! Meese you Marshall, Samantha and Biggie!!
 
-![August Project Round Up on Katie Crafts; http://www.katiecrafts.com](./marshall-sam-biggie.jpg)
+![August Project Round Up](./marshall-sam-biggie.jpg)
 
 How was your August? Anything big planned for September?

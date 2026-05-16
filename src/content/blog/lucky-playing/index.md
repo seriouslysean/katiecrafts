@@ -13,4 +13,4 @@ tags:
     name: "lucky playing"
 ---
 
-![Lucky Playing on Katie Crafts; http://www.katiecrafts.com](./img-2350.jpg)
+![Lucky Playing](./img-2350.jpg)

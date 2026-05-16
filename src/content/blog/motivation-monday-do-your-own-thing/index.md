@@ -4,7 +4,7 @@ publishedDate: "2016-05-02"
 excerpt: "Sometimes it is easy to get pushed along in a certain direction with the rest of the crowd, but we must always try to forge our own way. It is Motivation Monday, so let’s aim to be like this beautiful tree top and not worry about what everyone else is doing. Instead, let’s do our own […]"
 featuredImage:
   src: "./featured.jpg"
-  alt: "Motivation Monday: Do Your Own Thing on Katie Crafts; http://www.katiecrafts.com"
+  alt: "Motivation Monday: Do Your Own Thing"
 categories:
   - slug: "hodgepodge"
     name: "Hodgepodge"

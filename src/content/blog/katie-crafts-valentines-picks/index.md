@@ -4,7 +4,7 @@ publishedDate: "2015-01-16"
 excerpt: "Katie Crafts Valentine’s Picks Valentine’s Day is less than a month away! Oh boy! I’m working on a pretty gift guide that I’ll share with you next week, but today is all about my Valentine’s items! I want you to get a chance to get your orders in so you are set before the big […]"
 featuredImage:
   src: "./featured.png"
-  alt: "Katie Crafts Valentine's Picks; http://www.katiecrafts.com"
+  alt: "Katie Crafts Valentine's Picks"
 categories:
   - slug: "hodgepodge"
     name: "Hodgepodge"
@@ -39,9 +39,9 @@ Valentine’s Day is less than a month away! Oh boy! I’m working on a pretty g
 
 has to offer!
 
-![Katie Crafts Valentine's Picks; https://www.katiecrafts.com](./il-570xn-613800132-oqjm.jpg)
+![Katie Crafts Valentine's Picks](./il-570xn-613800132-oqjm.jpg)
 
-![Katie Crafts Valentine's Picks; https://www.katiecrafts.com](./il-570xn-561343014-8tmb.jpg)
+![Katie Crafts Valentine's Picks](./il-570xn-561343014-8tmb.jpg)
 
 Score your Valentine a pair of
 
@@ -53,9 +53,9 @@ Score your Valentine a pair of
 
 print to frame!
 
-![Katie Crafts Valentine's Picks; https://www.katiecrafts.com](./il-570xn-709271225-ifj0.jpg)
+![Katie Crafts Valentine's Picks](./il-570xn-709271225-ifj0.jpg)
 
-![Katie Crafts Valentine's Picks; https://www.katiecrafts.com](./il-570xn-709146284-hjh8.jpg)
+![Katie Crafts Valentine's Picks](./il-570xn-709146284-hjh8.jpg)
 
 Perhaps a pair of
 
@@ -67,9 +67,9 @@ with teeny vintage butterflies on them is more your Valentine’s style. Or mayb
 
 in this year’s Pantone Color of the Year: Marsala!
 
-![Katie Crafts Valentine's Picks; https://www.katiecrafts.com](./il-570xn-589323817-7g83.jpg)
+![Katie Crafts Valentine's Picks](./il-570xn-589323817-7g83.jpg)
 
-![Katie Crafts Valentine's Picks; https://www.katiecrafts.com](./il-570xn-613915287-qcdj.jpg)
+![Katie Crafts Valentine's Picks](./il-570xn-613915287-qcdj.jpg)
 
 Send your Valentine a special
 
@@ -81,9 +81,9 @@ featuring my little Octobot who is giving you his heart, or order a pair of hamm
 
 with little hearts on them!
 
-![Katie Crafts Valentine's Picks; https://www.katiecrafts.com](./il-570xn-709262729-kovq.jpg)
+![Katie Crafts Valentine's Picks](./il-570xn-709262729-kovq.jpg)
 
-![Katie Crafts Valentine's Picks; https://www.katiecrafts.com](./il-570xn-562336706-j12d.jpg)
+![Katie Crafts Valentine's Picks](./il-570xn-562336706-j12d.jpg)
 
 A red and white
 

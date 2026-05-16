@@ -4,7 +4,7 @@ publishedDate: "2015-12-31"
 excerpt: "It’s New Year’s Eve! I cannot believe this year went by so quickly… and yet, I’m SO happy for 2016 to get here! You may have big plans of heading out on the town tonight, or maybe you’re staying in with a few good friends- no matter what your night entails, wouldn’t it be nice to have super cute NYE nails? Here’s a last minute New Year’s Eve nail art design that anyone can pull off, is quick to do and will go with any outfit!"
 featuredImage:
   src: "./featured.png"
-  alt: "Last Minute New Year's Eve Nail Art Tutorial on Katie Crafts; http://www.katiecrafts.com"
+  alt: "Last Minute New Year's Eve Nail Art Tutorial"
 categories:
   - slug: "beauty"
     name: "Beauty"
@@ -69,12 +69,12 @@ Ignore the gray!
 
 - If you want the look to last long, throw a coat of clear top coat on to seal the deal. If you are running behind on time (and since tonight is already New Year’s Eve), just let the glitter polish act as your top coat and be done already!
 
-![Last Minute New Year's Eve Nail Art Tutorial on Katie Crafts; http://www.katiecrafts.com](./img-0051.jpg)
+![Last Minute New Year's Eve Nail Art Tutorial](./img-0051.jpg)
 
 Look how seamlessly the polish matches my sweater! Haha!
 
 - Enjoy the quickest nails ever and have the best time tonight!
 
-![Last Minute New Year's Eve Nail Art Tutorial on Katie Crafts; http://www.katiecrafts.com](./img-0053.jpg)
+![Last Minute New Year's Eve Nail Art Tutorial](./img-0053.jpg)
 
 What are your big New Year’s Eve plans tonight? Anything exciting going on for New Year’s Day?

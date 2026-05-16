@@ -20,6 +20,6 @@ tags:
     name: "sean"
 ---
 
-![Sean and Lucky Hugs on Katie Crafts; http://www.katiecrafts.com](./img-3903.jpg)
+![Sean and Lucky Hugs](./img-3903.jpg)
 
 Lucky is such a good hugger.

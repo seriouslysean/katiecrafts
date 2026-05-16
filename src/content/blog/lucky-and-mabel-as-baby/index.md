@@ -16,6 +16,6 @@ tags:
     name: "mabel"
 ---
 
-![Lucky and Mabel as Baby on Katie Crafts; http://www.katiecrafts.com](./img-3817.jpg)
+![Lucky and Mabel as Baby](./img-3817.jpg)
 
 How cute was the little Peanut when she was a kit? Her little ‘cone’ had to stay on for two weeks after her surgery and was bigger than she was. Loved the photos from it!

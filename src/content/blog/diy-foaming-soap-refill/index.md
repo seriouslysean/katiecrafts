@@ -4,7 +4,7 @@ publishedDate: "2014-03-29"
 excerpt: "Project: DIY Foaming Soap Refill A few weeks ago, I told you about a project I wanted to try that was all about making your very own foaming hand soap. Well, I finally got around to trying it out, and it really was crazy simple! I’ll be doing this from now on!"
 featuredImage:
   src: "./featured.png"
-  alt: "DIY Foaming Soap Refill by Katie Crafts; http://www.katiecrafts.com"
+  alt: "DIY Foaming Soap Refill by"
 categories:
   - slug: "beauty"
     name: "Beauty"
@@ -71,7 +71,7 @@ Foaming hand soap is my favorite! I just love the bubbles. I was excited when I 
 
   fill your bottle almost all the way. Leave about an inch on top empty.
 
-![DIY Foaming Soap Refill by Katie Crafts; http://www.katiecrafts.com](./foaming-soap-1.jpg)
+![DIY Foaming Soap Refill by](./foaming-soap-1.jpg)
 
 - Carefully stir as much as you can of the soap/water combo. When it doesn’t look like you can stir any more, close it up tightly and
 
@@ -83,6 +83,6 @@ Foaming hand soap is my favorite! I just love the bubbles. I was excited when I 
 
 - Give it a few pumps and it’s ready to use! That’s it!
 
-![DIY Foaming Soap Refill by Katie Crafts; http://www.katiecrafts.com](./foaming-soap-2.jpg)
+![DIY Foaming Soap Refill by](./foaming-soap-2.jpg)
 
 I’ll probably decorate the outside of the bottle with a paper sleeve or something, so that people who go to use it aren’t duped in to thinking there is tangerine soap inside! How would you decorate it?

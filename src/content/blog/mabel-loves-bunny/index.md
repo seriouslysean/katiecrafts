@@ -13,4 +13,4 @@ tags:
     name: "mabel"
 ---
 
-![Peanut loves her Bunny! on Katie Crafts; http://www.katiecrafts.com](./img-7351.jpg)
+![Peanut loves her Bunny!](./img-7351.jpg)

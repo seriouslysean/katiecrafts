@@ -4,7 +4,7 @@ publishedDate: "2014-12-02"
 excerpt: "Second Day of Christmas: Gift Guide ♫ On the second day of Christmas, Katie Crafts gave to me- A gift guide filled with artists from Etsy! ♫ Today is our second day of Christmas, so that means more festive fun! Natalia Khon of Natalia’s Jewellry made us a beautiful treasury for today’s post, filled with […]"
 featuredImage:
   src: "./featured.png"
-  alt: "Second Day of Christmas: Gift Guide on Katie Crafts; http://www.katiecrafts.com"
+  alt: "Second Day of Christmas: Gift Guide"
 categories:
   - slug: "crafts"
     name: "Crafts"

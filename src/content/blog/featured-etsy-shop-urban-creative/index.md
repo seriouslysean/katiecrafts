@@ -4,7 +4,7 @@ publishedDate: "2014-08-13"
 excerpt: "Featured Etsy Shop: Urban Creative Today’s featured Etsy shop is one I found when I did my Etsy Picks: Back To School Guide post! Kendra of Urban Creative makes awesome laundry bags, but also amazing Christmas stockings, wine totes, art and more! Learn more about her below and find out how you can enter to […]"
 featuredImage:
   src: "./featured.jpg"
-  alt: "Featured Etsy Shop: Urban Creative + Giveaway on Katie Crafts; http://www.katiecrafts.com"
+  alt: "Featured Etsy Shop: Urban Creative + Giveaway"
 categories:
   - slug: "crafts"
     name: "Crafts"
@@ -51,25 +51,25 @@ _As a child I remember always thinking that I would grow up to be an inventor. A
 
 _I painted a canvas free-hand with a beautiful Moroccan inspired design. Then I thought this could look great on fabric so I scanned the original image into photoshop and manipulated it a bit. I sent the jpg. away to be printed on fabric and now I sell pillows with my art on them! They are amazing and modern and very hip! I wasn’t even trying to make something so cool – it just happened! Check out my Morrocan Art Blocks and Pillows. The same thing happened with a beautiful Geometric Indian Blanket design I painted. That artwork too has been splashed on to fabric and I adore that series, as well._
 
-[![Featured Etsy Shop: Urban Creative + Giveaway on Katie Crafts; http://www.katiecrafts.com](./il-570xn-622454281-dwxp.jpg)](https://www.etsy.com/listing/125953973/ceramic-tile-coasters-set-of-4-colorful?ref=shop_home_active_3)
+[![Featured Etsy Shop: Urban Creative + Giveaway](./il-570xn-622454281-dwxp.jpg)](https://www.etsy.com/listing/125953973/ceramic-tile-coasters-set-of-4-colorful?ref=shop_home_active_3)
 
 ## Where do you find your creative inspiration?
 
 _My inspiration comes from my true love affair with color! My entire life I have been mesmerized by the many different shades and hues of the various color families. I’m amazed at how much color spices up our lives. It really means everything to me so I would say that is the base of all my creative energy._
 
-[![Featured Etsy Shop: Urban Creative + Giveaway on Katie Crafts; http://www.katiecrafts.com](./il-570xn-479216512-r2fw.jpg)](https://www.etsy.com/listing/156589612/chevron-decor-pillow-black-and-white?ref=shop_home_active_24)
+[![Featured Etsy Shop: Urban Creative + Giveaway](./il-570xn-479216512-r2fw.jpg)](https://www.etsy.com/listing/156589612/chevron-decor-pillow-black-and-white?ref=shop_home_active_24)
 
 ## How did you decide to open your Etsy shop?
 
 _In the spring of 2000 I opened a modern art gallery in San Francisco. After the dot com bust and the tragedy of 9/11 the economy came to a halt. I chose to take a break from business; take some time away to reflect on what was happening in our world. The economy strengthened and began again. Re-opening the gallery but adding exclusive housewares and gift lines along with a myriad of children’s art classes upstairs in the art studio. Once I had accomplished that and worked way harder than I wanted too I decided to slow down. I closed the shop and began to make stuff. That’s when I opened my etsy shop and listed a couple of items. I don’t think I got a sale for at least 3 months but once Christmas came I was quite busy and now I work my etsy shop almost full time._
 
-[![Featured Etsy Shop: Urban Creative + Giveaway on Katie Crafts; http://www.katiecrafts.com](./il-570xn-365162101-20be.jpg)](https://www.etsy.com/listing/106721332/set-of-3-large-2-x-2-foot-magenta-yellow?ref=shop_home_active_15)
+[![Featured Etsy Shop: Urban Creative + Giveaway](./il-570xn-365162101-20be.jpg)](https://www.etsy.com/listing/106721332/set-of-3-large-2-x-2-foot-magenta-yellow?ref=shop_home_active_15)
 
 ## Any advice for others who want to start their own Etsy shop, or who are looking to fulfill their passion for crafting?
 
-_The main point that I can extend to others thinking about delving in a creative life is to make and do exactly what you want. Don’t follow the trends but follow your heart. When you are making something with oodles of gusto and passion the crowds will notice. Once you’ve got a handful of items to list on etsy be patient. You may not sell anything for awhile but be persistent. Continue to make more items and continue to post new listings. It only costs .20 cents to start a listing so basically it costs nothing to start your shop so you have nothing to lose and everything to gain. When you’ve sold an item you will sell that item again and then once you’ve got a major seller you can then begin to figure out how to capitalize on it. For example if you hand-make a cute photo frame and you see it selling a lot then do a grouping of 5 of the same photo frames and list it as “bridesmaid gifts.” So not only are you selling your item – you are sell a lot of them to one buyer. You’ll begin to see all the ways you can sell your hand made items in groups for special occasions and party decor, etc._
+_The main point that I can extend to others thinking about delving in a creative life is to make and do exactly what you want. Don’t follow the trends but follow your heart. When you are making something with oodles of gusto and passion the crowds will notice. Once you’ve got a handful of items to list on etsy be patient. You may not sell anything for awhile but be persistent. Continue to make more items and continue to post new listings. It only costs.20 cents to start a listing so basically it costs nothing to start your shop so you have nothing to lose and everything to gain. When you’ve sold an item you will sell that item again and then once you’ve got a major seller you can then begin to figure out how to capitalize on it. For example if you hand-make a cute photo frame and you see it selling a lot then do a grouping of 5 of the same photo frames and list it as “bridesmaid gifts.” So not only are you selling your item – you are sell a lot of them to one buyer. You’ll begin to see all the ways you can sell your hand made items in groups for special occasions and party decor, etc._
 
-[![Featured Etsy Shop: Urban Creative + Giveaway on Katie Crafts; http://www.katiecrafts.com](./il-570xn-468104552-sg4z.jpg)](https://www.etsy.com/listing/153788780/childs-overnight-bag-laundry-bag-large?ref=shop_home_active_9)
+[![Featured Etsy Shop: Urban Creative + Giveaway](./il-570xn-468104552-sg4z.jpg)](https://www.etsy.com/listing/153788780/childs-overnight-bag-laundry-bag-large?ref=shop_home_active_9)
 
 You can catch Kendra on these different sites!
 

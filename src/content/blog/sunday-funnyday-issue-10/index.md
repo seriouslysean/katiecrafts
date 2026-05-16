@@ -4,7 +4,7 @@ publishedDate: "2014-04-20"
 excerpt: "Sunday Fun(ny)day: Issue 10 HAPPY EASTER!!!! To set a nice and light tone for the day, I’m making this a special Sunday Funday issue. It will have ONLY the “Things That Make Me Giggle” and nothing else! Thus, it is a Sunday Fun(ny)day for sure! I hope you enjoy all these silly and adorable things […]"
 featuredImage:
   src: "./featured.png"
-  alt: "Sunday Fun(ny)day: Issue 10 by Katie Crafts; http://www.katiecrafts.com"
+  alt: "Sunday Fun(ny)day: Issue 10 by"
 categories:
   - slug: "hodgepodge"
     name: "Hodgepodge"
@@ -47,17 +47,17 @@ A gallery of photos from
 
 , because one bunny in a teacup just isn’t enough this Easter.
 
-![Sunday Fun(ny)day: Issue 10 by Katie Crafts; https://www.katiecrafts.com](./tumblr-m5p47rqggj1qk5x10o1-1280.jpg)
+![Sunday Fun(ny)day: Issue 10 by](./tumblr-m5p47rqggj1qk5x10o1-1280.jpg)
 
-![Sunday Fun(ny)day: Issue 10 by Katie Crafts; https://www.katiecrafts.com](./tumblr-m5p47rqggj1qk5x10o3-500.jpg)
+![Sunday Fun(ny)day: Issue 10 by](./tumblr-m5p47rqggj1qk5x10o3-500.jpg)
 
-![Sunday Fun(ny)day: Issue 10 by Katie Crafts; https://www.katiecrafts.com](./tumblr-m5p47rqggj1qk5x10o4-500.jpg)
+![Sunday Fun(ny)day: Issue 10 by](./tumblr-m5p47rqggj1qk5x10o4-500.jpg)
 
-![Sunday Fun(ny)day: Issue 10 by Katie Crafts; https://www.katiecrafts.com](./tumblr-m5p47rqggj1qk5x10o5-500.jpg)
+![Sunday Fun(ny)day: Issue 10 by](./tumblr-m5p47rqggj1qk5x10o5-500.jpg)
 
-![Sunday Fun(ny)day: Issue 10 by Katie Crafts; https://www.katiecrafts.com](./tumblr-m5p47rqggj1qk5x10o6-500.jpg)
+![Sunday Fun(ny)day: Issue 10 by](./tumblr-m5p47rqggj1qk5x10o6-500.jpg)
 
-![Sunday Fun(ny)day: Issue 10 by Katie Crafts; https://www.katiecrafts.com](./tumblr-m5p47rqggj1qk5x10o7-500.jpg)
+![Sunday Fun(ny)day: Issue 10 by](./tumblr-m5p47rqggj1qk5x10o7-500.jpg)
 
 This one is just awesome! I wish I had these skills!
 
@@ -65,8 +65,8 @@ QUICK! Get to your sewing machine and make your kids this last minute project! I
 
 And we’ll end the day with a couple cute things that Husband sent me this week!
 
-![Sunday Fun(ny)day: Issue 10 by Katie Crafts; http://www.katiecrafts.com](./0f2fb90b66f10fbc7e083d8891a1adc1.jpg)
+![Sunday Fun(ny)day: Issue 10 by](./0f2fb90b66f10fbc7e083d8891a1adc1.jpg)
 
-![Sunday Fun(ny)day: Issue 10 by Katie Crafts; http://www.katiecrafts.com](./e1617295b7b181cec50e733a06380a4e.jpg)
+![Sunday Fun(ny)day: Issue 10 by](./e1617295b7b181cec50e733a06380a4e.jpg)
 
 That’s it for now! Hope your day is going great! Have a happy hoppy one!

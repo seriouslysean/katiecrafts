@@ -4,7 +4,7 @@ publishedDate: "2014-07-07"
 excerpt: "Fashion Inspiration: Turquoise I’ve been wearing items from my new Summer Jewelry line pretty much every day! I’ve even started planning outfits based on which jewelry I wanted to wear that day. Today, I’ve used the Turquoise Chevron Necklace as my inspiration to create an outfit that I totally love!"
 featuredImage:
   src: "./featured.png"
-  alt: "Fashion Inspiration: Turquoise on Katie Crafts; http://www.katiecrafts.com"
+  alt: "Fashion Inspiration: Turquoise"
 categories:
   - slug: "beauty"
     name: "Beauty"

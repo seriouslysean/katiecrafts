@@ -4,7 +4,7 @@ publishedDate: "2015-01-21"
 excerpt: "Words For Wednesday: Maintaining Summer Today is supposed to bring freezing weather and snow to my area. Fun! It made me wish for the days of Summer- though not really. I hate being hot. Maybe Spring or Fall will be better. 😉 Either way, I found this quote by Henry David Thoreau that I thought […]"
 featuredImage:
   src: "./featured.png"
-  alt: "Words For Wednesday: Maintaining Summer on Katie Crafts; http://www.katiecrafts.com"
+  alt: "Words For Wednesday: Maintaining Summer"
 categories:
   - slug: "hodgepodge"
     name: "Hodgepodge"

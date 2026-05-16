@@ -13,4 +13,4 @@ tags:
     name: "mabel"
 ---
 
-![Hi, Mabel! on Katie Crafts; http://www.katiecrafts.com](./img-3217.jpg)
+![Hi, Mabel!](./img-3217.jpg)

@@ -4,7 +4,7 @@ publishedDate: "2015-09-21"
 excerpt: "New week, new blog hop! It’s What Are You Doing? Blog Hop #116 and we want to see what you’ve been up to in the last week! Vote for your faves, see what everyone has been cookin’, and add your own links to the linky at the bottom of the page."
 featuredImage:
   src: "./featured.png"
-  alt: "What Are You Doing? Blog Hop #116 on Katie Crafts; http://www.katiecrafts.com"
+  alt: "What Are You Doing? Blog Hop #116"
 categories:
   - slug: "hodgepodge"
     name: "Hodgepodge"
@@ -41,9 +41,9 @@ Kassandra from
 
 ### [Meet your co-hosts for the Month of September:](http://coffeeandtheirkisses.com/)
 
-[![](https://i0.wp.com/3.bp.blogspot.com/-5UPEagcbtig/Ve8R6lqrcfI/AAAAAAAAGBg/Jr42bHerjVw/s320/katie-mabel.jpg?w=980)\
+[\
 Katie from](http://coffeeandtheirkisses.com/)[Katie Crafts](/)\
-[Pinterest](https://www.pinterest.com/imkatiecrafts/)[Twitter](https://twitter.com/imkatiecrafts)[G+](https://plus.google.com/+Katiecrafts215/posts)[Instagram](https://instagram.com/imkatiecrafts/)[Bloglovin](https://www.bloglovin.com/blogs/katie-crafts-crafting-sewing-recipes-more-11771265)[Facebook](https://www.facebook.com/imkatiecrafts)![](https://i2.wp.com/www.jrrmblog.com/wp-content/uploads/2015/07/my-photo-e1438113143676.jpg?resize=200%2C186)
+[Pinterest](https://www.pinterest.com/imkatiecrafts/)[Twitter](https://twitter.com/imkatiecrafts)[G+](https://plus.google.com/+Katiecrafts215/posts)[Instagram](https://instagram.com/imkatiecrafts/)[Bloglovin](https://www.bloglovin.com/blogs/katie-crafts-crafting-sewing-recipes-more-11771265)[Facebook](https://www.facebook.com/imkatiecrafts)!
 
 Joan from
 
@@ -69,8 +69,6 @@ makes me want to go there! It’s always fun with good food and good conversatio
 <http://contentemeant.blogspot.com/2015/9/what-are-you-doing-blog-hop-115.html”>
 
 <http://1.bp.blogspot.com/-fCYgXzygf4c/UZ-ThPpFezI/AAAAAAAABPs/Sf2bHKunHp4/s1600/CMfeatured150.png”>
-
-
 
 Don’t forget to check out the other blogs from last week!
 

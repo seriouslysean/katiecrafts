@@ -4,7 +4,7 @@ publishedDate: "2015-06-24"
 excerpt: "Words For Wednesday: Smile “Be Happy And Smile!” Sometimes it’s as easy as that! It may be a hard thing to do, but simply smiling can improve your mood."
 featuredImage:
   src: "./featured.jpg"
-  alt: "Words For Wednesday: Smile on Katie Crafts; http://www.katiecrafts.com"
+  alt: "Words For Wednesday: Smile"
 categories:
   - slug: "hodgepodge"
     name: "Hodgepodge"

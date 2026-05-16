@@ -20,8 +20,8 @@ tags:
     name: "throwback thursday"
 ---
 
-![Christmas Tree Mabel on Katie Crafts; http://www.katiecrafts.com](./img-0874.jpg)
+![Christmas Tree Mabel](./img-0874.jpg)
 
-![Christmas Tree Mabel on Katie Crafts; http://www.katiecrafts.com](./img-0875.jpg)
+![Christmas Tree Mabel](./img-0875.jpg)
 
 Throwback Thursday! Mabel dressed as a little Christmas Tree Elf. She obviously loves her tree dress….

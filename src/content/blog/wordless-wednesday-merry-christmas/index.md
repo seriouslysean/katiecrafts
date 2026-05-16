@@ -4,7 +4,7 @@ publishedDate: "2015-04-01"
 excerpt: "Wordless Wednesday: Merry Christmas! Ho, Ho, Ho! Merry Christmas! Hope your holiday season is merry and bright and filled with cheer! And I hope Santa brings you everything you asked for!"
 featuredImage:
   src: "./featured.jpg"
-  alt: "Wordless Wednesday: Merry Christmas! by Katie Crafts; http://www.katiecrafts.com"
+  alt: "Wordless Wednesday: Merry Christmas! by"
 categories:
   - slug: "cats"
     name: "Cats"

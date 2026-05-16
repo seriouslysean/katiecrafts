@@ -4,7 +4,7 @@ publishedDate: "2015-02-17"
 excerpt: "Recipe: Slow Cooker BBQ Pulled Chicken A few weeks ago after I made the Bang-Bang Chicken, I decided I wanted to try another recipe from Pinterest. I settled on something I could make in the crock pot, since those are by far my favorite meals. I found a recipe for slow cooker pulled BBQ chicken […]"
 featuredImage:
   src: "./featured.png"
-  alt: "Slow Cooker BBQ Pulled Chicken Recipe by Katie Crafts; http://www.katiecrafts.com"
+  alt: "Slow Cooker BBQ Pulled Chicken Recipe by"
 categories:
   - slug: "cooks"
     name: "Cooks"

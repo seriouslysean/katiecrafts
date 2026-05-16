@@ -66,8 +66,6 @@ Ahhh
 
 ! How I love you. A new Valentine’s short was posted this week that was adorable, so I must share it with you!
 
-
-
 ## What I’m Reading: “Meet Me at the Cupcake Café” by Jenny Colgan
 
 Right now, I’m smack in the middle of a cute book by
@@ -106,7 +104,7 @@ is my absolute favorite coffee shop here in Rittenhouse, and conveniently only a
 
 (made with homemade chocolate!) and this week they also happened to have macarons, too! My favorite coffee AND my favorite dessert? Perfection.
 
-![Katie Crafts; http://www.katiecrafts.com](./img-0946.jpg)
+![](./img-0946.jpg)
 
 ## Project That Inspires: Bow Belt by Tilly and the Buttons
 

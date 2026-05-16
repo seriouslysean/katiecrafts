@@ -4,7 +4,7 @@ publishedDate: "2015-05-04"
 excerpt: "10 Mother’s Day Projects It’s May! Not only is it Brain Tumor Awareness Month (GO GREY IN MAY!!!), but Mother’s Day is just next week! Here are ten really adorable (and easy, and fun) DIYs that you totally have time to do before next Sunday. Your Mom will love them!"
 featuredImage:
   src: "./featured.png"
-  alt: "10 Mother's Day Projects You Can DIY Before Sunday!! by Katie Crafts; http://www.katiecrafts.com"
+  alt: "10 Mother's Day Projects You Can DIY Before Sunday!! by"
 categories:
   - slug: "crafts"
     name: "Crafts"

@@ -4,7 +4,7 @@ publishedDate: "2014-04-03"
 excerpt: "Easter Recipe: Bird’s Nest Cupcakes (+ cream cheese frosting recipe!) I really enjoyed sharing the idea last week for chocolate dipped Peeps, and wanted to keep the Easter recipes rolling! This is one I’ve been making for years and is a favorite of kids and adults alike! The cake recipe itself doesn’t matter (I do […]"
 featuredImage:
   src: "./featured.png"
-  alt: "Easter Recipe: Bird's Nest Cupcakes by Katie Crafts; http://www.katiecrafts.com"
+  alt: "Easter Recipe: Bird's Nest Cupcakes by"
 categories:
   - slug: "cooks"
     name: "Cooks"
@@ -109,7 +109,7 @@ Now that you have your cooled cupcakes baked and your cream cheese frosting dyed
 
 - Take a photo and share it with me!
 
-![Easter Recipe: Bird's Nest Cupcakes by Katie Crafts; http://www.katiecrafts.com](./easter-cupcakes-2.jpg)
+![Easter Recipe: Bird's Nest Cupcakes by](./easter-cupcakes-2.jpg)
 
 ## Tips:
 
@@ -119,4 +119,4 @@ Now that you have your cooled cupcakes baked and your cream cheese frosting dyed
 
 - Get your shredded coconut toasted even quicker by using your toaster oven!
 
-![Easter Recipe: Bird's Nest Cupcakes by Katie Crafts; http://www.katiecrafts.com](./easter-cupcakes.jpg)
+![Easter Recipe: Bird's Nest Cupcakes by](./easter-cupcakes.jpg)

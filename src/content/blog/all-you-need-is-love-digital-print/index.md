@@ -54,7 +54,7 @@ Indigo
 
 Pink
 
-[![Teal](./allyouneedislove-teal-watermark-2.png "All You Need Is Love Print by Katie Crafts; http://www.katiecrafts.com/")](https://www.etsy.com/listing/178591674/instant-download-all-you-need-is-love)
+[![Teal](./allyouneedislove-teal-watermark-2.png "All You Need Is Love Print by Katie Crafts; ")](https://www.etsy.com/listing/178591674/instant-download-all-you-need-is-love)
 
 Teal
 

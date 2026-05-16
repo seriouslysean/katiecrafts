@@ -4,7 +4,7 @@ publishedDate: "2014-04-14"
 excerpt: "Nail Art: Jamberry Nail Wraps Trim Tip with Aquariann Hi guys! I’d like to introduce Kristin, our guest blogger for today! Her Manicure Monday post below will be sure to wow and inspire you! Enjoy! Messy mediums and I have never gotten along. I have the soul of an artist, but not a painter – […]"
 featuredImage:
   src: "./featured.png"
-  alt: "Nail Art: Jamberry Nail Wraps Trim Tip with Aquariann on Katie Crafts; http://www.katiecrafts.com"
+  alt: "Nail Art: Jamberry Nail Wraps Trim Tip with Aquariann"
 categories:
   - slug: "beauty"
     name: "Beauty"

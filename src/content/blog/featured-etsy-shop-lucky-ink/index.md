@@ -4,7 +4,7 @@ publishedDate: "2014-04-16"
 excerpt: "Featured Etsy Shop: Lucky Ink Our featured artist today is Holly over at Lucky Ink. You’ll find gorgeous stationary, prints, notebooks and more in her Etsy shop, and tons of inspiration over at her blog! I adore the clean lines and simple beauty of Holly’s items, and I know you will too! I also know […]"
 featuredImage:
   src: "./featured.png"
-  alt: "Featured Etsy Shop: Lucky Ink on Katie Crafts; http://www.katiecrafts.com"
+  alt: "Featured Etsy Shop: Lucky Ink"
 categories:
   - slug: "crafts"
     name: "Crafts"
@@ -65,7 +65,7 @@ _Design wise, I’d definitely say my floral collage deer art print. I sketched 
 
 _Craft wise, I am really proud of my notebooks. This was another idea I wasn’t sure I could make, and I didn’t think I had the skills to do it right. Once I got everything I needed, and after much trial and error, I was so happy with how it came out._
 
-[![Featured Etsy Shop: Lucky Ink on Katie Crafts; http://www.katiecrafts.com](./notebook.png)](https://www.etsy.com/listing/181211399/knitting-notebook-stationery-set-blue?ref=shop_home_active_14)
+[![Featured Etsy Shop: Lucky Ink](./notebook.png)](https://www.etsy.com/listing/181211399/knitting-notebook-stationery-set-blue?ref=shop_home_active_14)
 
 ## Where do you find your creative inspiration?
 
@@ -75,13 +75,13 @@ _From anything, really! I’m very much inspired by patterns and shapes, but som
 
 _I have had an Etsy shop together with my mom since 2006 (sewing bags), but I always knew I wanted a store of my own one day. I think the hardest thing was deciding what I was going to make to sell, because I love making so many different things. Once I realized my biggest passion was graphic design, stationery was an easy choice!_
 
-[![Featured Etsy Shop: Lucky Ink on Katie Crafts; http://www.katiecrafts.com](./artprint.png)](https://www.etsy.com/listing/178214069/floral-collage-heart-love-fine-art-print?ref=shop_home_active_4)
+[![Featured Etsy Shop: Lucky Ink](./artprint.png)](https://www.etsy.com/listing/178214069/floral-collage-heart-love-fine-art-print?ref=shop_home_active_4)
 
 ## Any advice for others who want to start their own Etsy shop, or who are looking to fulfill their passion for crafting?
 
 _Don’t doubt yourself! The reason it took me so long to open my store is because I was constantly second guessing myself. Etsy is full of amazing, talented people, which can be intimidating, but the reality is: everyone brings their own talents, aesthetic, style and skills to their store, so your store will never be like anyone else’s. As long as you’re willing to put in the hard work (customer service, promoting, SEO, networking, making new stock etc.) and are truly passionate about what you do (so it doesn’t feel like hard work!) you will be successful!_
 
-[![Featured Etsy Shop: Lucky Ink on Katie Crafts; http://www.katiecrafts.com](./greetingcards.png)](https://www.etsy.com/listing/176091497/feather-quills-modern-greeting-card?ref=shop_home_active_13)
+[![Featured Etsy Shop: Lucky Ink](./greetingcards.png)](https://www.etsy.com/listing/176091497/feather-quills-modern-greeting-card?ref=shop_home_active_13)
 
 Please check out Holly on
 

@@ -4,7 +4,7 @@ publishedDate: "2016-02-01"
 excerpt: "Whether you’re a Panthers or a Broncos fan (or neither!), chances are you’ll be hanging out with friends this Sunday for Super Bowl 50! Bring or serve these awesome Super Bowl Sunday snacks and you’ll be the one scoring a touchdown!"
 featuredImage:
   src: "./featured.png"
-  alt: "Super Bowl Sunday Snacks on Katie Crafts; http://www.katiecrafts.com"
+  alt: "Super Bowl Sunday Snacks"
 categories:
   - slug: "cooks"
     name: "Cooks"
@@ -67,7 +67,7 @@ photo from http\://picturetherecipe.com/index.php/recipes/game-day-snacks-footba
 
 has some great football snack ideas, including these fun Pizza Pockets shaped like footballs! Love them!
 
-![Super Bowl Sunday Snacks on Katie Crafts; http://www.katiecrafts.com](./guacamole-15.jpg)
+![Super Bowl Sunday Snacks](./guacamole-15.jpg)
 
 photo from http\://absolutelymonica.blogspot.ca/2011/02/super-bowl-sunday-guacamole-football.html
 
@@ -75,7 +75,7 @@ photo from http\://absolutelymonica.blogspot.ca/2011/02/super-bowl-sunday-guacam
 
 shared a great recipe for a Guacamole Football Field that would please everyone at your party. Also, it’s totally cute!
 
-![Super Bowl Sunday Snacks on Katie Crafts; http://www.katiecrafts.com](./carolina-panthers-popcorn.jpg)
+![Super Bowl Sunday Snacks](./carolina-panthers-popcorn.jpg)
 
 photo from http\://www\.twosisterscrafting.com/carolina-panthers-popcorn/
 

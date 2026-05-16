@@ -4,7 +4,7 @@ publishedDate: "2016-01-22"
 excerpt: "The Husband and I each shared our picks for Valentine’s Day last year for both him and for her. We really liked searching through Etsy to find fun and unique gift ideas, so we decided to do it again this year! Here are my picks for Valentine’s Day gift ideas for her, and next week Husband will share picks for him."
 featuredImage:
   src: "./featured.png"
-  alt: "Valentine's Day Gift Ideas For Her on Katie Crafts; http://www.katiecrafts.com"
+  alt: "Valentine's Day Gift Ideas For Her"
 categories:
   - slug: "hodgepodge"
     name: "Hodgepodge"

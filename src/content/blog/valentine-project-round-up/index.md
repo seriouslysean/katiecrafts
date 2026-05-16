@@ -4,7 +4,7 @@ publishedDate: "2015-02-09"
 excerpt: "Valentine Project Round Up Over the last year*, I’ve made many projects that had to do with Valentine’s Day or love, so it was pretty easy to find ten great ways to DIY your February 14th! It’s not too late to make something special for your Valentine… or yourself! Every day this week will be […]"
 featuredImage:
   src: "./featured.png"
-  alt: "Valentine Project Round Up by Katie Crafts; http://www.katiecrafts.com"
+  alt: "Valentine Project Round Up by"
 categories:
   - slug: "crafts"
     name: "Crafts"
@@ -59,7 +59,7 @@ This
 
 from a few years ago was so cute! Red polish topped with glitter polish and some white hearts outlined in black- easy and adorable.
 
-[![Valentine Project Round Up by Katie Crafts; http://www.katiecrafts.com](./tulle-pompom-flowers-13.jpg)](/5-minute-tulle-pom-pom-flowers/)
+[![Valentine Project Round Up by](./tulle-pompom-flowers-13.jpg)](/5-minute-tulle-pom-pom-flowers/)
 
 ## 5 Minute Tulle Pom Pom Flowers
 
@@ -73,7 +73,7 @@ I’m still obsessed with these
 
 , too!
 
-[![Valentine Project Round Up by Katie Crafts; http://www.katiecrafts.com](./img-0938.jpg)](/chocolate-dipped-oreos/)
+[![Valentine Project Round Up by](./img-0938.jpg)](/chocolate-dipped-oreos/)
 
 ## Chocolate Dipped Oreos
 
@@ -83,7 +83,7 @@ Mmmm. I should make these
 
 all the time and not just for Valentine’s! They are so good! They will make a wonderful sweet treat that is just a little more special than a heart shaped box (though I’ll take those chocolates too, please!)
 
-[![Valentine Project Round Up by Katie Crafts; http://www.katiecrafts.com](./valentine-pillow-2-main.png)](/heart-pillow-with-pocket-tutorial/)
+[![Valentine Project Round Up by](./valentine-pillow-2-main.png)](/heart-pillow-with-pocket-tutorial/)
 
 ## Heart Pillow with Pocket
 
@@ -93,7 +93,7 @@ Another cute
 
 to sew, but this one is easier AND has a pocket! Slip a love letter inside for your Valentine to find, and make sure to add some conversation hearts too!
 
-![Valentine Project Round Up by Katie Crafts; http://www.katiecrafts.com](./img-0705.jpg)
+![Valentine Project Round Up by](./img-0705.jpg)
 
 ## Valentine’s Cards
 
@@ -103,7 +103,7 @@ Use those tulle pom poms mentioned above, or cut out shapes from fabric and card
 
 for your loved ones. My Grams loved the one I sent her above from last year!
 
-## [![Valentine Project Round Up by Katie Crafts; http://www.katiecrafts.com](./img-0608.jpg)](/nail-art-simple-hearts/)
+## [![Valentine Project Round Up by](./img-0608.jpg)](/nail-art-simple-hearts/)
 
 ## Nail Art: Simple Hearts
 
@@ -113,7 +113,7 @@ This
 
 is the easiest! Use different colors for your base coat and draw little hearts in the corner of each fingernail. So cute for V-Day!
 
-[![Valentine Project Round Up by Katie Crafts; http://www.katiecrafts.com](./img-0664.jpg)](/lavender-heart-sachets/)
+[![Valentine Project Round Up by](./img-0664.jpg)](/lavender-heart-sachets/)
 
 ## Lavender Heart Sachets
 
@@ -123,7 +123,7 @@ I love these
 
 so much! Put one in your dresser to make your clothes smell good, leave them in a basket in the bathroom for a fresh scent, or put them anywhere you want for something cute! They would make such a great gift and are easy to make.
 
-[![Valentine Project Round Up by Katie Crafts; http://www.katiecrafts.com](./img-0599.jpg)](/5-minute-crocheted-hearts/)
+[![Valentine Project Round Up by](./img-0599.jpg)](/5-minute-crocheted-hearts/)
 
 ## 5 Minute Crocheted Hearts
 

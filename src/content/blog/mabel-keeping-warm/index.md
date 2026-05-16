@@ -11,6 +11,6 @@ tags:
     name: "mabel"
 ---
 
-![Mabel keeping warm.](./img-0197.jpg "Mabel Cat on Katie Crafts; http://www.katiecrafts.com/")
+![Mabel keeping warm.](./img-0197.jpg "Mabel Cat on Katie Crafts; ")
 
 Mabel keeping warm on the radiator.

@@ -15,6 +15,6 @@ tags:
     name: "peanut"
 ---
 
-![Mabel in Bathtub on Katie Crafts; http://www.katiecrafts.com](./mabelbathtub.png)
+![Mabel in Bathtub](./mabelbathtub.png)
 
 Little Peanut likes to spend her time sitting in the bathtub.

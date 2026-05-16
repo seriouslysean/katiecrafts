@@ -18,8 +18,8 @@ tags:
     name: "roll over"
 ---
 
-![Roll Over Lucky! on Katie Crafts; http://www.katiecrafts.com](./img-2973-jpg-e1403894912445.jpeg)
+![Roll Over Lucky!](./img-2973-jpg-e1403894912445.jpeg)
 
-![Roll Over Lucky! on Katie Crafts; http://www.katiecrafts.com](./img-2972-jpg-e1403894962451.jpeg)
+![Roll Over Lucky!](./img-2972-jpg-e1403894962451.jpeg)
 
 Happy Cat-urday!

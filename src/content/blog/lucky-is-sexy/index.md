@@ -16,8 +16,8 @@ tags:
 
 Lucky is such a sexy cat!
 
-![Lucky is Sexy on Katie Crafts; https://www.katiecrafts.com](./img-0254.jpg)
+![Lucky is Sexy](./img-0254.jpg)
 
-![Lucky is Sexy on Katie Crafts; https://www.katiecrafts.com](./img-0255.jpg)
+![Lucky is Sexy](./img-0255.jpg)
 
-![Lucky is Sexy on Katie Crafts; https://www.katiecrafts.com](./img-0257.jpg)
+![Lucky is Sexy](./img-0257.jpg)

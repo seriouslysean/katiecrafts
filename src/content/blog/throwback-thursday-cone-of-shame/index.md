@@ -4,7 +4,7 @@ publishedDate: "2016-03-03"
 excerpt: "In order to adopt Mabel, she had to be fixed. We took her to our home straight from the vet, along with her cone of shame. She sported this plastic one that was too big for her for the first two days. Then she pulled it off in the middle of the night and ripped […]"
 featuredImage:
   src: "./featured.jpg"
-  alt: "Throwback Thursday: Cone of Shame on Katie Crafts; http://www.katiecrafts.com"
+  alt: "Throwback Thursday: Cone of Shame"
 categories:
   - slug: "cats"
     name: "Cats"

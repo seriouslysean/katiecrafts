@@ -4,7 +4,7 @@ publishedDate: "2014-07-18"
 excerpt: "Irish Car Bomb Cupcake Recipe Happy Friday! Yesterday was our friend’s birthday! We helped to throw a surprise party for him! These are the cupcakes I made for it! They have Guinness and Bailey’s in them and are delicious! Give them a try! 🙂"
 featuredImage:
   src: "./featured.jpg"
-  alt: "Irish Car Bomb Cupcake Recipe by Katie Crafts; http://www.katiecrafts.com"
+  alt: "Irish Car Bomb Cupcake Recipe by"
 categories:
   - slug: "cooks"
     name: "Cooks"
@@ -33,7 +33,7 @@ Before you start anything, make room in your fridge! When your cupcakes are all 
 
 Also, the cake itself is very dense- more like a pound cake than a light fluffy cake- so don’t be alarmed when you take them out of the oven and they resemble bricks! They are supposed to. And they are crazy good. Okay, on to the baking!
 
-![Irish Car Bomb Cupcake Recipe by Katie Crafts; http://www.katiecrafts.com](./img-4704.jpg)
+![Irish Car Bomb Cupcake Recipe by](./img-4704.jpg)
 
 ## Ingredients For Cake:
 
@@ -71,9 +71,9 @@ Also, the cake itself is very dense- more like a pound cake than a light fluffy 
 
 - Let cool 1,000,000% completely before frosting (or said frosting will immediately melt off!)
 
-![Irish Car Bomb Cupcake Recipe by Katie Crafts; https://www.katiecrafts.com](./img-4700.jpg)
+![Irish Car Bomb Cupcake Recipe by](./img-4700.jpg)
 
-![Irish Car Bomb Cupcake Recipe by Katie Crafts; https://www.katiecrafts.com](./img-4698.jpg)
+![Irish Car Bomb Cupcake Recipe by](./img-4698.jpg)
 
 ## Ingredients For Frosting:
 
@@ -105,6 +105,6 @@ Also, the cake itself is very dense- more like a pound cake than a light fluffy 
 
   !)
 
-![Irish Car Bomb Cupcake Recipe by Katie Crafts; http://www.katiecrafts.com](./img-3212.jpg)
+![Irish Car Bomb Cupcake Recipe by](./img-3212.jpg)
 
 If you try this recipe out for yourself, let me know how it turned out! If you think I should post my homemade Bailey’s recipe sooner rather than later, give me a holler! 🙂 Have a great weekend!

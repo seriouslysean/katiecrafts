@@ -4,7 +4,7 @@ publishedDate: "2015-03-06"
 excerpt: "Hey everyone, Husband here! Here’s a quick question for you: What’s worse than having a laptop battery that lasts for under an hour? Any takers? A DEAD laptop battery. That’s what. It just so happens the battery in Katie’s Macbook died a few weeks ago. I figured why not take some photos while I’m fixing […]"
 featuredImage:
   src: "./featured.jpg"
-  alt: "How to Replace a Macbook Pro Battery on Katie Crafts; http://www.katiecrafts.com"
+  alt: "How to Replace a Macbook Pro Battery"
 categories:
   - slug: "hodgepodge"
     name: "Hodgepodge"
@@ -59,13 +59,13 @@ right on Amazon. They have a really neat handle design so that when you’re twi
 
 This is how I set the screws down while I’m working on everything. I don’t put them in anything as I’m quite careful, but you may want to use small bowls or something along those lines to keep track of them. Take special notice how the screws in the back are much longer than the others.
 
-![How to Replace a Macbook Pro Battery on Katie Crafts; http://www.katiecrafts.com](./replace-macbook-pro-battery-004.jpg)
+![How to Replace a Macbook Pro Battery](./replace-macbook-pro-battery-004.jpg)
 
 ### Step 4
 
 Once you have all the screws out, pry gently around the edge until the bottom pops off. The inside of your laptop should look something like this.
 
-![How to Replace a Macbook Pro Battery on Katie Crafts; http://www.katiecrafts.com](./replace-macbook-pro-battery-005.jpg)
+![How to Replace a Macbook Pro Battery](./replace-macbook-pro-battery-005.jpg)
 
 ### Step 5
 
@@ -75,7 +75,7 @@ Once you have all the screws out, pry gently around the edge until the bottom po
 
 3. Once the battery is unplugged and unscrewed, pull the tab to remove it from the laptop casing.
 
-![How to Replace a Macbook Pro Battery on Katie Crafts; http://www.katiecrafts.com](./replace-macbook-pro-battery-006.jpg)
+![How to Replace a Macbook Pro Battery](./replace-macbook-pro-battery-006.jpg)
 
 ### Step 6
 

@@ -4,7 +4,7 @@ publishedDate: "2016-04-18"
 excerpt: "I have been so busy lately! Last week we spent a weekend in Washington D.C. (photos of that trip coming later this week!), then this week we ran around town doing errands and planted all our plants in front and back of our house. In between, I’ve been occupying my time (and hands) with a […]"
 featuredImage:
   src: "./featured.jpg"
-  alt: "Vintage Rippling Blocks Afghan on Katie Crafts; http://www.katiecrafts.com"
+  alt: "Vintage Rippling Blocks Afghan"
 categories:
   - slug: "crafts"
     name: "Crafts"

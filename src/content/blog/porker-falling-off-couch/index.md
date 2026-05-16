@@ -18,6 +18,6 @@ tags:
     name: "so tired"
 ---
 
-![Porker Passed Out On Couch on Katie Crafts; http://www.katiecrafts.com](./img-7600.jpg)
+![Porker Passed Out On Couch](./img-7600.jpg)
 
 Porker boy is so tired he’s falling off the couch, but he doesn’t care!

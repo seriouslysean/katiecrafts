@@ -64,7 +64,7 @@ The Husband randomly decided we no longer need a couch and instead, we should fu
 
 on Saturday. We came home with a large table, a bar stool (which is possibly too tall and will have to go back for the shorter one), a wire shelving unit for under the table and some red lamps. He’s finishing putting the table together while I type this. I can’t wait to see it all in it’s new space!
 
-![Sunday Funday: Issue 3 on Katie Crafts; http://www.katiecrafts.com](./img-1481.jpg)
+![Sunday Funday: Issue 3](./img-1481.jpg)
 
 ## Something Delicious: Bailey’s and Hot Chocolate Tiramisu
 

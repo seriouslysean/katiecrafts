@@ -4,7 +4,7 @@ publishedDate: "2014-07-15"
 excerpt: "My Etsy Picks: Home Decor This week was a busy one so far, and it’s only Tuesday! Last Wednesday, the Husband and I met with a realty guy to maybe think about possibly starting to possibly look at houses to buy. By Sunday we had two houses to go look at, and we saw three […]"
 featuredImage:
   src: "./featured.jpg"
-  alt: "My Etsy Picks: Home Décor on Katie Crafts; http://www.katiecrafts.com"
+  alt: "My Etsy Picks: Home Décor"
 categories:
   - slug: "crafts"
     name: "Crafts"

@@ -16,11 +16,11 @@ tags:
     name: "lucky"
 ---
 
-![Lucky Loves Laundry on Katie Crafts; http://www.katiecrafts.com](./img-4916.jpg)
+![Lucky Loves Laundry](./img-4916.jpg)
 
-![Lucky Loves Laundry on Katie Crafts; http://www.katiecrafts.com](./img-4911.jpg)
+![Lucky Loves Laundry](./img-4911.jpg)
 
-![Lucky Loves Laundry on Katie Crafts; http://www.katiecrafts.com](./img-4912.jpg)
+![Lucky Loves Laundry](./img-4912.jpg)
 
 “Thanks for gathering up all these dirty clothes just for me to lay on, Mom!
 

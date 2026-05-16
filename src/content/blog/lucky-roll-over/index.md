@@ -15,4 +15,4 @@ tags:
     name: "roll over"
 ---
 
-![Roll Over on Katie Crafts; http://www.katiecrafts.com](./img-2727.jpg)
+![Roll Over](./img-2727.jpg)

@@ -4,7 +4,7 @@ publishedDate: "2014-08-20"
 excerpt: "Needle Art Mysteries: Knitting! Okay guys! It’s Jess here with another round of needle arts to be revealed! I know it’s been two weeks since the last post but I had trouble deciding on which one to research. Right now I am actually helping my sister with some packing of things because of the big […]"
 featuredImage:
   src: "./featured.jpg"
-  alt: "Needle Art Mysteries: Knitting on Katie Crafts; http://www.katiecrafts.com"
+  alt: "Needle Art Mysteries: Knitting"
 categories:
   - slug: "crafts"
     name: "Crafts"

@@ -4,7 +4,7 @@ publishedDate: "2014-05-02"
 excerpt: "Project: DIY Turban Headband Tutorial I love the look of turban headbands, but usually they are either WAY too large (Hello! I don’t want 100% of my hair covered or else I’d wear a hat!) OR they are WAY too expensive (Oh Anthropologie, you do it to me every time! $38 for one headband?! I […]"
 featuredImage:
   src: "./featured.jpg"
-  alt: "DIY Turban Headband Tutorial by Katie Crafts; http://www.katiecrafts.com"
+  alt: "DIY Turban Headband Tutorial by"
 categories:
   - slug: "crafts"
     name: "Crafts"
@@ -83,7 +83,7 @@ Elastic = 4″; Elastic covering tube = 6″ (when folded in half, will be 1.5�
 
 - First decide where you want your headband to lay- are you the kind of girl who wears it pushed back nearer her bun? Or perhaps on her forehead? Or somewhere in the middle?
 
-![DIY Turban Headband Tutorial by Katie Crafts; http://www.katiecrafts.com](./img-3076.jpg)
+![DIY Turban Headband Tutorial by](./img-3076.jpg)
 
 - Measure from the top of your head wherever you want your headband to lay, all the way around to the bottom of your hairline. Wrap the tape measure around your head in the same spot you’d wear the headband itself for the most accurate measurement. Jot your number down. I never thought I had a large head (my hat size is only medium), but I guess I must, since this number for me was
 
@@ -129,21 +129,21 @@ Elastic = 4″; Elastic covering tube = 6″ (when folded in half, will be 1.5�
 
   **6″**
 
-![DIY Turban Headband Tutorial by Katie Crafts; http://www.katiecrafts.com](./turban-headband-2.jpg)
+![DIY Turban Headband Tutorial by](./turban-headband-2.jpg)
 
 - **Cut one 6″ long x 2″ wide strip**
 
   . (2″ wide perfectly covered my elastic when folded in half lengthwise. If you have wider elastic, you’ll need to be sure it gets covered!)
 
-![DIY Turban Headband Tutorial by Katie Crafts; http://www.katiecrafts.com](./turban-headband-1.jpg)
+![DIY Turban Headband Tutorial by](./turban-headband-1.jpg)
 
 Yay! All your measurements are done! It sure looks like a whole lot of work above, but it really is just a few minutes of calculating and then it’s on to the project. Here we go!
 
-![DIY Turban Headband Tutorial by Katie Crafts; http://www.katiecrafts.com](./turban-headband-3.jpg)
+![DIY Turban Headband Tutorial by](./turban-headband-3.jpg)
 
 - Fold each of your strips (the 2 large main ones and the one small elastic covering one) in half, lengthwise, with right sides touching. Pin all the way across, forming a tube for each.
 
-![DIY Turban Headband Tutorial by Katie Crafts; http://www.katiecrafts.com](./turban-headband-4.jpg)
+![DIY Turban Headband Tutorial by](./turban-headband-4.jpg)
 
 - If your material is mega wrinkly, now is the time to press it! I ironed right on top of the pins, as they can withstand the heat. It makes the next steps so much easier when it’s flat and pressed.
 
@@ -155,25 +155,25 @@ the large main strips, you’ll need a taper. This will be super helpful later w
 
 - Fold one of your larger strips in half.
 
-![DIY Turban Headband Tutorial by Katie Crafts; http://www.katiecrafts.com](./turban-headband-5.jpg)
+![DIY Turban Headband Tutorial by](./turban-headband-5.jpg)
 
 - To taper: freehand it! I laid my small elastic covering tube next to the large main fabric tube (that is currently folded in half) to compare. Then I did a little sketch right on the fabric to try to match up the sizes and taper it up. It was quick and worked great. Hopefully you can see it in the photo!
 
-![DIY Turban Headband Tutorial by Katie Crafts; http://www.katiecrafts.com](./turban-headband-6.jpg)
+![DIY Turban Headband Tutorial by](./turban-headband-6.jpg)
 
 - Keep it folded in half and follow the sketched line with your scissor, cutting off the excess to create a taper on both sides, removing pins as you go.
 
-![DIY Turban Headband Tutorial by Katie Crafts; https://www.katiecrafts.com](./turban-headband-7.jpg)
+![DIY Turban Headband Tutorial by](./turban-headband-7.jpg)
 
-![DIY Turban Headband Tutorial by Katie Crafts; https://www.katiecrafts.com](./turban-headband-8.jpg)
+![DIY Turban Headband Tutorial by](./turban-headband-8.jpg)
 
 - Re-pin, and use the newly cut tapered piece as a pattern guide for the second piece! Trace it on and cut it out. Re-pin.
 
-![DIY Turban Headband Tutorial by Katie Crafts; http://www.katiecrafts.com](./turban-headband-9.jpg)
+![DIY Turban Headband Tutorial by](./turban-headband-9.jpg)
 
 - Now you should have two cut tapered tubes of fabric, and one elastic covering fabric tube.
 
-![DIY Turban Headband Tutorial by Katie Crafts; http://www.katiecrafts.com](./turban-headband-10.jpg)
+![DIY Turban Headband Tutorial by](./turban-headband-10.jpg)
 
 - Using matching thread, sew across the pinned tops and close them up, making them tubes!
 
@@ -181,15 +181,15 @@ the large main strips, you’ll need a taper. This will be super helpful later w
 
   This is especially important on something that is going to be pulled on and stretched over and over again!
 
-![DIY Turban Headband Tutorial by Katie Crafts; https://www.katiecrafts.com](./turban-headband-11.jpg)
+![DIY Turban Headband Tutorial by](./turban-headband-11.jpg)
 
-![DIY Turban Headband Tutorial by Katie Crafts; https://www.katiecrafts.com](./turban-headband-12.jpg)
+![DIY Turban Headband Tutorial by](./turban-headband-12.jpg)
 
 - Trim off any excess that may be there.
 
 - Using a safety pin, pencil, and your fingers, turn each tube inside out! It takes a little working but you’ll get the hang of it!
 
-![DIY Turban Headband Tutorial by Katie Crafts; http://www.katiecrafts.com](./turban-headband-13.jpg)
+![DIY Turban Headband Tutorial by](./turban-headband-13.jpg)
 
 - Take this time to iron out any wrinkles that may have formed when you were turning the tubes inside out. Iron the larger tubes with the seams
 
@@ -197,19 +197,19 @@ the large main strips, you’ll need a taper. This will be super helpful later w
 
 - You now have three lovely little tubes! It’s time to turn them in to a headband!
 
-![DIY Turban Headband Tutorial by Katie Crafts; http://www.katiecrafts.com](./turban-headband-14.jpg)
+![DIY Turban Headband Tutorial by](./turban-headband-14.jpg)
 
 - Make an “X” with the two large tubes, seam sides facing up.
 
 - Fold point “D” to point “A” and point “C” to point “B” like in the photo below.
 
-![DIY Turban Headband Tutorial by Katie Crafts; https://www.katiecrafts.com](./turban-headband-15.jpg)
+![DIY Turban Headband Tutorial by](./turban-headband-15.jpg)
 
-![DIY Turban Headband Tutorial by Katie Crafts; https://www.katiecrafts.com](./turban-headband-16.jpg)
+![DIY Turban Headband Tutorial by](./turban-headband-16.jpg)
 
 - Make sure your ends are even and that you are happy with the way the little twisted “knot” at the center looks!
 
-![DIY Turban Headband Tutorial by Katie Crafts; http://www.katiecrafts.com](./turban-headband-17.jpg)
+![DIY Turban Headband Tutorial by](./turban-headband-17.jpg)
 
 - Grab your elastic strip, and stitch it (via machine or by hand) right to one of the headband ends- this means through both strip ends of that one side. You can sandwich it between them, or sew it right on top. It doesn’t matter, since it will get covered later anyway. Hopefully the photos give you a little explanation! I overlapped and pinned about a half inch of elastic on to the fabric, then sewed.
 
@@ -217,46 +217,46 @@ the large main strips, you’ll need a taper. This will be super helpful later w
 
   And then forward stitch, and back stitch once more! Remember, this specific part is going to get pulled the most!
 
-![DIY Turban Headband Tutorial by Katie Crafts; https://www.katiecrafts.com](./turban-headband-18.jpg)
+![DIY Turban Headband Tutorial by](./turban-headband-18.jpg)
 
-![DIY Turban Headband Tutorial by Katie Crafts; https://www.katiecrafts.com](./turban-headband-19.jpg)
+![DIY Turban Headband Tutorial by](./turban-headband-19.jpg)
 
-![DIY Turban Headband Tutorial by Katie Crafts; https://www.katiecrafts.com](./turban-headband-20.jpg)
+![DIY Turban Headband Tutorial by](./turban-headband-20.jpg)
 
 - Attach your safety pin to the free end of the elastic. Slide the elastic covering tube over the elastic and scrunch it down til the safety pin is free again. Use the safety pin to hold the end in place while you carefully shimmy the tube down down down until it covers all the exposed elastic that has been sewn down. Pinch and squish until it’s all covered.
 
-![DIY Turban Headband Tutorial by Katie Crafts; https://www.katiecrafts.com](./turban-headband-21.jpg)
+![DIY Turban Headband Tutorial by](./turban-headband-21.jpg)
 
-![DIY Turban Headband Tutorial by Katie Crafts; https://www.katiecrafts.com](./turban-headband-22.jpg)
+![DIY Turban Headband Tutorial by](./turban-headband-22.jpg)
 
-![DIY Turban Headband Tutorial by Katie Crafts; https://www.katiecrafts.com](./turban-headband-23.jpg)
+![DIY Turban Headband Tutorial by](./turban-headband-23.jpg)
 
 - Fold the raw edges of the elastic covering tube under itself to make it look nice and clean. Pin and sew!
 
-![DIY Turban Headband Tutorial by Katie Crafts; http://www.katiecrafts.com](./turban-headband-24.jpg)
+![DIY Turban Headband Tutorial by](./turban-headband-24.jpg)
 
 - Take out the safety pin, and repeat the last three steps to the other side. \[Sew elastic. Shimmy elastic covering over all exposed elastic. Fold it in. Pin and sew.]
 
-![DIY Turban Headband Tutorial by Katie Crafts; http://www.katiecrafts.com](./turban-headband-25.jpg)
+![DIY Turban Headband Tutorial by](./turban-headband-25.jpg)
 
 - That’s all! You are totally done! See, that wasn’t so bad?! Enjoy your brand new amazing turban style headband that you didn’t have to spend $38 on!
 
-![DIY Turban Headband Tutorial by Katie Crafts; https://www.katiecrafts.com](./turban-headband-27.jpg)
+![DIY Turban Headband Tutorial by](./turban-headband-27.jpg)
 
-![DIY Turban Headband Tutorial by Katie Crafts; https://www.katiecrafts.com](./turban-headband-28.jpg)
+![DIY Turban Headband Tutorial by](./turban-headband-28.jpg)
 
-![DIY Turban Headband Tutorial by Katie Crafts; https://www.katiecrafts.com](./turban-headband-white.jpg)
+![DIY Turban Headband Tutorial by](./turban-headband-white.jpg)
 
-![DIY Turban Headband Tutorial by Katie Crafts; https://www.katiecrafts.com](./turban-headband-grey.jpg)
+![DIY Turban Headband Tutorial by](./turban-headband-grey.jpg)
 
-![DIY Turban Headband Tutorial by Katie Crafts; https://www.katiecrafts.com](./turban-headband-back.jpg)
+![DIY Turban Headband Tutorial by](./turban-headband-back.jpg)
 
-![DIY Turban Headband Tutorial by Katie Crafts; https://www.katiecrafts.com](./turban-headband-front.jpg)
+![DIY Turban Headband Tutorial by](./turban-headband-front.jpg)
 
-![DIY Turban Headband Tutorial by Katie Crafts; http://www.katiecrafts.com](./turban-headband-side.jpg)
+![DIY Turban Headband Tutorial by](./turban-headband-side.jpg)
 
 Oh my! My nails match my headband! What a pleasant surprise that I had no idea about at all while making it! 😉
 
 If you try out this tutorial, tell me in the comments! Have a pic? Share that too!
 
-![DIY Turban Headband Tutorial by Katie Crafts; http://www.katiecrafts.com](./turban-headband-last.jpg)
+![DIY Turban Headband Tutorial by](./turban-headband-last.jpg)

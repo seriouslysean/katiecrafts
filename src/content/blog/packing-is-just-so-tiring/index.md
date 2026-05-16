@@ -20,6 +20,6 @@ tags:
     name: "meow"
 ---
 
-![Packing is... JUST. SO. TIRING. on Katie Crafts; http://www.katiecrafts.com](./img-3661.jpg)
+![Packing is... JUST. SO. TIRING.](./img-3661.jpg)
 
 Poor Mabel is EXHAUSTED from the packing and moving process. All that lazing around and playing with her toys really seems to be getting to her.

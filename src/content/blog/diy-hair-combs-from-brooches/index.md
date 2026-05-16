@@ -4,7 +4,7 @@ publishedDate: "2014-04-11"
 excerpt: "Project: DIY Hair Combs From Brooches When I got engaged, I immediately began thinking of all the things I could DIY for the wedding. I thought about all the money we could save if I made it all myself- decorations, invitations, and even all the gifts. Oh the gifts. The many, many gifts. I of […]"
 featuredImage:
   src: "./featured.png"
-  alt: "DIY Hair Combs From Brooches by Katie Crafts; http://www.katiecrafts.com"
+  alt: "DIY Hair Combs From Brooches by"
 categories:
   - slug: "crafts"
     name: "Crafts"
@@ -67,6 +67,6 @@ Finally, I gave up and decided to just try it already- I’d wasted enough time 
 
 When all was said and done, this was one of my favorite gifts to give the girls! I ended up handing them out at my bridal shower so that they could figure out an updo they wanted to wear at the wedding that could hold the weight of the hair comb. Every lady looked totally lovely on my wedding day with their hair up and a brooch tucked in it! Really- how gorgeous are those details! Love them!
 
-![DIY Hair Combs From Brooches by Katie Crafts; http://www.katiecrafts.com](./hair-combs-3.jpg)
+![DIY Hair Combs From Brooches by](./hair-combs-3.jpg)
 
 I totally gave the giant bow one on the bottom to my sister, so that I could steal it after the wedding. Which I did. Haha!

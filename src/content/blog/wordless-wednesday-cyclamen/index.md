@@ -4,7 +4,7 @@ publishedDate: "2016-02-03"
 excerpt: "Remember a few weeks back when I visited Longwood Gardens? I snapped this gorgeous photo of hot pinkish purple-y cyclamen in the Conservatory and I’ve been waiting to share it! I love the white/silver succulents they paired them with, too. It really makes them pop!"
 featuredImage:
   src: "./featured.jpg"
-  alt: "Wordless Wednesday: Cyclamen on Katie Crafts; http://www.katiecrafts.com"
+  alt: "Wordless Wednesday: Cyclamen"
 categories:
   - slug: "hodgepodge"
     name: "Hodgepodge"

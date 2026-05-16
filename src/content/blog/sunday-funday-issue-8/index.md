@@ -4,7 +4,7 @@ publishedDate: "2014-04-06"
 excerpt: "This week seriously flew by! I feel like I got pretty much nothing accomplished, and sadly have to spend the entirety of my Sunday playing catch up. Hopefully your day is more relaxing! If you’re just as busy as I am, at least take a moment to enjoy my Sunday Funday: Issue 8!"
 featuredImage:
   src: "./featured.png"
-  alt: "Sunday Funday: Issue 8 on Katie Crafts; http://www.katiecrafts.com"
+  alt: "Sunday Funday: Issue 8"
 categories:
   - slug: "hodgepodge"
     name: "Hodgepodge"

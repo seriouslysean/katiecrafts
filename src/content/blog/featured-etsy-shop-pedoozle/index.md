@@ -4,7 +4,7 @@ publishedDate: "2014-05-21"
 excerpt: "Featured Etsy Shop: Pedoozle Today’s featured artist is Janice from Pedoozle! She specializes in beautiful wedding favors and the like- and is super talented at it! Her shop is filled with wonderful options for a couple to use on their big day, a mom-to-be to have at her baby shower, and more! Check out our […]"
 featuredImage:
   src: "./featured.jpg"
-  alt: "Featured Etsy Shop: Pedoozle on Katie Crafts; http://www.katiecrafts.com"
+  alt: "Featured Etsy Shop: Pedoozle"
 categories:
   - slug: "crafts"
     name: "Crafts"
@@ -43,11 +43,11 @@ Today’s featured artist is Janice from
 
 _My name is Janice Chambers and I own Pedoozle. Currently, I specialize in Wedding accessories, corporate event and shower favors. In my spare time, I’ve been writing a funny new chick lit series with my husband. It’s based off of the premise of what Jane Austen’s Emma might be like if she were alive today and surrounded by zany characters that would feel at home in a Janet Evanovich novel._
 
-## [![Featured Etsy Shop: Pedoozle on Katie Crafts; http://www.katiecrafts.com](./il-570xn-461055224-i6xb.jpg)](https://www.etsy.com/listing/151722684/baby-wish-tags-hand-stamped-buggy?ref=shop_home_active_19)What do you love about your craft?
+## [![Featured Etsy Shop: Pedoozle](./il-570xn-461055224-i6xb.jpg)](https://www.etsy.com/listing/151722684/baby-wish-tags-hand-stamped-buggy?ref=shop_home_active_19)What do you love about your craft?
 
 _Since 90% of my business is weddings…I love being a small part of one of the most important days of someone’s life. Especially when brides share their dreams of their wedding and how they’ve been planning it since they were eight years old. It’s a humbling experience to be a part of such a momentous occasion._
 
-[![Featured Etsy Shop: Pedoozle on Katie Crafts; http://www.katiecrafts.com](./il-570xn-424414399-jx6r.jpg)](https://www.etsy.com/listing/122777104/place-card-escort-card-seating-chart?ref=shop_home_active_12)
+[![Featured Etsy Shop: Pedoozle](./il-570xn-424414399-jx6r.jpg)](https://www.etsy.com/listing/122777104/place-card-escort-card-seating-chart?ref=shop_home_active_12)
 
 ## What item was your favorite to make so far?
 
@@ -57,13 +57,13 @@ _I usually end up loving most of my items. Currently, because rustic weddings an
 
 _I find inspiration everywhere. I know everyone says that, but it’s true. I happened to see a burlap bag full of coffee beans in a store and that was the inspiration to my number one seller, “The Perfect Blend” burlap favor bags for coffee beans. Then, the burlap line just kept expanding._
 
-## [![Featured Etsy Shop: Pedoozle on Katie Crafts; http://www.katiecrafts.com](./il-570xn-432808215-57cb.jpg)](https://www.etsy.com/listing/125039450/wedding-favors-wildflower-seeds-seeds-of?ref=shop_home_active_5)
+## [![Featured Etsy Shop: Pedoozle](./il-570xn-432808215-57cb.jpg)](https://www.etsy.com/listing/125039450/wedding-favors-wildflower-seeds-seeds-of?ref=shop_home_active_5)
 
 ## How did you decide to open your Etsy shop?
 
 _I had a shop on eBay that did great, but then my wholesalers started selling on eBay and it was just impossible to compete. I’ve always loved making jewelry, so I thought I would give Etsy a shot. I did okay, but I felt like I was following the pack instead of leading it. Somehow, I found my way into weddings and I really love it. When I was making jewelry, I was trying to do my own version of whatever was hot. Now, I try to come up with the next hot wedding item, based on the wedding themes I see trending._
 
-[![Featured Etsy Shop: Pedoozle on Katie Crafts; http://www.katiecrafts.com](./il-570xn-551354381-quo4.jpg)](https://www.etsy.com/listing/175886202/will-you-be-my-bridesmaid-bottle-real?ref=shop_home_active_15)
+[![Featured Etsy Shop: Pedoozle](./il-570xn-551354381-quo4.jpg)](https://www.etsy.com/listing/175886202/will-you-be-my-bridesmaid-bottle-real?ref=shop_home_active_15)
 
 ## Any advice for others who want to start their own Etsy shop, or who are looking to fulfill their passion for crafting?
 
@@ -73,7 +73,7 @@ _If you want to do it full time, you are going to have to pay your dues, by doin
 _Also, take great pictures and work on your SEO ranking. If you don’t understand how the search engines rank items, go to Amazon and read one of their books. It will only take you an hour or two and it will be time well spent. About half of my customers find me on Google and Pinterest._\
 _Think outside the box. One of the things that put me on the map locally was doing a big charity event. Afterwards, one of the hostesses gave my cell phone number out to all of her philanthropic friends. My phone was ringing so often, I thought I might have to change my number._
 
-[![Featured Etsy Shop: Pedoozle on Katie Crafts; http://www.katiecrafts.com](./il-570xn-413713352-en4r.jpg)](https://www.etsy.com/listing/119869924/wedding-wish-tags-heart-personalized?ref=shop_home_active_4)
+[![Featured Etsy Shop: Pedoozle](./il-570xn-413713352-en4r.jpg)](https://www.etsy.com/listing/119869924/wedding-wish-tags-heart-personalized?ref=shop_home_active_4)
 
 Check out all of Janice’s social media accounts to see what else she is up to!
 

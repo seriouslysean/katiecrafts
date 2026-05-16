@@ -14,6 +14,6 @@ tags:
     name: "lucky"
 ---
 
-![Big Lucky Tiny Bed on Katie Crafts; http://www.katiecrafts.com](./img-3461.jpg)
+![Big Lucky Tiny Bed](./img-3461.jpg)
 
 “I don’t fit in this bed, but I love it just the same.”

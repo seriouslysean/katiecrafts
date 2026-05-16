@@ -16,6 +16,6 @@ tags:
     name: "mabel"
 ---
 
-![Exhausted Lucky on Katie Crafts; http://www.katiecrafts.com](./img-2596.jpg)
+![Exhausted Lucky](./img-2596.jpg)
 
 Mabel plays with toys. Lucky sleeps on them.

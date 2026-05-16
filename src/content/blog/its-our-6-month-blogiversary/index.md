@@ -4,7 +4,7 @@ publishedDate: "2014-08-07"
 excerpt: "Hurray!! Today is Katie Crafts’ 6 month anniversary! While it’s true Katie Crafts’ Etsy store has been around quite some time, today marks the half-year celebration of the blog’s birth. Wow- half a year! I really can’t believe it. It’s been such a fun ride so far and I thank all you Katie Crafts readers […]"
 featuredImage:
   src: "./featured.jpg"
-  alt: "Katie Crafts 6 Month Blogiversary Party on Katie Crafts; http://www.katiecrafts.com"
+  alt: "Katie Crafts 6 Month Blogiversary Party"
 categories:
   - slug: "crafts"
     name: "Crafts"

@@ -4,7 +4,7 @@ publishedDate: "2016-05-06"
 excerpt: "How cute are these tiny little earrings? Wouldn’t it be just fabulous if both you AND your mom or your bestie could win a pair? Well, it’s your lucky day! Head over to my Instagram Page now for this Mother’s Day Earrings Giveaway!"
 featuredImage:
   src: "./featured.jpg"
-  alt: "Mother's Day Earrings Giveaway! on Katie Crafts; http://www.katiecrafts.com"
+  alt: "Mother's Day Earrings Giveaway!"
 categories:
   - slug: "crafts"
     name: "Crafts"

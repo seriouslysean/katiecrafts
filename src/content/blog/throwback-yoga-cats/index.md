@@ -4,7 +4,7 @@ publishedDate: "2016-02-11"
 excerpt: "Here’s a little #ThrowbackThursday for you featuring my #Yoga #Cats! #TBT"
 featuredImage:
   src: "./featured.jpeg"
-  alt: "Throwback Thursday: Yoga Cats on Katie Crafts; http://www.katiecrafts.com"
+  alt: "Throwback Thursday: Yoga Cats"
 categories:
   - slug: "cats"
     name: "Cats"

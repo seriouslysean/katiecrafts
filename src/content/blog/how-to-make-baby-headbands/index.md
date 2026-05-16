@@ -4,7 +4,7 @@ publishedDate: "2015-01-26"
 excerpt: "Project: How To Make Baby Headbands Last week, you learned how to make those adorable 5 minute tulle pom pom flowers… and now you know why! It is so that you can make your very own super sweet baby headbands! (But let’s be honest, you can make one for yourself, too, if you really want!) […]"
 featuredImage:
   src: "./featured.png"
-  alt: "How To Make a Baby Headband Tutorial by Katie Crafts; http://www.katiecrafts.com"
+  alt: "How To Make a Baby Headband Tutorial by"
 categories:
   - slug: "crafts"
     name: "Crafts"
@@ -81,59 +81,59 @@ I started out with the idea of making two different headbands in different sizes
 
 * Make sure to cut the elastic one inch longer than you need it to be, so that it can overlap for sewing. For example, if you want to end up with an 11″ round headband, cut a 12″ strip of elastic.
 
-![How To Make a Baby Headband Tutorial by Katie Crafts; https://www.katiecrafts.com](./baby-headbands-3.jpg)
+![How To Make a Baby Headband Tutorial by](./baby-headbands-3.jpg)
 
-![How To Make a Baby Headband Tutorial by Katie Crafts; https://www.katiecrafts.com](./baby-headbands-4.jpg)
+![How To Make a Baby Headband Tutorial by](./baby-headbands-4.jpg)
 
 - Use a zig zag stitch to sew your elastic together in a “box” like pictured above. Don’t worry about it looking less than beautiful, as that part will be completely covered up with flowers and felt.
 
-![How To Make a Baby Headband Tutorial by Katie Crafts; http://www.katiecrafts.com](./baby-headbands-5.jpg)
+![How To Make a Baby Headband Tutorial by](./baby-headbands-5.jpg)
 
 - Next, you’ll want to practice-arrange your flowers atop your headband and see what works for you. It took me a very long time to do this as I just couldn’t make up my mind! ALL the flowers looked cute together but it took a long while to pick which ones should live with which. Phew!
 
-![How To Make a Baby Headband Tutorial by Katie Crafts; http://www.katiecrafts.com](./baby-headbands-6.jpg)
+![How To Make a Baby Headband Tutorial by](./baby-headbands-6.jpg)
 
 - Once you’ve picked your arrangements, lay them exactly the same way atop the felt, and cut around. This piece will be against the baby’s head but may be visible through the flowers so make sure to trim/shape it nicely.
 
-![How To Make a Baby Headband Tutorial by Katie Crafts; https://www.katiecrafts.com](./baby-headbands-7.jpg)
+![How To Make a Baby Headband Tutorial by](./baby-headbands-7.jpg)
 
-![How To Make a Baby Headband Tutorial by Katie Crafts; https://www.katiecrafts.com](./baby-headbands-9.jpg)
+![How To Make a Baby Headband Tutorial by](./baby-headbands-9.jpg)
 
-![How To Make a Baby Headband Tutorial by Katie Crafts; https://www.katiecrafts.com](./baby-headbands-13.jpg)
+![How To Make a Baby Headband Tutorial by](./baby-headbands-13.jpg)
 
 - Add a little glue to the middle of the felt shape and firmly press the sewn “box” of elastic to it. Make sure you are gluing the INSIDE of the elastic and not the pretty outside, as that will be where the flowers go in the next step. See photo above. Do this for all headbands.
 
-![How To Make a Baby Headband Tutorial by Katie Crafts; http://www.katiecrafts.com](./baby-headbands-10.jpg)
+![How To Make a Baby Headband Tutorial by](./baby-headbands-10.jpg)
 
 - Now that the felt piece and elastic are bonded, use your hot glue gun once more and cover the whole piece of felt.
 
-![How To Make a Baby Headband Tutorial by Katie Crafts; https://www.katiecrafts.com](./baby-headbands-12.jpg)
+![How To Make a Baby Headband Tutorial by](./baby-headbands-12.jpg)
 
-![How To Make a Baby Headband Tutorial by Katie Crafts; https://www.katiecrafts.com](./baby-headbands-14.jpg)
+![How To Make a Baby Headband Tutorial by](./baby-headbands-14.jpg)
 
 - Carefully place the flowers one at a time on the felt just as you did in your practice-arrangement. Add extra glue where needed and press down. Let dry.
 
-![How To Make a Baby Headband Tutorial by Katie Crafts; http://www.katiecrafts.com](./baby-headbands-11.jpg)
+![How To Make a Baby Headband Tutorial by](./baby-headbands-11.jpg)
 
 The back will look like this!
 
 - If you’ve done everything correctly, the stitched “box” of elastic will be totally covered by felt (which touches the baby’s head) and flowers, and you will have a beautiful new headband for the newborn in your life!
 
-![How To Make a Baby Headband Tutorial by Katie Crafts; http://www.katiecrafts.com](./baby-headbands-17.jpg)
+![How To Make a Baby Headband Tutorial by](./baby-headbands-17.jpg)
 
 - Don’t forget you can make these for any little girl simply by measuring their head! If you don’t have fold over elastic on hand, you can use a plain headband they may already have! I just find the flatness of the fold over elastic to be ideal for gluing.
 
 Here are some closeups of the headbands I made!
 
-![How To Make a Baby Headband Tutorial by Katie Crafts; http://www.katiecrafts.com](./baby-headbands-18.jpg)
+![How To Make a Baby Headband Tutorial by](./baby-headbands-18.jpg)
 
 This one is the smallest headband but with the biggest flowers. Perfect for a newborn photo!
 
-![How To Make a Baby Headband Tutorial by Katie Crafts; http://www.katiecrafts.com](./baby-headbands-19.jpg)
+![How To Make a Baby Headband Tutorial by](./baby-headbands-19.jpg)
 
 I love the little shiny beads and button I adorned to the middles of these pom pom flowers!
 
-![How To Make a Baby Headband Tutorial by Katie Crafts; http://www.katiecrafts.com](./baby-headbands-20.jpg)
+![How To Make a Baby Headband Tutorial by](./baby-headbands-20.jpg)
 
 Satin and lace may be the winners!
 

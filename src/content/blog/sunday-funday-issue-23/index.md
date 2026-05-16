@@ -38,7 +38,7 @@ I love taking online quizzes. I can’t get enough! I see someone post one on Fa
 
 [Here’s the quiz!](http://www.playbuzz.com/annden10/what-hobby-should-you-have "What Hobby Should You Have Quiz")
 
-[![Sunday Funday: Issue 23 on Katie Crafts; http://www.katiecrafts.com](./screen-shot-2014-07-26-at-9-02-47-pm.png)](http://www.playbuzz.com/annden10/what-hobby-should-you-have)
+[![Sunday Funday: Issue 23](./screen-shot-2014-07-26-at-9-02-47-pm.png)](http://www.playbuzz.com/annden10/what-hobby-should-you-have)
 
 photo courtesy of playbuzz.com
 
@@ -50,7 +50,7 @@ Every Thursday, I get together with a few awesome girls for a Knitting group (Ok
 
 so we have the room to ourselves to discuss our craft projects and/or chat about whatever. It’s a great break from the week and something I look forward to! Good Karma has this KILLER drink that I love love love called the Dandy Lion, consisting of green tea, lemonade and lavender syrup, which I get every time I’m there. Last time, they swapped out the green tea for African nectar tea to keep my caffeine intake at a low, and it was even better! I’m pretty obsessed. It’s easy to see why this is my “place I love” this week!
 
-[![Sunday Funday: Issue 23 on Katie Crafts; http://www.katiecrafts.com](./screen-shot-2014-07-27-at-12-34-24-am.png)](http://thegoodkarmacafe.com/)
+[![Sunday Funday: Issue 23](./screen-shot-2014-07-27-at-12-34-24-am.png)](http://thegoodkarmacafe.com/)
 
 photo courtesy of thegoodkarmacafe.com
 
@@ -62,7 +62,7 @@ Chicken Makhani, aka Butter Chicken, is by far my favorite dish in any Indian re
 
 to add to my box. If I ever get around to testing it out, you’ll be the first to know!
 
-[![Sunday Funday: Issue 23 on Katie Crafts; http://www.katiecrafts.com](./butter-chicken.jpg)](http://allrecipes.com/recipe/chicken-makhani-indian-butter-chicken/)
+[![Sunday Funday: Issue 23](./butter-chicken.jpg)](http://allrecipes.com/recipe/chicken-makhani-indian-butter-chicken/)
 
 ## Project That Inspires: Little Lion Amigurumi
 
@@ -72,6 +72,6 @@ I found this pattern for an adorable crocheted lion on
 
 ! It’s so cute! I already started and I only hope it comes out even slightly as sweet as this one did!
 
-[![Sunday Funday: Issue 23 on Katie Crafts; http://www.katiecrafts.com](./screen-shot-2014-07-26-at-9-11-51-pm.png)](http://beacrafter.com/little-lion-amigurumi/)
+[![Sunday Funday: Issue 23](./screen-shot-2014-07-26-at-9-11-51-pm.png)](http://beacrafter.com/little-lion-amigurumi/)
 
 That’s all she wrote! Happy Sunday!

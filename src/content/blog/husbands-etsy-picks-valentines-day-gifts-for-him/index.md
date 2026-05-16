@@ -4,7 +4,7 @@ publishedDate: "2015-01-23"
 excerpt: "Husband’s Etsy Picks: Valentine’s Day Gifts For Him It’s that time of year again! That time when you’re supposed to smother your significant other with all kinds of love an affection! Just don’t tell Katie, she’s liable to scream and run away from me because I’m so hideous. 😉"
 featuredImage:
   src: "./featured.png"
-  alt: "Husband's Etsy Picks: Valentine's Day Gifts For Him by Katie Crafts; http://www.katiecrafts.com"
+  alt: "Husband's Etsy Picks: Valentine's Day Gifts For Him by"
 categories:
   - slug: "hodgepodge"
     name: "Hodgepodge"

@@ -4,7 +4,7 @@ publishedDate: "2016-03-16"
 excerpt: "Stencils are a great way to add a personal detail to all kinds of things: walls, headboards, clothes, mugs, and more! If the craft store doesn’t have the kind of stencil you are looking for, why not make your own? Today you will learn not one, but TWO ways to make an adhesive stencil! First, I’ll […]"
 featuredImage:
   src: "./featured.jpg"
-  alt: "How to Make an Adhesive Stencil: Two Ways on Katie Crafts; http://www.katiecrafts.com"
+  alt: "How to Make an Adhesive Stencil: Two Ways"
 categories:
   - slug: "crafts"
     name: "Crafts"
@@ -36,8 +36,6 @@ tags:
 ---
 
 Stencils are a great way to add a personal detail to all kinds of things: walls, headboards, clothes, mugs, and more! If the craft store doesn’t have the kind of stencil you are looking for, why not make your own? Today you will learn not one, but TWO ways to make an adhesive stencil! First, I’ll show you how to do it by hand. Then, I’ll share how to make one using an electronic cutting machine. Tomorrow I will give you a project to try your new stencil out on!!
-
-
 
 I have a magical machine called a
 
@@ -109,15 +107,15 @@ _\*Tracing an image from Google is for personal use ONLY! Do not take someone el
 
 * With the image highlighted, click “Trace Outer Edge”.
 
-![How to Make an Adhesive Stencil Using Silhouette Cameo on Katie Crafts; http://www.katiecrafts.com](./2016-02-23-at-3-00-pm.png)
+![How to Make an Adhesive Stencil Using Silhouette Cameo](./2016-02-23-at-3-00-pm.png)
 
 - Now drag the image away from it’s original spot. You’ll see a red outline is left. That is your new cut file! When cutting the stencil/vinyl, it will cut all along the red, creating a perfect shamrock.
 
-![How to Make an Adhesive Stencil Using Silhouette Cameo on Katie Crafts; http://www.katiecrafts.com](./screen-shot-2016-02-23-at-3-01-12-pm.png)
+![How to Make an Adhesive Stencil Using Silhouette Cameo](./screen-shot-2016-02-23-at-3-01-12-pm.png)
 
 - I opened the “Fill Color” screen and filled the clover with green, just to see what it looks like. You do not need to do this step, as it’s going to cut around the red outline no matter what. I just always like to visualize the image first!
 
-![How to Make an Adhesive Stencil Using Silhouette Cameo on Katie Crafts; http://www.katiecrafts.com](./screen-shot-2016-02-23-at-3-01-34-pm.png)
+![How to Make an Adhesive Stencil Using Silhouette Cameo](./screen-shot-2016-02-23-at-3-01-34-pm.png)
 
 - The original image (the black and white shamrock) has no cut lines, and therefore won’t cut when you feed the contact paper/vinyl through your Cameo. You can move it to the side off your ‘mat’ and open your “Cut Settings” (looks like a little pen).
 
@@ -125,13 +123,13 @@ _\*Tracing an image from Google is for personal use ONLY! Do not take someone el
 
 - It will tell you once you click vinyl what your blade should be set to. Vinyl is typically a Ratchet Blade setting of 1. You will need to use turn your blade to 1 before placing it in it’s holder and locking it in place.
 
-![How to Make an Adhesive Stencil Using Silhouette Cameo on Katie Crafts; http://www.katiecrafts.com](./screen-shot-2016-02-23-at-3-02-35-pm.png)
+![How to Make an Adhesive Stencil Using Silhouette Cameo](./screen-shot-2016-02-23-at-3-02-35-pm.png)
 
 - Place your contact paper or vinyl face up on your cutting mat. Be sure it’s on the same spot as the image you are cutting in the studio.
 
 - If everything looks good, load your mat in your Silhouette Cameo and send the file to be cut!
 
-![How to Make an Adhesive Stencil Using Silhouette Cameo on Katie Crafts; http://www.katiecrafts.com](./img-0970.jpg)
+![How to Make an Adhesive Stencil Using Silhouette Cameo](./img-0970.jpg)
 
 - Use your scissors to cut excess around the shamrock/your image and weed the shamrock out. You are using the outside of it as a stencil, so you don’t need the shamrock itself. Leave the rest in tact on the paper backing until you are ready to use the stencil.
 

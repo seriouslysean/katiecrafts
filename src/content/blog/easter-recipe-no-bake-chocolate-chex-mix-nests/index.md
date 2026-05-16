@@ -4,7 +4,7 @@ publishedDate: "2015-04-02"
 excerpt: "Easter Recipe: No-Bake Chocolate Chex Mix Nests I’ve made little coconut nest cupcakes for Easter before, as well as chocolate covered Peeps, but this year I wanted to kind of combine the two! I found a super easy recipe for no-bake chocolate Chex Mix Popped nests on Betty Crocker and I knew I had to […]"
 featuredImage:
   src: "./featured.png"
-  alt: "No-Bake Chocolate Chex Mix Nests Recipe on Katie Crafts; http://www.katiecrafts.com"
+  alt: "No-Bake Chocolate Chex Mix Nests Recipe"
 categories:
   - slug: "cooks"
     name: "Cooks"

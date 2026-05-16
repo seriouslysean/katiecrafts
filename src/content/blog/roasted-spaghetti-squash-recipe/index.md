@@ -4,7 +4,7 @@ publishedDate: "2016-06-01"
 excerpt: "My Whole30 Challenge is complete, and I’m just in the midst of reintroducing each forbidden food now to see what my body can handle and what it can’t. During this time, I have to stick to compliant recipes like this roasted spaghetti squash one! The Husband REALLY loved it, so I know I’ll be making […]"
 featuredImage:
   src: "./featured.jpg"
-  alt: "Roasted Spaghetti Squash Recipe on Katie Crafts; http://www.katiecrafts.com"
+  alt: "Roasted Spaghetti Squash Recipe"
 categories:
   - slug: "cooks"
     name: "Cooks"

@@ -48,7 +48,7 @@ I wanted to choose a fabric that was super soft on their little kitty paws, so I
 
 Besides, the old bed was pretty ugly. In fact, we usually have a blanket covering it entirely because it’s not very attractive. Upon lifting the blanket we found many crumbs. And yes, that is indeed a Starbucks coffee cup stopper thingamabob. Mabel loves to play with them, so we get her a new one every time we go. She probably has a dozen hidden around the apartment.
 
-![Cozy Catnip Kitty Pillow by Katie Crafts; http://www.katiecrafts.com](./img-1273.jpg)
+![Cozy Catnip Kitty Pillow by](./img-1273.jpg)
 
 This whole project took me about
 
@@ -82,19 +82,19 @@ to complete, and that includes two breaks for feeding the cats some of the catni
 
 First, make sure your fabric is large enough to accommodate two large circles. Lay it out on a fat surface.
 
-![Cozy Catnip Kitty Pillow by Katie Crafts; http://www.katiecrafts.com](./img-1269.jpg)
+![Cozy Catnip Kitty Pillow by](./img-1269.jpg)
 
 Next, trace your circle on the wrong side (the back, or non-patterned side) of your fabric with your pencil or chalk. I used Mabel’s round toy as my guide and sketched around it about three inches larger all the way around. Fight the urge to let the cat help, no matter how much she begs.
 
-![Cozy Catnip Kitty Pillow by Katie Crafts; http://www.katiecrafts.com](./img-1271.jpg)
+![Cozy Catnip Kitty Pillow by](./img-1271.jpg)
 
 After you’ve traced it all the way around, you’ll fold the fabric in half so you have the drawn circle facing you in it’s entirety and a second layer of fabric behind it large enough to make the second circle. Then fold those layers in half across the middle of the circle so you end up with four layers and a half circle facing you. Just like you’d do with a sheet of paper that you wanted to make two matching circles out of. Cut along the mark and you’ll end up with two matching circles!
 
-![Cozy Catnip Kitty Pillow by Katie Crafts; http://www.katiecrafts.com](./img-1272.jpg)
+![Cozy Catnip Kitty Pillow by](./img-1272.jpg)
 
 With right sides facing together, pin all the way around, leaving a gap of about 6 or so inches open. You’ll use this to turn the project inside out later and fill it.
 
-![Cozy Catnip Kitty Pillow by Katie Crafts; http://www.katiecrafts.com](./img-1222.jpg)
+![Cozy Catnip Kitty Pillow by](./img-1222.jpg)
 
 Head over to your sewing machine and run small straight stitches all the way around, minus the unpinned 6″ section. I kept about a centimeter from the edge at all times to make sure it’s a pretty round circle, but it doesn’t need to be perfect. I also used darker thread to show up in the photos but you should use matching thread when possible.
 
@@ -106,7 +106,7 @@ When you’re done with your machine, snip off excess fabric with pinking shears
 
 Gently turn the project inside out through the opening so the patterned side is facing you once again.
 
-![Cozy Catnip Kitty Pillow by Katie Crafts; http://www.katiecrafts.com](./img-1225.jpg)
+![Cozy Catnip Kitty Pillow by](./img-1225.jpg)
 
 Now it’s time to stuff that pillow up! Fill about halfway with
 
@@ -114,7 +114,7 @@ Now it’s time to stuff that pillow up! Fill about halfway with
 
 , then get out your catnip. Take a break to give some to your kitties who will pester you until you do so, then go back to the project.
 
-![Cozy Catnip Kitty Pillow by Katie Crafts; http://www.katiecrafts.com](./img-1274.jpg)
+![Cozy Catnip Kitty Pillow by](./img-1274.jpg)
 
 I used probably three small handfuls total of
 
@@ -122,7 +122,7 @@ I used probably three small handfuls total of
 
 in this project, but I have a LOT of it so it wasn’t being too wasteful. Also my cats go CRAZY for it so I wanted to make sure it was throughout the filling. I made sure to sprinkle it and mush it all throughout the stuffing. Then I stuffed it the remainder of the way, and added another sprinkle.
 
-![Cozy Catnip Kitty Pillow by Katie Crafts; http://www.katiecrafts.com](./img-1228.jpg)
+![Cozy Catnip Kitty Pillow by](./img-1228.jpg)
 
 Yeah, there’s a lot in there.
 

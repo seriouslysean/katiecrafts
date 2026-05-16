@@ -4,7 +4,7 @@ publishedDate: "2015-03-30"
 excerpt: "Easter Nail Art: Peeps! Last year, I had a very cute nail art design for Easter that was reminiscent of a little basket with flowers and decorated eggs. This year, I went for a different Easter staple: Peeps!"
 featuredImage:
   src: "./featured.png"
-  alt: "Easter Nail Art: Peeps! by Katie Crafts; http://www.katiecrafts.com"
+  alt: "Easter Nail Art: Peeps! by"
 categories:
   - slug: "beauty"
     name: "Beauty"
@@ -69,17 +69,17 @@ I picked
 
 - Put a dab of white beside each color.
 
-![Easter Nail Art: Peeps! by Katie Crafts; https://www.katiecrafts.com](./peeps-nail-art-1.jpg)
+![Easter Nail Art: Peeps! by](./peeps-nail-art-1.jpg)
 
-![Easter Nail Art: Peeps! by Katie Crafts; https://www.katiecrafts.com](./peeps-nail-art-2.jpg)
+![Easter Nail Art: Peeps! by](./peeps-nail-art-2.jpg)
 
 - Mix the white in to each to make it lighter and give it more “pop” on your nails!
 
 - Use your largest dotting tool dipped in the first color to make a bunny body and adjoining body head on your ring finger.
 
-![Easter Nail Art: Peeps! by Katie Crafts; https://www.katiecrafts.com](./peeps-nail-art-4.jpg)
+![Easter Nail Art: Peeps! by](./peeps-nail-art-4.jpg)
 
-![Easter Nail Art: Peeps! by Katie Crafts; https://www.katiecrafts.com](./peeps-nail-art-5.jpg)
+![Easter Nail Art: Peeps! by](./peeps-nail-art-5.jpg)
 
 - Next, use the opposite side/smaller dotting tool in the same color to make two bunny ears.
 
@@ -87,14 +87,14 @@ I picked
 
 * Use your smallest dotting tool dipped in black paint to make little eyes and noses on the bunnies. Let dry.
 
-![Easter Nail Art: Peeps! by Katie Crafts; https://www.katiecrafts.com](./peeps-nail-art-main.jpg)
+![Easter Nail Art: Peeps! by](./peeps-nail-art-main.jpg)
 
-![Easter Nail Art: Peeps! by Katie Crafts; https://www.katiecrafts.com](./peeps-nail-art-7.jpg)
+![Easter Nail Art: Peeps! by](./peeps-nail-art-7.jpg)
 
 - Seal in your PEEPS! look with a clear top coat and let dry. Done!
 
-![Easter Nail Art: Peeps! by Katie Crafts; http://www.katiecrafts.com](./peeps-nail-art-9.jpg)
+![Easter Nail Art: Peeps! by](./peeps-nail-art-9.jpg)
 
 SO CUTE!!! I love this design so much and can’t wait to show it to the kids on Easter. How will you be decorating your nails for the holiday? Peep peep!
 
-![Easter Nail Art: Peeps! by Katie Crafts; http://www.katiecrafts.com](./peeps-nail-art-8.jpg)
+![Easter Nail Art: Peeps! by](./peeps-nail-art-8.jpg)

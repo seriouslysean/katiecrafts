@@ -4,7 +4,7 @@ publishedDate: "2014-06-05"
 excerpt: "Project: DIY Shabby Chic Rosettes I really like making these little fabric rosettes because they are simple, don’t require my sewing machine, and are great to use in a number of projects! (Bonus: they are this month’s fabric scrap basket project!) Today, I’m going to show you how to make the flowers themselves, and give […]"
 featuredImage:
   src: "./featured.jpg"
-  alt: "DIY Shabby Chic Rosettes Tutorial on Katie Crafts; http://www.katiecrafts.com"
+  alt: "DIY Shabby Chic Rosettes Tutorial"
 categories:
   - slug: "crafts"
     name: "Crafts"
@@ -59,47 +59,47 @@ I love projects that use up scraps of leftover fabric! The more worn and frayed 
 
 > _Please ignore my horrible chipping nail polish!!_
 
-![DIY Shabby Chic Rosettes Tutorial on Katie Crafts; http://www.katiecrafts.com](./rosette-step-1.jpg)
+![DIY Shabby Chic Rosettes Tutorial](./rosette-step-1.jpg)
 
 - First step is to fold one end down about an inch. This is what you’ll hold on to as you wrap your fabric around. We’ll call it a “handle.”
 
 - Put a quick stitch through that fold to keep it in place if you like.
 
-![DIY Shabby Chic Rosettes Tutorial on Katie Crafts; http://www.katiecrafts.com](./rosette-step-2.jpg)
+![DIY Shabby Chic Rosettes Tutorial](./rosette-step-2.jpg)
 
 - Next, you’re going to take your super long tail and fold it up and away from your little “handle,” so they are pointing in opposite directions. Repeat this folding/flipping/twisting motion.
 
 - Twist the fabric around the “handle” to make what looks like a little knot, and stitch as you go to keep each new twist in place.
 
-![DIY Shabby Chic Rosettes Tutorial on Katie Crafts; http://www.katiecrafts.com](./rosette-step-3.jpg)
+![DIY Shabby Chic Rosettes Tutorial](./rosette-step-3.jpg)
 
 - Keep turning the fabric, twisting it the way you want it to be shown, and stitching it in place. Doing this all the way around in a circle will create your rosette.
 
-![DIY Shabby Chic Rosettes Tutorial on Katie Crafts; http://www.katiecrafts.com](./rosette-step-4.jpg)
+![DIY Shabby Chic Rosettes Tutorial](./rosette-step-4.jpg)
 
 See it taking shape below?
 
-![DIY Shabby Chic Rosettes Tutorial on Katie Crafts; https://www.katiecrafts.com](./img-3654.jpg)
+![DIY Shabby Chic Rosettes Tutorial](./img-3654.jpg)
 
-![DIY Shabby Chic Rosettes Tutorial on Katie Crafts; https://www.katiecrafts.com](./img-3656.jpg)
+![DIY Shabby Chic Rosettes Tutorial](./img-3656.jpg)
 
 - When you get to the end of your strip, you have two options. You can leave the last bit of fabric (i.e. the “handle”) sticking out to mimic a leaf, or you can stitch it under the back to keep it hiding and flat. Play around with both ways to see which you like best.
 
-![DIY Shabby Chic Rosettes Tutorial on Katie Crafts; http://www.katiecrafts.com](./img-3657.jpg)
+![DIY Shabby Chic Rosettes Tutorial](./img-3657.jpg)
 
 - If you decide to stitch the back, simply flip the rosette over, fold the extra fabric over the back as flat as you can, and give it a few stitches to hold it in place. This is especially nice when you need a flat back for gluing.
 
-![DIY Shabby Chic Rosettes Tutorial on Katie Crafts; https://www.katiecrafts.com](./img-3659.jpg)
+![DIY Shabby Chic Rosettes Tutorial](./img-3659.jpg)
 
-![DIY Shabby Chic Rosettes Tutorial on Katie Crafts; https://www.katiecrafts.com](./img-3660.jpg)
+![DIY Shabby Chic Rosettes Tutorial](./img-3660.jpg)
 
 That’s it! Just a few minutes later you have a really adorable shabby chic rosette, ready to use for your crafts! How cute is that!?
 
-![DIY Shabby Chic Rosettes Tutorial on Katie Crafts; http://www.katiecrafts.com](./img-3664.jpg)
+![DIY Shabby Chic Rosettes Tutorial](./img-3664.jpg)
 
 Here are a couple examples of different colors, fabrics, patterns, and with vs. without the extra “leaf” fabric.
 
-![DIY Shabby Chic Rosettes Tutorial on Katie Crafts; http://www.katiecrafts.com](./img-3666.jpg)
+![DIY Shabby Chic Rosettes Tutorial](./img-3666.jpg)
 
 Now that you have some rosettes, you are ready for a crazy quick project to use these flowers on! In addition to apparel, children’s crafts and scrapbooking, these little rosettes are really adorable when made in to hair clips!
 
@@ -107,9 +107,9 @@ Now that you have some rosettes, you are ready for a crazy quick project to use 
 
 - Glue down in place. Let dry. Done!
 
-![DIY Shabby Chic Rosettes Tutorial on Katie Crafts; https://www.katiecrafts.com](./img-3668.jpg)
+![DIY Shabby Chic Rosettes Tutorial](./img-3668.jpg)
 
-![DIY Shabby Chic Rosettes Tutorial on Katie Crafts; https://www.katiecrafts.com](./img-3673.jpg)
+![DIY Shabby Chic Rosettes Tutorial](./img-3673.jpg)
 
 ## Tips:
 
@@ -121,6 +121,6 @@ Now that you have some rosettes, you are ready for a crazy quick project to use 
 
 - Different fabrics yield different results! Have fun figuring out which you like best!
 
-![DIY Shabby Chic Rosettes Tutorial on Katie Crafts; http://www.katiecrafts.com](./img-3662.jpg)
+![DIY Shabby Chic Rosettes Tutorial](./img-3662.jpg)
 
 Hope you liked this easy DIY! If you give them a try, show me your results in the comments!

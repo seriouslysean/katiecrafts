@@ -28,11 +28,11 @@ My favorite time to scroll through the boards of
 
 is late at night, in my jammies, when I can be totally lazy. On the boards, I’m constantly finding inspiring quotes about art, life, being creative and following your dreams. The one above by Albert Einstein is my favorite. While I could easily share with you a million different quotes, these are the 5 quotes about creativity that really stuck with me. Hope you like them too!
 
-[![Kurt Vonnegut](./kurtvonnegut.jpg "5 Quotes About Creativity by Katie Crafts; http://www.katiecrafts.com/")](http://unleashyourcreativity.co.uk/2013/06/07/food-for-the-soul/)
+[![Kurt Vonnegut](./kurtvonnegut.jpg "5 Quotes About Creativity by Katie Crafts; ")](http://unleashyourcreativity.co.uk/2013/06/07/food-for-the-soul/)
 
-[![Dr Seuss Quote from Mama Miss](./drseussnonsensequote-copyright2013mamamiss-fb.jpg "5 Quotes About Creativity by Katie Crafts; http://www.katiecrafts.com/")](http://www.mamamiss.com/2013/03/02/quote-art-dr-seuss-nonsense/)
+[![Dr Seuss Quote from Mama Miss](./drseussnonsensequote-copyright2013mamamiss-fb.jpg "5 Quotes About Creativity by Katie Crafts; ")](http://www.mamamiss.com/2013/03/02/quote-art-dr-seuss-nonsense/)
 
-![Do What You Love](./dowhatyoulove.jpg "5 Quotes About Creativity by Katie Crafts; http://www.katiecrafts.com/")
+![Do What You Love](./dowhatyoulove.jpg "5 Quotes About Creativity by Katie Crafts; ")
 
 I just love these quotes! I’ll keep an eye out for even more great sayings and share them with you when I can. In the meantime, what quotes inspire you to create and dream? Share them with me on
 

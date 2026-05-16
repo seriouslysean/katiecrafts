@@ -16,6 +16,6 @@ tags:
     name: "marshall"
 ---
 
-![Marshal On Dresser on Katie Crafts; http://www.katiecrafts.com](./img-4569.jpg)
+![Marshal On Dresser](./img-4569.jpg)
 
 Make me pretty.

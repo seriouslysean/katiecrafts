@@ -4,7 +4,7 @@ publishedDate: "2015-10-29"
 excerpt: "October 29th is National Cat Day! The annual holiday is to intended to do one thing: celebrate our furry friends! A day all about cats helps spread the word about kitties that need adopting, rescues that need help at the shelters and gives you a good reason to go cat lady crazy!"
 featuredImage:
   src: "./featured.jpg"
-  alt: "Happy National Cat Day! on Katie Crafts; http://www.katiecrafts.com"
+  alt: "Happy National Cat Day!"
 categories:
   - slug: "cats"
     name: "Cats"
@@ -29,4 +29,3 @@ October 29th is
 
 Both my kitties are rescues, so a day that promotes finding a loving home for other cats in need sounds like a purr-fect holiday to me! Hope you spend your National Cat Day with your favorite kitty friend(s)! Now enjoy a short clip of Mabel kneading her blanket to death.
 
-[http://www.katiecrafts.com/wp-content/uploads/2015/10/IMG\_4178.m4v](/wp-content/uploads/2015/10/IMG_4178.m4v)

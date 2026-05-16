@@ -4,7 +4,7 @@ publishedDate: "2016-02-24"
 excerpt: "Since this past Saturday (February 20th) was National Love Your Pet Day, I just had to share this photo of my little Pea for this week’s Wordless Wednesday shot! She was pretty pleased with herself, as you can tell."
 featuredImage:
   src: "./featured.jpg"
-  alt: "Wordless Wednesday: Pillow Queen on Katie Crafts; http://www.katiecrafts.com"
+  alt: "Wordless Wednesday: Pillow Queen"
 categories:
   - slug: "cats"
     name: "Cats"

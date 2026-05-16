@@ -4,7 +4,7 @@ publishedDate: "2016-02-16"
 excerpt: "It snowed again yesterday! It was an interesting type of snow. It stuck immediately to the ground but looked quite funny as it accumulated, like it was composed of little fuzzy balls mixed with shards of glass! I was lucky enough to catch a perfect teeny snowflake on my glove, which inspired me to search for a quote about snowflakes. “To appreciate the beauty of a snowflake, it is necessary to stand out in the cold.” – Unknown"
 featuredImage:
   src: "./featured.jpg"
-  alt: "QOTD: Snowflakes on Katie Crafts; http://www.katiecrafts.com"
+  alt: "QOTD: Snowflakes"
 categories:
   - slug: "hodgepodge"
     name: "Hodgepodge"

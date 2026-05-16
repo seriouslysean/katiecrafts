@@ -4,7 +4,7 @@ publishedDate: "2014-03-09"
 excerpt: "Happy Daylight Savings Day! All right, it’s probably not too happy. It is your Sunday, after all. The last glimmer of your weekend, and you just had to give up an hour of it to the Daylight Savings Gods. Pity. Try to enjoy the rest of it with a cup of coffee and my Sunday […]"
 featuredImage:
   src: "./featured.jpg"
-  alt: "Sunday Funday: Issue 4 on Katie Crafts; http://www.katiecrafts.com"
+  alt: "Sunday Funday: Issue 4"
 categories:
   - slug: "hodgepodge"
     name: "Hodgepodge"
@@ -53,7 +53,7 @@ I know I
 
 but it was definitely my favorite place to visit this week. Go check out the post for tons of photos!
 
-![Philadelphia Flower Show! on Katie Crafts; http://www.katiecrafts.com](./img-1783.jpg)
+![Philadelphia Flower Show!](./img-1783.jpg)
 
 ## Something Delicious: Short Rib Cheddar Duck Fat Fries from Village Whiskey
 
@@ -63,7 +63,7 @@ We probably only go here a couple times a year, but this
 
 restaurant is a favorite of ours. The duck fat fries with melty cheddar sauce and delicious short rib on top are just ridiculous. I dream about them often. Now my stomach is growling again because I’m thinking of them. It never ends.
 
-![Sunday Funday: Issue 4 on Katie Crafts; http://www.katiecrafts.com](./img-1834.jpg)
+![Sunday Funday: Issue 4](./img-1834.jpg)
 
 ## Project That Inspires: DIY Foaming Soap Refill
 
@@ -81,6 +81,6 @@ on
 
 that I will be trying out ASAP!
 
-[![DIY Foaming Soap Refill by Full of Good Ideas; on Katie Crafts; http://www.katiecrafts.com](./img-6201.jpg)](http://fullofgreatideas.blogspot.com/2010/10/diy-foaming-soap-refill.html)
+[![DIY Foaming Soap Refill by Full of Good Ideas](./img-6201.jpg)](http://fullofgreatideas.blogspot.com/2010/10/diy-foaming-soap-refill.html)
 
 Hope what’s left of your Sunday is a good one! Tomorrow’s post will be a special one, so stay tuned!

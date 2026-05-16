@@ -20,6 +20,6 @@ tags:
     name: "samantha"
 ---
 
-![Cat Sitting on Katie Crafts; http://www.katiecrafts.com](./img-3893.jpg)
+![Cat Sitting](./img-3893.jpg)
 
 This summer, we are cat-sitting for these three little lovies, so expect to see more pics of them on the blog! Meet Samantha (top left), Marshal (bottom left) and Biggie (right)!

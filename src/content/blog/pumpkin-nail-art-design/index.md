@@ -4,7 +4,7 @@ publishedDate: "2014-11-24"
 excerpt: "Pumpkin Nail Art Design With Thanksgiving rapidly approaching (WHERE did November go, by the way?!), I was giving some thought to my Thanksgiving outfit and subsequently my Thanksgiving nails! A couple of years ago, I rocked these SUPER easy pumpkin nails for our city’s annual Fall Festival, and think I will likely do them for […]"
 featuredImage:
   src: "./featured.png"
-  alt: "Pumpkin Nail Art Design by Katie Crafts; http://www.katiecrafts.com"
+  alt: "Pumpkin Nail Art Design by"
 categories:
   - slug: "beauty"
     name: "Beauty"

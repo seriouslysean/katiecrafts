@@ -4,7 +4,7 @@ publishedDate: "2015-07-27"
 excerpt: "Sometimes you just need an easy and quick meal. I was looking for something to make one night and realized I had all the ingredients for a delicious One Pot Ground Beef Stroganoff! The prep time is almost non-existent, everything gets thrown in one big pot and in a mere 60 minutes, you have dinner!"
 featuredImage:
   src: "./featured.png"
-  alt: "One Pot Ground Beef Stroganoff Recipe by Katie Crafts; http://www.katiecrafts.com"
+  alt: "One Pot Ground Beef Stroganoff Recipe by"
 categories:
   - slug: "cooks"
     name: "Cooks"

@@ -4,7 +4,7 @@ publishedDate: "2015-11-09"
 excerpt: "Happy Monday! Tomorrow is my birthday, so I wanted to share a quote today that I love that is perfect for the occasion. Once again, the Italians have it right!"
 featuredImage:
   src: "./featured.png"
-  alt: "Motivation Monday: Age on Katie Crafts; http://www.katiecrafts.com"
+  alt: "Motivation Monday: Age"
 categories:
   - slug: "hodgepodge"
     name: "Hodgepodge"

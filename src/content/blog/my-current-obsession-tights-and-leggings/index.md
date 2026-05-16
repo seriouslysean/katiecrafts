@@ -4,7 +4,7 @@ publishedDate: "2014-04-05"
 excerpt: "I know the warm weather is creeping up on us, but I’m still completely obsessed with tights! In fact, I have a few pairs that I received from Santa that I have been saving for the warmer weather, to pair with a fun skirt or dress. The same goes for fun leggings paired with ankle […]"
 featuredImage:
   src: "./featured.png"
-  alt: "My Current Obsession: Tights & Leggings on Katie Crafts; http://www.katiecrafts.com"
+  alt: "My Current Obsession: Tights & Leggings"
 categories:
   - slug: "beauty"
     name: "Beauty"
@@ -45,7 +45,7 @@ I know the warm weather is creeping up on us, but I’m still completely obsesse
 
 is super close to my apartment (dangerously close, actually.) The amount of fun and colorful leggings there is just crazy. They have tons of tights, too! The Betsey Johnson ones above are my fave.
 
-[![Patterned Tights at H\&M; My Current Obsession: Tights & Leggings on Katie Crafts; http://www.katiecrafts.com](./screen-shot-2014-04-04-at-5-14-11-pm.png)](http://www.hm.com/us/product/17696?article=17696-A)
+[![Patterned Tights at H\&M; My Current Obsession: Tights & Leggings](./screen-shot-2014-04-04-at-5-14-11-pm.png)](http://www.hm.com/us/product/17696?article=17696-A)
 
 Another store (right next to Urban, actually) where I stock up on tights at is
 
@@ -53,7 +53,7 @@ Another store (right next to Urban, actually) where I stock up on tights at is
 
 . I have several pairs of sweater tights that I wore all winter long, and now I’m ready to grab new patterned sheer tights for the summer. Since I love all things chevron, I obviously need the pair above!
 
-[![Sheer Bow Pantyhose at American Apparel; My Current Obsession: Tights & Leggings on Katie Crafts; http://www.katiecrafts.com](./screen-shot-2014-04-04-at-5-19-43-pm.png)](http://store.americanapparel.net/sheer-luxe-small-bow-shapes-pantyhose_rsaphhshbw)
+[![Sheer Bow Pantyhose at American Apparel; My Current Obsession: Tights & Leggings](./screen-shot-2014-04-04-at-5-19-43-pm.png)](http://store.americanapparel.net/sheer-luxe-small-bow-shapes-pantyhose_rsaphhshbw)
 
 I don’t typically shop at
 
@@ -61,7 +61,7 @@ I don’t typically shop at
 
 , but I will venture in sometimes for their giant wall of tights. The ones with the little bows are totally worth it. So cute!
 
-[![Hue Polka Dot Tights at Macy's; My Current Obsession: Tights & Leggings on Katie Crafts; http://www.katiecrafts.com](./screen-shot-2014-04-04-at-5-27-58-pm.png)](http://www1.macys.com/shop/product/hue-polka-dot-control-top-tights?ID=1091919\&CategoryID=40546\&LinkType=#fn=COLOR%3DPurple%26HOSIERY_TYPE%3DLeggings%3B%3BTights%26sp%3D1%26spc%3D9%26ruleId%3D62%26slotId%3D8)
+[![Hue Polka Dot Tights at Macy's; My Current Obsession: Tights & Leggings](./screen-shot-2014-04-04-at-5-27-58-pm.png)](http://www1.macys.com/shop/product/hue-polka-dot-control-top-tights?ID=1091919\&CategoryID=40546\&LinkType=#fn=COLOR%3DPurple%26HOSIERY_TYPE%3DLeggings%3B%3BTights%26sp%3D1%26spc%3D9%26ruleId%3D62%26slotId%3D8)
 
 These Hue polka dot tights are on sale at
 
@@ -69,7 +69,7 @@ These Hue polka dot tights are on sale at
 
 right now, so I may have to head over there this weekend and see if there are any pairs left in stock!
 
-[![Lavender and Ash Leggings; My Current Obsession: Tights & Leggings on Katie Crafts; http://www.katiecrafts.com](./il-570xn-555456082-pvu5.jpg)](https://www.etsy.com/listing/177015599/leggings-skull-print-bright-printed?ref=shop_home_active_5)
+[![Lavender and Ash Leggings; My Current Obsession: Tights & Leggings](./il-570xn-555456082-pvu5.jpg)](https://www.etsy.com/listing/177015599/leggings-skull-print-bright-printed?ref=shop_home_active_5)
 
 Another pair of leggings that I really love and are totally unique come from a shop on
 
@@ -81,7 +81,7 @@ called
 
 . They’re like ugly sweaters, with little skulls. I just ordered a pair and seriously can’t wait to get them!
 
-[![Merona Tights at Target; My Current Obsession: Tights & Leggings on Katie Crafts; http://www.katiecrafts.com](./target-tights.jpg)](http://www.target.com/p/merona-women-s-opaque-tights-assorted-colors/-/A-14612424#prodSlot=medium_1_3\&term=tights)
+[![Merona Tights at Target; My Current Obsession: Tights & Leggings](./target-tights.jpg)](http://www.target.com/p/merona-women-s-opaque-tights-assorted-colors/-/A-14612424#prodSlot=medium_1_3\&term=tights)
 
 Lastly, for a pop of color with an already busy dress, nothing beats the million different colored pairs of Merona opaque tights at
 

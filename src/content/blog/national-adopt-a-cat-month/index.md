@@ -4,7 +4,7 @@ publishedDate: "2014-06-03"
 excerpt: "The month of June is National Adopt-A-Cat Month! Hosted by the American Humane Association, Adopt-A-Cat Month is all about rescuing kitties that are stuck in shelters! The springtime is prime “kitten season,” which means thousands of new kittens are born without homes or people to take care of them. They will be collected and put […]"
 featuredImage:
   src: "./featured.jpg"
-  alt: "National Adopt-A-Cat Month on Katie Crafts; http://www.katiecrafts.com"
+  alt: "National Adopt-A-Cat Month"
 categories:
   - slug: "cats"
     name: "Cats"
@@ -73,7 +73,7 @@ If you’re considering giving a cat as a gift, make sure the recipient is an ac
 
 Though well-meaning, the surprise kitty gift doesn’t allow for a “get-to know-one-another” period. Remember, adopting a cat isn’t like purchasing a household appliance or a piece of jewelry – this is a real living, breathing, and emotional being.
 
-![National Adopt-A-Cat Month on Katie Crafts; http://www.katiecrafts.com](./adopt-a-cat-month-4.jpg)
+![National Adopt-A-Cat Month](./adopt-a-cat-month-4.jpg)
 
 I hope you consider adopting a cat this month from your local shelter! If you need help searching for one that fits your needs, you can check out
 
@@ -81,4 +81,4 @@ I hope you consider adopting a cat this month from your local shelter! If you ne
 
 . That’s how I found Lucky! You may only think about it as saving a furry life, but perhaps they will save yours too! Family is family- whether they are human or animal. 🙂 Besides, look how happy they are in our home instead of in a shelter!
 
-![National Adopt-A-Cat Month on Katie Crafts; http://www.katiecrafts.com](./adopt-a-cat-month-3.jpg)
+![National Adopt-A-Cat Month](./adopt-a-cat-month-3.jpg)

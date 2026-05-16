@@ -4,7 +4,7 @@ publishedDate: "2014-03-13"
 excerpt: "When I was young, my Grams (who only knows a few hand stitches and that’s it for her crafty side) taught me the sewing basics. Excited to make something for her using my new skills, I cut up some socks and clothes and hand stitched these two little RIDICULOUS things. One is a bunny, obviously. […]"
 featuredImage:
   src: "./featured.jpg"
-  alt: "Throwback Thursday: My First Sewing Project! by Katie Crafts; http://www.katiecrafts.com"
+  alt: "Throwback Thursday: My First Sewing Project! by"
 categories:
   - slug: "hodgepodge"
     name: "Hodgepodge"

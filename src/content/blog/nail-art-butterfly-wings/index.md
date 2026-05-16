@@ -4,7 +4,7 @@ publishedDate: "2014-03-22"
 excerpt: "Project: Butterfly Wing Nail Art Design A few weeks ago, I shared a nail art design I was inspired to try called Monarch Butterfly nails! I was really psyched to try out the design so that I could wear them to the Philly Flower Show and to visit the butterflies! I did just that, putting […]"
 featuredImage:
   src: "./featured.jpg"
-  alt: "Nail Art: Butterfly Wings Design by Katie Crafts; http://www.katiecrafts.com"
+  alt: "Nail Art: Butterfly Wings Design by"
 categories:
   - slug: "beauty"
     name: "Beauty"
@@ -71,7 +71,7 @@ If you have a glittery version of any of the above colors, feel free to use it f
 
 ## Instructions:
 
-![Nail Art: Butterfly Wings Design by Katie Crafts; http://www.katiecrafts.com](./butterfly-nails-1.jpg)
+![Nail Art: Butterfly Wings Design by](./butterfly-nails-1.jpg)
 
 - Shape your nails as normal, and start with a coat of clear polish. I used my
 
@@ -85,7 +85,7 @@ If you have a glittery version of any of the above colors, feel free to use it f
 
   . Let dry completely. Do a second coat. Let dry! You MAY be able to get away with just one coat of purple in this layer, simply because you’re going to have other layers of other colors covering most of the purple up. Still, I didn’t like the idea of POSSIBLY seeing streaks, so I did two layers!
 
-![Nail Art: Butterfly Wings Design by Katie Crafts; http://www.katiecrafts.com](./butterfly-nails-2.jpg)
+![Nail Art: Butterfly Wings Design by](./butterfly-nails-2.jpg)
 
 - Using one side of your makeup sponge, dab on some blue (I used
 
@@ -93,13 +93,13 @@ If you have a glittery version of any of the above colors, feel free to use it f
 
   ). You’re going to go for an ombré style, though once again, some will be covered by the other layers. Sponge paint the blue on, repeating steps until you are satisfied with the coverage. Don’t worry about the mess- this whole design is definitely a messy one!
 
-![Nail Art: Butterfly Wings Design by Katie Crafts; https://www.katiecrafts.com](./butterfly-nails-3.jpg)
+![Nail Art: Butterfly Wings Design by](./butterfly-nails-3.jpg)
 
-![Nail Art: Butterfly Wings Design by Katie Crafts; https://www.katiecrafts.com](./butterfly-nails-4.jpg)
+![Nail Art: Butterfly Wings Design by](./butterfly-nails-4.jpg)
 
-![Nail Art: Butterfly Wings Design by Katie Crafts; https://www.katiecrafts.com](./butterfly-nails-6.jpg)
+![Nail Art: Butterfly Wings Design by](./butterfly-nails-6.jpg)
 
-![Nail Art: Butterfly Wings Design by Katie Crafts; https://www.katiecrafts.com](./butterfly-nails-5.jpg)
+![Nail Art: Butterfly Wings Design by](./butterfly-nails-5.jpg)
 
 - After the blue is all dry, you’ll move on to the green. I used
 
@@ -107,31 +107,31 @@ If you have a glittery version of any of the above colors, feel free to use it f
 
   . Use the other side of your makeup sponge and sponge paint on top of the blue, but not covering it all. You want to be able to see all three colors (see below).
 
-![Nail Art: Butterfly Wings Design by Katie Crafts; https://www.katiecrafts.com](./butterfly-nails-7.jpg)
+![Nail Art: Butterfly Wings Design by](./butterfly-nails-7.jpg)
 
-![Nail Art: Butterfly Wings Design by Katie Crafts; https://www.katiecrafts.com](./butterfly-nails-9.jpg)
+![Nail Art: Butterfly Wings Design by](./butterfly-nails-9.jpg)
 
-![Nail Art: Butterfly Wings Design by Katie Crafts; https://www.katiecrafts.com](./butterfly-nails-8.jpg)
+![Nail Art: Butterfly Wings Design by](./butterfly-nails-8.jpg)
 
 - Once the green is dry, it’s time to do the “wing” details! As I said, I wanted it to be more abstract- the theme of the Flower Show was ARTiculture, and I wanted my nails to reflect that! People there still noticed my nails and knew they were butterfly wings though, so they weren’t so completely abstract that they were unidentifiable!
 
 - Pour a little black nail polish on a paper plate and use your nail art brush to draw your lines. I drew a diagonal line, three to four straight lines from the diagonal to the tip of my fingernail, and then did the tips in black. Let dry.
 
-![Nail Art: Butterfly Wings Design by Katie Crafts; https://www.katiecrafts.com](./butterfly-nails-10.jpg)
+![Nail Art: Butterfly Wings Design by](./butterfly-nails-10.jpg)
 
-![Nail Art: Butterfly Wings Design by Katie Crafts; https://www.katiecrafts.com](./butterfly-nails-11.jpg)
+![Nail Art: Butterfly Wings Design by](./butterfly-nails-11.jpg)
 
-![Nail Art: Butterfly Wings Design by Katie Crafts; https://www.katiecrafts.com](./butterfly-nails-12.jpg)
+![Nail Art: Butterfly Wings Design by](./butterfly-nails-12.jpg)
 
 - Next up is the white speckles on the butterfly wings. Use the large end of your dotting tool to make large spots and the small end to make some small spots on top of the black lines with your white nail polish.
 
-![Nail Art: Butterfly Wings Design by Katie Crafts; https://www.katiecrafts.com](./butterfly-nails-14.jpg)
+![Nail Art: Butterfly Wings Design by](./butterfly-nails-14.jpg)
 
-![Nail Art: Butterfly Wings Design by Katie Crafts; https://www.katiecrafts.com](./butterfly-nails-15.jpg)
+![Nail Art: Butterfly Wings Design by](./butterfly-nails-15.jpg)
 
 - Instead of a clear top coat, use your sparkly nail polish to seal the deal and give your butterfly wings some all over glittery shine! I like Spoiled brand, color Shaken Snow Globe.
 
-![Nail Art: Butterfly Wings Design by Katie Crafts; http://www.katiecrafts.com](./butterfly-nails-17.jpg)
+![Nail Art: Butterfly Wings Design by](./butterfly-nails-17.jpg)
 
 - Wait til nails are
 
@@ -139,7 +139,7 @@ If you have a glittery version of any of the above colors, feel free to use it f
 
   and then remove the excess polish from your skin! ENJOY!
 
-![Nail Art: Butterfly Wings Design by Katie Crafts; http://www.katiecrafts.com](./butterfly-nails-19.jpg)
+![Nail Art: Butterfly Wings Design by](./butterfly-nails-19.jpg)
 
 Extreme close up!
 

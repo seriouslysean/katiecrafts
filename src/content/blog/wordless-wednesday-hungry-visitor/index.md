@@ -4,7 +4,7 @@ publishedDate: "2015-07-08"
 excerpt: "Wordless Wednesday: Hungry Visitor Earlier this week, I went out back to water our plants and found a very hungry caterpillar visiting! We are pretty sure he is responsible for half our tomato plant being gone- not to mention he was about five inches long!- so we wanted to move him as quickly as possible."
 featuredImage:
   src: "./featured.png"
-  alt: "Wordless Wednesday: Hungry Visitor on Katie Crafts; http/katiecrafts.com"
+  alt: "Wordless Wednesday: Hungry Visitor"
 categories:
   - slug: "hodgepodge"
     name: "Hodgepodge"

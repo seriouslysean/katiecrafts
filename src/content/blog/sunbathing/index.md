@@ -16,10 +16,10 @@ tags:
     name: "sunbathing"
 ---
 
-![Sunbathing on Katie Crafts; https://www.katiecrafts.com](./img-0089.jpg)
+![Sunbathing](./img-0089.jpg)
 
-![Sunbathing on Katie Crafts; https://www.katiecrafts.com](./img-0090.jpg)
+![Sunbathing](./img-0090.jpg)
 
-![Sunbathing on Katie Crafts; https://www.katiecrafts.com](./img-0091.jpg)
+![Sunbathing](./img-0091.jpg)
 
 Just sunbathing. Nothing to see here.

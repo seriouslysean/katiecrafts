@@ -4,7 +4,7 @@ publishedDate: "2016-03-23"
 excerpt: "I bought a dozen peach roses when I went to the Philly Flower Show a few weeks ago. They’ve all wilted and bit the dust one by one, but this solitary rose in it’s own little vase by my mom’s photo is holding strong! Isn’t it lovely!?"
 featuredImage:
   src: "./featured.jpg"
-  alt: "Wordless Wednesday: Peach Rose on Katie Crafts; http://www.katiecrafts.com"
+  alt: "Wordless Wednesday: Peach Rose"
 categories:
   - slug: "hodgepodge"
     name: "Hodgepodge"

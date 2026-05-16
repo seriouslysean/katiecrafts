@@ -14,6 +14,6 @@ tags:
     name: "mabel"
 ---
 
-![Peanut on Katie Crafts; http://www.katiecrafts.com](./image-e1402024245966.jpg)
+![Peanut](./image-e1402024245966.jpg)
 
 So happy it’s Friday.

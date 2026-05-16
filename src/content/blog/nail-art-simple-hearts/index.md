@@ -50,7 +50,7 @@ Materials:
 
 Instructions:
 
-![sally hansen double duty](./img-0610.jpg "Nail Art: Simple Heart Nail Design by Katie Crafts; http://www.katiecrafts.com/")
+![sally hansen double duty](./img-0610.jpg "Nail Art: Simple Heart Nail Design by Katie Crafts; ")
 
 Clean up your nails and cuticles with your clippers and nail file. Wash and dry hands so they are ready to go! Start with a coat of top coat. I love
 
@@ -58,11 +58,11 @@ Clean up your nails and cuticles with your clippers and nail file. Wash and dry 
 
 ! It doesn’t say fast drying but it totally is. It’s also not super thick and gross like lots of other top coats are.
 
-![red](./img-0529.jpg "Nail Art: Simple Heart Nail Design by Katie Crafts; http://www.katiecrafts.com/")
+![red](./img-0529.jpg "Nail Art: Simple Heart Nail Design by Katie Crafts; ")
 
 Next, paint a coat of red polish on each of your ring fingers. I used to leave the ring fingers for last and paint all the others first, but I tend to zone out when I paint my nails and would accidentally paint all of them the same color. I’m trying to teach myself to paint the ring finger first now to avoid doing that!
 
-![shiny](./img-0535.jpg "Nail Art: Simple Heart Nail Design by Katie Crafts; http://www.katiecrafts.com/")
+![shiny](./img-0535.jpg "Nail Art: Simple Heart Nail Design by Katie Crafts; ")
 
 Now paint the other nails with your lilac or pink polish. I picked
 
@@ -78,13 +78,13 @@ by
 
 . They give nice opaque coats right off the bat, so if you’re in a rush you can pull off just one coat. Let dry completely. Don’t worry about any polish you get on your skin- you can clean that at the end!
 
-![skin](./img-0534.jpg "Nail Art: Simple Heart Nail Design by Katie Crafts; http://www.katiecrafts.com/")
+![skin](./img-0534.jpg "Nail Art: Simple Heart Nail Design by Katie Crafts; ")
 
 Now for the hearts! I went with red hearts on the lilac nails and a black one on the red nails, just to make them a little different. Use a toothpick dipped in polish to draw a little heart, and then fill it in. Let dry a bit before finishing with a last coat of clear polish.
 
-![heartnails](./heartnails.jpg "Nail Art: Simple Heart Nail Design by Katie Crafts; http://www.katiecrafts.com/")
+![heartnails](./heartnails.jpg "Nail Art: Simple Heart Nail Design by Katie Crafts; ")
 
-![finished](./img-0547.jpg "Nail Art: Simple Heart Nail Design by Katie Crafts; http://www.katiecrafts.com/")
+![finished](./img-0547.jpg "Nail Art: Simple Heart Nail Design by Katie Crafts; ")
 
 Pre-cleaning-polish-off-skin shot
 

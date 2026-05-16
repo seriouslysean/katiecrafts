@@ -14,6 +14,6 @@ tags:
     name: "winter coat"
 ---
 
-![Lucky Shedding on Katie Crafts; http://www.katiecrafts.com](./img-2680.jpg)
+![Lucky Shedding](./img-2680.jpg)
 
 It’s “shed your winter coat all over the rug” season here at Katie Crafts Headquarters! Lucky had so much hair from a 5 minute brushing session, that Husband was able to fashion another cat out of it. How quaint!

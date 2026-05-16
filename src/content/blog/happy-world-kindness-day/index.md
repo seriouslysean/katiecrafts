@@ -4,7 +4,7 @@ publishedDate: "2014-11-13"
 excerpt: "Happy World Kindness Day! Today, November 13th, is World Kindness Day! All you need to do to participate in this annual holiday is commit to one act of random kindness. One small act of kindness costs nothing and goes a long way! Pay it forward in some small way and you’ve helped make the world […]"
 featuredImage:
   src: "./featured.png"
-  alt: "World Kindness Day on Katie Crafts; http://www.katiecrafts.com"
+  alt: "World Kindness Day"
 categories:
   - slug: "hodgepodge"
     name: "Hodgepodge"

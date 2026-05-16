@@ -4,7 +4,7 @@ publishedDate: "2014-05-16"
 excerpt: "Recipe: Strawberry Daiquiri Cupcakes Today is my sister’s birthday! (Happy Birthday, Jess!) To celebrate, I’m sharing one of my (and her!) favorite cupcake recipes with you! In fact, when it’s my Dad’s birthday in 10 days, and the Husband’s birthday in two weeks, I will also share cupcake recipes! You’ll be so cupcake’d out by […]"
 featuredImage:
   src: "./featured.jpg"
-  alt: "Strawberry Daiquiri Cupcake Recipe by Katie Crafts; http://www.katiecrafts.com"
+  alt: "Strawberry Daiquiri Cupcake Recipe by"
 categories:
   - slug: "cooks"
     name: "Cooks"
@@ -77,6 +77,6 @@ Hope you enjoyed my strawberry daiquiri cupcake recipe! If you try it out, tell 
 
 - For a kid’s party, I nixed the daiquiri feel and used toothpicks, ribbon and pink and purple sprinkles to make them as adorable as my little cousin! Check them out below!
 
-![Strawberry Daiquiri Cupcake Recipe by Katie Crafts; https://www.katiecrafts.com](./img-0297.jpg)
+![Strawberry Daiquiri Cupcake Recipe by](./img-0297.jpg)
 
-![Strawberry Daiquiri Cupcake Recipe by Katie Crafts; https://www.katiecrafts.com](./img-0296.jpg)
+![Strawberry Daiquiri Cupcake Recipe by](./img-0296.jpg)

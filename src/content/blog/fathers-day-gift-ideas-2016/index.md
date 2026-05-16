@@ -4,7 +4,7 @@ publishedDate: "2016-06-14"
 excerpt: "Father’s Day is just around the corner! If you’re still stuck on what to get your Dad this Sunday, I have a fabulous assortment of suggestions ready to go! Check out all my Father’s Day gift ideas above and be sure to shop them below. There is something for everyone!"
 featuredImage:
   src: "./featured.jpg"
-  alt: "Father's Day Gift Ideas 2016 on Katie Crafts; http://www.katiecrafts.com"
+  alt: "Father's Day Gift Ideas 2016"
 categories:
   - slug: "hodgepodge"
     name: "Hodgepodge"

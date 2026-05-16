@@ -125,4 +125,4 @@ No matter what we gave Mom, it was the most perfect gift she’d ever received, 
 
 - Always begin and end a project with a few back-stitches. This will knot your thread in place and keep it from unraveling later.
 
-![Lavender Heart Sachets](./img-0175.jpg "Lavender Heart Sachets Project by Katie Crafts; http://www.katiecrafts.com/")
+![Lavender Heart Sachets](./img-0175.jpg "Lavender Heart Sachets Project by Katie Crafts; ")

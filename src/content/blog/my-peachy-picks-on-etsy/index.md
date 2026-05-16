@@ -4,7 +4,7 @@ publishedDate: "2014-05-15"
 excerpt: "My Peachy Picks on Etsy I love mint greens and teals, corals and peach hues during the summertime. Since we’re getting closer and closer to the warmest season of the year, I scoured Etsy and put together a collection of my favorite peachy picks from fellow Etsy shops. Maybe you’ll see something you like! Check […]"
 featuredImage:
   src: "./featured.jpg"
-  alt: "My Peachy Picks on Etsy on Katie Crafts; http://www.katiecrafts.com"
+  alt: "My Peachy Picks on Etsy"
 categories:
   - slug: "crafts"
     name: "Crafts"

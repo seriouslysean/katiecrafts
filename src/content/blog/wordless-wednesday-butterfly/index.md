@@ -4,7 +4,7 @@ publishedDate: "2015-03-11"
 excerpt: "Wordless Wednesday: Butterfly I’m slowly getting better at this “Wordless Wednesday” thing, and trying REALLY hard to not post a ton of WORDS with it! This shot was taken last week at the Flower Show. A full recap post is coming up with tons of pics of gorgeous floral displays, flower closeups and more butterflies, […]"
 featuredImage:
   src: "./featured.png"
-  alt: "Wordless Wednesday: Butterfly on Katie Crafts; http://www.katiecrafts.com"
+  alt: "Wordless Wednesday: Butterfly"
 categories:
   - slug: "hodgepodge"
     name: "Hodgepodge"

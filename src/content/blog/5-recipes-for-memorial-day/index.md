@@ -4,7 +4,7 @@ publishedDate: "2015-05-22"
 excerpt: "Memorial Day weekend is already here! Is it just me, or is this year basically flying by? I’ll be spending Saturday and Sunday in Jersey with family eating lots of delicious things- and Dad already promised to make us some steak on the grill! Then it’s back here on Monday to spend Memorial Day in […]"
 featuredImage:
   src: "./featured.png"
-  alt: "5 Recipes for Memorial Day on Katie Crafts; http://www.katiecrafts.com"
+  alt: "5 Recipes for Memorial Day"
 categories:
   - slug: "cooks"
     name: "Cooks"
@@ -63,7 +63,7 @@ OMG! I absolutely HAVE to try these perfect-for-Summer frozen cocktails from Fre
 
 _[Get the recipe right here!](http://www.freutcake.com/in-the-kitchen/drinks-anyone/drunk-love-watermelon-margaritas/)_
 
-![5 Recipes for Memorial Day on Katie Crafts; http://www.katiecrafts.com](./potato-salad-with-green-beans-and-asparagus1.jpg)
+![5 Recipes for Memorial Day](./potato-salad-with-green-beans-and-asparagus1.jpg)
 
 photo from greenvalleykitchen.com
 
@@ -73,7 +73,7 @@ This potato salad from Green Valley Kitchen looks delicious! I love the green ve
 
 _[Get the recipe right here!](http://greenvalleykitchen.com/potato-salad-green-beans-asparagus/)_
 
-![5 Recipes for Memorial Day on Katie Crafts; http://www.katiecrafts.com](./img-0187.jpg)
+![5 Recipes for Memorial Day](./img-0187.jpg)
 
 photo from katiecrafts.com
 

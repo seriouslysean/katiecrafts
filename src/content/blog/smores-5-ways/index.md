@@ -4,7 +4,7 @@ publishedDate: "2014-07-01"
 excerpt: "The Ultimate 4th of July Dessert: S’mores in 5 Different Ways! With 4th of July right around the corner, Katie, her Husband (which I will refer to only as Brother-in-Law) and myself started discussing what to make for a picnic. We had different ideas about salads, hamburgers vs. hotdogs, and even what to drink. There […]"
 featuredImage:
   src: "./featured.png"
-  alt: "S'mores 5 Ways on Katie Crafts; http://www.katiecrafts.com"
+  alt: "S'mores 5 Ways"
 categories:
   - slug: "cooks"
     name: "Cooks"
@@ -27,11 +27,11 @@ The Ultimate 4th of July Dessert: S’mores in 5 Different Ways!
 
 With 4th of July right around the corner, Katie, her Husband (which I will refer to only as Brother-in-Law) and myself started discussing what to make for a picnic. We had different ideas about salads, hamburgers vs. hotdogs, and even what to drink. There was one thing, however, we all could agree on! No 4th of July picnic would be complete without S’mores! How could something so simple to make, taste so good? We decided that we should try to make the S’mores a bit more fancy this year rather than just the normal way. We then came up with five different versions to try at the picnic, and these are the results! We each rated them from 1 to 5.
 
-![S'mores 5 Ways on Katie Crafts; https://www.katiecrafts.com](./img-4177.jpg)
+![S'mores 5 Ways](./img-4177.jpg)
 
-![S'mores 5 Ways on Katie Crafts; https://www.katiecrafts.com](./img-4176.jpg)
+![S'mores 5 Ways](./img-4176.jpg)
 
-![S'mores 5 Ways on Katie Crafts; https://www.katiecrafts.com](./img-4178.jpg)
+![S'mores 5 Ways](./img-4178.jpg)
 
 ## Traditional S’mores
 
@@ -53,7 +53,7 @@ _Katie: 3_
 
 _Brother-in-Law: 3_
 
-![S'mores 5 Ways on Katie Crafts; http://www.katiecrafts.com](./img-4183.jpg)
+![S'mores 5 Ways](./img-4183.jpg)
 
 ## Crunch S’mores
 
@@ -65,7 +65,7 @@ _Katie: 4_
 
 _Brother-in-Law: 3.5_
 
-![S'mores 5 Ways on Katie Crafts; http://www.katiecrafts.com](./img-4181.jpg)
+![S'mores 5 Ways](./img-4181.jpg)
 
 ## Whatchamacallit S’mores
 
@@ -77,7 +77,7 @@ _Katie: 3.5_
 
 _Brother-in-Law: 4_
 
-![S'mores 5 Ways on Katie Crafts; http://www.katiecrafts.com](./img-4182.jpg)
+![S'mores 5 Ways](./img-4182.jpg)
 
 ## **York Peppermint Patty S’mores**
 
@@ -89,7 +89,7 @@ _Katie: 5_
 
 _Brother-in-Law: 5_
 
-![S'mores 5 Ways on Katie Crafts; http://www.katiecrafts.com](./img-4184.jpg)
+![S'mores 5 Ways](./img-4184.jpg)
 
 score sheets!
 

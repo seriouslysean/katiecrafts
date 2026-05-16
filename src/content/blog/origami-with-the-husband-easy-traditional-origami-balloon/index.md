@@ -4,7 +4,7 @@ publishedDate: "2014-09-12"
 excerpt: "Project: Origami Easy Traditional Origami Balloon Hey everyone! Husband here with another Origami project for you to try your hand at! Even though Katie and I are in the midst of moving, I still managed to create something I think you’ll really enjoy. I’ve mentioned before that I liked to goof off in school by […]"
 featuredImage:
   src: "./featured.jpg"
-  alt: "Origami Easy Traditional Balloon Tutorial on Katie Crafts http://www.katiecrafts.com"
+  alt: "Origami Easy Traditional Balloon Tutorial"
 categories:
   - slug: "crafts"
     name: "Crafts"
@@ -35,9 +35,9 @@ I’ve mentioned before that I liked to goof off in school by making all manner 
 
 That said, I’ll still show you how to make one… Onwards!
 
-![Origami Easy Traditional Balloon Tutorial on Katie Crafts https://www.katiecrafts.com](./origami-easy-balloon-01.jpg)
+![Origami Easy Traditional Balloon Tutorial](./origami-easy-balloon-01.jpg)
 
-![Origami Easy Traditional Balloon Tutorial on Katie Crafts https://www.katiecrafts.com](./origami-easy-balloon-02.jpg)
+![Origami Easy Traditional Balloon Tutorial](./origami-easy-balloon-02.jpg)
 
 ### Step 1
 
@@ -47,9 +47,9 @@ Start with a piece of square paper (pretty paper if you have it, otherwise this 
 
 Fold the paper diagonally from the top right to the bottom left and make sure to press on the crease. Do the same thing from top left to the bottom right. You’ll end up with what looks like an X in the paper.
 
-![Origami Easy Traditional Balloon Tutorial on Katie Crafts https://www.katiecrafts.com](./origami-easy-balloon-03.jpg)
+![Origami Easy Traditional Balloon Tutorial](./origami-easy-balloon-03.jpg)
 
-![Origami Easy Traditional Balloon Tutorial on Katie Crafts https://www.katiecrafts.com](./origami-easy-balloon-04.jpg)
+![Origami Easy Traditional Balloon Tutorial](./origami-easy-balloon-04.jpg)
 
 ### Step 3
 
@@ -67,9 +67,9 @@ Alternate Method:
 
 If you get stuck, you can do this a different way; take the folded paper and make sure it’s face down. Take the middle of the right hand side and the middle of the left hand side and collapse them towards each other. As you’re doing that, the four corners should touch forming the triangle shape we’re looking for.
 
-![Origami Easy Traditional Balloon Tutorial on Katie Crafts https://www.katiecrafts.com](./origami-easy-balloon-05.jpg)
+![Origami Easy Traditional Balloon Tutorial](./origami-easy-balloon-05.jpg)
 
-![Origami Easy Traditional Balloon Tutorial on Katie Crafts https://www.katiecrafts.com](./origami-easy-balloon-06.jpg)
+![Origami Easy Traditional Balloon Tutorial](./origami-easy-balloon-06.jpg)
 
 ### Step 5
 
@@ -79,9 +79,9 @@ This is what the completed fold will look like from Step 4.
 
 Make sure the triangle is pointing down and take the right corner. Fold it down to the middle of the bottom point. Do the same with all four sides.
 
-![Origami Easy Traditional Balloon Tutorial on Katie Crafts https://www.katiecrafts.com](./origami-easy-balloon-07.jpg)
+![Origami Easy Traditional Balloon Tutorial](./origami-easy-balloon-07.jpg)
 
-![Origami Easy Traditional Balloon Tutorial on Katie Crafts https://www.katiecrafts.com](./origami-easy-balloon-08.jpg)
+![Origami Easy Traditional Balloon Tutorial](./origami-easy-balloon-08.jpg)
 
 ### Step 7
 
@@ -91,9 +91,9 @@ Once your finished with Step 6, your balloon-in-the-making should look like a di
 
 With each point on the left and right on each side, fold them in until the point touches the middle. Do this with all 4 points. This will be used later to secure the balloon.
 
-![Origami Easy Traditional Balloon Tutorial on Katie Crafts https://www.katiecrafts.com](./origami-easy-balloon-09.jpg)
+![Origami Easy Traditional Balloon Tutorial](./origami-easy-balloon-09.jpg)
 
-![Origami Easy Traditional Balloon Tutorial on Katie Crafts https://www.katiecrafts.com](./origami-easy-balloon-10.jpg)
+![Origami Easy Traditional Balloon Tutorial](./origami-easy-balloon-10.jpg)
 
 ### Step 9
 

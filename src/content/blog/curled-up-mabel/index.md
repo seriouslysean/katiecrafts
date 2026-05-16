@@ -13,4 +13,4 @@ tags:
     name: "mabel"
 ---
 
-![Curled Up Mabel on Katie Crafts; http://www.katiecrafts.com](./img-3541.jpg)
+![Curled Up Mabel](./img-3541.jpg)

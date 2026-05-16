@@ -14,6 +14,6 @@ tags:
     name: "lucky"
 ---
 
-![Hop on Pop on Katie Crafts; http://www.katiecrafts.com](./img-4753.jpg)
+![Hop on Pop](./img-4753.jpg)
 
 Lucky, all snuggled and kneading the blanket on his Papa’s belly!

@@ -4,7 +4,7 @@ publishedDate: "2014-12-22"
 excerpt: "Nail Art Design: Christmas! Yippee! It’s officially Christmas week! It definitely snuck up on me WAY too quickly. While all my gifts are done and wrapped, I still don’t feel like it’s Christmas yet. Hopefully it hits me in the next couple days, or else I will miss it! To try to get in the […]"
 featuredImage:
   src: "./featured.png"
-  alt: "Christmas Nail Art Design for #ManicureMonday by Katie Crafts; http://www.katiecrafts.com"
+  alt: "Christmas Nail Art Design for #ManicureMonday by"
 categories:
   - slug: "beauty"
     name: "Beauty"
@@ -75,7 +75,7 @@ Yippee! It’s officially Christmas week! It definitely snuck up on me WAY too q
 
 * If you want to call it a day and leave all your nails glittery and nix the Christmas tree, just add a top coat here and you’re done! If you want to have one accent nail tree, read on!
 
-![Christmas Nail Art Design for #ManicureMonday by Katie Crafts; http://www.katiecrafts.com](./christmas-nails-3.png)
+![Christmas Nail Art Design for #ManicureMonday by](./christmas-nails-3.png)
 
 - Using a sparkly green polish (like my
 
@@ -87,7 +87,7 @@ Yippee! It’s officially Christmas week! It definitely snuck up on me WAY too q
 
   ) to make the tree. Starting at the top of the tree, make a small sweeping motion on each side to make the top tier of the tree. Do the same a little larger for the middle tier. Do the same even larger for the last tier, and fill it in where needed. Make sure the last tier reaches the tip of your nail. Do to each finger that you want adorned with a tree. Let dry completely.
 
-![Christmas Nail Art Design for #ManicureMonday by Katie Crafts; http://www.katiecrafts.com](./christmas-nails-4.png)
+![Christmas Nail Art Design for #ManicureMonday by](./christmas-nails-4.png)
 
 - When dry, use your dotting tool or a toothpick and your gold nail polish (my
 
@@ -101,7 +101,7 @@ Yippee! It’s officially Christmas week! It definitely snuck up on me WAY too q
 
 - Now is the time to do your top coat! Usually, you’d do it at the very end of your manicure, but when the little rhinestones are coated in top coat, even though it helps them stay on longer, it really takes away their sparkle. Since I’m using one to be my Christmas tree star, I wanted the sparkle there! If you do too, coat each of your nails in clear top coat now and let it dry completely.
 
-![Christmas Nail Art Design for #ManicureMonday by Katie Crafts; http://www.katiecrafts.com](./christmas-nails-5.png)
+![Christmas Nail Art Design for #ManicureMonday by](./christmas-nails-5.png)
 
 - Use a little bit of that clear polish and your dotting tool or toothpick to pick up your little rhinestone gem and adhere it to the top of your tree.
 

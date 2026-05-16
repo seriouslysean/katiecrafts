@@ -14,6 +14,6 @@ tags:
     name: "kitties"
 ---
 
-![Cats Crossing Tails on Katie Crafts; http://www.katiecrafts.com](./img-3484.jpg)
+![Cats Crossing Tails](./img-3484.jpg)
 
 “We don’t always love each other, but when we do, we cross tails.”

@@ -4,7 +4,7 @@ publishedDate: "2015-09-16"
 excerpt: "We took a lot of photos on our Italian honeymoon a couple years ago, but I really never posted them! As I dig them up, I’ll share some with you because who doesn’t want to see beautiful European sites?! This particular shot is from our hotel room window in Venice."
 featuredImage:
   src: "./featured.jpg"
-  alt: "Wordless Wednesday: Venezia on Katie Crafts; http://www.katiecrafts.com"
+  alt: "Wordless Wednesday: Venezia"
 categories:
   - slug: "hodgepodge"
     name: "Hodgepodge"

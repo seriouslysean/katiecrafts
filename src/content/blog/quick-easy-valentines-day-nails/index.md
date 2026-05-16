@@ -4,7 +4,7 @@ publishedDate: "2016-01-18"
 excerpt: "Valentine’s Day is in less than a month! That means I have a few more Manicure Mondays to figure out how I want to wear my nails on February 14th. My first design is a mega simple one, that requires no skill and just a few coats of polish. Try my quick & easy Valentine’s Day nails if you’re in a rush or looking for something effortless!"
 featuredImage:
   src: "./featured.png"
-  alt: "Quick & Easy Valentine's Day Nails on Katie Crafts; http://www.katiecrafts.com"
+  alt: "Quick & Easy Valentine's Day Nails"
 categories:
   - slug: "beauty"
     name: "Beauty"
@@ -43,9 +43,9 @@ Valentine’s Day is in less than a month! That means I have a few more Manicure
 
 - Paint accent nails with black polish. Let dry.
 
-![Quick & Easy Valentine's Day Nails on Katie Crafts; https://www.katiecrafts.com](./img-0424.jpg)
+![Quick & Easy Valentine's Day Nails](./img-0424.jpg)
 
-![Quick & Easy Valentine's Day Nails on Katie Crafts; https://www.katiecrafts.com](./img-0423.jpg)
+![Quick & Easy Valentine's Day Nails](./img-0423.jpg)
 
 - Do a second coat of each if it isn’t opaque enough yet. Let dry.
 

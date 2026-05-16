@@ -4,7 +4,7 @@ publishedDate: "2015-10-05"
 excerpt: "We went to a Fall festival over the weekend and it really got me in the spirit of the season! As if I really needed any more help… 😉 Husband just bought me a six pack of fun Fall colored nail polishes by Kleancolor Nail Lacquer so I decided to try them all out and […]"
 featuredImage:
   src: "./featured.png"
-  alt: "Fall Nail Art Design on Katie Crafts; http://www.katiecrafts.com"
+  alt: "Fall Nail Art Design"
 categories:
   - slug: "beauty"
     name: "Beauty"
@@ -49,9 +49,9 @@ are garnet red, dark brown, americano, copper, gold bright and pearl silver. I u
 
 - Paint all fingers that are NOT accent nails with the garnet red polish. Let dry.
 
-![Fall Nail Art Design on Katie Crafts; https://www.katiecrafts.com](./fall-nail-art-1.jpg)
+![Fall Nail Art Design](./fall-nail-art-1.jpg)
 
-![Fall Nail Art Design on Katie Crafts; https://www.katiecrafts.com](./fall-nail-art-2.jpg)
+![Fall Nail Art Design](./fall-nail-art-2.jpg)
 
 - Paint all accent nails with dark brown. Let dry.
 
@@ -61,27 +61,27 @@ are garnet red, dark brown, americano, copper, gold bright and pearl silver. I u
 
 * Continue with the other shades, drawing different leaves all over the accent nails until you are happy with them.
 
-![Fall Nail Art Design on Katie Crafts; https://www.katiecrafts.com](./fall-nail-art-6.jpg)
+![Fall Nail Art Design](./fall-nail-art-6.jpg)
 
-![Fall Nail Art Design on Katie Crafts; https://www.katiecrafts.com](./fall-nail-art-7.jpg)
+![Fall Nail Art Design](./fall-nail-art-7.jpg)
 
 - Use the other shades to add depth and don’t forget about the stems! Let dry.
 
-![Fall Nail Art Design on Katie Crafts; http://www.katiecrafts.com](./fall-nail-art-8.jpg)
+![Fall Nail Art Design](./fall-nail-art-8.jpg)
 
 - Next up, dip your nail art brush in whichever shade you liked best to draw three lines on your middle fingers. I picked the copper! Add a red nail art gem at the tip to make it look like a burst. Let dry.
 
-![Fall Nail Art Design on Katie Crafts; https://www.katiecrafts.com](./fall-nail-art-9.jpg)
+![Fall Nail Art Design](./fall-nail-art-9.jpg)
 
-![Fall Nail Art Design on Katie Crafts; https://www.katiecrafts.com](./fall-nail-art-10.jpg)
+![Fall Nail Art Design](./fall-nail-art-10.jpg)
 
 - Seal in your look with a clear polish. Let dry. Clean up any rogue polish from your skin and enjoy your fall look!
 
-![Fall Nail Art Design on Katie Crafts; http://www.katiecrafts.com](./fall-nail-art-11.jpg)
+![Fall Nail Art Design](./fall-nail-art-11.jpg)
 
 Here are Husband and I at the Fall Festival! Aren’t we cute?
 
-![Midtown Fall Festival Philadelphia; http://www.katiecrafts.com](./img-2354.jpg)
+![Midtown Fall Festival Philadelphia](./img-2354.jpg)
 
 Later this week I’ll be heading to Manhattan for New York Comic Con! That means upcoming posts will involve whatever nail art I pick for the event and of course a fun recap of it as well. Be sure to follow
 

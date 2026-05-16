@@ -4,7 +4,7 @@ publishedDate: "2015-05-13"
 excerpt: "Wordless Wednesday: Peony Yesterday I showed you a ton of photos from the Shofuso Japanese House and Garden from here in Philly. I even included a few beautiful shots of “tree peonies,” but I saved this one for today’s Wordless Wednesday because it’s my favorite!"
 featuredImage:
   src: "./featured.jpg"
-  alt: "Wordless Wednesday: Peony on Katie Crafts; http://www.katiecrafts.com"
+  alt: "Wordless Wednesday: Peony"
 categories:
   - slug: "hodgepodge"
     name: "Hodgepodge"

@@ -4,7 +4,7 @@ publishedDate: "2015-11-03"
 excerpt: "It’s Tuesday, November 3rd, which means Election Day! Here in Philadelphia, we are holding a general election and voting for a new Mayor, City Council, Judges, City Commissioners, Sheriff and Register of Wills. I’ve listened to what the different candidates have to say and am ready to get out and vote!"
 featuredImage:
   src: "./featured.png"
-  alt: "Election Day 2015 on Katie Crafts; http://www.katiecrafts.com"
+  alt: "Election Day 2015"
 categories:
   - slug: "hodgepodge"
     name: "Hodgepodge"

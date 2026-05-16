@@ -16,6 +16,6 @@ tags:
     name: "mabel"
 ---
 
-![Mabel The Helper on Katie Crafts; http://www.katiecrafts.com](./img-5973.jpg)
+![Mabel The Helper](./img-5973.jpg)
 
 Mabel is a great help when it comes to stuffing the animals I’m sewing. She makes sure no one touches the filling but me. And her.

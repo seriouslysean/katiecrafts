@@ -4,7 +4,7 @@ publishedDate: "2015-03-02"
 excerpt: "Sewing Themed March Photo Challenge! The Daily Seam is one of my favorite Facebook pages to follow! There are a ton of things posted each and every day that I find useful, so I look forward to learning new things all the time via the links they share. This weekend, they shared a Photo Challenge […]"
 featuredImage:
   src: "./featured.jpg"
-  alt: "Sewing Themed March Photo Challenge from The Daily Seam on Katie Crafts; http://www.katiecrafts.com"
+  alt: "Sewing Themed March Photo Challenge from The Daily Seam"
 categories:
   - slug: "crafts"
     name: "Crafts"

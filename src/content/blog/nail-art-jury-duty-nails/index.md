@@ -60,7 +60,7 @@ This nail design doesn’t have much of a resemblance to anything jury duty or c
 
   , and am therefore reusing a photo of it.
 
-![Nail Art: Jury Duty Nails Design by Katie Crafts; http://www.katiecrafts.com](./img-06101.jpg)
+![Nail Art: Jury Duty Nails Design by](./img-06101.jpg)
 
 - Next, do one coat of your nail polish color of choice. I’m kind of in love with
 
@@ -70,7 +70,7 @@ This nail design doesn’t have much of a resemblance to anything jury duty or c
 
 _\*I don’t know who gets to grow up and have the job of naming nail polishes, but I’m forever envious._
 
-![Nail Art: Jury Duty Nails Design by Katie Crafts; http://www.katiecrafts.com](./img-1139.jpg)
+![Nail Art: Jury Duty Nails Design by](./img-1139.jpg)
 
 - After the first coat is dry, and you’ve done your second coat (look how shiny two coats makes it look!), sit back and relax. You’ll want your polish to be dry before you do the matte top coat. Unlike regular top coats, the matte (at least, in my experience) likes to ruin the polish a little. If your nails aren’t at least mostly dry when you apply it, it starts to take off color and mess up the lovely job you’ve just done.
 
@@ -86,7 +86,7 @@ _\*I don’t know who gets to grow up and have the job of naming nail polishes, 
 
   ! How convenient! Let those dry too, and you’re finished.
 
-![Nail Art: Jury Duty Nails Design by Katie Crafts; http://www.katiecrafts.com](./img-1136.jpg)
+![Nail Art: Jury Duty Nails Design by](./img-1136.jpg)
 
 - Clean up the nail polish from your skin when it’s all dry, like I haven’t done yet above. Enjoy, or don’t enjoy, your edgy jury duty nails!
 

@@ -4,7 +4,7 @@ publishedDate: "2016-05-09"
 excerpt: "Mother’s Day is a tough day for me, having lost mine 3 and a half years ago to brain cancer (learn more about my mom here.) I’m glad, though, that it falls when it does. May is Brain Tumor Awareness Month!"
 featuredImage:
   src: "./featured.jpg"
-  alt: "May is Brain Tumor Awareness Month! on Katie Crafts; http://www.katiecrafts.com"
+  alt: "May is Brain Tumor Awareness Month!"
 categories:
   - slug: "hodgepodge"
     name: "Hodgepodge"

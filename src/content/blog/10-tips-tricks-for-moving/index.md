@@ -4,7 +4,7 @@ publishedDate: "2014-08-26"
 excerpt: "10 Tips & Tricks For Moving Moving is the worst. There is no way around it! I’m in the middle of packing up my whole life right now for a big move in September (which is way too close for comfort!) Over the years, I’ve become a self-proclaimed expert on packing, and thought I’d share […]"
 featuredImage:
   src: "./featured.jpg"
-  alt: "10 Tips & Tricks For Moving by Katie Crafts; http://www.katiecrafts.com"
+  alt: "10 Tips & Tricks For Moving by"
 categories:
   - slug: "hodgepodge"
     name: "Hodgepodge"

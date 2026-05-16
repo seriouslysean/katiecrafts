@@ -4,7 +4,7 @@ publishedDate: "2015-02-13"
 excerpt: "Freebie Friday: 5 Printable Valentine’s Cards Happy almost Valentine’s Day, readers! I made five silly cards for you to give your Valentines this year, and you can print them out right now for free! They’ll soon be blank cards (without “Happy Valentine’s Day” inside) in my Etsy shop, so download them now while they cost […]"
 featuredImage:
   src: "./featured.png"
-  alt: "Freebie Friday: 5 Printable Valentine's Cards made by Katie Crafts; http://www.katiecrafts.com"
+  alt: "Freebie Friday: 5 Printable Valentine's Cards made by"
 categories:
   - slug: "crafts"
     name: "Crafts"
@@ -39,9 +39,7 @@ I had so much fun making these. I opt for the somewhat silly cards when getting 
 
 They read:
 
-[](/wp-content/uploads/2015/02/valentines-cat.pdf "I love you almost as much as I love my cat.")
-
-[**Card #1: Click Here To Download**](/wp-content/uploads/2015/02/valentines-cat.pdf "I love you almost as much as I love my cat.")
+**Card #1: Click Here To Download**
 
 _outside:_
 
@@ -51,7 +49,7 @@ _inside:_
 
 “…almost.”
 
-[Card #2: Click Here To Download](/wp-content/uploads/2015/02/valentines-legs.pdf "Thanks for loving me even when I don't shave my legs.")
+Card #2: Click Here To Download
 
 **\&#xA;**
 
@@ -63,7 +61,7 @@ _inside:_
 
 “Happy Valentine’s Day.”
 
-[Card #3: Click Here To Download](/wp-content/uploads/2015/02/valentines-coffee.pdf "You ar ehte only person I tolerate before coffee.")
+Card #3: Click Here To Download
 
 **\&#xA;**
 
@@ -75,9 +73,9 @@ _inside:_
 
 “Happy Valentine’s Day”
 
-[![Freebie Friday: 5 Printable Valentine's Cards made by Katie Crafts; http://www.katiecrafts.com](./awkward-card.jpg)](/wp-content/uploads/2015/02/valentines-awkward.pdf)
+![Freebie Friday: 5 Printable Valentine's Cards made by](./awkward-card.jpg)
 
-[Card #4: Click Here To Download](/wp-content/uploads/2015/02/valentines-awkward.pdf "I'm so glad you seduced me with your charming awkwardness")
+Card #4: Click Here To Download
 
 **\&#xA;**
 
@@ -89,9 +87,9 @@ _inside:_
 
 “Happy Valentine’s Day!”
 
-[![Freebie Friday: 5 Printable Valentine's Cards made by Katie Crafts; http://www.katiecrafts.com](./annoy-card.jpg)](/wp-content/uploads/2015/02/valentines-annoy.pdf)
+![Freebie Friday: 5 Printable Valentine's Cards made by](./annoy-card.jpg)
 
-[Card #5: Click Here To Download](/wp-content/uploads/2015/02/valentines-annoy.pdf "You're my favorite person to annoy")
+Card #5: Click Here To Download
 
 **\&#xA;**
 
@@ -109,6 +107,6 @@ Be sure to save each pdf to your computer before printing. Then before you print
 
 . That’s it! Need a refresher on folding? Here’s a reminder::
 
-![Freebie Friday: 5 Printable Valentine's Cards made by Katie Crafts; http://www.katiecrafts.com](./fold.png)
+![Freebie Friday: 5 Printable Valentine's Cards made by](./fold.png)
 
 Which card is your favorite? Let me know in the comments!! And if you print any, tell me how your Valentine likes them! 🙂

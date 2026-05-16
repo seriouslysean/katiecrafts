@@ -4,7 +4,7 @@ publishedDate: "2014-06-15"
 excerpt: "Sunday Funday: Issue 17, Dad Edition Happy Father’s Day, to all you Dads out there! We honor you today with all-things-fatherly as a recurring theme in our normal categories. Hope your day is as great as you are!"
 featuredImage:
   src: "./featured.jpg"
-  alt: "Sunday Funday: Issue 17, Dad Edition; http://www.katiecrafts.com"
+  alt: "Sunday Funday: Issue 17, Dad Edition"
 categories:
   - slug: "hodgepodge"
     name: "Hodgepodge"
@@ -47,19 +47,19 @@ I found a website called
 
 (yeah, it actually exists) that had these 10 most popular Father’s Day sayings! They are pretty good!
 
-[![Sunday Funday: Issue 17, Dad Edition; http://www.katiecrafts.com](./funny-fathers-day-poem-from-son-daughter-top-famous-poems-songs-2014.jpg)](http://funnyfathersdayquotes.com/2014/funny-fathers-day-poem-from-son-daughter-top-famous-poems-songs-2014.html)
+[![Sunday Funday: Issue 17, Dad Edition](./funny-fathers-day-poem-from-son-daughter-top-famous-poems-songs-2014.jpg)](http://funnyfathersdayquotes.com/2014/funny-fathers-day-poem-from-son-daughter-top-famous-poems-songs-2014.html)
 
 ## Place I Love: Home
 
 Home is many things to many people, and even though I’ve lived in Philly for over 5 years, and elsewhere before it, my parent’s house is where I grew up and will always be “home” to me. I’ll be sad when my Dad sells it, for sure. But for now, it’s still his, ours, home. In the summer we’d sit on the deck by the pool and sip on beers and float on rafts and it was lovely. So lovely, I think we’ll go do that right now!
 
-## ![Sunday Funday: Issue 17, Dad Edition; http://www.katiecrafts.com](./img-0391.jpg)
+## ![Sunday Funday: Issue 17, Dad Edition](./img-0391.jpg)
 
 ## Something Delicious: Anything On The Grill!
 
 One thing I miss desperately about the suburbs is cooking everything on the grill in the summertime! Food just tastes better that way. ESPECIALLY burgers & burnt hot dogs! MMMM!
 
-![Sunday Funday: Issue 17, Dad Edition; http://www.katiecrafts.com](./img-3866.jpg)
+![Sunday Funday: Issue 17, Dad Edition](./img-3866.jpg)
 
 ## Project That Inspires: Weed Killing Potion
 
@@ -69,6 +69,6 @@ Since Dad’s garden is well under way, I’m going to try out this easy formula
 
 for making him some homemade (natural!) weed killer! I hope it works!
 
-[![Sunday Funday: Issue 17, Dad Edition; http://www.katiecrafts.com](./screen-shot-2014-06-14-at-5-20-49-pm.png)](http://creeklinehouse.com/2013/06/magical-natural-weed-killing-potion.html#_a5y_p=619996)
+[![Sunday Funday: Issue 17, Dad Edition](./screen-shot-2014-06-14-at-5-20-49-pm.png)](http://creeklinehouse.com/2013/06/magical-natural-weed-killing-potion.html#_a5y_p=619996)
 
 Once again, hope your Father’s Day is wonderful!

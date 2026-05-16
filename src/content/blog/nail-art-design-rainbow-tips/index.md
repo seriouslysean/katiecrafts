@@ -4,7 +4,7 @@ publishedDate: "2015-03-23"
 excerpt: "Nail Art Design: Rainbow Tips We had a snowstorm on Friday (which also happened to be the first day of Spring!) Thankfully, it warmed up a little over the weekend and melted a good amount of it. Hopefully the Spring decides to stick around for awhile. In anticipation, I found several Springy nail art designs […]"
 featuredImage:
   src: "./featured.png"
-  alt: "Nail Art Design: Rainbow Tips by Katie Crafts; http://www.katiecrafts.com"
+  alt: "Nail Art Design: Rainbow Tips by"
 categories:
   - slug: "beauty"
     name: "Beauty"
@@ -49,17 +49,17 @@ This design is super easy. All you do is make stripes in different colors. You c
 
 * Seal in look with one to two coats of clear top coat. Let dry.
 
-![Nail Art Design: Rainbow Tips by Katie Crafts; https://www.katiecrafts.com](./img-0947.jpg)
+![Nail Art Design: Rainbow Tips by](./img-0947.jpg)
 
-![Nail Art Design: Rainbow Tips by Katie Crafts; https://www.katiecrafts.com](./img-0949.jpg)
+![Nail Art Design: Rainbow Tips by](./img-0949.jpg)
 
 - Clean up excess paint.
 
 - Done!
 
-![Nail Art Design: Rainbow Tips by Katie Crafts; https://www.katiecrafts.com](./img-0954.jpg)
+![Nail Art Design: Rainbow Tips by](./img-0954.jpg)
 
-![Nail Art Design: Rainbow Tips by Katie Crafts; https://www.katiecrafts.com](./img-0951.jpg)
+![Nail Art Design: Rainbow Tips by](./img-0951.jpg)
 
 I originally was going to make little white clouds on the thumbs, outlined in black (which is why I had those paints included with the materials) but decided not to. All rainbows seemed more fun!
 

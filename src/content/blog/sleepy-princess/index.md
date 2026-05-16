@@ -14,6 +14,6 @@ tags:
     name: "spud"
 ---
 
-![Sleepy Princess on Katie Crafts; http://www.katiecrafts.com](./img-0573.jpg)
+![Sleepy Princess](./img-0573.jpg)
 
 Leave one shred of fabric laying around, watch how fast a cat curls up on it.

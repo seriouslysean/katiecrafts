@@ -13,6 +13,6 @@ tags:
     name: "phillies"
 ---
 
-![Mabel Loves The Phillies on Katie Crafts; http://www.katiecrafts.com](./baseball-season.jpg)
+![Mabel Loves The Phillies](./baseball-season.jpg)
 
 “Hooray for baseball season!” says Mabel the Cat.

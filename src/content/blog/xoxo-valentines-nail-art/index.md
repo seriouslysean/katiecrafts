@@ -4,7 +4,7 @@ publishedDate: "2015-02-10"
 excerpt: "XOXO Valentine’s Nail Art Design In case you missed it, yesterday I was lucky enough to be a guest blogger over at The Art and Tree Chatter of Aquariann! It’s Kristin (Miss Aquariann herself)’s birthday week so I was happy to jump in with a Manicure Monday post sharing a cute nail art design I […]"
 featuredImage:
   src: "./featured.png"
-  alt: "XOXO Valentine's Nail Art Design by Katie Crafts; http://www.katiecrafts.com"
+  alt: "XOXO Valentine's Nail Art Design by"
 categories:
   - slug: "beauty"
     name: "Beauty"
@@ -61,19 +61,19 @@ In case you missed it, yesterday I was lucky enough to be a guest blogger over a
 
 * Use your nail art pen to draw X’s and O’s on your pointer and middle fingers.
 
-![XOXO Valentine's Nail Art Design by Katie Crafts; http://www.katiecrafts.com](./valentines-nails-3.jpg)
+![XOXO Valentine's Nail Art Design by](./valentines-nails-3.jpg)
 
 You can tell this my right hand by how terrible the writing is on it!
 
 - Draw “lo” and “ve” in cursive on your thumbs, so that when you put them together they spell “love”!
 
-![XOXO Valentine's Nail Art Design by Katie Crafts; http://www.katiecrafts.com](./valentines-nails-6.jpg)
+![XOXO Valentine's Nail Art Design by](./valentines-nails-6.jpg)
 
 - On the pink nails, use a generous coat of your pink glitter polish to make your accent nail really pop.
 
 - Seal each nail with a clear top coat and you’re good to go!
 
-![XOXO Valentine's Nail Art Design by Katie Crafts; http://www.katiecrafts.com](./valentines-nails-5.jpg)
+![XOXO Valentine's Nail Art Design by](./valentines-nails-5.jpg)
 
 I know these won’t last all the way until Saturday, but I’m going to try to extend their life with extra care over the next 6 days! They’re too cute not to wear for V-Day! Be sure to drop by the original post over at
 

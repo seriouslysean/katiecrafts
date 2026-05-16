@@ -4,7 +4,7 @@ publishedDate: "2014-04-13"
 excerpt: "This is our first and last “free weekend” for a long while! Then it’s at LEAST 5 (probably 6, maybe 7) straight weekends in a row of events, plans and a trip thrown in the mix! Don’t get me wrong, I’m super excited for each of these things- but I do so love a […]"
 featuredImage:
   src: "./featured.png"
-  alt: "Sunday Funday: Issue 9 by Katie Crafts; http://www.katiecrafts.com"
+  alt: "Sunday Funday: Issue 9 by"
 categories:
   - slug: "hodgepodge"
     name: "Hodgepodge"
@@ -65,13 +65,13 @@ This could easily double as my “Something Delicious” for the week, but I mad
 
 used to just be a food truck in Philly that eventually turned into an additional teeny storefront in the corner nook of an alley that happens to be just three blocks from our apartment. Their cupcakes are the best. This was the Strawberry Margarita one- and omg- it was just as good as it sounds.
 
-![Sunday Funday: Issue 9 on Katie Crafts; http://www.katiecrafts.com](./img-2420.jpg)
+![Sunday Funday: Issue 9](./img-2420.jpg)
 
 ## Something Delicious: Pho
 
 I love pho. So much. Sometimes, I long for it. “Hoooooney. I’m craving Pho again,” I’ll say to Husband. “We JUST had it!” is always his response, even if we haven’t had it in a month. I guess he’s not as obsessed as I am. It just makes my insides warm and fuzzy, and soon it will be too hot to eat it! Gotta get those last few bowls of noodle soup in before the summer sun hits us!
 
-![Sunday Funday: Issue 9 on Katie Crafts; http://www.katiecrafts.com](./img-2414.jpg)
+![Sunday Funday: Issue 9](./img-2414.jpg)
 
 ## Project That Inspires: DIY Undies
 
@@ -81,6 +81,6 @@ I bought some fold over elastic specifically for this project. I told my buddy t
 
 , because seriously- how cute are those! I’ll be trying that tutorial first, for sure!
 
-![Sunday Funday: Issue 9 on Katie Crafts; http://www.katiecrafts.com](./elephant-front.png)
+![Sunday Funday: Issue 9](./elephant-front.png)
 
 Hope you enjoyed this issue of Sunday Funday! Have a good one!

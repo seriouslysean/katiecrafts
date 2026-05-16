@@ -4,7 +4,7 @@ publishedDate: "2015-07-28"
 excerpt: "Yes, today is in fact National Milk Chocolate Day! Milk chocolate is one of life’s greatest gifts, so I plan on celebrating lots today!"
 featuredImage:
   src: "./featured.png"
-  alt: "Happy National Milk Chocolate Day! on Katie Crafts; http://www.katiecrafts.com"
+  alt: "Happy National Milk Chocolate Day!"
 categories:
   - slug: "hodgepodge"
     name: "Hodgepodge"

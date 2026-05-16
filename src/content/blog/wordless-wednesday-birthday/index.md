@@ -4,7 +4,7 @@ publishedDate: "2014-11-12"
 excerpt: "Wordless Wednesday: Birthday Monday was my birthday (yay!), so I spent the whole weekend and Monday celebrating, and plan to continue throughout the week. Over the weekend, Husband and I went to two craft shows, the bookstore, Sephora for makeup, shopping for clothes and to countless places to eat. We ended our binge of eating-things-we-shouldn’t-but-it’s-okay-because-it’s-my-birthday […]"
 featuredImage:
   src: "./featured.png"
-  alt: "Wordless Wednesday: Birthday on Katie Crafts; http://www.katiecrafts.com"
+  alt: "Wordless Wednesday: Birthday"
 categories:
   - slug: "cooks"
     name: "Cooks"

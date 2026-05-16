@@ -4,7 +4,7 @@ publishedDate: "2014-08-25"
 excerpt: "Project: Crocheted Amigurumi Hippo Pattern A few people in my family and friends circle are currently pregnant! That means come 2015 there will be a few baby showers that I’ll be attending, so I figured I better start making a ton of baby gifts now in preparation! Since we don’t know the sexes of the […]"
 featuredImage:
   src: "./featured.jpg"
-  alt: "Crochet Hippo Amigurumi Pattern on Katie Crafts; http://www.katiecrafts.com"
+  alt: "Crochet Hippo Amigurumi Pattern"
 categories:
   - slug: "crafts"
     name: "Crafts"
@@ -161,9 +161,9 @@ rnd 10-12: sc all around \[20]
 
 rnd 13: \[sc in each of the next 3 st, dec] 4 times \[16]
 
-rnd 14: hdc in each of the next 6 st ; sc in each of the succeeding 3 st, hdc again in each of the remaining 7 st \[16]
+rnd 14: hdc in each of the next 6 st; sc in each of the succeeding 3 st, hdc again in each of the remaining 7 st \[16]
 
-rnd 15: sc in each of the next 6 st ; slst in each of the succeeding 3 st, sc again in each of the remaining 7 st \[16]
+rnd 15: sc in each of the next 6 st; slst in each of the succeeding 3 st, sc again in each of the remaining 7 st \[16]
 
 rnd 16: sc in each of the net 2 st, dec. sl st in each of the next 8 st. THROUGH BLO hdc in each of the remaining 4 st \[16]
 
@@ -219,8 +219,6 @@ fasten off leaving a long tail for sewing
 
 4. attach the legs to the body.
 
-
-
    the front legs are placed diagonal to the hind because the body becomes smaller as it goes towards the body
 
 5. sew on all the legs to the body. in sewing, you may opt to remove the stuffing in the body to give you an easier time to sew
@@ -239,7 +237,7 @@ __
 
 _**\*After everything was sewn together, I added the eyes with black yarn and a few stitches, and some little nostril nubs like hippos have to give the face a little dimension!**_
 
-![Crochet Hippo Amigurumi Pattern on Katie Crafts; http://www.katiecrafts.com](./img-5342.jpg)
+![Crochet Hippo Amigurumi Pattern](./img-5342.jpg)
 
 Isn’t Sweet N Cute Creations little hippo pattern just awesome!? How did mine come out?
 

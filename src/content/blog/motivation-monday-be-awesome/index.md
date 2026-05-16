@@ -4,7 +4,7 @@ publishedDate: "2015-08-31"
 excerpt: "I feel like we all may need a little motivation this Monday! Some people have already ushered their kids back off to school, some are enjoying the last week of Summer vacation before Labor Day arrives, some just had a long weekend in general! Whichever may be the case for you, remember to be awesome […]"
 featuredImage:
   src: "./featured.png"
-  alt: "Motivation Monday: Be Awesome! on Katie Crafts; http://www.katiecrafts.com"
+  alt: "Motivation Monday: Be Awesome!"
 categories:
   - slug: "hodgepodge"
     name: "Hodgepodge"

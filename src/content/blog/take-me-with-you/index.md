@@ -16,14 +16,14 @@ tags:
     name: "spud"
 ---
 
-![Take Me With You on Katie Crafts; http://www.katiecrafts.com](./img-4826.jpg)
+![Take Me With You](./img-4826.jpg)
 
-![Take Me With You on Katie Crafts; https://www.katiecrafts.com](./img-4824.jpg)
+![Take Me With You](./img-4824.jpg)
 
-![Take Me With You on Katie Crafts; https://www.katiecrafts.com](./img-4825.jpg)
+![Take Me With You](./img-4825.jpg)
 
-![Take Me With You on Katie Crafts; http://www.katiecrafts.com](./img-4827.jpg)
+![Take Me With You](./img-4827.jpg)
 
-![Take Me With You on Katie Crafts; http://www.katiecrafts.com](./img-4823.jpg)
+![Take Me With You](./img-4823.jpg)
 
 “Please. Take me with you. I want the city life.”

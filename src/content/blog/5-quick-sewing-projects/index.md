@@ -4,7 +4,7 @@ publishedDate: "2015-02-19"
 excerpt: "Happy (Throwback) Thursday! Today I’m sharing 5 Quick Sewing Projects from the past year. They are great for people just starting out, for someone who wants to complete a weekend project early enough that they still have their weekend ahead of them, or just anyone who can’t handle time consuming projects!"
 featuredImage:
   src: "./featured.png"
-  alt: "5 Quick Sewing Projects by Katie Crafts; http://www.katiecrafts.com"
+  alt: "5 Quick Sewing Projects by"
 categories:
   - slug: "crafts"
     name: "Crafts"
@@ -59,11 +59,11 @@ Next up is one I need to make more of, now that my hair is longer! These
 
 are really cute and can be made with just about any material. Since I got some new fabric for Christmas, I should definitely sew up a few more for the upcoming Spring months!
 
-![5 Quick Sewing Projects by Katie Crafts; http://www.katiecrafts.com](./turban-headband-front.jpg)
+![5 Quick Sewing Projects by](./turban-headband-front.jpg)
 
 ## DIY Mini Makeup Bag
 
-![5 Quick Sewing Projects by Katie Crafts; http://www.katiecrafts.com](./diy-mini-makeup-bag-main.png)
+![5 Quick Sewing Projects by](./diy-mini-makeup-bag-main.png)
 
 I was just part of the redditgifts exchanges again (I can’t get enough!) and the girl I had mentioned liking lipstick and nail polish, etc. I made her some earrings, bought her some Burt’s Bees and Revlon, and made her a
 
@@ -71,11 +71,11 @@ I was just part of the redditgifts exchanges again (I can’t get enough!) and t
 
 to put all the things in (which I embroidered with her name… obviously). This project works up so quickly, you’ll wonder why you haven’t made a dozen of them for different purses/back packs/etc. already! Don’t let the word “Makeup” fool you. I use one to hold scissors and needles for my Knitting Class bag. You can use it for whatever your little heart desires.
 
-![5 Quick Sewing Projects by Katie Crafts; http://www.katiecrafts.com](./makeup-bag-26.jpg)
+![5 Quick Sewing Projects by](./makeup-bag-26.jpg)
 
 ## Hair Bow
 
-![5 Quick Sewing Projects by Katie Crafts; http://www.katiecrafts.com](./how-to-sew-a-hair-bow-main.jpg)
+![5 Quick Sewing Projects by](./how-to-sew-a-hair-bow-main.jpg)
 
 These
 
@@ -87,11 +87,11 @@ have become one of my staple accessories. I have them in many colors and pattern
 
 (more coming soon!), should you want to buy one instead of making it!
 
-![5 Quick Sewing Projects by Katie Crafts; http://www.katiecrafts.com](./img-3719.jpg)
+![5 Quick Sewing Projects by](./img-3719.jpg)
 
 ## Cozy Catnip Kitty Pillow
 
-![5 Quick Sewing Projects by Katie Crafts; http://www.katiecrafts.com](./img-1275.jpg)
+![5 Quick Sewing Projects by](./img-1275.jpg)
 
 This was one of my favorites to make! This
 
@@ -103,10 +103,10 @@ _how to catch a kitty_
 
 below!
 
-![5 Quick Sewing Projects by Katie Crafts; https://www.katiecrafts.com](./img-1266.jpg)
+![5 Quick Sewing Projects by](./img-1266.jpg)
 
-![5 Quick Sewing Projects by Katie Crafts; https://www.katiecrafts.com](./img-1267.jpg)
+![5 Quick Sewing Projects by](./img-1267.jpg)
 
-![5 Quick Sewing Projects by Katie Crafts; https://www.katiecrafts.com](./img-1268.jpg)
+![5 Quick Sewing Projects by](./img-1268.jpg)
 
 What other quick sewing projects do you like to do?

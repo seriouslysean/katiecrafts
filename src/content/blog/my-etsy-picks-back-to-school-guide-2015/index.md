@@ -4,7 +4,7 @@ publishedDate: "2015-08-18"
 excerpt: "It’s that time of year again! Back to school shopping used to be my favorite thing. New and colorful folders, pencil cases and gel pens; book bags, accessories and clothes- nothing like getting a chance to start anew. Here are all the beautiful Etsy items that made my cut this year for my Back to […]"
 featuredImage:
   src: "./featured.png"
-  alt: "My Etsy Picks: Back to School Guide 2015 on Katie Crafts; http://www.katiecrafts.com"
+  alt: "My Etsy Picks: Back to School Guide 2015"
 categories:
   - slug: "hodgepodge"
     name: "Hodgepodge"

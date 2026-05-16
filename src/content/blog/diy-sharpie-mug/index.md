@@ -56,7 +56,7 @@ I made everyone a personalized mug for Christmas one year, filling them with hot
 
   to decorate the mug! You can write “Happy Birthday, Sean!” on it, or “Happy Easter, Kelly!” Whatever your heart desires. Nix wording all together and do a pretty intricate design if that’s what you’re in to. I love brown and blue together and I super love polka dots, so that’s what I went with. 🙂
 
-![DIY Sharpie Mug by Katie Crafts; http://www.katiecrafts.com](./img-1364.jpg)
+![DIY Sharpie Mug by](./img-1364.jpg)
 
 - When finished, put the mug on a cookie sheet and place in oven for
 
@@ -64,7 +64,7 @@ I made everyone a personalized mug for Christmas one year, filling them with hot
 
   to “cure” it.
 
-![DIY Sharpie Mug by Katie Crafts; http://www.katiecrafts.com](./img-1365.jpg)
+![DIY Sharpie Mug by](./img-1365.jpg)
 
 - After the half hour of baking, carefully remove the hot cookie sheet and let it cool
 

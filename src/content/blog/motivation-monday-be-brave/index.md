@@ -4,7 +4,7 @@ publishedDate: "2015-09-14"
 excerpt: "Last year, I did a Featured Etsy Shop post for Fickle Fox Design (formerly Kyle Looby Jewelry). She gave away a beautiful “Be Brave” bracelet in the post, and sent me one as a thank you as well (along with a customized Katie Crafts one!) I wear Be Brave every day with my bangles, as […]"
 featuredImage:
   src: "./featured.png"
-  alt: "Motivation Monday: Be Brave on Katie Crafts; http://www.katiecrafts.com"
+  alt: "Motivation Monday: Be Brave"
 categories:
   - slug: "hodgepodge"
     name: "Hodgepodge"

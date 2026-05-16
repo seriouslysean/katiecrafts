@@ -86,27 +86,27 @@ Instructions:
 
 * Next, get out a nice big prep bowl and something to measure your chopped veggies in. I have mini prep bowls that hold about a cup which are perfect for just this use!
 
-![potatoes](./img-04451.jpg "Slow-Cooker Beer and Cheese Chowder by Katie Crafts; http://www.katiecrafts.com/")
+![potatoes](./img-04451.jpg "Slow-Cooker Beer and Cheese Chowder by Katie Crafts; ")
 
 - Peel your potatoes and carrots.
 
 * On to chopping! Dice potatoes, carrots, celery and onion. Throw all in your big prep bowl, measuring as you go. Throw in crock pot when finished!
 
-![veggie pile](./img-0448.jpg "Slow-Cooker Beer and Cheese Chowder by Katie Crafts; http://www.katiecrafts.com/")
+![veggie pile](./img-0448.jpg "Slow-Cooker Beer and Cheese Chowder by Katie Crafts; ")
 
 - Now you’ll need to chop your ham in to cubes. If there is any delicious, delicious glaze on it from baking (that recipe will come soon!), just scrape it off. Using a sharp knife, cut three cups worth of ham.
 
-![Ooooh, the glaaaaze!](./img-0449.jpg "Slow-Cooker Beer and Cheese Chowder by Katie Crafts; http://www.katiecrafts.com/")
+![Ooooh, the glaaaaze!](./img-0449.jpg "Slow-Cooker Beer and Cheese Chowder by Katie Crafts; ")
 
 Ooooh, the glaaaaze!
 
 - Add chopped ham to crock pot. Salt and pepper as much as your heart desires. I used a 1/4 teaspoon ground pepper and 1/2 teaspoon salt since the amount of potatoes in it is gigantic. You can use more or less depending on your taste, and can always add more to your individual bowls after it’s cooked!
 
-![pot 1](./img-0450.jpg "Slow-Cooker Beer and Cheese Chowder by Katie Crafts; http://www.katiecrafts.com/")
+![pot 1](./img-0450.jpg "Slow-Cooker Beer and Cheese Chowder by Katie Crafts; ")
 
 - Pour the broth on top of the other ingredients. Add the beer and the wine now, too!
 
-![pot 2](./img-0451.jpg "Slow-Cooker Beer and Cheese Chowder by Katie Crafts; http://www.katiecrafts.com/")
+![pot 2](./img-0451.jpg "Slow-Cooker Beer and Cheese Chowder by Katie Crafts; ")
 
 - Set your slow-cooker to
 
@@ -122,7 +122,7 @@ Ooooh, the glaaaaze!
 
 - Before serving, add the cream and cheese. Replace the lid for 5 minutes to let the cheese melt. Then, give it a stir and serve! Add croutons to the top of it for a little crunch.
 
-![soup](./img-0453.jpg "Slow-Cooker Beer and Cheese Chowder by Katie Crafts; http://www.katiecrafts.com/")
+![soup](./img-0453.jpg "Slow-Cooker Beer and Cheese Chowder by Katie Crafts; ")
 
 Tips:
 

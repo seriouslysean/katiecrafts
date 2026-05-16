@@ -4,7 +4,7 @@ publishedDate: "2014-10-03"
 excerpt: "My Etsy Picks: Fall Faves As you can tell by my previous posts, Fall is my absolute favorite! While I’m not quite ready to get back full time to blogging (unpacking rules my life right now), I thought I’d take a break and peruse all the fine wares on Etsy that are dedicated to the […]"
 featuredImage:
   src: "./featured.png"
-  alt: "My Etsy Picks: Fall Faves on Katie Crafts; http://www.katiecrafts.com"
+  alt: "My Etsy Picks: Fall Faves"
 categories:
   - slug: "crafts"
     name: "Crafts"

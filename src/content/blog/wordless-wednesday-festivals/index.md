@@ -4,7 +4,7 @@ publishedDate: "2015-05-06"
 excerpt: "Wordless Wednesday: Festivals It is once again festival season here in Philadelphia! Yay! I so love a good festival."
 featuredImage:
   src: "./featured.png"
-  alt: "Wordless Wednesday: Festivals on Katie Crafts; http://www.katiecrafts.com"
+  alt: "Wordless Wednesday: Festivals"
 categories:
   - slug: "hodgepodge"
     name: "Hodgepodge"

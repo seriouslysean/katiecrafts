@@ -4,7 +4,7 @@ publishedDate: "2014-07-25"
 excerpt: "Needle Art Mysteries: Cross-Stitching FYI! TODAY IS “NATIONAL THREADING THE NEEDLE DAY”! What a perfect post for the occasion! Hey guys, it’s Jess here with another round of needle art mysteries revealed! I know that I said in my last issue that I would be tackling knitting, however I found this needle art and thought it […]"
 featuredImage:
   src: "./featured.jpg"
-  alt: "Needle Art Mysteries: Cross-Stitching on Katie Crafts; http://www.katiecrafts.com"
+  alt: "Needle Art Mysteries: Cross-Stitching"
 categories:
   - slug: "crafts"
     name: "Crafts"
@@ -57,7 +57,7 @@ Cross-stitching as defined by
 
 Online is as follows: “A needlework stitch that forms an X.” You can’t get more succinct than that, right!?
 
-![Needle Art Mysteries: Cross-Stitching on Katie Crafts; http://www.katiecrafts.com](./img-4822.jpg)
+![Needle Art Mysteries: Cross-Stitching](./img-4822.jpg)
 
 Katie’s cross-stitch, completed, over 30 hours of work later!
 

@@ -4,7 +4,7 @@ publishedDate: "2015-01-22"
 excerpt: "Project: 5 Minute Tulle Pom Pom Flowers Five minutes is being very generous. It’s more like under 3 minutes, but I rounded up in case it takes you a long time to use scissors. 😉 This is the easiest and quickest tutorial I’ll ever post, but it sets up an ADORABLE DIY I will be […]"
 featuredImage:
   src: "./featured.png"
-  alt: "5 Minute Tulle Pom Pom Flowers Tutorial by Katie Crafts; http://www.katiecrafts.com"
+  alt: "5 Minute Tulle Pom Pom Flowers Tutorial by"
 categories:
   - slug: "crafts"
     name: "Crafts"

@@ -4,7 +4,7 @@ publishedDate: "2015-11-11"
 excerpt: "If you follow me on Instagram, you know that I spent my 33rd birthday yesterday going to brunch, then the Philadelphia Museum of Art, followed by walking around a rainy city and then dinner. I snapped just a few photos from the day and thought I’d share them with you!"
 featuredImage:
   src: "./featured.jpg"
-  alt: "Wordless Wednesday: 33 on Katie Crafts; https:/katiecrafts.com"
+  alt: "Wordless Wednesday: 33"
 categories:
   - slug: "hodgepodge"
     name: "Hodgepodge"
@@ -41,19 +41,19 @@ The exhibit we saw was called Audubon to Warhol: The Art of the American Still L
 
 While at the Art Museum, I just had to peek in on a few of my favorite works! Van Gogh’s Sunflowers (above) and the Monets below have me in awe no matter how many times I see them.
 
-![Wordless Wednesday: 33 on Katie Crafts; https:/katiecrafts.com](./img-4498.jpg)
+![Wordless Wednesday: 33](./img-4498.jpg)
 
-![Wordless Wednesday: 33 on Katie Crafts; https:/katiecrafts.com](./img-4497.jpg)
+![Wordless Wednesday: 33](./img-4497.jpg)
 
 Later in the evening, we headed to one of my favorite restaurants for dinner. I saved room for birthday cake, too! Chocolate toffee mousse something or other with raspberry sorbet. Mmmm!
 
-![Wordless Wednesday: 33 on Katie Crafts; https:/katiecrafts.com](./img-4506.jpg)
+![Wordless Wednesday: 33](./img-4506.jpg)
 
 After we were so stuffed we couldn’t move, we headed home! I was pretty excited to play with the new toy I got from Husband for my birthday: a Silhouette Cameo! I wasn’t expecting it at all so it was a huge surprise!
 
-![Wordless Wednesday: 33 on Katie Crafts; https:/katiecrafts.com](./img-4489.jpg)
+![Wordless Wednesday: 33](./img-4489.jpg)
 
-![Wordless Wednesday: 33 on Katie Crafts; https:/katiecrafts.com](./img-4491.jpg)
+![Wordless Wednesday: 33](./img-4491.jpg)
 
 I was tired after a long day but I
 

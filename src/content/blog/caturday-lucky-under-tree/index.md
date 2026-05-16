@@ -16,6 +16,6 @@ tags:
     name: "lucky"
 ---
 
-![Caturday: Lucky Under Tree on Katie Crafts; http://www.katiecrafts.com](./lucky-christmas.jpg)
+![Caturday: Lucky Under Tree](./lucky-christmas.jpg)
 
 Saturday is Caturday! Here’s a pic of Lucky laying under the tree, after having pulled off an ornament to play with!

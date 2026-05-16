@@ -13,4 +13,4 @@ tags:
     name: "marshal"
 ---
 
-![Silly Marshal on Katie Crafts; http://www.katiecrafts.com](./img-5039.jpg)
+![Silly Marshal](./img-5039.jpg)

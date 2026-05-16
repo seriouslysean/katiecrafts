@@ -23,4 +23,4 @@ tags:
 
 No matter how busy life gets, sometimes you just need to step back, curl up and relax. Otherwise, you may just go crazy! Take it from Lucky, the master of cat naps.
 
-I’m actually getting sleepy just looking at him. I think I’ll go lay down… ::yaawwwwn::
+I’m actually getting sleepy just looking at him. I think I’ll go lay down…::yaawwwwn::

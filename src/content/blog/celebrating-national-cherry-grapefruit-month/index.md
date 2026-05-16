@@ -4,7 +4,7 @@ publishedDate: "2015-02-24"
 excerpt: "Celebrating National Cherry & Grapefruit Month: Recipes Did you know that February is both National Cherry Month AND National Grapefruit Month? I’m not a huge fan of either, but there are some recipes that I can’t deny just make my mouth water! Here are five that I found and really want to try out, and […]"
 featuredImage:
   src: "./featured.png"
-  alt: "Celebrating National Cherry and Grapefruit Month on Katie Crafts; http://www.katiecrafts.com"
+  alt: "Celebrating National Cherry and Grapefruit Month"
 categories:
   - slug: "cooks"
     name: "Cooks"

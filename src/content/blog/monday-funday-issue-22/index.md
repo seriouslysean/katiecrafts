@@ -4,7 +4,7 @@ publishedDate: "2014-07-21"
 excerpt: "MONDAY Funday: Issue 22 Note from Katie:: Since the site was wonky all Saturday, we didn’t get a chance to edit and schedule this for Sunday! Instead, it’s a MONDAY Funday, via Jess! Enjoy! Well, it’s Sunday Funday once again, and Katie has decided to hand the post over to me! For those of you […]"
 featuredImage:
   src: "./featured.jpg"
-  alt: "MONDAY Funday: Issue 22 on Katie Crafts; http://www.katiecrafts.com"
+  alt: "MONDAY Funday: Issue 22"
 categories:
   - slug: "hodgepodge"
     name: "Hodgepodge"
@@ -57,7 +57,7 @@ by Ally Condle. They are part of a three book series, with this book (
 
 ) being the final book. Just like the first two books, I got sucked right into the story line and really felt the characters jump off the page. I will not give anything away but I do highly recommend you read this book.
 
-![MONDAY Funday: Issue 22 on Katie Crafts; http://www.katiecrafts.com](./screen-shot-2014-07-19-at-5-56-42-pm.png)
+![MONDAY Funday: Issue 22](./screen-shot-2014-07-19-at-5-56-42-pm.png)
 
 “Reached” by Ally Condle
 
@@ -65,7 +65,7 @@ by Ally Condle. They are part of a three book series, with this book (
 
 Yes I said it! I absolutely love the International House of Pancakes! I especially love their Loaded Baked Potato Soup, which I always get when they have it. I also really love their crepes with blueberry compote. Their fries are really good too! You know, now I am just really hungry, so it’s a good thing I have my next section’s thing \[something delicious!] right next to me.
 
-MONDAY Funday: Issue 22 on Katie Crafts; http://www.katiecrafts.com
+MONDAY Funday: Issue 22 on Katie Crafts;
 
 IHOP! Says it all!
 
@@ -73,15 +73,15 @@ IHOP! Says it all!
 
 There is a Bravo supermarket not far from where I live. My father likes to shop there whenever he needs to stock up on a few things. When we run out of milk, bread, and ketchup- the usual stuff. Well, he also likes to pick up some snacks on occasion. A bags of chips, maybe some snack cakes, or he will surprise me with this. They have a few flavors that I have tried so far. There is a candy flavored one, a sweet and salty one and a caramel flavored one- all kettle cooked. They are all really good, surprisingly! Hopefully you guys may be able to find them in a store near you!
 
-[![MONDAY Funday: Issue 22 on Katie Crafts; http://www.katiecrafts.com](https://i2.wp.com/fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-xaf1/v/t1.0-9/p180x540/399090_376607622375200_1796440269_n.jpg?resize=192%2C262\&ssl=1)](https://www.facebook.com/pages/Raylicious/103710132998285)
+[](https://www.facebook.com/pages/Raylicious/103710132998285)
 
 Candy Frosted Popcorn!
 
-[![MONDAY Funday: Issue 22 on Katie Crafts; http://www.katiecrafts.com](https://i1.wp.com/fbcdn-sphotos-e-a.akamaihd.net/hphotos-ak-prn2/v/t1.0-9/p180x540/556678_377322998970329_1965325864_n.jpg?resize=188%2C256\&ssl=1)](https://www.facebook.com/pages/Raylicious/103710132998285)
+[](https://www.facebook.com/pages/Raylicious/103710132998285)
 
 Sweet & Salty Kettle Corn the one I just had.
 
-[![MONDAY Funday: Issue 22 on Katie Crafts; http://www.katiecrafts.com](https://i1.wp.com/fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/t1.0-9/p403x403/1975019_629406657095294_1843124227_n.jpg?resize=188%2C250\&ssl=1)](https://www.facebook.com/pages/Raylicious/103710132998285)
+[](https://www.facebook.com/pages/Raylicious/103710132998285)
 
 Caramel one!
 
@@ -103,7 +103,7 @@ and I think I am gonna try it. Here’s what you need to make them:
 
 Pour the 4 cups of water into your container. The next step is to slowly add the corn syrup and dish soap at the same time to the water. Then, allow the mixture to sit for 30 minutes so it can mix well together. Lastly, just pour it into something for easier dipping and enjoy.
 
-[![MONDAY Funday: Issue 22 on Katie Crafts; http://www.katiecrafts.com](./blowing-bubbles-child1.png)](http://simplymetherapy.com)
+[![MONDAY Funday: Issue 22](./blowing-bubbles-child1.png)](http://simplymetherapy.com)
 
 Bubbles!!!!
 

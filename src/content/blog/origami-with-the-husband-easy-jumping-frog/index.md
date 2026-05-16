@@ -4,7 +4,7 @@ publishedDate: "2014-05-22"
 excerpt: "Project: Origami Easy Jumping Frog Tutorial I’m back again with a really cool Origami project that I really think you guys will love! My desk has been looking a bit bare lately and I wanted some sort of critter to spice things up — this time around we’re going to make an Origami Jumping Frog!"
 featuredImage:
   src: "./featured.jpg"
-  alt: "Origami with The Husband: Easy Jumping Frog Tutorial on Katie Crafts; http://www.katiecrafts.com"
+  alt: "Origami with The Husband: Easy Jumping Frog Tutorial"
 categories:
   - slug: "crafts"
     name: "Crafts"
@@ -39,9 +39,9 @@ I decided to start with an easy version that is incredibly kid-friendly. Anyone 
 
 ## How to make an Origami Jumping Frog
 
-![Origami with The Husband: Easy Jumping Frog Tutorial on Katie Crafts; https://www.katiecrafts.com](./img-2461.jpg)
+![Origami with The Husband: Easy Jumping Frog Tutorial](./img-2461.jpg)
 
-![Origami with The Husband: Easy Jumping Frog Tutorial on Katie Crafts; https://www.katiecrafts.com](./img-2462.jpg)
+![Origami with The Husband: Easy Jumping Frog Tutorial](./img-2462.jpg)
 
 ### Step 1
 
@@ -59,9 +59,9 @@ _Note: In the_
 
 _[Origami Ninja Star Tutorial](/husband-origami-ninja-star/ "Origami with the Husband: Ninja Star"), we used a book fold. This is different because instead of leaving the folded paper closed (like a book), we’re opening the paper back up again with the new crease._
 
-![Origami with The Husband: Easy Jumping Frog Tutorial on Katie Crafts; https://www.katiecrafts.com](./img-2463.jpg)
+![Origami with The Husband: Easy Jumping Frog Tutorial](./img-2463.jpg)
 
-![Origami with The Husband: Easy Jumping Frog Tutorial on Katie Crafts; https://www.katiecrafts.com](./img-2464.jpg)
+![Origami with The Husband: Easy Jumping Frog Tutorial](./img-2464.jpg)
 
 ### Step 3
 
@@ -75,9 +75,9 @@ I KNOW this part looks kind of confusing at first glance. It’s really not that
 
 . Make sure your piece of paper is unfolded and then start to fold it in half from the top towards the bottom. Halfway there, stop and bring the sides in, collapsing the top half on to the bottom half. It should look just like two triangles sitting on top of one another.
 
-![Origami with The Husband: Easy Jumping Frog Tutorial on Katie Crafts; https://www.katiecrafts.com](./img-2465.jpg)
+![Origami with The Husband: Easy Jumping Frog Tutorial](./img-2465.jpg)
 
-![Origami with The Husband: Easy Jumping Frog Tutorial on Katie Crafts; https://www.katiecrafts.com](./img-2466.jpg)
+![Origami with The Husband: Easy Jumping Frog Tutorial](./img-2466.jpg)
 
 ### Step 5
 
@@ -87,9 +87,9 @@ Take the two corners of the top triangle and fold them up towards the top, align
 
 Do not flip the frog over just yet! Take the two corners of the bottom triangle and fold them up, aligning them with the ends folded up in the last step.
 
-![Origami with The Husband: Easy Jumping Frog Tutorial on Katie Crafts; https://www.katiecrafts.com](./img-2468.jpg)
+![Origami with The Husband: Easy Jumping Frog Tutorial](./img-2468.jpg)
 
-![Origami with The Husband: Easy Jumping Frog Tutorial on Katie Crafts; https://www.katiecrafts.com](./img-2470.jpg)
+![Origami with The Husband: Easy Jumping Frog Tutorial](./img-2470.jpg)
 
 ### Step 7
 
@@ -99,9 +99,9 @@ Fold about 40% of the paper up on to itself, and crease it so that you get a cri
 
 Fold the top half of the bottom you just folded back on to itself. This will create his legs so that when you push on the frog’s back he’ll be able to jump!
 
-![Origami with The Husband: Easy Jumping Frog Tutorial on Katie Crafts; https://www.katiecrafts.com](./img-2471.jpg)
+![Origami with The Husband: Easy Jumping Frog Tutorial](./img-2471.jpg)
 
-![Origami with The Husband: Easy Jumping Frog Tutorial on Katie Crafts; https://www.katiecrafts.com](./img-2472.jpg)
+![Origami with The Husband: Easy Jumping Frog Tutorial](./img-2472.jpg)
 
 ### Step 9
 

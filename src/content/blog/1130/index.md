@@ -17,4 +17,4 @@ tags:
     name: "st paddy's"
 ---
 
-![happy-saint-paddys-from-lucky; http://www.katiecrafts.com](./happy-saint-paddys-from-lucky.png)
+![happy-saint-paddys-from-lucky](./happy-saint-paddys-from-lucky.png)

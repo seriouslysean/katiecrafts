@@ -4,7 +4,7 @@ publishedDate: "2017-08-01"
 excerpt: "Guess who’s back, back again? I know, it’s been a long while. A recap of the last year is below. But first, I’m excited to announce I’ll be selling my wares with Art Star at Spruce Street Harbor Park in Philadelphia this Saturday, August 5th! But wait, there’s more!"
 featuredImage:
   src: "./featured.png"
-  alt: "Katie Crafts at Art Star Spruce Street Harbor Park; https://katiecrafts.com"
+  alt: "Katie Crafts at Art Star Spruce Street Harbor Park"
 categories:
   - slug: "crafts"
     name: "Crafts"
@@ -81,13 +81,13 @@ A new love in my life meant new interests for craft projects, and so my bandana 
 
 They fit infants, toddlers and your favorite pup as well!
 
-![Sample of Bibs For Sale on Katie Crafts; https://katiecrafts.com](./bibs-samples.jpg)
+![Sample of Bibs For Sale](./bibs-samples.jpg)
 
 I’m also still making tote bags, though I’ve added new designs to the mix and changed my supply from lightweight bags to better quality heavyweight bags.
 
 [You can find all my market tote bag options here.](/shop/category/tote-bags/)
 
-![Sample of Tote Bags For Sale on Katie Crafts; https://katiecrafts.com](./totebag-samples.jpg)
+![Sample of Tote Bags For Sale](./totebag-samples.jpg)
 
 I made ornaments for friends and family last Christmas and will be opening up my sales to the public this year via my online store.
 
@@ -95,11 +95,11 @@ I made ornaments for friends and family last Christmas and will be opening up my
 
 Each can be personalized as well, making them really great gifts!
 
-![Sample of Ornaments For Sale on Katie Crafts; https://katiecrafts.com](./sample-ornaments-blog.jpg)
+![Sample of Ornaments For Sale](./sample-ornaments-blog.jpg)
 
 Lastly, some of the designs I’ve created for totes and ornaments will now also be available as decals! Each decal is made of commercial grade outdoor vinyl and covered with clear transfer tape so you can adhere it easily to whatever window/laptop/mug you please. They’ll be up in the shop soon.
 
-![Sample of Decals For Sale on Katie Crafts; https://katiecrafts.com](./sample-decals-framed.jpg)
+![Sample of Decals For Sale](./sample-decals-framed.jpg)
 
 Now that you’re all caught up on my last year, I can tell you how excited I am to have a table at
 

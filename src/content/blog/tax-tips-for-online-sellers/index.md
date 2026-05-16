@@ -4,7 +4,7 @@ publishedDate: "2016-04-12"
 excerpt: "Tax season is almost over. The dreaded-by-many Tax Day is usually April 15th, but this year will be April 18th- so you procrastinators out there have a little extra time! As an Etsy seller myself, I know how confusing selling online can be when it comes time to file taxes. Any little bit of advice […]"
 featuredImage:
   src: "./featured.jpg"
-  alt: "Tax Tips for Online Sellers on Katie Crafts; http://www.katiecrafts.com"
+  alt: "Tax Tips for Online Sellers"
 categories:
   - slug: "hodgepodge"
     name: "Hodgepodge"

@@ -4,7 +4,7 @@ publishedDate: "2015-12-08"
 excerpt: "On the 8th day of Christmas Katie Crafts gave to me… a DIY 2 Ingredient Milk & Honey Soap Tutorial you’ll want to make for gifts!"
 featuredImage:
   src: "./featured.png"
-  alt: "DIY 2 Ingredient Milk & Honey Soap Tutorial by Katie Crafts; http://www.katiecrafts.com"
+  alt: "DIY 2 Ingredient Milk & Honey Soap Tutorial by"
 categories:
   - slug: "crafts"
     name: "Crafts"
@@ -47,36 +47,36 @@ A fantastic handmade gift idea for the holiday season! This DIY 2 ingredient Mil
 
 * Use a metal spatula or something similar to help you left the cubes out of the packaging and put them into the glass measuring cup. I accomplished this with a pie server!
 
-![DIY 2 Ingredient Milk & Honey Soap Tutorial by Katie Crafts; http://www.katiecrafts.com](./img-4607.jpg)
+![DIY 2 Ingredient Milk & Honey Soap Tutorial by](./img-4607.jpg)
 
 - Microwave for 30 seconds. Stir.
 
-![DIY 2 Ingredient Milk & Honey Soap Tutorial by Katie Crafts; https://www.katiecrafts.com](./img-4608.jpg)
+![DIY 2 Ingredient Milk & Honey Soap Tutorial by](./img-4608.jpg)
 
-![DIY 2 Ingredient Milk & Honey Soap Tutorial by Katie Crafts; https://www.katiecrafts.com](./img-4610.jpg)
+![DIY 2 Ingredient Milk & Honey Soap Tutorial by](./img-4610.jpg)
 
 - Repeat the microwave-30-seconds-&-stir step until everything is melted and liquid. This usually is about 3 to 4 intervals.
 
-![DIY 2 Ingredient Milk & Honey Soap Tutorial by Katie Crafts; https://www.katiecrafts.com](./img-4611.jpg)
+![DIY 2 Ingredient Milk & Honey Soap Tutorial by](./img-4611.jpg)
 
-![DIY 2 Ingredient Milk & Honey Soap Tutorial by Katie Crafts; https://www.katiecrafts.com](./img-4612.jpg)
+![DIY 2 Ingredient Milk & Honey Soap Tutorial by](./img-4612.jpg)
 
 - While it’s still hot, add 2 Tablespoons of Raw Unfiltered Honey to the soap. Stir until completely mixed.
 
-![DIY 2 Ingredient Milk & Honey Soap Tutorial by Katie Crafts; http://www.katiecrafts.com](./img-4613.jpg)
+![DIY 2 Ingredient Milk & Honey Soap Tutorial by](./img-4613.jpg)
 
 - I also stir in three drops of yellow coloring to make it a little more “honey” like in color, but this is completely optional.
 
-![DIY 2 Ingredient Milk & Honey Soap Tutorial by Katie Crafts; http://www.katiecrafts.com](./img-4614.jpg)
+![DIY 2 Ingredient Milk & Honey Soap Tutorial by](./img-4614.jpg)
 
 - Pour into soap molds and let set in freezer for an hour.
 
 - Remove molds from freezer, turn over and gently pop out the soap bars. If they are still frozen to the molds, use your hand to warm them up for a minute and try again. They should come out fairly easily.
 
-![DIY 2 Ingredient Milk & Honey Soap Tutorial by Katie Crafts; http://www.katiecrafts.com](./img-4624.jpg)
+![DIY 2 Ingredient Milk & Honey Soap Tutorial by](./img-4624.jpg)
 
 - That’s it! Enjoy your milk and honey soap!
 
-![DIY 2 Ingredient Milk & Honey Soap Tutorial by Katie Crafts; http://www.katiecrafts.com](./img-4621.jpg)
+![DIY 2 Ingredient Milk & Honey Soap Tutorial by](./img-4621.jpg)
 
 What do you think of my super easy DIY soap recipe? If you decide to use it for a quick holiday gift idea, share a pic in the comments!

@@ -4,7 +4,7 @@ publishedDate: "2015-01-20"
 excerpt: "My Etsy Picks: Valentine’s Day Gifts For Her This week is going to be a little fun: there will be two treasuries featured! One is above, showing an array of wonderful gifts you can get your girl for this upcoming Valentine’s Day. I handpicked each item based on the fact that *I* want them all!! […]"
 featuredImage:
   src: "./featured.png"
-  alt: "My Etsy Picks: Valentine's Day Gifts For Her by Katie Crafts; http://www.katiecrafts.com"
+  alt: "My Etsy Picks: Valentine's Day Gifts For Her by"
 categories:
   - slug: "hodgepodge"
     name: "Hodgepodge"

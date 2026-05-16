@@ -7,6 +7,6 @@ categories:
 tags: []
 ---
 
-![Mabel Fell In on Katie Crafts; http://www.katiecrafts.com](./img-6149.jpg)
+![Mabel Fell In](./img-6149.jpg)
 
 “I fell in.”

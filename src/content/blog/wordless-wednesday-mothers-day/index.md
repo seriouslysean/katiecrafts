@@ -4,7 +4,7 @@ publishedDate: "2015-04-29"
 excerpt: "Wordless Wednesday: Mother’s Day These photos are of the Weeping Cherry tree on my Dad’s front lawn. We bought it for my mom for Mother’s Day 10 years ago!"
 featuredImage:
   src: "./featured.jpg"
-  alt: "Wordless Wednesday: Mother's Day on Katie Crafts; http://www.katiecrafts.com"
+  alt: "Wordless Wednesday: Mother's Day"
 categories:
   - slug: "hodgepodge"
     name: "Hodgepodge"

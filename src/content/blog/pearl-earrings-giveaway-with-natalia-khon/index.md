@@ -4,7 +4,7 @@ publishedDate: "2015-12-02"
 excerpt: "?On the second day of Christmas, Katie Crafts gave to me…? Freshwater Pearl Earrings from Natalia’s Jewellry! Natalia Khon is one of my favorite handmade artisans on Etsy! Her jewelry is absolutely stunning and I’m thrilled she’s sponsoring another giveaway on Katie Crafts! Check out her interview below, spy some of her other works and enter to win today!"
 featuredImage:
   src: "./featured.png"
-  alt: "Pearl Earrings Giveaway with Natalia Khon on Katie Crafts; http://www.katiecrafts.com"
+  alt: "Pearl Earrings Giveaway with Natalia Khon"
 categories:
   - slug: "hodgepodge"
     name: "Hodgepodge"
@@ -63,7 +63,7 @@ What is your favorite part of the holiday season?
 
 _I love the spirit of Christmas everywhere. I love the Christmas music and songs, and all the decorations and preparing surprises and looking for the best gifts ever for everybody. I love the Christmas trees. I am happy that we start the holiday preparations long before the actual day of Christmas 🙂 I wish everybody a Merry Christmas and good luck in the giveaway!_
 
-![Pearl Earrings Giveaway with Natalia Khon on Katie Crafts; http://www.katiecrafts.com](./il-570xn-592516651-m06k.jpg)
+![Pearl Earrings Giveaway with Natalia Khon](./il-570xn-592516651-m06k.jpg)
 
 photo from Natalia Khon
 

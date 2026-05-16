@@ -14,6 +14,6 @@ tags:
     name: "sunday"
 ---
 
-![A Sunday well spent brings a week of content. http://www.katiecrafts.com](./sunday-well-spent.png)
+![A Sunday well spent brings a week of content.](./sunday-well-spent.png)
 
 _A Sunday well spent brings a week of content._

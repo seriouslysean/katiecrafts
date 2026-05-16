@@ -46,8 +46,6 @@ What fun! Artist “Hombre McSteez” takes some transparent cels, a marker and 
 
 for more fun!
 
-
-
 ## What I’m Reading: Reading Rainbow Kickstarter
 
 I really don’t back things on Kickstarter too often. Either I find the project to be totally ridiculous and absolutely not worth the money it’s asking for at ALL, or I simply can’t afford to. That being said, this week I backed a project by LeVar Burton and Reading Rainbow called
@@ -56,17 +54,17 @@ I really don’t back things on Kickstarter too often. Either I find the project
 
 I wasn’t the only one who felt it was worthy- it hit it’s goal of one million dollars just 11 hours in to posting! Just a couple of days later it has over 70,000 backers and has made over 3 million dollars. There are still 30 days left to go- let’s hope it breaks all Kickstarter records over the next month! Here’s why you should support this very important project, too!
 
-## ![Sunday Funday: Issue 15 on Katie Crafts; http://www.katiecrafts.com](./6b99fbfe3d0640614d23dc9b804642b9-large.jpg)Place I Love: Tuscany
+## ![Sunday Funday: Issue 15](./6b99fbfe3d0640614d23dc9b804642b9-large.jpg)Place I Love: Tuscany
 
 How can anyone say anything bad about somewhere so damn gorgeous!? We stayed in San Gimignano for a few days during our honeymoon, in a farmhouse smack in the middle of a vineyard. The views were just unreal- it was like looking at a postcard. That’s why this week Tuscany is my place I love!
 
-## ![Sunday Funday: Issue 15 on Katie Crafts; http://www.katiecrafts.com](./vineyards.jpg)
+## ![Sunday Funday: Issue 15](./vineyards.jpg)
 
 ## Something Delicious: Reese’s Pieces!
 
 Sometimes I don’t want something complicated. Sometimes, I just want a handful of Reese’s Pieces. Frozen, of course!
 
-![Sunday Funday: Issue 15 on Katie Crafts; http://www.katiecrafts.com](./img-3540-e1401318857625.jpg)
+![Sunday Funday: Issue 15](./img-3540-e1401318857625.jpg)
 
 ## Project That Inspires: Kindle Cover
 
@@ -76,4 +74,4 @@ Husband got himself a Kindle for his birthday, so I’m busy figuring out what f
 
 . I’ll obviously eliminate the ruffle for HIS, but will keep it for the one I make my sister! I’m really looking forward to taking a swing at making these. I hope they come out as well as the ones in the tutorial!
 
-[![Sunday Funday: Issue 15 on Katie Crafts; http://www.katiecrafts.com](./dscn4442.jpg)](http://justanotherhangup.blogspot.com/2012/05/ruffled-kindle-case-tutorial.html)
+[![Sunday Funday: Issue 15](./dscn4442.jpg)](http://justanotherhangup.blogspot.com/2012/05/ruffled-kindle-case-tutorial.html)

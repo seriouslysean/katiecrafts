@@ -4,7 +4,7 @@ publishedDate: "2015-07-15"
 excerpt: "We harvested our first little red tomato of the season! After the very hungry caterpillar ate a large portion of our tomato plant last week, we were unsure anything was going to survive on it, but this little cherry tomato proved us wrong."
 featuredImage:
   src: "./featured.jpg"
-  alt: "Wordless Wednesday: First Harvest on Katie Crafts; http://www.katiecrafts.com"
+  alt: "Wordless Wednesday: First Harvest"
 categories:
   - slug: "hodgepodge"
     name: "Hodgepodge"

@@ -4,7 +4,7 @@ publishedDate: "2014-04-02"
 excerpt: "Featured Etsy Shop: AM/PM Home Decor Hello, Wednesday! I’m finding Wednesdays to be my favorite day of the week lately, because it means I get to feature an awesome new Etsy shop on my blog! Today’s featured shop is a couple from my city, Philadelphia. They are Annemarie and Paul, and their shop AM/PM […]"
 featuredImage:
   src: "./featured.png"
-  alt: "Featured Etsy Shop: AM/PM Home Decor on Katie Crafts/ http://www.katiecrafts.com"
+  alt: "Featured Etsy Shop: AM/PM Home Decor on Katie Crafts/"
 categories:
   - slug: "hodgepodge"
     name: "Hodgepodge"
@@ -49,7 +49,7 @@ After being there for a couple months I (Paul) was trolling
 
 Now we’ve got a great program down where I sit in my office and make stuff while Annemarie stares at me wondering why I’m not working harder and/or faster.
 
-## [![Featured Etsy Shop: AM/PM Home Decor on Katie Crafts/ http://www.katiecrafts.com](./snoop-clock.jpg)](https://www.etsy.com/listing/182828299/snoop-dogg-drop-it-like-its-hot-12?ref=shop_home_active_10)
+## [![Featured Etsy Shop: AM/PM Home Decor on Katie Crafts/](./snoop-clock.jpg)](https://www.etsy.com/listing/182828299/snoop-dogg-drop-it-like-its-hot-12?ref=shop_home_active_10)
 
 ## What do you love about your craft?
 
@@ -59,7 +59,7 @@ For me, its taking something that has maybe outlived its life, a CD, or an old c
 
 It was probably the Police Synchronicity clock. I saw a lot of CD clocks online, but none of them incorporated the jewel case. And I took a shot at drilling back through the tray as a way of fixing the clock mechanism, and it worked out pretty well. Doing it that way let me present the whole album. Plus, its self standing, and I think its just a cooler way of presenting the whole thing.
 
-[![Featured Etsy Shop: AM/PM Home Decor on Katie Crafts/ http://www.katiecrafts.com](./beatles-clock.jpg)](https://www.etsy.com/listing/182824326/the-beatles-please-please-me-cd-desk?ref=shop_home_active_3)
+[![Featured Etsy Shop: AM/PM Home Decor on Katie Crafts/](./beatles-clock.jpg)](https://www.etsy.com/listing/182824326/the-beatles-please-please-me-cd-desk?ref=shop_home_active_3)
 
 ## Where do you find your creative inspiration?
 
@@ -75,13 +75,13 @@ I forget how Etsy ended up on my radar, but as a seller you have two options, ei
 
 For what we do, and where we are as new sellers with no name recognition, it makes way more sense to operate as part of a marketplace full of potential buyers who are already interested in purchasing products like what Annemarie and I have. If we just started a website and tried to sell our stuff, we’d probably still be waiting for our first sale, and would be way over our listing fees in marketing just trying to get traffic.
 
-[![Featured Etsy Shop: AM/PM Home Decor on Katie Crafts/ http://www.katiecrafts.com](./skulduggery-wood-bracelet.jpg)](https://www.etsy.com/listing/183800702/skulduggery-wood-bead-bracelet?ref=listing-shop-header-4)
+[![Featured Etsy Shop: AM/PM Home Decor on Katie Crafts/](./skulduggery-wood-bracelet.jpg)](https://www.etsy.com/listing/183800702/skulduggery-wood-bead-bracelet?ref=listing-shop-header-4)
 
 ## Any advice for others who want to start their own Etsy shop, or who are looking to fulfill their passion for crafting?
 
 Don’t be afraid of new ideas. If you can make one thing, you can make anything.
 
-[![Featured Etsy Shop: AM/PM Home Decor on Katie Crafts/ http://www.katiecrafts.com](./x-men-comic-coasters.jpg)](https://www.etsy.com/listing/182825340/x-men-comic-book-coaster-set?ref=shop_home_active_6)
+[![Featured Etsy Shop: AM/PM Home Decor on Katie Crafts/](./x-men-comic-coasters.jpg)](https://www.etsy.com/listing/182825340/x-men-comic-book-coaster-set?ref=shop_home_active_6)
 
 Don’t forget to stop by
 

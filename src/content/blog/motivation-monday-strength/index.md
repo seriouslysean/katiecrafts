@@ -4,7 +4,7 @@ publishedDate: "2015-06-15"
 excerpt: "Motivation Monday: Strength Sometimes, things get a little rough and you have trouble remembering how strong you are. Today’s quote is for anyone who is being courageous in the face of tough times."
 featuredImage:
   src: "./featured.png"
-  alt: "Motivation Monday: Strength on Katie Crafts; http://www.katiecrafts.com"
+  alt: "Motivation Monday: Strength"
 categories:
   - slug: "hodgepodge"
     name: "Hodgepodge"

@@ -4,7 +4,7 @@ publishedDate: "2015-12-12"
 excerpt: "On the twelfth day of Christmas, Katie Crafts gave to me… An origami meets home decor DIY even your toddler could do! Turn your napkins into adorable Christmas trees and wow your guests at Christmas dinner! It only takes a minute and comes out SO CUTE! Learn how to fold your napkin into a Christmas Tree below."
 featuredImage:
   src: "./featured.png"
-  alt: "How to Fold Your Napkin into a Christmas Tree on Katie Crafts; http://www.katiecrafts.com"
+  alt: "How to Fold Your Napkin into a Christmas Tree"
 categories:
   - slug: "crafts"
     name: "Crafts"

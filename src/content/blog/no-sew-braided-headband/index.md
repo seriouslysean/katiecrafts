@@ -68,11 +68,11 @@ If you’re wondering what t-shirt yarn is, it is quite literally yarn made of t
 
 ## **Instructions:**
 
-![No Sew Braided Headband by Katie Crafts; http://www.katiecrafts.com](./img-1324.jpg)
+![No Sew Braided Headband by](./img-1324.jpg)
 
 - Pick your three colors, and be sure to have the same amount of length for each strip.
 
-![No Sew Braided Headband by Katie Crafts; http://www.katiecrafts.com](./img-1338.jpg)
+![No Sew Braided Headband by](./img-1338.jpg)
 
 - Knot all three together on the hair elastic. It will look gigantic and ugly at first, but just keep pulling it tightly to make it smaller (see the difference above?)
 
@@ -94,7 +94,7 @@ If you’re wondering what t-shirt yarn is, it is quite literally yarn made of t
 
 - Done! Now make more in every color you can imagine to match every outfit you own!
 
-![No Sew Braided Headband by Katie Crafts; http://www.katiecrafts.com](./img-1329.jpg)
+![No Sew Braided Headband by](./img-1329.jpg)
 
 ## Tips:
 
@@ -116,6 +116,6 @@ If you’re wondering what t-shirt yarn is, it is quite literally yarn made of t
 
 ![](./img-1327.jpg)
 
-![No Sew Braided Headband by Katie Crafts; http://www.katiecrafts.com](./img-1320.jpg)
+![No Sew Braided Headband by](./img-1320.jpg)
 
 These t-shirt yarn no sew braided headbands are such a great way to up-cycle your old t-shirts. Also, these braids can be used in jewelry, belts and more once you get the hang of them. I’ll be sure to post again when I try them in another project! If you have any questions, just ask below!

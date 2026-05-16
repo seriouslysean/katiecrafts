@@ -4,7 +4,7 @@ publishedDate: "2016-03-30"
 excerpt: "The Husband and I spent Easter Sunday at his grandparents’ house in New Jersey. This really lovely bush/tree/something-or-other outside their home was in full bloom. It had the prettiest pink flowers ever, so I had to take a few shots of it!"
 featuredImage:
   src: "./featured.jpg"
-  alt: "Wordless Wednesday: Blooms on Katie Crafts; http://www.katiecrafts.com"
+  alt: "Wordless Wednesday: Blooms"
 categories:
   - slug: "beauty"
     name: "Beauty"

@@ -4,7 +4,7 @@ publishedDate: "2015-01-14"
 excerpt: "Wordless Wednesday: Rose Painting A week ago today was my mom’s birthday. She would have turned 62. To celebrate her birthday, I wanted to do something that she would have loved, so Husband and I went to the Philadelphia Museum of Art for the afternoon. I get my craftiness and love of art from my […]"
 featuredImage:
   src: "./featured.png"
-  alt: "Wordless Wednesday: Rose Painting on Katie Crafts; http://www.katiecrafts.com"
+  alt: "Wordless Wednesday: Rose Painting"
 categories:
   - slug: "hodgepodge"
     name: "Hodgepodge"

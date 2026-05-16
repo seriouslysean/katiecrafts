@@ -4,7 +4,7 @@ publishedDate: "2014-04-01"
 excerpt: "Today’s Playlist: Spring Fever You probably don’t know this about me, but I’m quite the mixed-tape-master. I love a good playlist and this one is a super fun and upbeat one. The sun is shining, the weather is lovely, and I’m going to see one of my favorite bands tonight so I’m in a great […]"
 featuredImage:
   src: "./featured.png"
-  alt: "Today's Playlist: Spring Fever on Katie Crafts; http://www.katiecrafts.com"
+  alt: "Today's Playlist: Spring Fever"
 categories:
   - slug: "hodgepodge"
     name: "Hodgepodge"

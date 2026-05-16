@@ -18,6 +18,6 @@ tags:
     name: "throwback thursday"
 ---
 
-![Throwback Thursday: Mabel the Christmas Tree on Katie Crafts; http://www.katiecrafts.com](./mabel-christmas.jpg)
+![Throwback Thursday: Mabel the Christmas Tree](./mabel-christmas.jpg)
 
 Here’s a cute little throwback to Mabel dressed as a Christmas tree! Mew mew mew!

@@ -4,7 +4,7 @@ publishedDate: "2015-04-27"
 excerpt: "Quick Spring Nail Art + Giveaway! Even though the Winter is over, my cuticles are still mega dry. I have a bad habit of picking at them too, which makes things even worse. I was excited to get several fun new nail polishes as well as an awesome cuticle pen with my recent e.l.f. haul. […]"
 featuredImage:
   src: "./featured.jpg"
-  alt: "Quick Spring Nail Art + Giveaway! on Katie Crafts; http://www.katiecrafts.com"
+  alt: "Quick Spring Nail Art + Giveaway!"
 categories:
   - slug: "beauty"
     name: "Beauty"
@@ -65,21 +65,21 @@ This nail art design is super fast and easy, making it great for the Spring or a
 
 * Next, take the purple polish and make four little petals on top of the green leaves to create a flower. Let dry.
 
-![Quick Spring Nail Art + Giveaway! on Katie Crafts; https://www.katiecrafts.com](./img-1374.jpg)
+![Quick Spring Nail Art + Giveaway!](./img-1374.jpg)
 
-![Quick Spring Nail Art + Giveaway! on Katie Crafts; https://www.katiecrafts.com](./img-1375.jpg)
+![Quick Spring Nail Art + Giveaway!](./img-1375.jpg)
 
 - Make four more little petals with the raspberry polish to create a new flower, layered on top of the others.
 
-![Quick Spring Nail Art + Giveaway! on Katie Crafts; https://www.katiecrafts.com](./img-1376.jpg)
+![Quick Spring Nail Art + Giveaway!](./img-1376.jpg)
 
-![Quick Spring Nail Art + Giveaway! on Katie Crafts; https://www.katiecrafts.com](./img-1377.jpg)
+![Quick Spring Nail Art + Giveaway!](./img-1377.jpg)
 
 - Dip the small end of your dotting tool or toothpick in to black nail polish and make tiny centers to your flowers.
 
-![Quick Spring Nail Art + Giveaway! on Katie Crafts; https://www.katiecrafts.com](./img-1379.jpg)
+![Quick Spring Nail Art + Giveaway!](./img-1379.jpg)
 
-![Quick Spring Nail Art + Giveaway! on Katie Crafts; https://www.katiecrafts.com](./img-1380.jpg)
+![Quick Spring Nail Art + Giveaway!](./img-1380.jpg)
 
 - Seal in look with clear top coat and let dry!
 
@@ -91,17 +91,15 @@ I used the
 
 to help fix my crying cuticles, and it worked so great! It goes on like an oil, but is non-greasy and dries very quickly. Use it a few days in a row to heal dry sad cuticles!
 
-![Quick Spring Nail Art + Giveaway! on Katie Crafts; http://www.katiecrafts.com](./img-1388.jpg)
+![Quick Spring Nail Art + Giveaway!](./img-1388.jpg)
 
 The formula in the felt-tip pen contains Vitamins E, A C, Pro-Vitamin B5 and Aloe to help nourish your skin. It also has Avocado and Almond oils to condition the cuticles and make them softer. I love this pen so much, and will be sure to buy more as soon as this one runs out! Just don’t push down on the tip too hard, as it will get stuck inside the pen. Use it gently and you’ll be good to go!
 
-![Quick Spring Nail Art + Giveaway! on Katie Crafts; https://www.katiecrafts.com](./img-1391.jpg)
+![Quick Spring Nail Art + Giveaway!](./img-1391.jpg)
 
-![Quick Spring Nail Art + Giveaway! on Katie Crafts; https://www.katiecrafts.com](./img-1396.jpg)
+![Quick Spring Nail Art + Giveaway!](./img-1396.jpg)
 
 All right, on to the giveaway!
-
-
 
 If you’d like a chance to win your own
 

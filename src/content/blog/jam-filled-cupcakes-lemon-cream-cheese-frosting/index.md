@@ -4,7 +4,7 @@ publishedDate: "2014-05-26"
 excerpt: "Recipe: Jam Filled Cupcakes with Lemon Cream Cheese Frosting Today is a double whammy! It’s not only Memorial Day, but it’s my Dad’s birthday too! In honor of such, I’m disclosing my favoritestestest go-to cupcake recipe- you are so lucky! Get ready to bake (and drool!)"
 featuredImage:
   src: "./featured.jpg"
-  alt: "Jam Filled Cupcakes with Lemon Cream Cheese Frosting Recipe on Katie Crafts; http://www.katiecrafts.com"
+  alt: "Jam Filled Cupcakes with Lemon Cream Cheese Frosting Recipe"
 categories:
   - slug: "cooks"
     name: "Cooks"
@@ -139,7 +139,7 @@ Frosting:
 
 Enjoy these little guys many times a year, using different seasonal fruits! Try not to pop one million in your mouth at once. It’s pretty hard not to, though! Katie Crafts is not liable for the 10 pounds you may gain from doing so.
 
-![Jam Filled Cupcakes with Lemon Cream Cheese Frosting Recipe on Katie Crafts; http://www.katiecrafts.com](./6092-547492878128-40702253-32171360-3229328-n.jpg)
+![Jam Filled Cupcakes with Lemon Cream Cheese Frosting Recipe](./6092-547492878128-40702253-32171360-3229328-n.jpg)
 
 ## Tips:
 

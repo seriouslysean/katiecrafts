@@ -4,7 +4,7 @@ publishedDate: "2015-06-03"
 excerpt: "Wordless Wednesday: Pink Tulips I was inspired by Kristin’s announcement that she’d be featuring weekly Flower Friday posts on her blog Aquariann, that I just had to dig through old photos and find a good flower to share!"
 featuredImage:
   src: "./featured.png"
-  alt: "Wordless Wednesday: Pink Tulips on Katie Crafts; http://www.katiecrafts.com"
+  alt: "Wordless Wednesday: Pink Tulips"
 categories:
   - slug: "hodgepodge"
     name: "Hodgepodge"

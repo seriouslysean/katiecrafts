@@ -4,7 +4,7 @@ publishedDate: "2015-11-06"
 excerpt: "Katie Crafts celebrated the holidays last year with the 12 Days of Christmas: twelve days straight of giveaways, free patterns, holiday themed nail art, recipes and more! Everything you need to make a Merry Christmas for those you love. 🙂 Want to participate?"
 featuredImage:
   src: "./featured.png"
-  alt: "12 Days of Christmas 2015 on Katie Crafts; http://www.katiecrafts.com"
+  alt: "12 Days of Christmas 2015"
 categories:
   - slug: "crafts"
     name: "Crafts"

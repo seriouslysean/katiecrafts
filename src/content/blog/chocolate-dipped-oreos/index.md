@@ -72,27 +72,27 @@ I couldn’t wait to get the Husband out of the house to make these! Except he j
 
 - Add the corn syrup and stir in til nice and smooth. If you don’t have any corn syrup, don’t worry about it. It won’t really change the flavor- it just makes it shiny!
 
-![Chocolate Dipped Oreos by Katie Crafts; http://www.katiecrafts.com/](./img-0919.jpg)
+![Chocolate Dipped Oreos by](./img-0919.jpg)
 
 - Now you’ll dip your Oreos! Just pop ’em in the chocolate, swirl, and place them on your wax paper. You need to be kind of fast while doing them, as the chocolate begins to harden quite quickly.
 
-![Chocolate Dipped Oreos by Katie Crafts; http://www.katiecrafts.com/](./img-0921.jpg)
+![Chocolate Dipped Oreos by](./img-0921.jpg)
 
 - After you’ve dipped them all, it’s time to decorate! I used glitter pink sugar crystals, peppermint flavored sugar crystals, and little red hearts!
 
 - Place your Oreos in the fridge to cool and harden.
 
-![Chocolate Dipped Oreos by Katie Crafts; http://www.katiecrafts.com/](./img-0933.jpg)
+![Chocolate Dipped Oreos by](./img-0933.jpg)
 
 - That’s it! Enjoy your delicious, if a bit messy, cookies!
 
-![Chocolate Dipped Oreos by Katie Crafts; http://www.katiecrafts.com/](./img-0940.jpg)
+![Chocolate Dipped Oreos by](./img-0940.jpg)
 
 ## **Tips:**
 
 - You can swap out the regular chocolate for candy melts in different colors to make your Oreos even more festive!
 
-![Chocolate Dipped Oreos by Katie Crafts; http://www.katiecrafts.com/](./img-0934.jpg)
+![Chocolate Dipped Oreos by](./img-0934.jpg)
 
 ## **Rating:**
 

@@ -4,7 +4,7 @@ publishedDate: "2014-06-24"
 excerpt: "Grad Gifts: My Etsy Picks Now that it’s Summer and school is out, there is a great chance you have a Graduation party (or two!) to attend! Whether it be a high school grad or college grad, girl or boy, best friend or relative, there is something here for everyone!"
 featuredImage:
   src: "./featured.jpg"
-  alt: "Grad Gifts: My Etsy Picks on Katie Crafts; http://www.katiecrafts.com"
+  alt: "Grad Gifts: My Etsy Picks"
 categories:
   - slug: "crafts"
     name: "Crafts"

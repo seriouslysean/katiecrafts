@@ -4,7 +4,7 @@ publishedDate: "2015-05-26"
 excerpt: "Recipe: Mom’s Chicken Cutlets One of the earliest things I remember helping my mom cook was her chicken cutlets. She’d lay out three bowls (one for flour, one for eggs, and one for breadcrumbs) and let me dip the chicken in to each, carefully coating it on each side. It made my fingers disgusting, but I […]"
 featuredImage:
   src: "./featured.png"
-  alt: "Mom's Chicken Cutlets, recipe by Katie Crafts; http://www.katiecrafts.com"
+  alt: "Mom's Chicken Cutlets, recipe by"
 categories:
   - slug: "cooks"
     name: "Cooks"

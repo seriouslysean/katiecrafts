@@ -4,7 +4,7 @@ publishedDate: "2016-02-29"
 excerpt: "A few years ago, Husband bought me a stamping kit to further my nail art obsession. I tried it a few times and did not have much luck. Next week we are going to the 2016 Philadelphia Flower Show (my favorite day of the year!) and I want to have some super cute floral stamped […]"
 featuredImage:
   src: "./featured.jpg"
-  alt: "Nail Art Stamping on Katie Crafts; http://www.katiecrafts.com"
+  alt: "Nail Art Stamping"
 categories:
   - slug: "beauty"
     name: "Beauty"
@@ -51,27 +51,27 @@ I’m glad I did because I could clearly see which colors worked together and wh
 
 - Pick your design and place disc in holder.
 
-![Nail Art Stamping on Katie Crafts; https://www.katiecrafts.com](./img-0936.jpg)
+![Nail Art Stamping](./img-0936.jpg)
 
-![Nail Art Stamping on Katie Crafts; https://www.katiecrafts.com](./img-0937.jpg)
+![Nail Art Stamping](./img-0937.jpg)
 
 - Dab the nail polish shade of your choosing on top of the design and immediately scrape away the excess with your tool/business card. Don’t scrape TOO hard, or you’ll remove some of the polish from inside the design.
 
 - Press with the stamper tool in a rocking (side to side) motion, never lifting the stamper up. Be sure to apply even pressure. When you think you’ve captured the whole design, lift.
 
-![Nail Art Stamping on Katie Crafts; https://www.katiecrafts.com](./img-0938.jpg)
+![Nail Art Stamping](./img-0938.jpg)
 
-![Nail Art Stamping on Katie Crafts; https://www.katiecrafts.com](./img-0939.jpg)
+![Nail Art Stamping](./img-0939.jpg)
 
 - The stamp should have lifted from the disc and now be on your stamper, staring at you! Pick which nail you want to transfer it to and use the same rocking motion to transfer it on to your nail.
 
-![Nail Art Stamping on Katie Crafts; https://www.katiecrafts.com](./img-0940.jpg)
+![Nail Art Stamping](./img-0940.jpg)
 
-![Nail Art Stamping on Katie Crafts; https://www.katiecrafts.com](./img-0943.jpg)
+![Nail Art Stamping](./img-0943.jpg)
 
 - Repeat steps with however many stamp designs and colors you like! After a few uses, the design with become gummy and you won’t get a clean stamp out of it. You can clean it out with nail polish remover and a q-tip if you want to continue using that design- but remember, you run the risk of nail polish remover touching your nails and ruining what you’ve already done! This is why I had several designs in different colors picked out to combine together.
 
-![Nail Art Stamping on Katie Crafts; https://www.katiecrafts.com](./img-0945.jpg)
+![Nail Art Stamping](./img-0945.jpg)
 
 - When dry, add a clear top coat to lock in look. Clean up polish from skin and you’re all done!
 

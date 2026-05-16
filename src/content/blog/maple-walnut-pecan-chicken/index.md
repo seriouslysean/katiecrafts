@@ -4,7 +4,7 @@ publishedDate: "2014-04-09"
 excerpt: "Recipe: Maple Walnut Pecan Chicken I love a good baked chicken recipe- especially one that only takes 30 minutes to make! My friend (hey Hoffff!) made it for me a few years ago and I loved it. The following week I made it for my husband and he loved it. Then I made it for […]"
 featuredImage:
   src: "./featured.png"
-  alt: "Maple Pecan Walnut Chicken Recipe by Katie Crafts; http://www.katiecrafts.com"
+  alt: "Maple Pecan Walnut Chicken Recipe by"
 categories:
   - slug: "cooks"
     name: "Cooks"
@@ -73,47 +73,47 @@ Ew. Raw chicken is ugly.
 
 - Remove plastic wrap and season chicken how you’d normally season cutlets. Set aside.
 
-![Maple Pecan Walnut Chicken Recipe by Katie Crafts; https://www.katiecrafts.com](./img-2365.jpg)
+![Maple Pecan Walnut Chicken Recipe by](./img-2365.jpg)
 
-![Maple Pecan Walnut Chicken Recipe by Katie Crafts; https://www.katiecrafts.com](./img-2367.jpg)
+![Maple Pecan Walnut Chicken Recipe by](./img-2367.jpg)
 
 - In BOWL (not plate or you’ll make a mess!), smash your nuts! I used a muddler because it’s easy (and fun) and I didn’t feel like chopping the already small pieces even smaller. You can take the easier route and throw them in a food processor, but I was lazy and didn’t want another thing to wash. Plus, as I said, it was fun to smash them!
 
-![Maple Pecan Walnut Chicken Recipe by Katie Crafts; https://www.katiecrafts.com](./img-2368.jpg)
+![Maple Pecan Walnut Chicken Recipe by](./img-2368.jpg)
 
-![Maple Pecan Walnut Chicken Recipe by Katie Crafts; https://www.katiecrafts.com](./img-2369.jpg)
+![Maple Pecan Walnut Chicken Recipe by](./img-2369.jpg)
 
 - Measure out your panko breadcrumbs and add them to the nut bowl. Mix together.
 
-![Maple Pecan Walnut Chicken Recipe by Katie Crafts; https://www.katiecrafts.com](./img-2370.jpg)
+![Maple Pecan Walnut Chicken Recipe by](./img-2370.jpg)
 
-![Maple Pecan Walnut Chicken Recipe by Katie Crafts; https://www.katiecrafts.com](./img-2373.jpg)
+![Maple Pecan Walnut Chicken Recipe by](./img-2373.jpg)
 
 - On plate or in a shallow dish, mix together maple syrup and mayonnaise. It will look gross, even after totally mixed. You may even be thinking as you’re mixing it “This is really disgusting- why am I making this recipe again!?” This is normal. Push through. I promise, it’s delicious! And the mayo coating on the chicken makes it mega super moist and plump!
 
-![Maple Pecan Walnut Chicken Recipe by Katie Crafts; https://www.katiecrafts.com](./img-2371.jpg)
+![Maple Pecan Walnut Chicken Recipe by](./img-2371.jpg)
 
-![Maple Pecan Walnut Chicken Recipe by Katie Crafts; https://www.katiecrafts.com](./img-2374.jpg)
+![Maple Pecan Walnut Chicken Recipe by](./img-2374.jpg)
 
 - Dip chicken into syrup mixture, then into panko mixture. Place on baking sheet, on parchment paper.
 
 - Bake at 400°F for 15 minutes.
 
-![Maple Pecan Walnut Chicken Recipe by Katie Crafts; http://www.katiecrafts.com](./maple-chicken-baked.png)
+![Maple Pecan Walnut Chicken Recipe by](./maple-chicken-baked.png)
 
 - When the 15 minutes are up, add a small drizzle (don’t drench them!) of syrup to the top of each chicken strip.\*\*
 
 > \*\*I do this when I’m frying up my regular chicken cutlets too, only I use honey instead of syrup! I learned it from my Dad- and they come out a-mazing!
 
-![Maple Pecan Walnut Chicken Recipe by Katie Crafts; http://www.katiecrafts.com](./maple-chicken-drizzle.png)
+![Maple Pecan Walnut Chicken Recipe by](./maple-chicken-drizzle.png)
 
 - Bake an additional 5 minutes or until golden brown/chicken is cooked. Be sure to cut one open and make sure it’s cooked all the way through- then marvel at how juicy it is!
 
-![Maple Pecan Walnut Chicken Recipe by Katie Crafts; http://www.katiecrafts.com](./img-2379.jpg)
+![Maple Pecan Walnut Chicken Recipe by](./img-2379.jpg)
 
 Pair with your fave starch (we went with mashed potatoes) and veggie (we went with corn) for a really great meal that everyone will love! Buon appetito!
 
-![Maple Pecan Walnut Chicken Recipe by Katie Crafts; http://www.katiecrafts.com](./img-2380.jpg)
+![Maple Pecan Walnut Chicken Recipe by](./img-2380.jpg)
 
 > »
 >

@@ -16,6 +16,6 @@ tags:
     name: "sleepy kitties"
 ---
 
-![Silly Sleepy Kitties on Katie Crafts; http://www.katiecrafts.com](./lucky-mabel-silly-sleepy.jpg)
+![Silly Sleepy Kitties](./lucky-mabel-silly-sleepy.jpg)
 
 My cats are the silliest when they are sleepy. Mabel will rest her chin anywhere and pretend it’s a pillow (arms of chairs, my foot) and Lucky lets me squish his face all about while he purrs like a crazy kitty. Such lovers. <3

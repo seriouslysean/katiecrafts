@@ -4,7 +4,7 @@ publishedDate: "2015-09-09"
 excerpt: "Eustoma! I have tracked down the name of the gorgeous violet flowers in Longwood Gardens and they are called Eustoma. What a lovely Wordless Wednesday treat!"
 featuredImage:
   src: "./featured.jpg"
-  alt: "Wordless Wednesday: Eustoma on Katie Crafts; http://www.katiecrafts.com"
+  alt: "Wordless Wednesday: Eustoma"
 categories:
   - slug: "hodgepodge"
     name: "Hodgepodge"

@@ -4,7 +4,7 @@ publishedDate: "2014-05-30"
 excerpt: "Recipe: Orange Chocolate Cupcakes Well here it is. The last birthday I have to celebrate in May- and it happens to be my Husband’s! (Happy birthday, honey!) While I didn’t bake him cupcakes this year (he opted for salted chocolate pots with caramel sauce instead!), I asked him to pick out his favorite recipe from […]"
 featuredImage:
   src: "./featured.jpg"
-  alt: "Orange Chocolate Cupcake Recipe by Katie Crafts; http://www.katiecrafts.com"
+  alt: "Orange Chocolate Cupcake Recipe by"
 categories:
   - slug: "cooks"
     name: "Cooks"

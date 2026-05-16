@@ -4,7 +4,7 @@ publishedDate: "2015-03-20"
 excerpt: "Project: 30-Minute Arm Knit Infinity Scarf I have recently learned to…. KNIT! It’s very exciting for me, because I’ve been a self-taught crocheter for about ten years but never so much as picked up knitting needles. Even though every Thursday evening for the last 7-8 months, I’ve gone to a Knitting Group. I know. How […]"
 featuredImage:
   src: "./featured.png"
-  alt: "30-Minute Arm Knit Infinity Scarf by Katie Crafts; http://www.katiecrafts.com"
+  alt: "30-Minute Arm Knit Infinity Scarf by"
 categories:
   - slug: "crafts"
     name: "Crafts"

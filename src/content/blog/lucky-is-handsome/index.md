@@ -14,6 +14,6 @@ tags:
     name: "lucky is handsome"
 ---
 
-![Lucky is Handsome on Katie Crafts; http://www.katiecrafts.com](./img-3311.jpg)
+![Lucky is Handsome](./img-3311.jpg)
 
 Such a handsome fellow.

@@ -4,7 +4,7 @@ publishedDate: "2014-04-19"
 excerpt: "Yesterday we celebrated Good Friday. Sunday we celebrate Easter. Today we celebrate my oldest friend: it’s her wedding day! While you are curled up at home reading this awesome post about awesome Etsy shops and their awesome Easter items, I’ve already got my hair done up all fancy and am currently toasting the bride in […]"
 featuredImage:
   src: "./featured.png"
-  alt: "My Fave Etsy Easter Picks! by Katie Crafts; http://www.katiecrafts.com"
+  alt: "My Fave Etsy Easter Picks! by"
 categories:
   - slug: "crafts"
     name: "Crafts"

@@ -4,7 +4,7 @@ publishedDate: "2015-04-15"
 excerpt: "Wordless Wednesday: Crocus Vernus It FINALLY feels like Spring outside!!! I feel like it’s been forever. This week, Husband and I actually walked to the coffee shop without coats. It was glorious! Tulips are beginning to bloom all over and I can’t wait to see more flowers begin to bud."
 featuredImage:
   src: "./featured.jpg"
-  alt: "Wordless Wednesday: Crocus Vernus on Katie Crafts; http://www.katiecrafts.com"
+  alt: "Wordless Wednesday: Crocus Vernus"
 categories:
   - slug: "hodgepodge"
     name: "Hodgepodge"

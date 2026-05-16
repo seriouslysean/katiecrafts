@@ -4,7 +4,7 @@ publishedDate: "2015-05-27"
 excerpt: "Wordless Wednesday: May Birthdays With Dad’s birthday this week, my sister’s last week and my Husband’s this weekend, you can imagine how busy May is. Add in Mother’s Day, Memorial Day, and other random obligations like baby showers and weddings, May is the busiest month for me. That’s why I had to celebrate everyone’s birthdays […]"
 featuredImage:
   src: "./featured.jpg"
-  alt: "Wordless Wednesday: May Birthdays on Katie Crafts; http://www.katiecrafts.com"
+  alt: "Wordless Wednesday: May Birthdays"
 categories:
   - slug: "hodgepodge"
     name: "Hodgepodge"
@@ -35,7 +35,7 @@ I set up hats and presents for each and I got it all done in about 5 minutes. Ho
 
 I also made brownies the next day and made everyone put their hats back on so I could take pics of them blowing out their bday candles! Hopefully all their wishes come true. 🙂
 
-![Wordless Wednesday: May Birthdays on Katie Crafts; http://www.katiecrafts.com](./img-1810.jpg)
+![Wordless Wednesday: May Birthdays](./img-1810.jpg)
 
 How silly is my husband, wearing ALL the hats?
 

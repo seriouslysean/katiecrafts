@@ -18,6 +18,6 @@ tags:
     name: "sean"
 ---
 
-![Sean and Mabel on Katie Crafts; http://www.katiecrafts.com](./img-3498.jpg)
+![Sean and Mabel](./img-3498.jpg)
 
 She acts like she hates being loved… but she is purring like crazy.

@@ -14,6 +14,6 @@ tags:
     name: "silly mabel"
 ---
 
-![Silly Mabel on Katie Crafts; http://www.katiecrafts.com](./img-3310.jpg)
+![Silly Mabel](./img-3310.jpg)
 
 Seriously no idea what she is doing here. What a silly cat!

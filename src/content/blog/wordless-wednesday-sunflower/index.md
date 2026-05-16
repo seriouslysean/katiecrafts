@@ -4,7 +4,7 @@ publishedDate: "2015-09-02"
 excerpt: "Ah, September! Sunflowers always make me think of the Fall, although I guess technically they are a Summer flower! I’ve taken care of my sunnies since they were just seeds so when they finally bloomed two weeks ago I was was so excited. Of course, I’m glad I took this photo because they have already […]"
 featuredImage:
   src: "./featured.jpg"
-  alt: "Wordless Wednesday: Sunflower on Katie Crafts; http://www.katiecrafts.com"
+  alt: "Wordless Wednesday: Sunflower"
 categories:
   - slug: "hodgepodge"
     name: "Hodgepodge"

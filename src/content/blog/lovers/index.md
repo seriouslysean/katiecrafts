@@ -4,7 +4,7 @@ publishedDate: "2015-03-30"
 excerpt: "Mabel and her Papa, snuggled up watching TV on a lazy Sunday evening."
 featuredImage:
   src: "./featured.jpg"
-  alt: "So In Love on Katie Crafts; http://www.katiecrafts.com"
+  alt: "So In Love"
 categories:
   - slug: "cats"
     name: "Cats"

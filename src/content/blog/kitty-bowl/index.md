@@ -15,4 +15,4 @@ tags:
     name: "super bowl"
 ---
 
-![kitty bowl](./img-0605.jpg "Mabel loves the Kitty Bowl on Katie Crafts; http://www.katiecrafts.com/")
+![kitty bowl](./img-0605.jpg "Mabel loves the Kitty Bowl on Katie Crafts; ")

@@ -4,7 +4,7 @@ publishedDate: "2014-05-04"
 excerpt: "What a lovely weekend! The first we didn’t spend traveling all over the place (though it was still quite busy!) Once May hits in Philly, it’s officially festival season. Usually the festivals are spread out across the summer, but yesterday there happened to be at least 5 on the same day at the same time! […]"
 featuredImage:
   src: "./featured.jpg"
-  alt: "Sunday Funday: Issue 12 on Katie Crafts; http://www.katiecrafts.com"
+  alt: "Sunday Funday: Issue 12"
 categories:
   - slug: "hodgepodge"
     name: "Hodgepodge"
@@ -47,7 +47,7 @@ I’m currently devouring the newest e-book course, ‘Blog Life,’ from the ta
 
 ! My sketchbook is filled with their ‘homework’ and I’m taking it all in to try and get tips and tricks to make Katie Crafts the best it can be!
 
-![Sunday Funday: Issue 12 on Katie Crafts; http://www.katiecrafts.com](./screen-shot-2014-05-03-at-8-32-03-pm.png)
+![Sunday Funday: Issue 12](./screen-shot-2014-05-03-at-8-32-03-pm.png)
 
 ## Place I Love: Philadelphia in May!
 
@@ -61,7 +61,7 @@ and the giant Flea Market we always attend that wraps around the
 
 , but concessions had to be made since everything was being held at once!
 
-![Sunday Funday: Issue 12 on Katie Crafts; http://www.katiecrafts.com](./plazapalooza.jpg)
+![Sunday Funday: Issue 12](./plazapalooza.jpg)
 
 ## Something Delicious: Summer Fruit Salad
 
@@ -71,7 +71,7 @@ I made this
 
 last year for our annual Fourth of July picnic and it was soooooo good! We had a chocolate mint plant (that was a trooper til we went to Italy for two weeks, then it committed suicide) and I was researching recipes that used it when I came across this. I didn’t halve the grapes, and I added blueberries and it was great! The ‘dressing’ comprised of honey, lemon juice and mint really brought out all the flavors. It was very refreshing!
 
-![Sunday Funday: Issue 12 on Katie Crafts; http://www.katiecrafts.com](./img-7898.jpg)
+![Sunday Funday: Issue 12](./img-7898.jpg)
 
 ## Project That Inspires:
 
@@ -93,6 +93,6 @@ of Anthropologie-style tutorials there! The first one I think I’ll try is this
 
 ! Can’t wait!
 
-![Sunday Funday: Issue 12 on Katie Crafts; http://www.katiecrafts.com](./p1019858-640x480.jpg)
+![Sunday Funday: Issue 12](./p1019858-640x480.jpg)
 
 Next weekend will be even busier! Friday we are hitting up the Rittenhouse Park Craft Fair and then drinks in our friend’s backyard, followed by dinner! Saturday we are going to hit up every vendor at Art Star Craft Bazaar (yayay!!! I’ll definitely do a full post on this!) and Sunday is our friend’s wedding! Woo hoo! I’m getting tired just thinking about it all. But that’s okay, because a few short days after it, Husband and I will be on a plane with two of our friends heading to New Orleans for a relaxing long weekend! I guess that means my next two weeks straight are gonna be quite crazy. Hope yours are equally as amazing!

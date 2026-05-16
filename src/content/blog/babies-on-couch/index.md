@@ -4,7 +4,7 @@ publishedDate: "2014-09-09"
 excerpt: "When their beds are compromised due to packing/moving/boxes, they FINALLY snuggle on the couch."
 featuredImage:
   src: "./featured.png"
-  alt: "Babies On Couch on Katie Crafts; http://www.katiecrafts.com"
+  alt: "Babies On Couch"
 categories:
   - slug: "cats"
     name: "Cats"

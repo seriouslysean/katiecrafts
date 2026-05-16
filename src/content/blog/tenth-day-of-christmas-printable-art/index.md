@@ -4,7 +4,7 @@ publishedDate: "2014-12-10"
 excerpt: "Tenth Day of Christmas: Printable Art ♫ On the tenth day of Christmas, Katie Crafts gave to me- Words for Wednesday to print and frame! ♫ Today is a “12 Days of Christmas” and “Words for Wednesday” cross-over! Instead of just posting a quote I like, I am posting it in the form of a […]"
 featuredImage:
   src: "./featured.png"
-  alt: "Tenth Day of Christmas: Printable Art on Katie Crafts; http://www.katiecrafts.com"
+  alt: "Tenth Day of Christmas: Printable Art"
 categories:
   - slug: "crafts"
     name: "Crafts"
@@ -71,7 +71,7 @@ To finish it all up, I bought a plain black frame for it to go in that I think l
 
 If you would like to print this so you may frame and gift it yourself,
 
-[you can download it right here](/wp-content/uploads/2014/12/stevie-wonder-music.pdf)
+you can download it right here
 
 !
 

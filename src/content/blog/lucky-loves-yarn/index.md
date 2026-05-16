@@ -14,7 +14,7 @@ tags:
     name: "yarn"
 ---
 
-![Lucky Loves Yarn on Katie Crafts; http://www.katiecrafts.com](./img-3550.jpg)
+![Lucky Loves Yarn](./img-3550.jpg)
 
 Mabel helped pick the colors out the
 

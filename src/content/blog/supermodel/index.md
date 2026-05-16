@@ -15,4 +15,4 @@ tags:
     name: "supermodel"
 ---
 
-![supermodel](./img-0611.jpg "Supermodel Mabel on Katie Crafts; http://www.katiecrafts.com/")
+![supermodel](./img-0611.jpg "Supermodel Mabel on Katie Crafts; ")

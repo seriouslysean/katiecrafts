@@ -4,7 +4,7 @@ publishedDate: "2014-07-06"
 excerpt: "Sunday Funday: Issue 20 And it’s Sunday once more! This last week with Sister here has FLOWN by! If you haven’t had a chance to read her awesome posts this week for Sunday Funday: Issue 19 or S’mores 5 Ways, you definitely should! Hopefully I can persuade her to blog for Katie Crafts on the […]"
 featuredImage:
   src: "./featured.png"
-  alt: "Sunday Funday: Issue 20 on Katie Crafts; http://www.katiecrafts.com"
+  alt: "Sunday Funday: Issue 20"
 categories:
   - slug: "hodgepodge"
     name: "Hodgepodge"
@@ -67,7 +67,7 @@ but I love it so far, and I can’t wait til Liane’s newest book,
 
 , comes out at the end of the month!
 
-[![Sunday Funday: Issue 20 on Katie Crafts; http://www.katiecrafts.com](./screen-shot-2014-07-05-at-11-07-09-pm.png)](http://amzn.to/1pRe1jd)
+[![Sunday Funday: Issue 20](./screen-shot-2014-07-05-at-11-07-09-pm.png)](http://amzn.to/1pRe1jd)
 
 ## Place I Love: Reading Terminal
 
@@ -81,7 +81,7 @@ I really, really love
 
 the other day, so this is where we went – they’ve got something for everyone! 🙂
 
-![Sunday Funday: Issue 20 on Katie Crafts; http://www.katiecrafts.com](./reading-terminal.jpg)
+![Sunday Funday: Issue 20](./reading-terminal.jpg)
 
 ## Something Delicious: Chocolate Martini at Max Brenner
 
@@ -95,7 +95,7 @@ I really don’t need to explain this one, do I? It is chocolate. It is a martin
 
 (chocolate by the bald man!) does it again!
 
-![Sunday Funday: Issue 20 on Katie Crafts; http://www.katiecrafts.com](./max-brenner-martini.jpg)
+![Sunday Funday: Issue 20](./max-brenner-martini.jpg)
 
 ## Project I Love: Cross Stitched Cat Bookmark
 
@@ -105,6 +105,6 @@ While Sister and I were brainstorming new ideas for the blog, we came across cro
 
 for a simple cross stitched book mark- it seems like the kind of project that will be right up my sister’s alley! New craft, reading, and cats? YUP!
 
-[![Sunday Funday: Issue 20 on Katie Crafts; http://www.katiecrafts.com](./cat-bookmark-blog.jpg)](http://anastasiapollack.blogspot.com/2013/04/crafts-with-anastasia-cross-stitched.html)
+[![Sunday Funday: Issue 20](./cat-bookmark-blog.jpg)](http://anastasiapollack.blogspot.com/2013/04/crafts-with-anastasia-cross-stitched.html)
 
 Well, that’s all she wrote! Happy Sunday!

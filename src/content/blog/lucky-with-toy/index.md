@@ -11,6 +11,6 @@ tags:
     name: "lucky"
 ---
 
-![Lucky and Toy on Katie Crafts; https://www.katiecrafts.com](./img-0555.jpg)
+![Lucky and Toy](./img-0555.jpg)
 
-![Lucky and Toy on Katie Crafts; https://www.katiecrafts.com](./img-0554.jpg)
+![Lucky and Toy](./img-0554.jpg)

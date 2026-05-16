@@ -4,7 +4,7 @@ publishedDate: "2015-01-29"
 excerpt: "I love finding blog posts that host a whole array of free patterns all together in one list, so I figured, “Why not do that myself?” One of the very first things I ever tried to sew was a reversible tote bag, and it’s still one of my favorite ones to date. Here are even […]"
 featuredImage:
   src: "./featured.png"
-  alt: "10 Free Bag Tutorials on Katie Crafts; http://www.katiecrafts.com"
+  alt: "10 Free Bag Tutorials"
 categories:
   - slug: "crafts"
     name: "Crafts"

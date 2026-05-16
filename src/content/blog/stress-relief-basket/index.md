@@ -4,7 +4,7 @@ publishedDate: "2014-03-20"
 excerpt: "Project: Stress Relief Basket (+ Lavender Bath Salt Tutorial!) On Sunday, we celebrated my oldest friend, Krystal, at her bridal shower! I put together some decorations, the centerpieces and a few extras (which I’ll show throughout the week!) I know how stressed I was in the month before my wedding, so I wanted to help […]"
 featuredImage:
   src: "./featured.jpg"
-  alt: "Stress Relief Basket on Katie Crafts; http://www.katiecrafts.com"
+  alt: "Stress Relief Basket"
 categories:
   - slug: "beauty"
     name: "Beauty"
@@ -45,7 +45,7 @@ This basket is less of a how-to project and more of a this-is-what-I-bought-to-p
 
 First, let’s talk about how cute this basket is. It was one of those really awesome Marshalls finds that happens occasionally! If there were two, I would have picked one up for myself as well. The pattern, the material. I just love it. It’s so pretty!
 
-![Stress Relief Basket on Katie Crafts; http://www.katiecrafts.com](./stress-relief-basket-1.jpg)
+![Stress Relief Basket](./stress-relief-basket-1.jpg)
 
 ## Contents of the basket…
 
@@ -75,7 +75,7 @@ First, let’s talk about how cute this basket is. It was one of those really aw
 
 I decorated a sheet of paper with a list of the items in the basket and a little love note and rolled it up scroll-style to stick inside.
 
-![Stress Relief Basket on Katie Crafts; http://www.katiecrafts.com](./stress-relief-basket-3.jpg)
+![Stress Relief Basket](./stress-relief-basket-3.jpg)
 
 Now on to the lavender bath salt tutorial! This is SO EASY. I didn’t take pictures of it, but you really don’t need any. Just follow the instructions below!
 
@@ -93,6 +93,6 @@ Now on to the lavender bath salt tutorial! This is SO EASY. I didn’t take pict
 
 - To use, sprinkle in warm bath water. Relax and enjoy!
 
-![Stress Relief Basket on Katie Crafts; http://www.katiecrafts.com](./stress-relief-basket-4.jpg)
+![Stress Relief Basket](./stress-relief-basket-4.jpg)
 
 I hope the basket brings my darling friend a few minutes of peace in the weeks to come! What would you put in your stress relief basket?

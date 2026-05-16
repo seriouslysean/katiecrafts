@@ -4,7 +4,7 @@ publishedDate: "2014-06-10"
 excerpt: "As I mentioned in a previous post, I’m a little anchor obsessed right now! With that in mind, I scoured other Etsy shops for fun anchor themed items: art, jewelry, home decor and more. I hope you like the treasury I put together!"
 featuredImage:
   src: "./featured.jpg"
-  alt: "Anchor's Away: My Etsy Picks on Katie Crafts; http://www.katiecrafts.com"
+  alt: "Anchor's Away: My Etsy Picks"
 categories:
   - slug: "crafts"
     name: "Crafts"

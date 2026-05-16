@@ -4,7 +4,7 @@ publishedDate: "2015-08-10"
 excerpt: "If you remember anything about last year, you may recall my obsession with anchors during the Summer months. I thought it would be cute to do a quick nail art look based on them using some fun aquatic colors!"
 featuredImage:
   src: "./featured.png"
-  alt: "Anchors Nail Art Design by Katie Crafts; http://www.katiecrafts.com"
+  alt: "Anchors Nail Art Design by"
 categories:
   - slug: "beauty"
     name: "Beauty"
@@ -51,11 +51,11 @@ during the Summer months. I thought it would be cute to do a quick nail art look
 
   and only needed one coat! If your polish needs two, let dry in between coats.
 
-![Anchors Nail Art Design by Katie Crafts; https://www.katiecrafts.com](./anchor-nails.jpg)
+![Anchors Nail Art Design by](./anchor-nails.jpg)
 
-![Anchors Nail Art Design by Katie Crafts; https://www.katiecrafts.com](./anchor-nails-3.jpg)
+![Anchors Nail Art Design by](./anchor-nails-3.jpg)
 
-![Anchors Nail Art Design by Katie Crafts; https://www.katiecrafts.com](./anchor-nails-4.jpg)
+![Anchors Nail Art Design by](./anchor-nails-4.jpg)
 
 - Use the nail art brush dipped in yellow polish to draw a straight line halfway down the middle of your accent nail to create the shank. Then draw an arch under it to make the bottom of the anchor, or the
 
@@ -77,7 +77,7 @@ during the Summer months. I thought it would be cute to do a quick nail art look
 
 Enjoy your adorable anchor nail art look wherever it may take you! Mine took me to Starbucks. Anchors away!
 
-![Anchors Nail Art Design by Katie Crafts; http://www.katiecrafts.com](./anchor-nails-starbucks.jpg)
+![Anchors Nail Art Design by](./anchor-nails-starbucks.jpg)
 
 Enjoying my cold Passion Tea with my cool anchor nails!
 

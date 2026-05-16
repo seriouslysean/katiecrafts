@@ -4,7 +4,7 @@ publishedDate: "2014-12-12"
 excerpt: "Twelfth Day of Christmas: DIY Sugar Body Scrub ♫ On the twelfth day of Christmas, Katie Crafts gave to me- a make-at-home sugar scrub recipe! ♫ It’s our last day of Katie Crafts’ 12 Days of Christmas daily posts! Don’t worry, it isn’t the end of posts for the year entirely. In fact, I already […]"
 featuredImage:
   src: "./featured.png"
-  alt: "Twelfth Day of Christmas: DIY Sugar Scrub Recipe by Katie Crafts; http://www.katiecrafts.com"
+  alt: "Twelfth Day of Christmas: DIY Sugar Scrub Recipe by"
 categories:
   - slug: "beauty"
     name: "Beauty"

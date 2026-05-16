@@ -4,7 +4,7 @@ publishedDate: "2015-01-13"
 excerpt: "Project: Heart Pillow with Pocket Tutorial It’s the second week of January, so naturally it’s time to start our Valentine’s Day projects! This little sewing project is a quick work up, and perfect for any beginner- even your crafty kid! Use it to deliver a sweet little note to your Valentine, or perhaps a few […]"
 featuredImage:
   src: "./featured.png"
-  alt: "Heart Pillow with Pocket Tutorial for Valentine's Day by Katie Crafts; http://www.katiecrafts.com"
+  alt: "Heart Pillow with Pocket Tutorial for Valentine's Day by"
 categories:
   - slug: "crafts"
     name: "Crafts"

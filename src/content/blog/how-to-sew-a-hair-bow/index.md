@@ -4,7 +4,7 @@ publishedDate: "2014-06-13"
 excerpt: "Project: How To Sew A Hair Bow Today is National Sewing Machine Day! Break out your old Singer and follow my tutorial to make yourself a mega cute hair bow in honor of the ‘holiday’! 😉"
 featuredImage:
   src: "./featured.jpg"
-  alt: "How To Sew A Hair Bow Tutorial by Katie Crafts; http://www.katiecrafts.com"
+  alt: "How To Sew A Hair Bow Tutorial by"
 categories:
   - slug: "crafts"
     name: "Crafts"
@@ -65,41 +65,41 @@ The instructions to this may look long and daunting, but it’s much of the same
 
 ## Instructions:
 
-![How To Sew A Hair Bow Tutorial by Katie Crafts; https://www.katiecrafts.com](./img-3675.jpg)
+![How To Sew A Hair Bow Tutorial by](./img-3675.jpg)
 
-![How To Sew A Hair Bow Tutorial by Katie Crafts; https://www.katiecrafts.com](./img-3676.jpg)
+![How To Sew A Hair Bow Tutorial by](./img-3676.jpg)
 
-![How To Sew A Hair Bow Tutorial by Katie Crafts; https://www.katiecrafts.com](./img-3678.jpg)
+![How To Sew A Hair Bow Tutorial by](./img-3678.jpg)
 
-![How To Sew A Hair Bow Tutorial by Katie Crafts; https://www.katiecrafts.com](./img-3679.jpg)
+![How To Sew A Hair Bow Tutorial by](./img-3679.jpg)
 
 - Cut fabric in to two sections. I cut mine into one 9″ x 9.5″ panel and one 5″ x 2.5″ strip.
 
-![How To Sew A Hair Bow Tutorial by Katie Crafts; http://www.katiecrafts.com](./img-3680.jpg)
+![How To Sew A Hair Bow Tutorial by](./img-3680.jpg)
 
 - Fold larger section of fabric in half lengthwise, with right sides facing
 
 - Pin across (if you want to pin it- since it’s such a small section and you’re using a straight stitch across, I neglected pinning and just went slow and steady)
 
-![How To Sew A Hair Bow Tutorial by Katie Crafts; https://www.katiecrafts.com](./img-3681.jpg)
+![How To Sew A Hair Bow Tutorial by](./img-3681.jpg)
 
-![How To Sew A Hair Bow Tutorial by Katie Crafts; https://www.katiecrafts.com](./img-3682.jpg)
+![How To Sew A Hair Bow Tutorial by](./img-3682.jpg)
 
 - Stitch straight across the long edge to create a tube. Don’t forget to back stitch!
 
 - Trim excess fabric
 
-![How To Sew A Hair Bow Tutorial by Katie Crafts; http://www.katiecrafts.com](./img-3683.jpg)
+![How To Sew A Hair Bow Tutorial by](./img-3683.jpg)
 
 - Turn tube inside out so that right side of fabric is visible
 
 - Flatten (iron) if you like, and make sure seam is in the middle as pictured below
 
-![How To Sew A Hair Bow Tutorial by Katie Crafts; http://www.katiecrafts.com](./img-3684.jpg)
+![How To Sew A Hair Bow Tutorial by](./img-3684.jpg)
 
 - Fold in half with seam facing you (as shown)
 
-![How To Sew A Hair Bow Tutorial by Katie Crafts; http://www.katiecrafts.com](./img-3686.jpg)
+![How To Sew A Hair Bow Tutorial by](./img-3686.jpg)
 
 - Pin if you like
 
@@ -107,9 +107,9 @@ The instructions to this may look long and daunting, but it’s much of the same
 
 - Cut excess fabric
 
-![How To Sew A Hair Bow Tutorial by Katie Crafts; https://www.katiecrafts.com](./img-3687.jpg)
+![How To Sew A Hair Bow Tutorial by](./img-3687.jpg)
 
-![How To Sew A Hair Bow Tutorial by Katie Crafts; https://www.katiecrafts.com](./img-3688.jpg)
+![How To Sew A Hair Bow Tutorial by](./img-3688.jpg)
 
 - Turn inside out so that visible stitching is on the inside and hidden
 
@@ -117,23 +117,23 @@ The instructions to this may look long and daunting, but it’s much of the same
 
 - Center your seam again, and flip it over so it’s in the back
 
-![How To Sew A Hair Bow Tutorial by Katie Crafts; http://www.katiecrafts.com](./img-3689.jpg)
+![How To Sew A Hair Bow Tutorial by](./img-3689.jpg)
 
 - Pinch the center of the square with your fingers and begin making the bow’s folds like an accordion. Make as many as you like! This blue and white bow has many folds, while my teal one has just a couple. It’s up to you!
 
-![How To Sew A Hair Bow Tutorial by Katie Crafts; https://www.katiecrafts.com](./img-3690.jpg)
+![How To Sew A Hair Bow Tutorial by](./img-3690.jpg)
 
-![How To Sew A Hair Bow Tutorial by Katie Crafts; https://www.katiecrafts.com](./img-3691.jpg)
+![How To Sew A Hair Bow Tutorial by](./img-3691.jpg)
 
-![How To Sew A Hair Bow Tutorial by Katie Crafts; https://www.katiecrafts.com](./img-3692.jpg)
+![How To Sew A Hair Bow Tutorial by](./img-3692.jpg)
 
 - Make sure there are an even amount of folds on each side of the center
 
 - Use the alligator clip to hold the folds together while you put a few stitches with your needle and thread through all the folds. Remove clip. This will hold them together while you continue. See below.
 
-![How To Sew A Hair Bow Tutorial by Katie Crafts; https://www.katiecrafts.com](./img-3693.jpg)
+![How To Sew A Hair Bow Tutorial by](./img-3693.jpg)
 
-![How To Sew A Hair Bow Tutorial by Katie Crafts; https://www.katiecrafts.com](./img-3694.jpg)
+![How To Sew A Hair Bow Tutorial by](./img-3694.jpg)
 
 - Now it’s time for the center piece!
 
@@ -143,11 +143,11 @@ The instructions to this may look long and daunting, but it’s much of the same
 
 - Straight stitch across to create tube (and back stitch!)
 
-![How To Sew A Hair Bow Tutorial by Katie Crafts; https://www.katiecrafts.com](./img-3695.jpg)
+![How To Sew A Hair Bow Tutorial by](./img-3695.jpg)
 
-![How To Sew A Hair Bow Tutorial by Katie Crafts; https://www.katiecrafts.com](./img-3696.jpg)
+![How To Sew A Hair Bow Tutorial by](./img-3696.jpg)
 
-![How To Sew A Hair Bow Tutorial by Katie Crafts; https://www.katiecrafts.com](./img-3697.jpg)
+![How To Sew A Hair Bow Tutorial by](./img-3697.jpg)
 
 - Turn inside out gently- I used my fingers and the end of a pencil to do this.
 
@@ -155,15 +155,15 @@ The instructions to this may look long and daunting, but it’s much of the same
 
 - Wrap the smaller tube around the center of the bow. Use the alligator clip to secure it snugly around middle.
 
-![How To Sew A Hair Bow Tutorial by Katie Crafts; http://www.katiecrafts.com](./img-3701.jpg)
+![How To Sew A Hair Bow Tutorial by](./img-3701.jpg)
 
 - Mark with your pencil where the bottom of the alligator clip sits on each side of the fabric.
 
 - Cut off excess material, leaving about 1/2″ of extra fabric above where the clip is
 
-![How To Sew A Hair Bow Tutorial by Katie Crafts; https://www.katiecrafts.com](./img-3702.jpg)
+![How To Sew A Hair Bow Tutorial by](./img-3702.jpg)
 
-![How To Sew A Hair Bow Tutorial by Katie Crafts; https://www.katiecrafts.com](./img-3703.jpg)
+![How To Sew A Hair Bow Tutorial by](./img-3703.jpg)
 
 - Remove clip and small tube
 
@@ -171,9 +171,9 @@ The instructions to this may look long and daunting, but it’s much of the same
 
 - Cut excess
 
-![How To Sew A Hair Bow Tutorial by Katie Crafts; https://www.katiecrafts.com](./img-3704.jpg)
+![How To Sew A Hair Bow Tutorial by](./img-3704.jpg)
 
-![How To Sew A Hair Bow Tutorial by Katie Crafts; https://www.katiecrafts.com](./img-3705.jpg)
+![How To Sew A Hair Bow Tutorial by](./img-3705.jpg)
 
 - Flip inside out so stitches are on the inside
 
@@ -181,33 +181,33 @@ The instructions to this may look long and daunting, but it’s much of the same
 
 - Next you need to squeeze this large bow through this tiny center tube. It looks like it will be hard to do! It isn’t, I promise.
 
-![How To Sew A Hair Bow Tutorial by Katie Crafts; http://www.katiecrafts.com](./img-3706.jpg)
+![How To Sew A Hair Bow Tutorial by](./img-3706.jpg)
 
 - Squish one end of the bow in to it’s accordion folds and just shimmy the center piece all the way to the middle of the bow.
 
-![How To Sew A Hair Bow Tutorial by Katie Crafts; https://www.katiecrafts.com](./img-3707.jpg)
+![How To Sew A Hair Bow Tutorial by](./img-3707.jpg)
 
-![How To Sew A Hair Bow Tutorial by Katie Crafts; https://www.katiecrafts.com](./img-3708.jpg)
+![How To Sew A Hair Bow Tutorial by](./img-3708.jpg)
 
 - Puff out the bow however you like it to look. When you are satisfied, turn it over to make sure the seam is in the back.
 
-![How To Sew A Hair Bow Tutorial by Katie Crafts; https://www.katiecrafts.com](./img-3709.jpg)
+![How To Sew A Hair Bow Tutorial by](./img-3709.jpg)
 
-![How To Sew A Hair Bow Tutorial by Katie Crafts; https://www.katiecrafts.com](./img-3710.jpg)
+![How To Sew A Hair Bow Tutorial by](./img-3710.jpg)
 
 - Put a few good sized globs of glue on your clip. I open the alligator clip as wide as it can go and choose which side I’ll be using- then I put glue all over the front and back of that side. Carefully slide in the gluey clip between the bow and the center piece and press firmly for 60 seconds.
 
-![How To Sew A Hair Bow Tutorial by Katie Crafts; http://www.katiecrafts.com](./img-3712.jpg)
+![How To Sew A Hair Bow Tutorial by](./img-3712.jpg)
 
 - Then release the rest of the clip to sit on the outside of the center piece (this is the part that grabs your hair)
 
-![How To Sew A Hair Bow Tutorial by Katie Crafts; https://www.katiecrafts.com](./img-3713.jpg)
+![How To Sew A Hair Bow Tutorial by](./img-3713.jpg)
 
-![How To Sew A Hair Bow Tutorial by Katie Crafts; https://www.katiecrafts.com](./img-3715.jpg)
+![How To Sew A Hair Bow Tutorial by](./img-3715.jpg)
 
 - Let glue dry completely before wearing
 
-![How To Sew A Hair Bow Tutorial by Katie Crafts; http://www.katiecrafts.com](./img-3716.jpg)
+![How To Sew A Hair Bow Tutorial by](./img-3716.jpg)
 
 ## Tips:
 
@@ -217,6 +217,6 @@ The instructions to this may look long and daunting, but it’s much of the same
 
 - I wear one of these cuties on top of my ponytail to cover the hair elastic, or if my hair is in a top bun I wear it underneath the bun for a fun look!
 
-![How To Sew A Hair Bow Tutorial by Katie Crafts; http://www.katiecrafts.com](./img-3719.jpg)
+![How To Sew A Hair Bow Tutorial by](./img-3719.jpg)
 
 If you use this tutorial, show me what you make! If you have other hair bows to share, please do so! I’d love to see them!

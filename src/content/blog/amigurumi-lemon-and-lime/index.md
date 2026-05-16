@@ -4,7 +4,7 @@ publishedDate: "2015-08-14"
 excerpt: "My crocheted fruit filled bowl is getting crowded slowly but surely! The bowl is now brimming with cherries, a pear, an orange, a lemon and a lime! (Next up: a plum and a banana!) Learn how to make the happy little lemon and lime right here!"
 featuredImage:
   src: "./featured.png"
-  alt: "Amigurumi Lemon & Lime Crochet Patterns on Katie Crafts; http://www.katiecrafts.com"
+  alt: "Amigurumi Lemon & Lime Crochet Patterns"
 categories:
   - slug: "crafts"
     name: "Crafts"

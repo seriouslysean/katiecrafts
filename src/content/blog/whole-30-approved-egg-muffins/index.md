@@ -4,7 +4,7 @@ publishedDate: "2016-04-28"
 excerpt: "I’ll be the first to tell you, I hate breakfast. I like breakfast foods, but I don’t like eating as soon as I wake up. I’m never hungry in the morning- in fact, I get nauseous if I eat too early. And I never, ever, ever want to wake up and immediately cook. Husband is […]"
 featuredImage:
   src: "./featured.jpg"
-  alt: "Whole30 Approved Egg Muffins on Katie Crafts; http://www.katiecrafts.com"
+  alt: "Whole30 Approved Egg Muffins"
 categories:
   - slug: "cooks"
     name: "Cooks"
@@ -85,7 +85,7 @@ I wake up later than Husband, so he can heat these handheld frittatas for himsel
 
 - Enjoy egg muffins now while warm, OR let cool completely and pop in a freezer bag for your freezer. Reheat wrapped in a few papertowels in the microwave for 1 minute 30 seconds. The egg muffins let off a lot of water (possibly from the fresh spinach, so next time I’m going to try out frozen spinach instead) so those paper towels are important! If you cook them too long, they get a little rubbery. I’ll try to fix that on my next round too.
 
-![Whole30 Approved Egg Muffins on Katie Crafts; http://www.katiecrafts.com](./img-2317.jpg)
+![Whole30 Approved Egg Muffins](./img-2317.jpg)
 
 This weekend we are making another dozen for the upcoming week, but with different flavors: avocado & bacon/prosciutto! I’ll let you know how those turn out. 🙂
 

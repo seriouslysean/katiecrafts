@@ -4,7 +4,7 @@ publishedDate: "2015-02-25"
 excerpt: "Wordless Wednesday: Winter Wonderland This past weekend, the Husband and I made a trip to Jersey to stay at my Dad’s on Friday night, as I had a bridal shower to go to on Saturday morning. We were supposed to just stay until the shower was over, but it snowed like crazy that afternoon! The […]"
 featuredImage:
   src: "./featured.png"
-  alt: "Wordless Wednesday: Winter Wonderland on Katie Crafts; http://www.katiecrafts.com"
+  alt: "Wordless Wednesday: Winter Wonderland"
 categories:
   - slug: "hodgepodge"
     name: "Hodgepodge"

@@ -4,7 +4,7 @@ publishedDate: "2016-05-26"
 excerpt: "One of the rules of Whole30 is no dairy. That means I can’t use butter in cooking or to flavor any of my meals- unless I clarify it! You can find clarified butter, also known as ghee, in a few shopping markets, but I prefer to make it myself. It’s very easy and in my […]"
 featuredImage:
   src: "./featured.jpg"
-  alt: "How To Make Your Own Ghee Recipe on Katie Crafts; http://www.katiecrafts.com"
+  alt: "How To Make Your Own Ghee Recipe"
 categories:
   - slug: "crafts"
     name: "Crafts"
@@ -73,12 +73,12 @@ Learn how to make some DIY ghee below and make your Whole30 or Paleo lifestyle t
 
 * Slowly pour the melted butter through the cheesecloth and into your container. Dispose of the milk solids and cheesecloth.
 
-![How To Make Your Own Ghee Recipe on Katie Crafts; http://www.katiecrafts.com](./img-2432.jpg)
+![How To Make Your Own Ghee Recipe](./img-2432.jpg)
 
 - Ghee may be stored at room temp, but since I make it myself and may not get every last bit of dairy out of it, I keep mine in the refrigerator.
 
 - Enjoy!
 
-![How To Make Your Own Ghee Recipe on Katie Crafts; http://www.katiecrafts.com](./img-2437.jpg)
+![How To Make Your Own Ghee Recipe](./img-2437.jpg)
 
 Have you ever made your own clarified butter before? What are your favorite recipes to use it with?

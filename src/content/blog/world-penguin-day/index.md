@@ -13,6 +13,6 @@ tags:
     name: "world penguin day"
 ---
 
-![Happy World Penguin Day from Lucky on Katie Crafts; http://www.katiecrafts.com](./img-6386.jpg)
+![Happy World Penguin Day from Lucky](./img-6386.jpg)
 
 Happy World Penguin Day! Love, Lucky

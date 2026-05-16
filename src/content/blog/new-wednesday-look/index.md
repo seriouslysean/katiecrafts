@@ -33,7 +33,7 @@ My very awesome blogging friends have fun things that they do on Wednesdays, whe
 
 Like the image and want to print it for your wall or fridge? You can
 
-_**[download it right here](/wp-content/uploads/2014/09/avenue-q-quote.pdf "Avenue Q Quote")**_
+_**download it right here**_
 
 (will print as 8×10)!
 

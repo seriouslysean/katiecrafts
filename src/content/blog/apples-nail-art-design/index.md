@@ -4,7 +4,7 @@ publishedDate: "2014-08-05"
 excerpt: "Apples Nail Art Design This is a throwback design that I made last year! I just found the photos of it again and can’t wait to do this design again soon- it’s pretty perfect for back to school, don’t you think? I even happened to be drinking a Shock Top Honeycrisp Apple Wheat beer the […]"
 featuredImage:
   src: "./featured.jpg"
-  alt: "Apple Nail Art Design by Katie Crafts; http://www.katiecrafts.com"
+  alt: "Apple Nail Art Design by"
 categories:
   - slug: "beauty"
     name: "Beauty"

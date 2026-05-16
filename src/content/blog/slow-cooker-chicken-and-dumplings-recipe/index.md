@@ -4,7 +4,7 @@ publishedDate: "2016-01-12"
 excerpt: "It’s finally starting to feel like Winter here- it was warm for so long that our pot of begonias only JUST kicked the bucket last week! As soon as the thermostat hit 35, Husband and I were yearning for comfort food. We decided a good recipe to make would be slow cooker chicken and dumplings! It came out great!"
 featuredImage:
   src: "./featured.png"
-  alt: "Slow Cooker Chicken and Dumpling Recipe on Katie Crafts; http://www.katiecrafts.com"
+  alt: "Slow Cooker Chicken and Dumpling Recipe"
 categories:
   - slug: "cooks"
     name: "Cooks"

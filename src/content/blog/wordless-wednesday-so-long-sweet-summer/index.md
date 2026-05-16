@@ -4,7 +4,7 @@ publishedDate: "2014-09-10"
 excerpt: "Wordless Wednesday: So Long Sweet Summer Doesn’t this photo say it all? Lucky enjoys a last shred of Summer: corn on the cob, freshly buttered and hand-served via his Papa."
 featuredImage:
   src: "./featured.png"
-  alt: "Wordless Wednesday: So Long Sweet Summer on Katie Crafts; http://www.katiecrafts.com"
+  alt: "Wordless Wednesday: So Long Sweet Summer"
 categories:
   - slug: "cats"
     name: "Cats"

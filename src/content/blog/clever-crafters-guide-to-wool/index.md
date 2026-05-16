@@ -4,7 +4,7 @@ publishedDate: "2015-07-18"
 excerpt: "Whether you are a crochet or knit beginner or a yarn aficionado, it’s always fun to learn new things about the most important supply in your stash. One of the best kinds of yarns to use (in my opinion) is wool, so here are some stats and facts about where wool around the world comes […]"
 featuredImage:
   src: "./featured.jpg"
-  alt: "Clever Crafter's Guide to Wool on Katie Crafts; http://www.katiecrafts.com"
+  alt: "Clever Crafter's Guide to Wool"
 categories:
   - slug: "crafts"
     name: "Crafts"

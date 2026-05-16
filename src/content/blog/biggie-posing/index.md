@@ -14,6 +14,6 @@ tags:
     name: "loves cats"
 ---
 
-![Biggie Posing on Katie Crafts; http://www.katiecrafts.com](./img-4908.jpg)
+![Biggie Posing](./img-4908.jpg)
 
 “What’s that? Is it a treat? Can I have it?”

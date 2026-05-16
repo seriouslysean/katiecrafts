@@ -4,7 +4,7 @@ publishedDate: "2016-02-26"
 excerpt: "It’s Flashback Friday!! St. Patrick’s Day is still a couple of weeks away, but that doesn’t mean you shouldn’t already be prepping. . .with a Shamrock Shake! I tried this copycat recipe out two years ago and it tastes just as good (if not better than!) the McD’s version. Make it yourself with the SUPER simple instructions and ingredients listed! Be sure to PIN & SHARE the infographic so all your friends and followers can make one too!"
 featuredImage:
   src: "./featured.jpg"
-  alt: "Flashback Friday: Shamrock Shake Copycat Recipe by Katie Crafts; http://www.katiecrafts.com"
+  alt: "Flashback Friday: Shamrock Shake Copycat Recipe by"
 categories:
   - slug: "cooks"
     name: "Cooks"
@@ -31,7 +31,7 @@ tags:
     name: "st. patricks day"
 ---
 
-It’s Flashback Friday!! St. Patrick’s Day is still a couple of weeks away, but that doesn’t mean you shouldn’t already be prepping. . .with a
+It’s Flashback Friday!! St. Patrick’s Day is still a couple of weeks away, but that doesn’t mean you shouldn’t already be prepping.. .with a
 
 **[Shamrock Shake](/shamrock-shake-recipe/)**
 

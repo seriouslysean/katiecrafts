@@ -4,7 +4,7 @@ publishedDate: "2014-06-16"
 excerpt: "Recipe: Homemade Whipped Cream Some days, you just want strawberries and whipped cream for breakfast. It happens! And with only three ingredients and just a few minutes, there is never a reason to eat fake whipped cream. Besides, with 4th of July coming up and red/white/blue snacks on your Pinterest board overflowing, you’ll need a […]"
 featuredImage:
   src: "./featured.jpg"
-  alt: "Homemade Whipped Cream Recipe by Katie Crafts; http://www.katiecrafts.com"
+  alt: "Homemade Whipped Cream Recipe by"
 categories:
   - slug: "cooks"
     name: "Cooks"
@@ -43,7 +43,7 @@ I wanted this whipped cream to be mega light in flavor and barely sweet, but fee
 
 ## Instructions:
 
-![Homemade Whipped Cream Recipe by Katie Crafts; http://www.katiecrafts.com](./img-3844.jpg)
+![Homemade Whipped Cream Recipe by](./img-3844.jpg)
 
 - Add ingredients to
 
@@ -57,9 +57,9 @@ I wanted this whipped cream to be mega light in flavor and barely sweet, but fee
 
   whisk to mix. Do so until peaks begin to form.
 
-![Homemade Whipped Cream Recipe by Katie Crafts; https://www.katiecrafts.com](./img-3847.jpg)
+![Homemade Whipped Cream Recipe by](./img-3847.jpg)
 
-![Homemade Whipped Cream Recipe by Katie Crafts; https://www.katiecrafts.com](./img-3849.jpg)
+![Homemade Whipped Cream Recipe by](./img-3849.jpg)
 
 - For soft, pretty, billowy cream (the kind you may see in a whipped cream commercial!), stop
 
@@ -73,13 +73,13 @@ I wanted this whipped cream to be mega light in flavor and barely sweet, but fee
 
   , and the soft pretty kind melts way too fast for this use. I wish it didn’t! But it does.
 
-![Homemade Whipped Cream Recipe by Katie Crafts; https://www.katiecrafts.com](./img-3854.jpg)
+![Homemade Whipped Cream Recipe by](./img-3854.jpg)
 
-![Homemade Whipped Cream Recipe by Katie Crafts; https://www.katiecrafts.com](./img-3855.jpg)
+![Homemade Whipped Cream Recipe by](./img-3855.jpg)
 
 Done! See how easy that is? Now you have no excuse not to have freshly whipped cream on your next dessert!
 
-![Homemade Whipped Cream Recipe by Katie Crafts; http://www.katiecrafts.com](./img-3858.jpg)
+![Homemade Whipped Cream Recipe by](./img-3858.jpg)
 
 ## Tips:
 
@@ -105,4 +105,4 @@ Done! See how easy that is? Now you have no excuse not to have freshly whipped c
 
 - Toss together strawberries and blueberries and add a dollop of whipped cream on top for a quick, easy, and (for the most part) healthy Fourth of July snack!
 
-- ![Homemade Whipped Cream Recipe by Katie Crafts; http://www.katiecrafts.com](./img-3859.jpg)
+- ![Homemade Whipped Cream Recipe by](./img-3859.jpg)

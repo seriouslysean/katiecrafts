@@ -4,7 +4,7 @@ publishedDate: "2014-03-17"
 excerpt: "Recipe: Shamrock Shake! Happy Saint Patrick’s Day! I spent hours slaving away in the kitchen to come up with a very special treat just for you! Okay, fine. I spent about 5 minutes in the kitchen, but that’s all you’ll need to make my version of the infamous McDonald’s Shamrock Shake!"
 featuredImage:
   src: "./featured.png"
-  alt: "Shamrock Shake Recipe by Katie Crafts; http://www.katiecrafts.com"
+  alt: "Shamrock Shake Recipe by"
 categories:
   - slug: "cooks"
     name: "Cooks"
@@ -57,22 +57,22 @@ I’ve seen various recipes for the Saint Paddy’s Day shake, but this is my fa
 
 Very, very simple. Just follow the photos below to learn how to make it! Serves 2 (or one giant glass like the one below for yourself + one much smaller glass for your Husband)
 
-![Shamrock Shake Recipe by Katie Crafts; http://www.katiecrafts.com](./shake-10-2.png)
+![Shamrock Shake Recipe by](./shake-10-2.png)
 
-![Shamrock Shake Recipe by Katie Crafts; http://www.katiecrafts.com](./shake-9-2.png)
+![Shamrock Shake Recipe by](./shake-9-2.png)
 
-![Shamrock Shake Recipe by Katie Crafts; http://www.katiecrafts.com](./shake-8-2.png)
+![Shamrock Shake Recipe by](./shake-8-2.png)
 
-![Shamrock Shake Recipe by Katie Crafts; http://www.katiecrafts.com](./shake-7-2.png)
+![Shamrock Shake Recipe by](./shake-7-2.png)
 
-![Shamrock Shake Recipe by Katie Crafts; http://www.katiecrafts.com](./shake-6-2.png)
+![Shamrock Shake Recipe by](./shake-6-2.png)
 
-![Shamrock Shake Recipe by Katie Crafts; http://www.katiecrafts.com](./shake-5-2.png)
+![Shamrock Shake Recipe by](./shake-5-2.png)
 
-![Shamrock Shake Recipe by Katie Crafts; http://www.katiecrafts.com](./shake-41.png)
+![Shamrock Shake Recipe by](./shake-41.png)
 
-![Shamrock Shake Recipe by Katie Crafts; http://www.katiecrafts.com](./shake-21.png)
+![Shamrock Shake Recipe by](./shake-21.png)
 
-![Shamrock Shake Recipe by Katie Crafts; http://www.katiecrafts.com](./shake-31.png)
+![Shamrock Shake Recipe by](./shake-31.png)
 
 Have a happy and safe Saint Patrick’s Day! If you try out my version of the Shamrock Shake and have any tips to share, leave them in the comments!

@@ -4,7 +4,7 @@ publishedDate: "2015-08-04"
 excerpt: "One of my favorite things about the Summer is grilling pretty much everything! After a long day yesterday, Husband and I decided to take the chicken and veggies we were going to make for dinner and stick them on skewers for the grill instead!"
 featuredImage:
   src: "./featured.png"
-  alt: "Grilled Chicken Kabobs Recipe by Katie Crafts; http://www.katiecrafts.com"
+  alt: "Grilled Chicken Kabobs Recipe by"
 categories:
   - slug: "cooks"
     name: "Cooks"

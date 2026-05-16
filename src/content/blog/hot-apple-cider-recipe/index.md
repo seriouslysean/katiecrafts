@@ -4,7 +4,7 @@ publishedDate: "2015-12-11"
 excerpt: "On the eleventh day of Christmas, Katie Crafts gave to me… The tastiest (and easiest) hot spiced cider recipe in the universe! You can make the best apple cider for your guests this holiday with just a handful of ingredients and a crock pot. Rum optional. 😉"
 featuredImage:
   src: "./featured.png"
-  alt: "Hot Spiced Cider Recipe...With Rum! on Katie Crafts; http://www.katiecrafts.com"
+  alt: "Hot Spiced Cider Recipe...With Rum!"
 categories:
   - slug: "cooks"
     name: "Cooks"
@@ -63,9 +63,9 @@ I went ahead and added the rum to my batch, making it quite alcoholic (and delic
 
 * Stick the cloves in the apple and orange pieces as pictured.
 
-![Hot Spiced Cider Recipe...With Rum! on Katie Crafts; https://www.katiecrafts.com](./img-4650.jpg)
+![Hot Spiced Cider Recipe...With Rum!](./img-4650.jpg)
 
-![Hot Spiced Cider Recipe...With Rum! on Katie Crafts; https://www.katiecrafts.com](./img-4651.jpg)
+![Hot Spiced Cider Recipe...With Rum!](./img-4651.jpg)
 
 - Cut a large square of cheesecloth and place the orange, apple, cinnamon sticks and nutmeg inside. Tie it closed into a little bouquet.
 
@@ -75,7 +75,7 @@ I went ahead and added the rum to my batch, making it quite alcoholic (and delic
 
 * Add bouquet to crock pot. It will float- that’s fine!
 
-![Hot Spiced Cider Recipe...With Rum! on Katie Crafts; http://www.katiecrafts.com](./img-4655.jpg)
+![Hot Spiced Cider Recipe...With Rum!](./img-4655.jpg)
 
 - Turn your slow cooker on Low for 3-4 hours. Because there is no raw food here, the time isn’t as important. You are just trying to heat it through thoroughly and let the spices do their thing. If you want it spicier, let it cook longer. If you’re in a rush, throw it on High for 2 hours instead. It’s up to you!
 
@@ -83,7 +83,7 @@ I went ahead and added the rum to my batch, making it quite alcoholic (and delic
 
 - Enjoy!
 
-![Hot Spiced Cider Recipe...With Rum! on Katie Crafts; http://www.katiecrafts.com](./img-4674.jpg)
+![Hot Spiced Cider Recipe...With Rum!](./img-4674.jpg)
 
 If you make this cider for your holiday party, let me know how it turns out! AND DON’T FORGET ABOUT THE GIVEAWAYS! They all end tomorrow! They are:
 

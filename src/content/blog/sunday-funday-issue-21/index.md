@@ -4,7 +4,7 @@ publishedDate: "2014-07-13"
 excerpt: "Sunday Funday: Issue 21 Today’s Sunday Funday is going to a little different! This week has been a bit stressful and I’ve been feeling a little under the weather, so I’ve been in need of many things to make me laugh. Instead of giving you five categories with all the normal picks this week, I’ll […]"
 featuredImage:
   src: "./featured.jpg"
-  alt: "Sunday Funday: Issue 21 on Katie Crafts; http://www.katiecrafts.com"
+  alt: "Sunday Funday: Issue 21"
 categories:
   - slug: "hodgepodge"
     name: "Hodgepodge"

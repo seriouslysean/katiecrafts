@@ -4,7 +4,7 @@ publishedDate: "2014-09-08"
 excerpt: "My Etsy Picks: Football Season I may not be a giant sports fan- football is something I watch once a year, during Super Bowl, for the commercials- but I can certainly appreciate the energy surrounding it! Football fans are passionate about their teams, and live on the edges of their seats, whilst shouting (a lot), […]"
 featuredImage:
   src: "./featured.png"
-  alt: "My Etsy Picks: Football Season by Katie Crafts; http://www.katiecrafts.com"
+  alt: "My Etsy Picks: Football Season by"
 categories:
   - slug: "crafts"
     name: "Crafts"

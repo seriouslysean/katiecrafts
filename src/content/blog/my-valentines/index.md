@@ -4,7 +4,7 @@ publishedDate: "2015-02-14"
 excerpt: "Happy Valentine’s Day, readers! Hope you spend your day with someone special! I’ll be spending mine with my two Valentines above, Lucky & Mabel… and my Husband."
 featuredImage:
   src: "./featured.png"
-  alt: "My Valentines on Katie Crafts; http://www.katiecrafts.com"
+  alt: "My Valentines"
 categories:
   - slug: "cats"
     name: "Cats"

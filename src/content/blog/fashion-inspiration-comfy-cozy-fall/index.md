@@ -4,7 +4,7 @@ publishedDate: "2015-10-22"
 excerpt: "You already know Fall is my favorite. Everything about it. I shared some Fashion Inspiration based on Autumn Hues last year and I thought I’d do the same this year. Today’s Fall picks are all about being comfy and cozy and warm!"
 featuredImage:
   src: "./featured.png"
-  alt: "Fashion Inspiration: Comfy Cozy Fall on Katie Crafts; http://www.katiecrafts.com"
+  alt: "Fashion Inspiration: Comfy Cozy Fall"
 categories:
   - slug: "beauty"
     name: "Beauty"

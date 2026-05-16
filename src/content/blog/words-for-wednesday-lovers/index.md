@@ -4,7 +4,7 @@ publishedDate: "2015-07-29"
 excerpt: "I’ve been binge watching 30 Rock on Netflix (…again) and have been giggling at all Liz Lemon’s ridiculous sayings. That’s why I decided to make today’s Words For Wednesday a quote from the show!"
 featuredImage:
   src: "./featured.png"
-  alt: "Words for Wednesday: Lovers on Katie Crafts; http://www.katiecrafts.com"
+  alt: "Words for Wednesday: Lovers"
 categories:
   - slug: "hodgepodge"
     name: "Hodgepodge"
@@ -33,7 +33,7 @@ on Netflix (…again) and have been giggling at all Liz Lemon’s ridiculous say
 >
 > _Lovers_
 >
-> . Oh… that word bums me out.
+>. Oh… that word bums me out.
 >
 > Unless it’s between the words
 >
@@ -43,7 +43,7 @@ on Netflix (…again) and have been giggling at all Liz Lemon’s ridiculous say
 >
 > _pizza_
 >
-> .” \~Liz Lemon
+>.” \~Liz Lemon
 
 Sometimes, you just need a silly quote in your life, right? If you’re a
 
