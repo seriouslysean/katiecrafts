@@ -1,4 +1,5 @@
 .astro
+.claude
 dist
 node_modules
 data/import-manifest.json
