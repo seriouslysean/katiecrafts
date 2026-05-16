@@ -6,6 +6,8 @@ import path from 'node:path';
 import yargs from 'yargs';
 import { hideBin } from 'yargs/helpers';
 
+import { scrubAltText } from './lib/scrub-wp-urls.ts';
+
 interface PostData {
   title: string;
   slug: string;
@@ -158,8 +160,10 @@ function buildFrontmatter(post: Omit<PostData, 'content'>, maps: ImageMaps): str
     if (targetName) {
       lines.push('featuredImage:');
       lines.push(`  src: ${JSON.stringify(`./${targetName}`)}`);
-      if (post.featuredImage.alt) {
-        lines.push(`  alt: ${JSON.stringify(post.featuredImage.alt)}`);
+      const altRaw = post.featuredImage.alt;
+      if (altRaw) {
+        const alt = scrubAltText(altRaw);
+        if (alt) lines.push(`  alt: ${JSON.stringify(alt)}`);
       }
     }
   }

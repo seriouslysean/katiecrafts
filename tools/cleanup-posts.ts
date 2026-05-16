@@ -13,6 +13,8 @@ import type { Node } from 'unist';
 import yargs from 'yargs';
 import { hideBin } from 'yargs/helpers';
 
+import { scrubMarkdownBody } from './lib/scrub-wp-urls.ts';
+
 interface Options {
   replaceRemoteImages: boolean;
 }
@@ -105,7 +107,7 @@ async function convertHtmlToMarkdown(html: string, options: Options): Promise<Cl
     });
 
   const file = await processor.process(html);
-  const markdown = String(file).trim();
+  const markdown = scrubMarkdownBody(String(file)).trim();
   const warnings = collectMarkdownWarnings(markdown);
   return { markdown, warnings };
 }

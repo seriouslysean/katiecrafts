@@ -30,7 +30,7 @@
     "typecheck": "tsc --noEmit",
     "audit:content": "tsx tools/audit-content.ts",
     "audit:markdown": "markdownlint-cli2 \"src/content/blog/**/*.md\"",
-    "audit:links": "linkinator dist --skip \"^https?://(www\\.)?(facebook|twitter|x|pinterest|reddit|instagram)\\.com\"",
+    "audit:links": "tsx tools/audit-links.ts",
     "audit:html": "html-validate \"dist/**/*.html\"",
     "audit": "npm run audit:content && npm run audit:markdown && npm run build && npm run audit:html && npm run audit:links"
   },
