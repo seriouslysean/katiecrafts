@@ -1,0 +1,95 @@
+---
+const inputId = 'site-search-input';
+const resultsId = 'site-search-results';
+---
+
+<form class="search" role="search" autocomplete="off" data-search>
+  <label class="search__label" for={inputId}>Search posts</label>
+  <input
+    id={inputId}
+    type="search"
+    name="q"
+    class="search__input"
+    placeholder="Search posts…"
+    aria-controls={resultsId}
+    aria-expanded="false"
+    autocomplete="off"
+  />
+  <ul id={resultsId} class="search__results" role="listbox" hidden></ul>
+</form>
+
+<script>
+  type Doc = { id: string; title: string; excerpt: string; categories: string; tags: string };
+
+  const form = document.querySelector<HTMLFormElement>('[data-search]');
+  if (form) {
+    const input = form.querySelector<HTMLInputElement>('input[name="q"]')!;
+    const results = form.querySelector<HTMLUListElement>('.search__results')!;
+    let index: import('minisearch').default<Doc> | undefined;
+    let loading: Promise<void> | undefined;
+    let debounce: number | undefined;
+
+    async function ensureIndex() {
+      if (index) return;
+      if (loading) return loading;
+      loading = (async () => {
+        const [{ default: MiniSearch }, response] = await Promise.all([
+          import('minisearch'),
+          fetch('/search-index.json'),
+        ]);
+        const documents = (await response.json()) as Doc[];
+        index = new MiniSearch<Doc>({
+          fields: ['title', 'excerpt', 'categories', 'tags'],
+          storeFields: ['id', 'title'],
+          searchOptions: {
+            fuzzy: 0.2,
+            prefix: true,
+            boost: { title: 2, tags: 1.2 },
+          },
+        });
+        index.addAll(documents);
+      })();
+      return loading;
+    }
+
+    function render(items: Array<{ id: string; title: string }>) {
+      if (!items.length) {
+        results.hidden = true;
+        results.replaceChildren();
+        input.setAttribute('aria-expanded', 'false');
+        return;
+      }
+      const fragment = document.createDocumentFragment();
+      for (const item of items) {
+        const li = document.createElement('li');
+        const a = document.createElement('a');
+        a.href = `/blog/${item.id}/`;
+        a.textContent = item.title;
+        li.appendChild(a);
+        fragment.appendChild(li);
+      }
+      results.replaceChildren(fragment);
+      results.hidden = false;
+      input.setAttribute('aria-expanded', 'true');
+    }
+
+    async function runSearch() {
+      const query = input.value.trim();
+      if (!query) {
+        render([]);
+        return;
+      }
+      await ensureIndex();
+      if (!index) return;
+      const hits = index.search(query).slice(0, 10);
+      render(hits.map(hit => ({ id: hit.id as string, title: hit.title as string })));
+    }
+
+    input.addEventListener('focus', () => { void ensureIndex(); });
+    input.addEventListener('input', () => {
+      window.clearTimeout(debounce);
+      debounce = window.setTimeout(runSearch, 100);
+    });
+    form.addEventListener('submit', event => event.preventDefault());
+  }
+</script>
