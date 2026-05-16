@@ -49,13 +49,13 @@ account and about a zillion silly faced photos and more. It’s just the cutest 
 
 According to
 
-[TurboTax’s “12 Strangest State Tax Laws,”](https://turbotax.intuit.com/tax-tools/tax-tips/General-Tax-Tips/12-Strange-State-Tax-Laws/INF26061.html "TurboTax 12 Strange State Tax Laws")
+[TurboTax’s “12 Strangest State Tax Laws,”](http://web.archive.org/web/20160629215016/https://turbotax.intuit.com/tax-tools/tax-tips/General-Tax-Tips/12-Strange-State-Tax-Laws/INF26061.html "TurboTax 12 Strange State Tax Laws")
 
 those delicious NYC bagels cost more sliced than whole! Click the link to read more super weird tax laws!
 
 > “New York prides itself on serving the best bagels in the country … which is a good thing, considering you’re paying a premium to eat them. While an uncut bagel is tax exempt, the state adds an 8-cent tax to any altered bagels. If you ask for it with cream cheese or lox, or even if you just want it sliced for you, that’s considered preparing it for consumption on the premises – which inspires that extra tax.”
 
-[![new york bagel](./newyork.jpg)](https://turbotax.intuit.com/tax-tools/tax-tips/General-Tax-Tips/12-Strange-State-Tax-Laws/INF26061.html)
+[![new york bagel](./newyork.jpg)](http://web.archive.org/web/20160629215016/https://turbotax.intuit.com/tax-tools/tax-tips/General-Tax-Tips/12-Strange-State-Tax-Laws/INF26061.html)
 
 ## Place I Love: Sweetbox
 

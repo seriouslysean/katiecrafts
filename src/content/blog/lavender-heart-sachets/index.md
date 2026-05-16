@@ -61,7 +61,7 @@ No matter what we gave Mom, it was the most perfect gift she’d ever received, 
 
   (enough to fill half the heart)
 
-- [Dried lavender](http://amzn.to/1aA0eq1 "Dried Lavender on Amazon")
+- Dried lavender
 
   (enough to fill the other half)\*
 

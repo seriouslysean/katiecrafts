@@ -53,7 +53,7 @@ Sweet N Cute Creationsâ€™ little hippo, Ella, is way cuter than mine! But thatâ€
 
 - 4 ply acrylic yarn in blue and cream \[or any color combination you please]
 
-  **_\*I used only aqua- the sparkly kind from Hobby Lobby called[I Love This Cotton Yarn](http://shop.hobbylobby.com/products/aqua-sparkle-i-love-this-cotton-yarn-110213/ "Aqua Sparkle I Love This Cotton Yarn at Hobby Lobby")_**
+  **_\*I used only aqua- the sparkly kind from Hobby Lobby called[I Love This Cotton Yarn](http://web.archive.org/web/20150624054621/http://shop.hobbylobby.com/products/aqua-sparkle-i-love-this-cotton-yarn-110213/ "Aqua Sparkle I Love This Cotton Yarn at Hobby Lobby")_**
 
 - safety eyes \[10mm]
 

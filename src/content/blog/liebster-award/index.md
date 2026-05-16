@@ -131,7 +131,7 @@ _How to make a pretty knotted headband! I won’t feature it til I’ve perfecte
 
 I recently started following each of these blogs, and have to say- I love ’em! You’re all great, guys!
 
-1. [Katrina Alana](http://www.katrinaalana.com/blog/ "Katrina Alana")
+1. [Katrina Alana](http://web.archive.org/web/20191117122258/http://www.katrinaalana.com/blog/ "Katrina Alana")
 2. [Kitty Baby Love](http://kittybabylove.com/ "Kitty Baby Love")
 3. [BelleBlush](http://belleblush.com/ "Belleblush")
 4. [Tiny Mountains Designs](http://tinymountainsblog.tumblr.com/ "Tiny Mountains Designs Blog")

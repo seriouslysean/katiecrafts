@@ -39,7 +39,7 @@ Come October, Husband and I will be celebrating 2 years of marriage (and 6 years
 
 > _95% of photography credits go to our fabulously talented wedding photographer, Erika of_
 >
-> _**[Little Blue Box Photography](http://www.littlebluebox.photo/)**. The other 5% are random ones from guests of the wedding and my own pics as I created things in our apartment!_
+> _**[Little Blue Box Photography](http://web.archive.org/web/20250314180803/https://www.littlebluebox.photo/)**. The other 5% are random ones from guests of the wedding and my own pics as I created things in our apartment!_
 
 Our wedding took place at
 

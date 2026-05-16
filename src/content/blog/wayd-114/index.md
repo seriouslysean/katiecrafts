@@ -74,8 +74,6 @@ has made some great decorations for Halloween! I love the designs of the labels,
 
 <http://contentemeant.blogspot.com/2015/8/what-are-you-doing-blog-hop-113.html”>
 
-<http://1.bp.blogspot.com/-fCYgXzygf4c/UZ-ThPpFezI/AAAAAAAABPs/Sf2bHKunHp4/s1600/CMfeatured150.png”/>
-
 Don’t forget to check out the other blogs from last week!
 
 ### What have I been doing?
