@@ -71,19 +71,36 @@ export function scrubMarkdownBody(input: string): string {
   );
 
   // Markdown link with katiecrafts.com URL → relativize to internal path
+  // so the link benefits from client-side routing instead of round-tripping
+  // to the legacy WP host.
   out = out.replace(
     /\[([^\]]+)\]\(https?:\/\/(?:www\.)?katiecrafts\.com(\/[^)]*)?\)/g,
     (_match, label, pathPart) => `[${label}](${pathPart || '/'})`,
   );
 
-  // Markdown autolinks <http(s)://...>: drop when host is WP
-  out = out.replace(/<https?:\/\/[^>]*wp-content\/[^>]*>/gi, '');
-  out = out.replace(/<https?:\/\/(?:www\.)?katiecrafts\.com[^>]*>/gi, '');
-  out = out.replace(/<https?:\/\/i[0-9]\.wp\.com\/[^>]+>/gi, '');
+  // Markdown autolinks <https://katiecrafts.com/path/> → rewrite as a real
+  // markdown link [path](path) so the path renders as link text AND the
+  // href is internal.
+  out = out.replace(
+    /<https?:\/\/(?:www\.)?katiecrafts\.com(\/[^>]*)?>/gi,
+    (_match, pathPart) => {
+      const p = pathPart || '/';
+      return `[${p}](${p})`;
+    },
+  );
 
-  // Bare URLs (no angle brackets); mailto: addresses are preserved because
-  // the regex requires the http(s) scheme.
-  out = out.replace(/https?:\/\/(?:www\.)?katiecrafts\.com[^\s)"'<>]*/gi, '');
+  // Bare katiecrafts.com URLs in flowing text → leave just the path
+  // (relative URLs don't auto-link in markdown, but the text is preserved
+  // for readers and the absolute host is gone).
+  out = out.replace(
+    /https?:\/\/(?:www\.)?katiecrafts\.com(\/[^\s)"'<>]*)?/gi,
+    (_match, pathPart) => pathPart || '/',
+  );
+
+  // Markdown autolinks/bare URLs to wp.com CDN or wp-content (true junk,
+  // not internal references): drop entirely.
+  out = out.replace(/<https?:\/\/[^>]*wp-content\/[^>]*>/gi, '');
+  out = out.replace(/<https?:\/\/i[0-9]\.wp\.com\/[^>]+>/gi, '');
   out = out.replace(/https?:\/\/i[0-9]\.wp\.com\/[^\s)"'<>]+/gi, '');
 
   // Raw HTML <a>/<img> with WP URLs
