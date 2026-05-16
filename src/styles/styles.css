@@ -791,14 +791,14 @@ a:focus-visible {
     color: #51445e;
 }
 
-.header a,
+.header a:not(.header__logo a),
 .footer a {
     color: var(--color-accent);
     text-decoration: none;
     position: relative;
 }
 
-.header a::after,
+.header a:not(.header__logo a)::after,
 .footer a::after {
     content: '';
     position: absolute;
@@ -812,8 +812,8 @@ a:focus-visible {
     transition: transform 0.2s ease;
 }
 
-.header a:hover::after,
-.header a:focus-visible::after,
+.header a:not(.header__logo a):hover::after,
+.header a:not(.header__logo a):focus-visible::after,
 .footer a:hover::after,
 .footer a:focus-visible::after {
     transform: scaleX(1);
