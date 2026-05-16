@@ -66,7 +66,7 @@ Thanks again for sharing this treasury, Kaitlin!
 
 If you haven’t entered our
 
-[12 Days of Christmas giveaways](/holiday-baking-giveaway-pb-cookie-recipe/)
+[12 Days of Christmas giveaways](/blog/holiday-baking-giveaway-pb-cookie-recipe/)
 
 yet, make sure you do it this week! All of them end on 12/12 at 11:59PM ET! Good luck!
 

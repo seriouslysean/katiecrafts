@@ -35,7 +35,7 @@ tags:
 
 This is a throwback design that I made last year! I just found the photos of it again and can’t wait to do this design again soon- it’s pretty perfect for
 
-[back to school](/my-etsy-picks-back-school-guide/ "My Etsy Picks: Back to School Guide")
+[back to school](/blog/my-etsy-picks-back-school-guide/ "My Etsy Picks: Back to School Guide")
 
 , don’t you think? I even happened to be drinking a Shock Top Honeycrisp Apple Wheat beer the day I painted them- which was a total coincidence but awesome for a photo! This nail art design was SUPER easy, so you can rock it too! Just follow the steps below!
 

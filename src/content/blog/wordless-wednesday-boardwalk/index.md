@@ -22,7 +22,7 @@ tags:
 
 As mentioned yesterday in my
 
-**[_National Chocolate Day_](/happy-national-chocolate-day/ "Happy National Chocolate Day!")**
+**[_National Chocolate Day_](/blog/happy-national-chocolate-day/ "Happy National Chocolate Day!")**
 
 post, Husband and I went away for a long weekend to celebrate our one-year-married-anniversary. We headed to Atlantic City where we enjoyed free rooms, penny slots, lots of hot chocolates and coffees with Bailey’s while playing said slots, a couple gorgeous days walking the boardwalk and an extensive (and expensive) AC Outlets shopping trip. You wouldn’t think late October would be so nice on the shore, but it was so warm outside we couldn’t even handle wearing our jackets. The above pic is a shot of the boardwalk leading down to the beach, and below is one of the sand!
 

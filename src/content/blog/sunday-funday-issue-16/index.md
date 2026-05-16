@@ -47,7 +47,7 @@ being one of them. She read it in a day (typical) and passed it along to me. I l
 
 I know I gave you an overload of
 
-[donut themed items from Paper Source](/happy-donut-day/ "Happy Donut Day!")
+[donut themed items from Paper Source](/blog/happy-donut-day/ "Happy Donut Day!")
 
 the other day, so it made sense to use it as my place I love this week! There are very few art stores in my area of the city, and were zero crafting stores until Paper Source opened. I’m very glad it did, though my wallet probably isn’t. Things in the store are quite pricey, but also super adorable! It’s especially great when I have a specific project in mind and can’t wait for the materials for it to be delivered- I can just walk the three blocks to Paper Source and get what I need. I love it!
 

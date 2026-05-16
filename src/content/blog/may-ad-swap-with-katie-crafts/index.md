@@ -53,7 +53,7 @@ If you’re interested in sponsoring or swapping ads with
 
 Additionally, you can read more info and grab one of my buttons at any time from my
 
-[_Sponsors page_](/sponsors/ "Katie Crafts Sponsor Page")
+_Sponsors page_
 
 .
 

@@ -41,7 +41,7 @@ Oh my gosh!
 
 What luck! Yesterday I showed you the cute little
 
-[**stress relief basket**](/stress-relief-basket/ "Stress Relief Basket")
+[**stress relief basket**](/blog/stress-relief-basket/ "Stress Relief Basket")
 
 that I made for the bridal shower last weekend. I also told you I’d be including more of the things I made for the shower over the next week. Today, I’m featuring the recipe cards that I made, with a chance for you and your BFF to win a set each!
 
@@ -61,6 +61,6 @@ The winner of this Katie Crafts giveaway will receive two sets of recipe cards (
 
 Have a great Friday, and don’t forget to enter my other current raffle with
 
-[The Wandering Deer](/featured-etsy-shop-the-wandering-deer/ "Featured Etsy Shop: The Wandering Deer")
+[The Wandering Deer](/blog/featured-etsy-shop-the-wandering-deer/ "Featured Etsy Shop: The Wandering Deer")
 
 for a free mini crocheted penguin!

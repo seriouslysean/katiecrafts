@@ -37,11 +37,11 @@ Project: DIY Knotted Headband
 
 I LOVE this headband! I have made several different colors of it already out of the
 
-[t-shirt yarn](/how-to-make-t-shirt-yarn/ "How To Make T-Shirt Yarn")
+[t-shirt yarn](/blog/how-to-make-t-shirt-yarn/ "How To Make T-Shirt Yarn")
 
 that you already know I have a small obsession with (thumbs up for upcycling!) For awhile, I was just tying the ends to a hair tie, like I did in the no-sew version of
 
-[my braided headband](/no-sew-braided-headband/ "No Sew Braided Headband")
+[my braided headband](/blog/no-sew-braided-headband/ "No Sew Braided Headband")
 
 , but I recently bought some fold-over elastic and decided to add it in to the mix. I’m liking the way it came out!
 

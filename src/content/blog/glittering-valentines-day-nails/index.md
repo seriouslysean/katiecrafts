@@ -31,7 +31,7 @@ tags:
 
 The
 
-[last Valentine’s day nail art look](/quick-easy-valentines-day-nails/)
+[last Valentine’s day nail art look](/blog/quick-easy-valentines-day-nails/)
 
 I shared was a very simple red glitter polish. I went a step further this time and used actual glitter in the design! I was going to make little hearts and stuff, but I decided this look was classier and more versatile. Besides, I can’t say no to glittering Valentine’s Day nails!
 
@@ -77,16 +77,16 @@ I shared was a very simple red glitter polish. I went a step further this time a
 
 Don’t forget to check out Valentine’s nail looks from the past! There are cute ones from
 
-[2015](/xoxo-valentines-nail-art/)
+[2015](/blog/xoxo-valentines-nail-art/)
 
 and
 
-[2014](/valentines-glitter-design/)
+[2014](/blog/valentines-glitter-design/)
 
 !
 
 Which nail art design do you like better for Valentine’s Day- this look or
 
-[my last look](/quick-easy-valentines-day-nails/)
+[my last look](/blog/quick-easy-valentines-day-nails/)
 
 ? How will you be wearing your nails that day?

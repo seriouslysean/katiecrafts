@@ -45,7 +45,7 @@ We started off in the Make-and-Take room again, so that I could make a ridiculou
 
 Then we headed to the Butterfly Experience, which was much nicer than last year. It was twice as big and just set up a lot better. It is so amazing having hundreds of butterflies flitting around you, though I have to say- when the GIANT ones flew by my face I had a moment of panic. They were all so pretty, but my favorite was the orange beauty that landed on me (you saw her in
 
-[_yesterday’s post too_](/wordless-wednesday-butterfly/ "Wordless Wednesday: Butterfly")
+[_yesterday’s post too_](/blog/wordless-wednesday-butterfly/ "Wordless Wednesday: Butterfly")
 
 !)
 

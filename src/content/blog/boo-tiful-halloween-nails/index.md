@@ -103,4 +103,4 @@ That’s better!
 
 That’s all you need to do to get some totally boo-tiful halloween nails! If you try out the look, be sure to show me a pic in the comments below! And don’t forget about my
 
-[old Halloween nail art tutorial!](/nail-art-design-halloween-manicure/)
+[old Halloween nail art tutorial!](/blog/nail-art-design-halloween-manicure/)

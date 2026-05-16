@@ -27,7 +27,7 @@ tags:
 
 Back in April, Katie Crafts hosted it’s
 
-[first handmade swap](/first-handmade-swap/ "First Handmade Swap on Katie Crafts")
+[first handmade swap](/blog/first-handmade-swap/ "First Handmade Swap on Katie Crafts")
 
 ! The theme was Spring, and a handful of fun crafty girls participated. I put everyone’s names in a hat, gave it a shake, and handed out a different name to each person. It was a blast! Here is what I made for the person whose name I drew, and what I received from the person who drew me!
 
@@ -41,7 +41,7 @@ I made Elizabeth a pair of covered button earrings, using a beige fabric with li
 
 The person who drew my name happens to also be someone I featured before:
 
-[Hannah from Hannahdoodle!](/first-handmade-swap/ "Featured Etsy Shop: Hannahdoodle")
+[Hannah from Hannahdoodle!](/blog/first-handmade-swap/ "Featured Etsy Shop: Hannahdoodle")
 
 Hannah made me the cutest EVERYTHING! Even her wrapping (pictured above) was adorable!
 

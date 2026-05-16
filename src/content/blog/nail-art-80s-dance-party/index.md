@@ -110,6 +110,6 @@ Hope you enjoyed this simple 80s Dance Party nail art design! Thanks for being m
 
 I’m going to give the butterfly nails I blogged about as my inspiration project on
 
-[**Sunday Funday: Issue 3**](/sunday-funday-issue-3/ "Sunday Funday: Issue 3")
+[**Sunday Funday: Issue 3**](/blog/sunday-funday-issue-3/ "Sunday Funday: Issue 3")
 
 a go this week! I really hope they turn out well!! I’ll be posting photos of them if they do. 🙂

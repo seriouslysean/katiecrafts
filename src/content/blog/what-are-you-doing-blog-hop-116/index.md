@@ -84,7 +84,7 @@ Joan’s Post:
 
 Katie’s Post:
 
-[Katie Crafts – A Special Look at my Fall Wedding](/a-special-look-at-my-fall-wedding/)
+[Katie Crafts – A Special Look at my Fall Wedding](/blog/a-special-look-at-my-fall-wedding/)
 
 [a Rafflecopter giveaway](http://www.rafflecopter.com/rafl/display/9948790e10/)
 
@@ -117,8 +117,6 @@ Katie’s Post:
 **Grab a Button!**![Content in the Meantime](./wayd.png)
 
 <http://contentemeant.blogspot.com/search/label/WAYD%3F%20Wednesdays”>
-
-<http://2.bp.blogspot.com/-gRssF1YfMEY/UYE9isaUrdI/AAAAAAAAA6A/VdB8zWR6_-o/s320/WAYD.png”/>
 
 **Follow Content in the Meantime for future blog hops!**
 

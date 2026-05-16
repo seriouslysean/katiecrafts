@@ -49,11 +49,11 @@ I don’t know about you, but I am a flip flop snob. Sadly, the cheap Old Navy o
 
 When pedicure season rolled around again this year, I was really excited to make a few new pairs to go with my new outfits. You’ll even recognize the materials! I made a pair to match one of my
 
-[circle skirts](/diy-circle-skirt-tutorial/ "DIY Circle Skirt Tutorial")
+[circle skirts](/blog/diy-circle-skirt-tutorial/ "DIY Circle Skirt Tutorial")
 
 and a pair that matches my new favorite
 
-[hair bow](/how-to-sew-a-hair-bow/ "How To Sew A Hair Bow")
+[hair bow](/blog/how-to-sew-a-hair-bow/ "How To Sew A Hair Bow")
 
 !
 
@@ -183,7 +183,7 @@ Cute rosette detail!
 
 - Use my
 
-  [fabric rosette flower tutorial](/diy-shabby-chic-rosettes/ "DIY Shabby Chic Rosettes")
+  [fabric rosette flower tutorial](/blog/diy-shabby-chic-rosettes/ "DIY Shabby Chic Rosettes")
 
   to make pretty fabric flowers to decorate the tops of the flip flops (pictured on the green wedding ones!) Just use a couple stitches or some glue to keep them in place!
 

@@ -39,11 +39,11 @@ tags:
 
 And it’s Sunday once more! This last week with Sister here has FLOWN by! If you haven’t had a chance to read her awesome posts this week for
 
-_[Sunday Funday: Issue 19](/sunday-funday-issue-19/ "Sunday Funday: Issue 19")_
+_[Sunday Funday: Issue 19](/blog/sunday-funday-issue-19/ "Sunday Funday: Issue 19")_
 
 or
 
-[_S’mores 5 Ways_](/smores-5-ways/ "S’mores 5 Ways!")
+[_S’mores 5 Ways_](/blog/smores-5-ways/ "S’mores 5 Ways!")
 
 , you definitely should! Hopefully I can persuade her to blog for Katie Crafts on the regular! Even though we were super busy this week, I still found time to come up with all my weekly faves.
 
@@ -77,7 +77,7 @@ I really, really love
 
 , a giant indoor marketplace in Philly. I brought Sister here once before but it was so brief she didn’t really get to see much. We wanted to grab lunch before heading to
 
-[Spruce Street Harbor Park](/spruce-street-harbor-park/ "Spruce Street Harbor Park")
+[Spruce Street Harbor Park](/blog/spruce-street-harbor-park/ "Spruce Street Harbor Park")
 
 the other day, so this is where we went – they’ve got something for everyone! 🙂
 

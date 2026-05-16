@@ -39,7 +39,7 @@ tags:
 
 Glitter may be the “herpes” of the craft world, but I love it just the same! I’ve been glittering everything lately, and thought I would show you guys how to do it as well. You can do ANY shape you like, or even your initial if you prefer. I have several mugs with “K” already on them, so I decided I’d do something to celebrate today, St. Patrick’s Day: a 4 leaf clover! Let’s whip out the
 
-**[stencil we made yesterday](/how-to-make-an-adhesive-stencil-two-ways/)**
+**[stencil we made yesterday](/blog/how-to-make-an-adhesive-stencil-two-ways/)**
 
 and get to work!
 
@@ -75,7 +75,7 @@ _use your Silhouette Cameo machine to craft one_
 
 !
 
-**[Click here to learn how to make an adhesive stencil by hand or with your Cameo!](/how-to-make-an-adhesive-stencil-two-ways/)**
+**[Click here to learn how to make an adhesive stencil by hand or with your Cameo!](/blog/how-to-make-an-adhesive-stencil-two-ways/)**
 
 ## Instructions:
 

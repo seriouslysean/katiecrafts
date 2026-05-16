@@ -39,7 +39,7 @@ I told my dad to measure the big boys, but I’m not sure if he did yet or not. 
 
 Sissy came back with me to Philly late Saturday night and she, Husband and I went to
 
-[Spruce Street Harbor Park](/spruce-street-harbor-park/ "Spruce Street Harbor Park")
+[Spruce Street Harbor Park](/blog/spruce-street-harbor-park/ "Spruce Street Harbor Park")
 
 . Having only gone during the day when it was totally dead, going at night on a weekend was like a whole different world! It was PACKED and all the lights on the trees and on the water twinkled all different colors. We took in the sights of the water and the boats and it was really pretty!
 

@@ -43,7 +43,7 @@ Project: How To Make Baby Headbands
 
 Last week, you learned how to make those adorable
 
-_**[5 minute tulle pom pom flowers](/5-minute-tulle-pom-pom-flowers/ "5 Minute Tulle Pom Pom Flowers")**_
+_**[5 minute tulle pom pom flowers](/blog/5-minute-tulle-pom-pom-flowers/ "5 Minute Tulle Pom Pom Flowers")**_
 
 … and now you know why! It is so that you can make your very own super sweet baby headbands! (But let’s be honest, you can make one for yourself, too, if you really want!) My bestie from home is due to have her second child, this time a little girl, in about three weeks. Obviously, she needed some newborn headbands to rock in the nursery. I felt I had to step in and help!
 
@@ -69,11 +69,11 @@ I started out with the idea of making two different headbands in different sizes
 
 - First, you must make your flowers! Make
 
-  [**tulle pom pom flowers**](/5-minute-tulle-pom-pom-flowers/ "5 Minute Tulle Pom Pom Flowers")
+  [**tulle pom pom flowers**](/blog/5-minute-tulle-pom-pom-flowers/ "5 Minute Tulle Pom Pom Flowers")
 
   ,
 
-  **[ribbon rosettes](/diy-shabby-chic-rosettes/ "DIY Shabby Chic Rosettes")**
+  **[ribbon rosettes](/blog/diy-shabby-chic-rosettes/ "DIY Shabby Chic Rosettes")**
 
   , and/or little lace bows and adorn them with buttons, beads and whatever else you can dream up! Use your glue gun to make certain said buttons and beads are well secured.
 

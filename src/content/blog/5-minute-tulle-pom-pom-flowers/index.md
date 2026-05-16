@@ -65,11 +65,11 @@ The directions to make these are so simple, you just need to look above at the p
 
 Use these in all kinds of crafts! Put them on your
 
-[**Valentine’s Day card**](/valentines-cards/ "Valentine’s Cards")
+[**Valentine’s Day card**](/blog/valentines-cards/ "Valentine’s Cards")
 
 for added decoration! Pile them on top of each other for super fluffy flowers! Add
 
-[s**habby chic rosettes**](/diy-shabby-chic-rosettes/ "DIY Shabby Chic Rosettes")
+[s**habby chic rosettes**](/blog/diy-shabby-chic-rosettes/ "DIY Shabby Chic Rosettes")
 
 on top and make a….
 

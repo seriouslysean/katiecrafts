@@ -75,4 +75,4 @@ Don’t forget! You only have until
 
 to sign up for the
 
-**[first homemade swap](/first-handmade-swap/ "First Handmade Swap with Katie Crafts")!**
+**[first homemade swap](/blog/first-handmade-swap/ "First Handmade Swap with Katie Crafts")!**

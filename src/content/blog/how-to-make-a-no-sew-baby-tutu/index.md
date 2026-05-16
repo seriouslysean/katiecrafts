@@ -47,11 +47,11 @@ My best friend from home,
 
 You may remember when I shared how to make little
 
-[_tulle pom pom flowers_](/5-minute-tulle-pom-pom-flowers/ "5 Minute Tulle Pom Pom Flowers")
+[_tulle pom pom flowers_](/blog/5-minute-tulle-pom-pom-flowers/ "5 Minute Tulle Pom Pom Flowers")
 
 a few weeks ago, and then how to make
 
-[_baby headbands_](/how-to-make-baby-headbands/ "How To Make Baby Headbands")
+[_baby headbands_](/blog/how-to-make-baby-headbands/ "How To Make Baby Headbands")
 
 after that. All that work was to match this tutu for one super cute baby shower gift! It’s all starting to make sense now, right? 😉
 

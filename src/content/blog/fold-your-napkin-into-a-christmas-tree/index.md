@@ -35,7 +35,7 @@ _?On the twelfth day of Christmas, Katie Crafts gave to me…?_
 
 An
 
-[origami](/fifth-day-of-christmas-easy-origami-christmas-tree-diy/)
+[origami](/blog/fifth-day-of-christmas-easy-origami-christmas-tree-diy/)
 
 meets home decor DIY even your toddler could do! Turn your napkins into adorable Christmas trees and wow your guests at Christmas dinner! It only takes a minute and comes out SO CUTE! Learn how to fold your napkin into a Christmas Tree below.
 
@@ -49,11 +49,11 @@ I was so excited to find this video last year, but Christmas had already passed.
 
 Before you head out for your weekend, REMEMBER TO SIGN UP FOR ALL THE GIVEAWAYS (listed below)! All 5 of them end TONIGHT at 11:59 PM ET.
 
-- [e.l.f. makeup haul](/elf-haul-giveaway/)
-- [pearl earrings](/pearl-earrings-giveaway-with-natalia-khon/)
-- [crocheted baby hat](/crocheted-baby-hat-giveaway/)
-- [cupcake brooch](/cupcake-brooch-giveaway-with-me-mama-creations/)
-- [baking supplies](/holiday-baking-giveaway-pb-cookie-recipe/)
+- [e.l.f. makeup haul](/blog/elf-haul-giveaway/)
+- [pearl earrings](/blog/pearl-earrings-giveaway-with-natalia-khon/)
+- [crocheted baby hat](/blog/crocheted-baby-hat-giveaway/)
+- [cupcake brooch](/blog/cupcake-brooch-giveaway-with-me-mama-creations/)
+- [baking supplies](/blog/holiday-baking-giveaway-pb-cookie-recipe/)
 
 And if home decor is your scene,
 

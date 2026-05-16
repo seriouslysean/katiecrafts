@@ -41,7 +41,7 @@ tags:
 
 I’ve been wearing items from my new
 
-_[Summer Jewelry](/new-simplistic-summer-jewelry-line-by-katie-crafts/ "New Simplistic Summer Jewelry Line by Katie Crafts")_
+_[Summer Jewelry](/blog/new-simplistic-summer-jewelry-line-by-katie-crafts/ "New Simplistic Summer Jewelry Line by Katie Crafts")_
 
 line pretty much every day! I’ve even started planning outfits based on which jewelry I wanted to wear that day. Today, I’ve used the
 

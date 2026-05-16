@@ -55,11 +55,11 @@ Raffle open to US residents only. Must be 18 or older to enter. No bots or fake 
 
 Giveaway ends at 11:59 PM ET on 12/12/15! Don’t forget to check out the
 
-[e.l.f. haul giveaway](/elf-haul-giveaway/)
+[e.l.f. haul giveaway](/blog/elf-haul-giveaway/)
 
 and
 
-[pearl earrings giveaway](/pearl-earrings-giveaway-with-natalia-khon/)
+[pearl earrings giveaway](/blog/pearl-earrings-giveaway-with-natalia-khon/)
 
 also going on, and come back tomorrow for
 

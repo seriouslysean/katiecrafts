@@ -41,7 +41,7 @@ that you will certainly love!
 
 It feels like just yesterday I was blogging about
 
-[gifts to give the graduates](/grad-gifts-my-etsy-picks/ "Grad Gifts: My Etsy Picks")
+[gifts to give the graduates](/blog/grad-gifts-my-etsy-picks/ "Grad Gifts: My Etsy Picks")
 
 in your life, and here we are just a few weeks from starting school up again! Back-to-school shopping with my mom was always my favorite. The art supplies, the colorful notebooks and fun pens, the organizational 5 pocketed binders.. . my Mom loved back to school shopping for me as much as I liked picking it all out. I rarely complained that the summer was ending, because it meant soon I’d get to use my brand new
 

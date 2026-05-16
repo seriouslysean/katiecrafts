@@ -31,7 +31,7 @@ tags:
 
 I mentioned
 
-[last weekend](/sunday-funday-issue-6/ "Sunday Funday: Issue 6")
+[last weekend](/blog/sunday-funday-issue-6/ "Sunday Funday: Issue 6")
 
 that I was in Atlantic City for my friend’s bachelorette party! I also said that I did a fun nail design that was pretty perfect for the occasion, and that I’d share it this week! Well, here we are! Hope you like it as much as I do.
 

@@ -27,7 +27,7 @@ tags:
 
 I have tracked down the name of the gorgeous violet flowers in
 
-**[Longwood Gardens](/longwood-gardens-photo-recap/)**
+**[Longwood Gardens](/blog/longwood-gardens-photo-recap/)**
 
 and they are called Eustoma. What a lovely Wordless Wednesday treat!
 
@@ -47,6 +47,6 @@ They are native to warmer, dryer climates, particularly grasslands and pine fore
 
 What other flowers from my
 
-**[Longwood Gardens post](/longwood-gardens-photo-recap/)**
+**[Longwood Gardens post](/blog/longwood-gardens-photo-recap/)**
 
 did you like? Let me know your favorite and I’ll see what info I can dig up on them!

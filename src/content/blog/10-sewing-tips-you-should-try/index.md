@@ -46,7 +46,7 @@ I somehow haven’t used this tip yet, even though I heard about it awhile ago! 
 
 This is a
 
-[hack](/quick-summer-skirt-tutorial/)
+[hack](/blog/quick-summer-skirt-tutorial/)
 
 I’ve been using for ages! Still, if my mom hadn’t taught me about it years ago, I guess I wouldn’t have known. Folding the elastic over on itself and pinning it together with a safety pin before running it through your skirt/pants makes it so much easier to find and gather!
 

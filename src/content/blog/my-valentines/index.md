@@ -27,4 +27,4 @@ readers! Hope you spend your day with someone special! I’ll be spending mine w
 
 \*PS- Don’t forget to print out your
 
-[**free Valentine’s cards right here!!**](/freebie-friday-5-printable-valentines-cards/ "Freebie Friday: 5 Printable Valentine’s Cards")
+[**free Valentine’s cards right here!!**](/blog/freebie-friday-5-printable-valentines-cards/ "Freebie Friday: 5 Printable Valentine’s Cards")

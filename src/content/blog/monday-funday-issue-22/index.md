@@ -45,11 +45,11 @@ I was browsing through my friend’s Facebook page and she posted something that
 
 You may remember my sister and I have mentioned reading the books
 
-[“Matched”](/sunday-funday-issue-16/ "Sunday Funday: Issue 16")
+[“Matched”](/blog/sunday-funday-issue-16/ "Sunday Funday: Issue 16")
 
 and
 
-[“Crossed”](/sunday-funday-issue-19/ "Sunday Funday: Issue 19")
+[“Crossed”](/blog/sunday-funday-issue-19/ "Sunday Funday: Issue 19")
 
 by Ally Condle. They are part of a three book series, with this book (
 

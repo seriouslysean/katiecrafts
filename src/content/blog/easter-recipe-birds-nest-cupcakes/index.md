@@ -41,7 +41,7 @@ Easter Recipe: Bird’s Nest Cupcakes (+ cream cheese frosting recipe!)
 
 I really enjoyed sharing the idea last week for
 
-[chocolate dipped Peeps](/chocolate-covered-easter-peeps/ "Chocolate Covered Easter Peeps")
+[chocolate dipped Peeps](/blog/chocolate-covered-easter-peeps/ "Chocolate Covered Easter Peeps")
 
 , and wanted to keep the Easter recipes rolling! This is one I’ve been making for years and is a favorite of kids and adults alike! The cake recipe itself doesn’t matter (I do my aunt’s top secret carrot cake recipe, but you can do whatever you like!) but the cream cheese frosting and toppings are what make these little nests special!
 

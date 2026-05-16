@@ -47,7 +47,7 @@ tags:
 
 I don’t know about you, but I hate when my holidays are back-to-back! Just last week was
 
-**[St. Patrick’s Day](/st-paddys-nail-art-2016/)**
+**[St. Patrick’s Day](/blog/st-paddys-nail-art-2016/)**
 
 and all I could think about was green and gold and shamrocks. Now it’s already Easter week and I have to think about Springtime and bunnies! In case you need a little fashion inspiration for the fast approaching holiday, here are TWO looks you can shop right now for Easter 2016!
 

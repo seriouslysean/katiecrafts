@@ -29,7 +29,7 @@ tags:
 
 Happy Labor Day! I hope you are enjoying your well-deserved day off today.
 
-[As promised](/motivation-monday-be-awesome/)
+[As promised](/blog/motivation-monday-be-awesome/)
 
 , I have finally put together a photo recap post of our trip to
 
@@ -277,7 +277,7 @@ Husband being super silly!
 
 More of those gorgeous
 
-[dahlias](/wordless-for-wednesday-bliss/)
+[dahlias](/blog/wordless-for-wednesday-bliss/)
 
 !
 

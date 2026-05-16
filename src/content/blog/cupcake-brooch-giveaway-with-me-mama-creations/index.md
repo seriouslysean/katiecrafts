@@ -97,15 +97,15 @@ Raffle open Worldwide! Must be 18 or older to enter. No bots or fake accounts. A
 
 Giveaway ends at 11:59 PM ET on 12/12/15! If you haven’t seen the giveaways earlier this week, check out how to win an
 
-[e.l.f. cosmetics haul](/elf-haul-giveaway/)
+[e.l.f. cosmetics haul](/blog/elf-haul-giveaway/)
 
 ,
 
-[a pair of pearl earrings](/pearl-earrings-giveaway-with-natalia-khon/)
+[a pair of pearl earrings](/blog/pearl-earrings-giveaway-with-natalia-khon/)
 
 , and
 
-[a hand crocheted baby hat](/crocheted-baby-hat-giveaway/)
+[a hand crocheted baby hat](/blog/crocheted-baby-hat-giveaway/)
 
 … and come back tomorrow for
 

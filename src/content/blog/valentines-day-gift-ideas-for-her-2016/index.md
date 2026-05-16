@@ -37,11 +37,11 @@ tags:
 
 The Husband and I each shared our picks for Valentine’s Day last year
 
-**[for both him](/husbands-etsy-picks-valentines-day-gifts-for-him/)**
+**[for both him](/blog/husbands-etsy-picks-valentines-day-gifts-for-him/)**
 
 and
 
-**[for her](/my-etsy-picks-valentines-day-gifts-for-her/)**
+**[for her](/blog/my-etsy-picks-valentines-day-gifts-for-her/)**
 
 . We really liked searching through Etsy to find fun and unique gift ideas, so we decided to do it again this year! Here are my picks for Valentine’s Day gift ideas for her, and next week Husband will share picks for him.
 

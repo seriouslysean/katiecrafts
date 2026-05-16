@@ -77,7 +77,7 @@ One of my favorite things about Daniela’s shop is the charity aspect. As you k
 
 profits to my favorite charity:
 
-[the American Brain Tumor Association](/celebrating-mom/ "Celebrating Mom!")
+[the American Brain Tumor Association](/blog/celebrating-mom/ "Celebrating Mom!")
 
 . Daniela feels the same, and donates to her favorite cause with the purchase of items from her shop! On the business card inside the package, there is a photo of the sweet little girl, Luz, that Rica Jewels California sponsors through
 

@@ -33,7 +33,7 @@ tags:
 
 It’s Flashback Friday!! St. Patrick’s Day is still a couple of weeks away, but that doesn’t mean you shouldn’t already be prepping.. .with a
 
-**[Shamrock Shake](/shamrock-shake-recipe/)**
+**[Shamrock Shake](/blog/shamrock-shake-recipe/)**
 
 ! I tried this copycat recipe out two years ago and it tastes just as good (if not better than!) the McD’s version. Make it yourself with the SUPER simple instructions and ingredients listed! Be sure to
 

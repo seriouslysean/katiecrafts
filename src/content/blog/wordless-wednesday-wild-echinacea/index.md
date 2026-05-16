@@ -29,7 +29,7 @@ While fields of wild flowers aren’t a thing in the midst of a city (unless you
 
 are doing a fine job at helping out. There are plots of flowers, shrubs and more all over the city, in just about every nook and cranny. There are tons of plants I wouldn’t have normally seen if they hadn’t been planted specifically for my viewing pleasure. I love walking down the street and seeing a random ally that seems ordinary from afar until you come closer and realize it’s like a tiny secret garden… and you all know how I feel about
 
-[gardens](/shofuso-japanese-house-and-garden/)
+[gardens](/blog/shofuso-japanese-house-and-garden/)
 
 .
 

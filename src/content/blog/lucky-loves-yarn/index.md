@@ -18,6 +18,6 @@ tags:
 
 Mabel helped pick the colors out the
 
-[other day](/yarn-bombing-what-are-you-doing-blog-hop-113-2/)
+[other day](/blog/yarn-bombing-what-are-you-doing-blog-hop-113-2/)
 
 , so Lucky got jealous. He had to be part of the project as well. He’s partial to the Azure.

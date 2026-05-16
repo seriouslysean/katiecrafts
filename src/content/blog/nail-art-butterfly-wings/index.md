@@ -37,11 +37,11 @@ Project: Butterfly Wing Nail Art Design
 
 A few weeks ago, I shared a nail art design I was inspired to try called
 
-[Monarch Butterfly](/sunday-funday-issue-3/ "Sunday Funday: Issue 3")
+[Monarch Butterfly](/blog/sunday-funday-issue-3/ "Sunday Funday: Issue 3")
 
 nails! I was really psyched to try out the design so that I could wear them to the
 
-[Philly Flower Show](/2014-philadelphia-flower-show-recap/ "2014 Philadelphia Flower Show Recap!")
+[Philly Flower Show](/blog/2014-philadelphia-flower-show-recap/ "2014 Philadelphia Flower Show Recap!")
 
 and to visit the butterflies! I did just that, putting my own spin on the design to make it more abstract, and using an array of different colors.
 

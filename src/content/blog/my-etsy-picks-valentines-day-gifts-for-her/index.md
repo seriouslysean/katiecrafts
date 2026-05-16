@@ -56,7 +56,7 @@ _[**pop on over right here**](https://www.etsy.com/treasury/MTAzNjM3NjF8MjcyNzE4
 
 Don’t forget to get your orders in before it is too late for my own
 
-[**Valentine’s Etsy items**](/katie-crafts-valentines-picks/ "Katie Crafts Valentine’s Picks")
+[**Valentine’s Etsy items**](/blog/katie-crafts-valentines-picks/ "Katie Crafts Valentine’s Picks")
 
 !
 

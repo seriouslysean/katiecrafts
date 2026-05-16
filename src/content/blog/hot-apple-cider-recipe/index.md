@@ -87,8 +87,8 @@ I went ahead and added the rum to my batch, making it quite alcoholic (and delic
 
 If you make this cider for your holiday party, let me know how it turns out! AND DON’T FORGET ABOUT THE GIVEAWAYS! They all end tomorrow! They are:
 
-- [e.l.f. makeup haul](/elf-haul-giveaway/)
-- [pearl earrings](/pearl-earrings-giveaway-with-natalia-khon/)
-- [crocheted baby hat](/crocheted-baby-hat-giveaway/)
-- [cupcake brooch](/cupcake-brooch-giveaway-with-me-mama-creations/)
-- [baking supplies](/holiday-baking-giveaway-pb-cookie-recipe/)
+- [e.l.f. makeup haul](/blog/elf-haul-giveaway/)
+- [pearl earrings](/blog/pearl-earrings-giveaway-with-natalia-khon/)
+- [crocheted baby hat](/blog/crocheted-baby-hat-giveaway/)
+- [cupcake brooch](/blog/cupcake-brooch-giveaway-with-me-mama-creations/)
+- [baking supplies](/blog/holiday-baking-giveaway-pb-cookie-recipe/)

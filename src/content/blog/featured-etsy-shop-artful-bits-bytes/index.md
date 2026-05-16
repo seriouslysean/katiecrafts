@@ -39,7 +39,7 @@ _I am an architect by day, artist/crafter by night. I live in Fairhope Alabama, 
 
 _I love that messy total consuming focus of creating something from the heart. I love color, all color, every color. I love words, lyrics, and stories. I love putting them all together and making something interesting that speaks to those who view it. Art just plain makes me happy!_
 
-_[Here is a link](/artfulbitsandbytes.blogspot.com/2013/06/the-making-of-friendship.html "The Making of Friendship on Artful Bits and Bytes Blog")showing the creation of a piece called friendship from idea to final product (I think this bog post reflects/represents my love of what I do rather well)._
+_[Here is a link](http://artfulbitsandbytes.blogspot.com/2013/06/the-making-of-friendship.html "The Making of Friendship on Artful Bits and Bytes Blog")showing the creation of a piece called friendship from idea to final product (I think this bog post reflects/represents my love of what I do rather well)._
 
 [![Featured Etsy Shop: Artful Bits and Bytes](./il-570xn-547758854-4rcw.jpg)](https://www.etsy.com/listing/174949263/tempus-fugit-art-print-beautiful-surreal)
 

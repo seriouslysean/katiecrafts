@@ -37,7 +37,7 @@ tags:
 
 I really liked looking for
 
-[quotes on creativity](/5-quotes-about-creativity/ "5 Quotes About Creativity")
+[quotes on creativity](/blog/5-quotes-about-creativity/ "5 Quotes About Creativity")
 
 for my post awhile back. They were so inspiring, and I found SO many good ones while I was searching Pinterest. I’ve been gathering up quotes ever since, and have five new ones to share with you today! These aren’t just quotes about being creative, getting inspired or dreaming big- they are quotes FROM famous artists. That makes me love them even more. 🙂 Hope you find them as inspiring as I do!
 

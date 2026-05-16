@@ -75,7 +75,7 @@ Raffle open Worldwide! Must be 18 or older to enter. No bots or fake accounts. A
 
 Giveaway ends at 11:59 PM ET on 12/12/15! Good luck! And don’t forget to enter for
 
-[yesterday’s giveaway](/elf-haul-giveaway/)
+[yesterday’s giveaway](/blog/elf-haul-giveaway/)
 
 … and come back tomorrow for
 

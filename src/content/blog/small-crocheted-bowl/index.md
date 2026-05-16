@@ -43,13 +43,13 @@ Project: Small Crocheted Bowl Pattern
 
 You may remember me mentioning that I acquired a new
 
-[crafting desk](/sunday-funday-issue-3/ "Sunday Funday: Issue 3")
+[crafting desk](/blog/sunday-funday-issue-3/ "Sunday Funday: Issue 3")
 
 from IKEA the other day. I won’t be posting photos of it til it’s 100% completed and adorable, but in the process of getting it to that point I’m finding I need more storage baskets and bowls than I’d realized. Rather than buy even more than I already have, I thought I’d take a stab at making them myself!
 
 These small crocheted bowls use the
 
-[t-shirt yarn](/how-to-make-t-shirt-yarn/ "How To Make T-Shirt Yarn")
+[t-shirt yarn](/blog/how-to-make-t-shirt-yarn/ "How To Make T-Shirt Yarn")
 
 I made last week, and are shallow and flat enough to hold things like my hair pins, business cards and more. I can’t wait to get a little shelf for the desk that I can line these pretty little guys up on! They are certainly adorable and I’ll surely be making more! Did I mention they are also a great beginner project for someone who wants to work in rounds?
 
@@ -83,7 +83,7 @@ Key\*\*-
 
 \*\*Need help with these terms? Don’t forget about my
 
-[Crash Course in Crochet!](/crash-course-in-crochet/ "Crash Course in Crochet")
+[Crash Course in Crochet!](/blog/crash-course-in-crochet/ "Crash Course in Crochet")
 
 This pattern is worked in continuous rounds.
 
@@ -131,4 +131,4 @@ Finished! Use your new brightly colored crafty little bowl to hold whatever need
 
 What would you use these little bowls for? If you try out the pattern, let me know in the comments! And don’t forget to enter the contest (it goes til Monday!) to win a pair of crocheted flower hair pins- just check out
 
-[**yesterday’s blog!**](/featured-etsy-shop-made-with-sweetness/ "Featured Etsy Shop: Made With Sweetness")
+[**yesterday’s blog!**](/blog/featured-etsy-shop-made-with-sweetness/ "Featured Etsy Shop: Made With Sweetness")

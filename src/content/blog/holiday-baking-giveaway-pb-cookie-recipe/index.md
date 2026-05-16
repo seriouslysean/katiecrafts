@@ -115,11 +115,11 @@ Raffle open to US residents only. Must be 18 or older to enter. No bots or fake 
 
 Giveaway ends at 11:59 PM ET on 12/12/15! Don’t forget to check out the other giveaways this week! They are:
 
-**[e.l.f. haul giveaway](/elf-haul-giveaway/),[pearl earrings giveaway](/pearl-earrings-giveaway-with-natalia-khon/),[crocheted baby hat](/crocheted-baby-hat-giveaway/)**
+**[e.l.f. haul giveaway](/blog/elf-haul-giveaway/),[pearl earrings giveaway](/blog/pearl-earrings-giveaway-with-natalia-khon/),[crocheted baby hat](/blog/crocheted-baby-hat-giveaway/)**
 
 and
 
-**[cupcake brooch](/cupcake-brooch-giveaway-with-me-mama-creations/)**
+**[cupcake brooch](/blog/cupcake-brooch-giveaway-with-me-mama-creations/)**
 
 ! This is the last giveaway for the blog for the 12 Days of Christmas, but follow me on
 

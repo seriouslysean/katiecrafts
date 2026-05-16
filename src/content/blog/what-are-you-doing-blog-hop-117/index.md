@@ -88,7 +88,7 @@ Joan’s Post:
 
 Katie’s Post:
 
-[Katie Crafts – Motivation Monday: Let’s Do This!](/motivation-monday-lets-do-this/)
+[Katie Crafts – Motivation Monday: Let’s Do This!](/blog/motivation-monday-lets-do-this/)
 
 [a Rafflecopter giveaway](http://www.rafflecopter.com/rafl/display/9948790e10/)
 

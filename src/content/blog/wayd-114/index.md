@@ -88,7 +88,7 @@ Joan’s Post:
 
 Katie’s Post:
 
-[Katie Crafts – Longwood Gardens Photo Recap](/longwood-gardens-photo-recap/)
+[Katie Crafts – Longwood Gardens Photo Recap](/blog/longwood-gardens-photo-recap/)
 
 [a Rafflecopter giveaway](http://www.rafflecopter.com/rafl/display/9948790e10/)
 

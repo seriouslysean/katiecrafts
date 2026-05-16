@@ -33,7 +33,7 @@ tags:
 
 Halloween is in just two weeks! That means I have at least one more chance (maybe two!) to try out some
 
-[Halloween nail art](/boo-tiful-halloween-nails/)
+[Halloween nail art](/blog/boo-tiful-halloween-nails/)
 
 designs to go with my costume. This week I’m rocking some tombstone nail art that was SUPER easy to do, since I used a Sharpie!
 

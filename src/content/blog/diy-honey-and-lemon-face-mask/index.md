@@ -41,7 +41,7 @@ Project: DIY Honey and Lemon Face Mask
 
 If you liked my post about making your own
 
-[lip scrub](/all-natural-lip-scrub-recipe/ "All Natural Lip Scrub Recipe")
+[lip scrub](/blog/all-natural-lip-scrub-recipe/ "All Natural Lip Scrub Recipe")
 
 , you’re going to
 

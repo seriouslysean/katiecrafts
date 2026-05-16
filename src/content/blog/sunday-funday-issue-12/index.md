@@ -77,7 +77,7 @@ last year for our annual Fourth of July picnic and it was soooooo good! We had a
 
 Motivated by my
 
-[DIY turban headband](/diy-turban-headband-tutorial/ "DIY Turban Headband Tutorial")
+[DIY turban headband](/blog/diy-turban-headband-tutorial/ "DIY Turban Headband Tutorial")
 
 from the other day, I decided to search the webs for other Anthropologie-inspired tutorials that I could try out myself! I found this amazing website devoted to all things knock off, appropriately named
 

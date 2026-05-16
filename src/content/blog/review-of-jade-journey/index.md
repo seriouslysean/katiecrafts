@@ -31,7 +31,7 @@ Review of Jade Journey on Etsy
 
 A couple of weeks ago, I revealed my total obsession with all things anchors! In my
 
-[**“Anchors Away”**](/anchors-away-etsy-picks/ "Anchor’s Away: My Etsy Picks")
+[**“Anchors Away”**](/blog/anchors-away-etsy-picks/ "Anchor’s Away: My Etsy Picks")
 
 Etsy treasury, I included this really adorable Key Fob by a shop named
 

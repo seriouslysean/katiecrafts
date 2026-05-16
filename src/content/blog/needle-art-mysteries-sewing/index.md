@@ -15,7 +15,7 @@ tags: []
 
 If anyone read my debut post of
 
-[Sunday Funday: Issue 19,](/sunday-funday-issue-19/ "Sunday Funday: Issue 19")
+[Sunday Funday: Issue 19,](/blog/sunday-funday-issue-19/ "Sunday Funday: Issue 19")
 
 then they might remember I said I am not as crafty as my sister Katie. The world of crafts is more her domain then mine, seriously! If someone asked me what the difference between N’SYNC and Backstreet Boys are, I could give an encyclopedia worth of knowledge to answer the question. If you need to know about the difference between an American Cartoon like ‘My Little Pony: Friendship is Magic’ and Japanese Anime like ‘Bleach’, I’m the sister to go to. Information about anything crafty and I fall into the “um” and “uh” answers while desperately looking up definitions.
 
@@ -25,11 +25,11 @@ photo courtesy of sewaholic.net
 
 I knew my sister did
 
-[crocheting](/crash-course-in-crochet/ "Crash Course in Crochet")
+[crocheting](/blog/crash-course-in-crochet/ "Crash Course in Crochet")
 
 , sewing and more, but I didn’t know there were other needle arts out there. When Katie mentioned cross stitching to me last weekend, before she did her
 
-[Sunday Funday: Issue 20,](/sunday-funday-issue-20/ "Sunday Funday: Issue 20")
+[Sunday Funday: Issue 20,](/blog/sunday-funday-issue-20/ "Sunday Funday: Issue 20")
 
 I thought she was talking in Greek. Then it hit me that I may not be the only one out there who needs the definitions. We decided this would be a great post for me to make for the blog! So here it is, for those of you who are like me, who are beginners or just curious about the world of needle art. All definitions can be found at
 
@@ -65,7 +65,7 @@ brand new, such a new tote bag or skirt. You can also repair something you alrea
 
 In the case of making something brand new, then using a sewing machine would be the best course of action since it is faster. Every sewing machine is different, so read the safety warnings and instruction manual of the one you have or want to buy before using.
 
-[![Needle Art Mysteries: Sewing](./img-1494.jpg)](/celebrating-old-stuff-day-my-vintage-finds/)
+[![Needle Art Mysteries: Sewing](./img-1494.jpg)](/blog/celebrating-old-stuff-day-my-vintage-finds/)
 
 Our grandmother’s old Singer from the 1960’s
 

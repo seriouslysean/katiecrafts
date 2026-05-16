@@ -248,7 +248,7 @@ Hook size
 
 It’s very possible after this not-at-all-short-now-that-I’ve-finished-it post that I’ve put you in a state of panic, deterring you from taking a jab at crocheting. Please, reconsider! Find a simple pattern to start with, (like my
 
-[**5 Minute Crocheted Hearts**](/5-minute-crocheted-hearts/ "5 Minute Crocheted Hearts")
+[**5 Minute Crocheted Hearts**](/blog/5-minute-crocheted-hearts/ "5 Minute Crocheted Hearts")
 
 ), look at the abbreviations in it and what they mean here, and try it out. You only need to learn a few stitches to begin crocheting- and it’s such a relaxing hobby.
 

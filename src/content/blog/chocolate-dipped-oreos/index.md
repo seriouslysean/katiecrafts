@@ -36,7 +36,7 @@ Recipe: Chocolate Dipped Oreos
 
 In addition to the
 
-[**Pixel Heart Pillow**](/pixel-heart-pillow/ "Pixel Heart Pillow by Katie Crafts")
+[**Pixel Heart Pillow**](/blog/pixel-heart-pillow/ "Pixel Heart Pillow by Katie Crafts")
 
 that I made for the Husband for Valentine’s Day, I also got creative in the kitchen- with a box of
 

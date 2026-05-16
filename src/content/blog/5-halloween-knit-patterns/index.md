@@ -33,7 +33,7 @@ tags:
 
 I was so excited to find all the
 
-[Halloween Crochet Patterns](/5-halloween-crochet-patterns/)
+[Halloween Crochet Patterns](/blog/5-halloween-crochet-patterns/)
 
 a few weeks ago, that I decided to do a follow up post only with knits! Check out these five wonderful knit patterns I found on Ravelry that are completely perfect for the upcoming holiday.
 

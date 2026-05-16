@@ -33,7 +33,7 @@ _\*Disclaimer: You are going to want this to taste like spaghetti because of itâ
 
 - Medium sized spaghetti squash
 
-- [Clarified butter or ghee](/how-to-make-your-own-ghee/)
+- [Clarified butter or ghee](/blog/how-to-make-your-own-ghee/)
 
   \*
 

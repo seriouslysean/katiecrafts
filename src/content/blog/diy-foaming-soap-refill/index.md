@@ -39,7 +39,7 @@ tags:
 
 A few weeks ago, I told you about a project I wanted to try that was all about making your very own
 
-[foaming hand soap](/sunday-funday-issue-4/ "Sunday Funday: Issue 4")
+[foaming hand soap](/blog/sunday-funday-issue-4/ "Sunday Funday: Issue 4")
 
 . Well, I finally got around to trying it out, and it really was crazy simple! I’ll be doing this from now on!
 

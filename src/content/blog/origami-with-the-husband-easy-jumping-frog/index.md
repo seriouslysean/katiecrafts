@@ -57,7 +57,7 @@ Fold your piece of paper in half and make sure the seam is crisp. Just like last
 
 _Note: In the_
 
-_[Origami Ninja Star Tutorial](/husband-origami-ninja-star/ "Origami with the Husband: Ninja Star"), we used a book fold. This is different because instead of leaving the folded paper closed (like a book), we’re opening the paper back up again with the new crease._
+_[Origami Ninja Star Tutorial](/blog/husband-origami-ninja-star/ "Origami with the Husband: Ninja Star"), we used a book fold. This is different because instead of leaving the folded paper closed (like a book), we’re opening the paper back up again with the new crease._
 
 ![Origami with The Husband: Easy Jumping Frog Tutorial](./img-2463.jpg)
 

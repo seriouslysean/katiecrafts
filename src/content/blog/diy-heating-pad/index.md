@@ -35,15 +35,15 @@ Project: DIY Heating Pad
 
 I’ve mentioned before that April is National Stress Awareness Month. It’s the perfect time to make a
 
-[Stress Relief Basket](/stress-relief-basket/ "Stress Relief Basket")
+[Stress Relief Basket](/blog/stress-relief-basket/ "Stress Relief Basket")
 
 for someone, whip up a batch of
 
-[All Natural Lip Scrub](/all-natural-lip-scrub-recipe/ "All Natural Lip Scrub Recipe")
+[All Natural Lip Scrub](/blog/all-natural-lip-scrub-recipe/ "All Natural Lip Scrub Recipe")
 
 or
 
-[Honey and Lemon Face Mask](/diy-honey-and-lemon-face-mask/ "DIY Honey and Lemon Face Mask")
+[Honey and Lemon Face Mask](/blog/diy-honey-and-lemon-face-mask/ "DIY Honey and Lemon Face Mask")
 
 . It would also be a great idea to make yourself a hot pack too! This project works up SUPER fast, is perfect for your aches and pains… and it smells awesome.
 

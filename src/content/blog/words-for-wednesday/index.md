@@ -25,7 +25,7 @@ tags:
 
 Remember when I said last week that the Husband had a
 
-**[Valentine’s Day surprise for me](/freebie-friday-you-are-loved-printable-card/)**
+**[Valentine’s Day surprise for me](/blog/freebie-friday-you-are-loved-printable-card/)**
 
 ? Well, he gifted me theatre tickets for Sunday night! We went to see
 
@@ -35,7 +35,7 @@ and it was an excellent show. Since I still have warm fuzzies from the weekend, 
 
 I actually found them on Pinterest of all places!! I was looking for cute
 
-**[DIY](/a-special-look-at-my-fall-wedding/)**
+**[DIY](/blog/a-special-look-at-my-fall-wedding/)**
 
 things to make for the wedding and found a few different pins with vows on them. Since we were doing a self-uniting marriage, it could be as non-traditional as we wanted. This meant we could (and did) write our entire ceremony ourselves, with the help of our friend who led the service. The above vows on the left were Husbands, the right were mine. Aren’t they cute?
 

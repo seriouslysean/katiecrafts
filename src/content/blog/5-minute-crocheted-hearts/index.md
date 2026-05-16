@@ -42,7 +42,7 @@ Continuing Valentine’s themes this week, here is a super simple crochet patter
 
 minutes to make. Make as many as you like in all different colors! Turn them in to ornaments, string them together to make door banners, use them as decoration on your homemade
 
-[**Valentine’s cards**](/valentines-cards/ "Valentine’s Cards")
+[**Valentine’s cards**](/blog/valentines-cards/ "Valentine’s Cards")
 
 – so many options!
 

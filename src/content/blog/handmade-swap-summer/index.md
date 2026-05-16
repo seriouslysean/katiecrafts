@@ -29,7 +29,7 @@ August is right around the corner! I’m not quite sure where the Summer ran off
 
 ! Our last theme of
 
-[**Spring**](/recap-first-handmade-swap/ "Recap: First Handmade Swap")
+[**Spring**](/blog/recap-first-handmade-swap/ "Recap: First Handmade Swap")
 
 was so fun, that I figured we’d go ahead with the seasonal motif, and continue on with a theme of Summer this round!
 

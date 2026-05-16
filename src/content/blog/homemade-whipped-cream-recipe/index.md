@@ -69,7 +69,7 @@ I wanted this whipped cream to be mega light in flavor and barely sweet, but fee
 
 - For stiffer peaks, go a minute or two longer until you see it begin to separate. This is pretty much beating the cream to death (as I’ve done) but for good reason! This whipped cream (minus the amount I ate for breakfast with my strawberries!) will be the frosting on some
 
-  [**strawberry cupcakes**](/strawberry-daiquiri-cupcake-recipe/ "Strawberry Daiquiri Cupcake Recipe")
+  [**strawberry cupcakes**](/blog/strawberry-daiquiri-cupcake-recipe/ "Strawberry Daiquiri Cupcake Recipe")
 
   , and the soft pretty kind melts way too fast for this use. I wish it didn’t! But it does.
 

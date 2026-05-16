@@ -27,7 +27,7 @@ tags:
 
 Did you totally love the
 
-[Krampus treasury](/greetings-from-krampus/)
+[Krampus treasury](/blog/greetings-from-krampus/)
 
 last week? Me too! That’s why I was super excited when
 

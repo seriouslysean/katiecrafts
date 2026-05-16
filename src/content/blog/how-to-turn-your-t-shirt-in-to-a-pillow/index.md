@@ -47,7 +47,7 @@ Project: How To Turn Your T-Shirt In To A Pillow
 
 The other day, I caught the Husband trying to throw out an old t-shirt of his. It got a small bleach stain on it which is pretty much the end of an article of clothing. Still, I rescued it from garbage can heaven and gave it two new reasons to live! Half the shirt I used to
 
-[_make t-shirt yarn_](/how-to-make-t-shirt-yarn/ "How To Make T-Shirt Yarn")_,_
+[_make t-shirt yarn_](/blog/how-to-make-t-shirt-yarn/ "How To Make T-Shirt Yarn")_,_
 
 while the other half was used to make a pillow! My sister also loves the same silly anime things that Husband does (sorry, I just don’t see the appeal!), so I knew she’d love this pillow for her bed. It was very easy and I’m thinking of making a few pillows for my bed now too, using shrunken Woot tees and old band shirts!
 
@@ -87,7 +87,7 @@ while the other half was used to make a pillow! My sister also loves the same si
 
 * Make box edges so your pillow corners are squared off. Forget how? Refresh yourself by reading
 
-  [_my tote tutorial_](/reversible-tote-bag-tutorial/ "Reversible Tote Bag Tutorial")_!_
+  [_my tote tutorial_](/blog/reversible-tote-bag-tutorial/ "Reversible Tote Bag Tutorial")_!_
 
 ![How To Turn Your T-Shirt In To A Pillow Tutorial](./img-5031.jpg)
 

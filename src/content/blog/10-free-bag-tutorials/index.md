@@ -37,7 +37,7 @@ One of the very first things I ever tried to sew was a reversible tote bag, and 
 
 I scoured the webs and found these wonderful blogs with free bag tutorials for their readers. I can’t wait to try each of these tutorials out, because who can have too many bags?! Be sure to check each of them out below!
 
-1. **[Reversible Tote Bag Tutorial by Katie Crafts](/reversible-tote-bag-tutorial/ "Reversible Tote Bag Tutorial by Katie Crafts")**
+1. **[Reversible Tote Bag Tutorial by Katie Crafts](/blog/reversible-tote-bag-tutorial/ "Reversible Tote Bag Tutorial by Katie Crafts")**
 2. **[Pleated Pouch Tutorial with Pattern by Lemon Squeezy Home](http://lemonsqueezyhome.com/2010/10/pleated-pouch-tutorial-with-pattern.html "Pleated Pouch Tutorial with Pattern by Lemon Squeezy Home")**
 3. **[School Party Satchel by ikatbag](http://www.ikatbag.com/2011/10/school-party-satchels.html "School Party Satchel by ikatbag")**
 4. **[Ruffle Zip Pouches by See Kate Sew](http://seekatesew.com/ruffle-zipper-pouch-with-geometric-stitching "Ruffle Zipper Pouch by See Kate Sew")**

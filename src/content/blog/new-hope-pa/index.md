@@ -79,7 +79,7 @@ Here is one of the several goodies I bought while we shopped in the cutest bouti
 
 ! Be sure to check it out, because the items are so adorable! I’m big in to anchors right now for whatever reason (I guess because the summer is creeping up on us!) and was thrilled to find this piece. It’s already hanging in our hallway by the front door. Love it! The funniest part is I saw this same shop at
 
-[Art Star Bazaar](/sunday-funday-issue-12/ "Sunday Funday: Issue 12")
+[Art Star Bazaar](/blog/sunday-funday-issue-12/ "Sunday Funday: Issue 12")
 
 in Philly a few weeks ago and was admiring the items but I didn’t even realize it was the same place til I saw them online after buying the anchor! Small world, right?
 

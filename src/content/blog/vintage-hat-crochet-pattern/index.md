@@ -61,7 +61,7 @@ While I can take no credit for this pattern (the designer is Amy Polcyn), I want
 
 > _Need a refresher course in abbreviations and terminology?_
 >
-> _[Click here!](/crash-course-in-crochet/ "Crash Course in Crochet")_
+> _[Click here!](/blog/crash-course-in-crochet/ "Crash Course in Crochet")_
 
 ## Instructions:
 

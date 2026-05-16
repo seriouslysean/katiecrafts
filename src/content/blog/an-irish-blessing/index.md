@@ -23,6 +23,6 @@ Happy Saint Patrick’s Day,
 
 to all the Irish readers out there, including the ones who are only Irish on March 17th! I am going to a nice dinner tonight, so I have my fancy green shirt picked out,
 
-_[my nails are ready to go](/st-patricks-day-nail-art-design-plaid-and-shamrocks/ "St. Patrick’s Day Nail Art Design: Plaid & Shamrocks")_
+_[my nails are ready to go](/blog/st-patricks-day-nail-art-design-plaid-and-shamrocks/ "St. Patrick’s Day Nail Art Design: Plaid & Shamrocks")_
 
 , and I will likely wear a green bow in my hair as well. Whatever it is you plan on doing to celebrate, I hope you keep this Irish blessing in the back of your mind! It’s a lovely thought not just for today, but for every day. I wish you all happiness!

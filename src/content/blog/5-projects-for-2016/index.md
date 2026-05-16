@@ -51,7 +51,7 @@ tags:
 
 At the start of 2015, I posted about
 
-**[five projects](/5-projects-for-2015/)**
+**[five projects](/blog/5-projects-for-2015/)**
 
 I really wanted to try out during the year. I managed to craft some, but never got around to all of them. They will remain on my to-do list until I get a chance to complete them. In the meantime, I found 5 projects for 2016 that I’m just as excited about!
 

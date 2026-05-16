@@ -23,15 +23,15 @@ tags:
 
 Thanksgiving is just a week away! I’ve given you a few great ideas for themed nail art (did you like the
 
-**[leaves](/fall-nail-art/)**
+**[leaves](/blog/fall-nail-art/)**
 
 or the
 
-**[owls](/autumn-owls-nail-art/)**
+**[owls](/blog/autumn-owls-nail-art/)**
 
 better?) and I’ve handed you a pretty great
 
-**[Thanksgiving shopping list](/my-etsy-picks-thanksgiving-faves/)**
+**[Thanksgiving shopping list](/blog/my-etsy-picks-thanksgiving-faves/)**
 
 , too! Since Turkey Day is just one week away, I figured I’d share my Fashion Inspiration for the holiday as well.
 

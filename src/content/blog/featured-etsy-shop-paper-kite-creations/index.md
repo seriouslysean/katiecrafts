@@ -83,9 +83,9 @@ and
 
 , you should definitely follow her social media accounts!
 
-[](/paperkitecreations.blogspot.co.nz "Paper Kite Creations Blog")
+[](http://paperkitecreations.blogspot.co.nz/ "Paper Kite Creations Blog")
 
-[**Blog**](/paperkitecreations.blogspot.co.nz "Paper Kite Creations Blog")
+[**Blog**](http://paperkitecreations.blogspot.co.nz/ "Paper Kite Creations Blog")
 
 ♥︎
 

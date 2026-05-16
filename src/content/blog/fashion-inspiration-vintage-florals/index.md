@@ -39,7 +39,7 @@ tags:
 
 I’ve been wearing my vintage florals and butterflies print earrings and
 
-[bow](/how-to-sew-a-hair-bow/ "How To Sew A Hair Bow")
+[bow](/blog/how-to-sew-a-hair-bow/ "How To Sew A Hair Bow")
 
 a lot lately. The pattern is one I’ve always been drawn to. It makes me think of my Grandmother’s blue and white dishes, cute old things I’d find in her house, pearls, and nudes- as in the color- get your head out of the gutter! With all things vintage in mind (I really should have been born in a different era…), I came up with this dream outfit for this week’s fashion inspiration!
 
@@ -53,7 +53,7 @@ I already have and love the
 
 (you’ve probably seen that very color in several of my
 
-[nail art tutorials](/seaside-nail-art/ "Seaside Nail Art")
+[nail art tutorials](/blog/seaside-nail-art/ "Seaside Nail Art")
 
 ), and WISH that SOMEDAY I could afford those amazing Christian Louboutin Mary Janes! Sadly, they are equal in cost to my half of the rent, so that won’t be happening any time soon. Ah well! That’s why this is my “wish list,” right?
 

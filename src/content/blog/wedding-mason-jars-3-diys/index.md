@@ -45,7 +45,7 @@ tags:
 
 Last week’s
 
-[4th of July Mason Jar DIY](/4th-of-july-mason-jar-candles/ "4th of July Mason Jar Candles")
+[4th of July Mason Jar DIY](/blog/4th-of-july-mason-jar-candles/ "4th of July Mason Jar Candles")
 
 made me think back to my wedding! I used Mason jars in a few different ways, and had even more ways that I had wanted to use them (but simply ran out of time to do so!) Since we are smack in the middle of Wedding Season right now, I thought there would be no better time to share some great do-it-yourself ideas on how to use Mason jars at your own rustic shabby chic wedding!
 

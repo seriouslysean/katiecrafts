@@ -25,7 +25,7 @@ tags:
 
 Remember a few weeks back when I visited
 
-**[Longwood Gardens](/a-longwood-christmas/)**
+**[Longwood Gardens](/blog/a-longwood-christmas/)**
 
 ? I snapped this gorgeous photo of hot pinkish purple-y cyclamen in the Conservatory and I’ve been waiting to share it! I love the white/silver succulents they paired them with, too. It really makes them pop!
 

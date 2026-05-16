@@ -29,7 +29,7 @@ tags:
     name: "wordless wednesday"
 ---
 
-[Yesterday](/shofuso-japanese-house-and-garden/)
+[Yesterday](/blog/shofuso-japanese-house-and-garden/)
 
 I showed you a ton of photos from the Shofuso Japanese House and Garden from here in Philly. I even included a few beautiful shots of “tree peonies,” but I saved this one for today’s Wordless Wednesday because it’s my favorite!
 

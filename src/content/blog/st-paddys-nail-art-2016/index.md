@@ -27,11 +27,11 @@ tags:
 
 I’ve rocked some pretty cute nail art designs for St. Patrick’s Days past (remember my
 
-**[Classy Clovers](/nail-art-classy-clovers/)**
+**[Classy Clovers](/blog/nail-art-classy-clovers/)**
 
 and
 
-**[Plaid and Shamrocks](/st-patricks-day-nail-art-design-plaid-and-shamrocks/)**
+**[Plaid and Shamrocks](/blog/st-patricks-day-nail-art-design-plaid-and-shamrocks/)**
 
 looks?), so I obviously had to come up with something adorable for this year too! I took my inspiration from the buckle on a Leprechaun’s hat for this year’s look and am loving my St. Paddy’s Nail Art for 2016!
 

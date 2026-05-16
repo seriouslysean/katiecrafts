@@ -25,13 +25,13 @@ tags:
 
 Since it’s
 
-[National Pet Week](/national-pet-week/ "National Pet Week")
+[National Pet Week](/blog/national-pet-week/ "National Pet Week")
 
 , I went through all the tutorials I have bookmarked so I could share with you a bunch of fun and easy DIY pet projects! Some of these projects are ones I’ve completed already, some are ones I have on my “to-make” list. All are awesome! Pull up a chair, grab your supplies, and get started on a craft project designed just for your favorite furry friend!
 
 Want to learn how to make an amazing project pictured above? Find it’s link below!
 
-1. [Cozy Catnip Kitty Pillow](/cozy-catnip-kitty-pillow/ "Cozy Catnip Kitty Pillow on Katie Crafts")
+1. [Cozy Catnip Kitty Pillow](/blog/cozy-catnip-kitty-pillow/ "Cozy Catnip Kitty Pillow on Katie Crafts")
 
    by Katie Crafts
 
@@ -65,7 +65,7 @@ Want to learn how to make an amazing project pictured above? Find it’s link be
 
 Don’t forget to send in your pet’s photo and bio to Katie Crafts to include him or her in the Katie Crafts Reader’s Pet Round Up this Saturday! Learn more details from my
 
-[National Pet Week](/national-pet-week/ "National Pet Week")
+[National Pet Week](/blog/national-pet-week/ "National Pet Week")
 
 post from earlier this week!
 

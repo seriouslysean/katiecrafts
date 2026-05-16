@@ -39,7 +39,7 @@ First off, let’s define washi tape! “Washi” is actually a type of handmade
 
 I love doing “5 Uses For” posts. They force me to look outside the box for new uses for things I already own and need to get more creative with.
 
-[**Yesterday**](/sunday-funday-issue-18/ "Sunday Funday: Issue 18")
+[**Yesterday**](/blog/sunday-funday-issue-18/ "Sunday Funday: Issue 18")
 
 , I told you I had some fun washi tape posts coming up this week, and this is the first. I hope you enjoy all the picks I collected below for great uses for washi tape!
 

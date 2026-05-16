@@ -57,7 +57,7 @@ Ok so this easily could have doubled as my thing that makes me giggle, but since
 
 It’s gotta be pretty obvious, considering my post on Friday! I just adored it there \[plus it made me feel like I was on the set of “The Originals,” so there’s that… 😉 ] Go read
 
-[my recap](/nola-in-a-nutshell/ "NOLA in a Nutshell")
+[my recap](/blog/nola-in-a-nutshell/ "NOLA in a Nutshell")
 
 to see more pics!
 
