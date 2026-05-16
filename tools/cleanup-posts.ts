@@ -25,7 +25,7 @@ interface CleanupResult {
 const KNOWN_SHORTCODES = [/\[kc-adswap[^\]]*\]/gi, /\[\s*\]/g];
 const ALIGN_CLASSES = new Set(['aligncenter', 'alignleft', 'alignright', 'alignnone']);
 const WORDPRESS_CLASS_PREFIX = /^wp-/;
-const HTML_TAG_PATTERN = /<([a-z][a-z0-9]*)\b[^>]*>/gi;
+const HTML_TAG_PATTERN = /<([a-z][a-z0-9]*)\b(?!:\/\/)[^>]*>/gi;
 const ALLOWED_RAW_TAGS = new Set(['figure', 'figcaption', 'div']);
 
 const argv = await yargs(hideBin(process.argv))

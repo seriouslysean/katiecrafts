@@ -98,9 +98,15 @@ async function exportPost(slug: string) {
   const jsonRaw = await fs.readFile(jsonPath, 'utf8');
   const post = JSON.parse(jsonRaw) as PostData;
 
-  const imageFiles = await fs
+  const imageEntries = await fs
     .readdir(imagesDir)
     .catch(() => [] as string[]);
+  const imageFiles: string[] = [];
+  for (const file of imageEntries) {
+    const stat = await fs.stat(path.join(imagesDir, file)).catch(() => null);
+    if (!stat || !stat.isFile() || stat.size === 0) continue;
+    imageFiles.push(file);
+  }
   const imageMaps = createImageMaps(imageFiles);
 
   const { content, ...frontmatter } = post;
@@ -122,8 +128,11 @@ async function copyImages(sourceDir: string, targetDir: string, maps: ImageMaps)
     const files = await fs.readdir(sourceDir);
     await Promise.all(
       files.map(async file => {
+        const sourcePath = path.join(sourceDir, file);
+        const stat = await fs.stat(sourcePath).catch(() => null);
+        if (!stat || !stat.isFile() || stat.size === 0) return;
         const targetName = maps.fileMap.get(file) ?? file;
-        await fs.copyFile(path.join(sourceDir, file), path.join(targetDir, targetName));
+        await fs.copyFile(sourcePath, path.join(targetDir, targetName));
       })
     );
   } catch (error: any) {
@@ -203,19 +212,33 @@ function normalizeText(value: string): string {
 function rewriteBodyImages(markdown: string, maps: ImageMaps): string {
   if (!markdown) return markdown;
 
-  let result = markdown.replace(MARKDOWN_IMAGE_PATTERN, (_match, prefix, url, title, suffix) => {
+  let result = markdown.replace(MARKDOWN_IMAGE_PATTERN, (match, _prefix, url, _title, _suffix) => {
     const localName = resolveImageName(url, maps);
-    if (!localName) return `${prefix}${url}${title ?? ''}${suffix}`;
-    return `${prefix}./${localName}${title ?? ''}${suffix}`;
+    if (localName) return `![${extractAlt(match)}](./${localName}${_title ?? ''}${_suffix.replace(/^\)/, ')')}`;
+    if (isLocalLookingPath(url)) {
+      const alt = extractAlt(match);
+      return alt ? alt : '';
+    }
+    return match;
   });
 
-  result = result.replace(HTML_IMG_SRC_PATTERN, (_match, prefix, url, suffix) => {
+  result = result.replace(HTML_IMG_SRC_PATTERN, (match, prefix, url, suffix) => {
     const localName = resolveImageName(url, maps);
-    if (!localName) return `${prefix}${url}${suffix}`;
-    return `${prefix}./${localName}${suffix}`;
+    if (localName) return `${prefix}./${localName}${suffix}`;
+    if (isLocalLookingPath(url)) return '';
+    return match;
   });
 
   return result;
+}
+
+function extractAlt(markdownImage: string): string {
+  const altMatch = markdownImage.match(/^!\[([^\]]*)\]/);
+  return altMatch ? altMatch[1] : '';
+}
+
+function isLocalLookingPath(url: string): boolean {
+  return url.startsWith('./') || url.startsWith('../') || url.startsWith('/');
 }
 
 function basename(src: string): string {
