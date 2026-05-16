@@ -7,40 +7,74 @@ interface Props {
 const { title, url } = Astro.props;
 const encodedUrl = encodeURIComponent(url);
 const encodedTitle = encodeURIComponent(title);
-
-const links = [
-  {
-    label: 'Share on Facebook',
-    href: `https://www.facebook.com/sharer/sharer.php?u=${encodedUrl}`,
-  },
-  {
-    label: 'Share on X',
-    href: `https://twitter.com/intent/tweet?url=${encodedUrl}&text=${encodedTitle}`,
-  },
-  {
-    label: 'Share on Pinterest',
-    href: `https://pinterest.com/pin/create/button/?url=${encodedUrl}&description=${encodedTitle}`,
-  },
-  {
-    label: 'Share on Reddit',
-    href: `https://www.reddit.com/submit?url=${encodedUrl}&title=${encodedTitle}`,
-  },
-  {
-    label: 'Share via Email',
-    href: `mailto:?subject=${encodedTitle}&body=${encodedUrl}`,
-  },
-];
 ---
 
-<div class="share" aria-label="Share this post">
+<div class="share">
   <span class="share__label">Share</span>
   <ul class="share__list">
-    {links.map(link => (
-      <li>
-        <a class="share__link" href={link.href} target="_blank" rel="noopener noreferrer">
-          {link.label}
-        </a>
-      </li>
-    ))}
+    <li>
+      <a
+        class="share__link share__link--facebook"
+        href={`https://www.facebook.com/sharer/sharer.php?u=${encodedUrl}`}
+        target="_blank"
+        rel="noopener noreferrer"
+        aria-label="Share on Facebook"
+      >
+        <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+          <path d="M9.101 23.691v-7.98H6.627v-3.667h2.474v-1.58c0-4.085 1.848-5.978 5.858-5.978.401 0 .955.042 1.468.103a8.68 8.68 0 0 1 1.141.195v3.325a8.623 8.623 0 0 0-.653-.036 26.805 26.805 0 0 0-.733-.009c-.707 0-1.259.096-1.675.309a1.686 1.686 0 0 0-.679.622c-.258.42-.374.995-.374 1.752v1.297h3.919l-.386 2.103-.287 1.564h-3.246v8.245C19.396 23.238 24 18.179 24 12.044c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.628 3.874 10.35 9.101 11.647Z"/>
+        </svg>
+      </a>
+    </li>
+    <li>
+      <a
+        class="share__link share__link--x"
+        href={`https://twitter.com/intent/tweet?url=${encodedUrl}&text=${encodedTitle}`}
+        target="_blank"
+        rel="noopener noreferrer"
+        aria-label="Share on X"
+      >
+        <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+          <path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/>
+        </svg>
+      </a>
+    </li>
+    <li>
+      <a
+        class="share__link share__link--pinterest"
+        href={`https://pinterest.com/pin/create/button/?url=${encodedUrl}&description=${encodedTitle}`}
+        target="_blank"
+        rel="noopener noreferrer"
+        aria-label="Share on Pinterest"
+      >
+        <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+          <path d="M12.017 0C5.396 0 .029 5.367.029 11.987c0 5.079 3.158 9.417 7.618 11.162-.105-.949-.199-2.403.041-3.439.219-.937 1.406-5.957 1.406-5.957s-.359-.72-.359-1.781c0-1.663.967-2.911 2.168-2.911 1.024 0 1.518.769 1.518 1.688 0 1.029-.653 2.567-.992 3.992-.285 1.193.6 2.165 1.775 2.165 2.128 0 3.768-2.245 3.768-5.487 0-2.861-2.063-4.869-5.008-4.869-3.41 0-5.409 2.562-5.409 5.199 0 1.033.394 2.143.889 2.741.099.12.112.225.085.345-.09.375-.293 1.199-.334 1.363-.053.225-.172.271-.401.165-1.495-.69-2.433-2.878-2.433-4.646 0-3.776 2.748-7.252 7.92-7.252 4.158 0 7.392 2.967 7.392 6.923 0 4.135-2.607 7.462-6.233 7.462-1.214 0-2.357-.629-2.746-1.378l-.748 2.853c-.271 1.043-1.002 2.35-1.492 3.146C9.57 23.812 10.763 24 12.017 24c6.624 0 11.99-5.367 11.99-11.988C24.007 5.367 18.641.001 12.017.001z"/>
+        </svg>
+      </a>
+    </li>
+    <li>
+      <a
+        class="share__link share__link--reddit"
+        href={`https://www.reddit.com/submit?url=${encodedUrl}&title=${encodedTitle}`}
+        target="_blank"
+        rel="noopener noreferrer"
+        aria-label="Share on Reddit"
+      >
+        <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+          <path d="M12 0A12 12 0 0 0 0 12a12 12 0 0 0 12 12 12 12 0 0 0 12-12A12 12 0 0 0 12 0zm5.01 4.744c.688 0 1.25.561 1.25 1.249a1.25 1.25 0 0 1-2.498.056l-2.597-.547-.8 3.747c1.824.07 3.48.632 4.674 1.488.308-.309.73-.491 1.207-.491.968 0 1.754.786 1.754 1.754 0 .716-.435 1.333-1.01 1.614a3.111 3.111 0 0 1 .042.52c0 2.694-3.13 4.87-7.004 4.87-3.874 0-7.004-2.176-7.004-4.87 0-.183.015-.366.043-.534A1.748 1.748 0 0 1 4.028 12c0-.968.786-1.754 1.754-1.754.463 0 .898.196 1.207.49 1.207-.883 2.878-1.43 4.744-1.487l.885-4.182a.342.342 0 0 1 .14-.197.35.35 0 0 1 .238-.042l2.906.617a1.214 1.214 0 0 1 1.108-.701zM9.25 12C8.561 12 8 12.562 8 13.25c0 .687.561 1.248 1.25 1.248.687 0 1.248-.561 1.248-1.249 0-.688-.561-1.249-1.249-1.249zm5.5 0c-.687 0-1.248.561-1.248 1.25 0 .687.561 1.248 1.249 1.248.688 0 1.249-.561 1.249-1.249 0-.687-.562-1.249-1.25-1.249zm-5.466 3.99a.327.327 0 0 0-.231.094.33.33 0 0 0 0 .463c.842.842 2.484.913 2.961.913.477 0 2.105-.056 2.961-.913a.361.361 0 0 0 .029-.463.33.33 0 0 0-.464 0c-.547.533-1.684.73-2.512.73-.828 0-1.979-.196-2.512-.73a.326.326 0 0 0-.232-.095z"/>
+        </svg>
+      </a>
+    </li>
+    <li>
+      <a
+        class="share__link share__link--email"
+        href={`mailto:?subject=${encodedTitle}&body=${encodedUrl}`}
+        aria-label="Share via Email"
+      >
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+          <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/>
+          <polyline points="22,6 12,13 2,6"/>
+        </svg>
+      </a>
+    </li>
   </ul>
 </div>
