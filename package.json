@@ -27,7 +27,7 @@
     "new-post": "tsx tools/new-post.ts",
     "lint": "oxlint . --ignore-path .oxlintignore",
     "lint:fix": "oxlint . --fix --ignore-path .oxlintignore",
-    "typecheck": "tsc --noEmit",
+    "typecheck": "astro sync && tsc --noEmit",
     "audit:content": "tsx tools/audit-content.ts",
     "audit:markdown": "markdownlint-cli2 \"src/content/blog/**/*.md\"",
     "audit:links": "tsx tools/audit-links.ts",
@@ -58,7 +58,7 @@
     "remark-gfm": "^4.0.1",
     "remark-stringify": "^11.0.0",
     "tsx": "^4.22.0",
-    "typescript": "^6.0.3",
+    "typescript": "^7.0.2",
     "unist-util-visit": "^5.1.0",
     "yargs": "^18.0.0"
   }
