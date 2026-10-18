@@ -58,7 +58,7 @@
     "remark-gfm": "^4.0.1",
     "remark-stringify": "^11.0.0",
     "tsx": "^4.22.0",
-    "typescript": "^6.0.3",
+    "typescript": "^7.0.2",
     "unist-util-visit": "^5.1.0",
     "yargs": "^18.0.0"
   }
