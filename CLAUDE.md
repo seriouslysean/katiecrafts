@@ -17,9 +17,8 @@ Static site for katiecrafts.com on Astro 6, content imported from a legacy WordP
 - `npm run typecheck` — `tsc --noEmit` against `astro/tsconfigs/strict`.
 
 Quality gates (also run in CI before deploy):
-- `npm run audit` — full pipeline: `audit:content` → `audit:markdown` → `build` → `audit:html` → `audit:links`.
+- `npm run audit` — full pipeline: `audit:content` → `build` → `audit:html` → `audit:links`.
 - `npm run audit:content` — `tools/audit-content.ts`. Per-post structural checks (required frontmatter, image refs that don't resolve, etc.).
-- `npm run audit:markdown` — markdownlint-cli2 over post bodies.
 - `npm run audit:html` — html-validate over `dist/**/*.html` after build.
 - `npm run audit:links` — `tools/audit-links.ts`. Builds `dist/`, serves it on `localhost:5318` via linkinator, and resolves every internal link plus any absolute `katiecrafts.com` URL (rewritten to the local server). External hosts are skipped — link rot on someone else's site can't block deploys.
 
