@@ -241,4 +241,4 @@ _**\*After everything was sewn together, I added the eyes with black yarn and a 
 
 Isn’t Sweet N Cute Creations little hippo pattern just awesome!? How did mine come out?
 
-[![ Text](./post-types-1.png)]()
+![ Text](./post-types-1.png)
