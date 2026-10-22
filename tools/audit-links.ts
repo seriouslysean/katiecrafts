@@ -40,14 +40,13 @@ const CONTENT_TYPES: Record<string, string> = {
  * Serve dist/ ourselves instead of using linkinator's built-in server.
  *
  * linkinator's server is a plain http.createServer() with Node's default
- * headersTimeout (60s). undici opens connections speculatively; ones that
- * never carry a request are answered with an unsolicited "408 Request
- * Timeout" when the server times them out. If the client picks that socket
- * for a new request at the same moment, that link is reported as 408. The
- * audit takes about a minute on CI, so it lands right on the limit. Node
- * 26's bundled undici (8.x) hits this; Node 24's (7.x) happens not to. See
- * https://github.com/nodejs/node/blob/v26.12.1/lib/_http_server.js
- * (requestTimeoutResponse) and src/node_http_parser.cc (Expired).
+ * headersTimeout (60s). When a connection sits open without a request past
+ * that limit, Node answers it with an unsolicited "408 Request Timeout"
+ * (requestTimeoutResponse in lib/_http_server.js). If the crawler sends a
+ * request on that socket at the same moment, the link is reported as 408.
+ * CI's audit runs past 60s; on Node 26 one random link failed this way.
+ * Node 24 shows the same 408s when the timeouts are lowered, so this is not
+ * specific to 26.
  *
  * This is a short-lived local server for a trusted directory, so the
  * header/request timeouts are disabled.
