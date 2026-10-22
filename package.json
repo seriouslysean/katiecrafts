@@ -48,7 +48,7 @@
     "dotenv": "^17.4.2",
     "html-validate": "^11.1.0",
     "linkinator": "^7.6.1",
-    "node-html-parser": "^7.1.0",
+    "node-html-parser": "^9.0.5",
     "oxlint": "^1.65.0",
     "rehype-parse": "^9.0.1",
     "rehype-remark": "^10.0.1",
