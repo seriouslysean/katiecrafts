@@ -8,7 +8,7 @@ import rehypeRemark from 'rehype-remark';
 import remarkGfm from 'remark-gfm';
 import remarkStringify from 'remark-stringify';
 import { visit, SKIP } from 'unist-util-visit';
-import type { Root, Element, Text, Parent, Properties, ElementContent } from 'hast';
+import type { Root, Element, Text, Parent, ElementContent } from 'hast';
 import type { Node } from 'unist';
 import yargs from 'yargs';
 import { hideBin } from 'yargs/helpers';
@@ -490,7 +490,7 @@ function createPlaceholderFigure(): Element {
   };
 }
 
-function toClassList(value: Properties['className']): string[] {
+function toClassList(value: unknown): string[] {
   if (!value) return [];
   if (Array.isArray(value)) return value.map(String);
   if (typeof value === 'string') return value.split(/\\s+/).filter(Boolean);

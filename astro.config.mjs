@@ -6,6 +6,9 @@ export default defineConfig({
   site: 'https://www.katiecrafts.com',
   output: 'static',
   trailingSlash: 'always',
+  // Astro 7 defaults to 'jsx' whitespace handling, which drops the space between
+  // inline elements (e.g. category name and post count), so keep 'true'.
+  compressHTML: true,
   build: {
     inlineStylesheets: 'always',
   },
