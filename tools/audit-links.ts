@@ -78,8 +78,8 @@ const server = createServer({ headersTimeout: 0, requestTimeout: 0 }, async (req
     res.writeHead(404).end();
   }
 });
-await new Promise<void>(done => server.listen(0, done));
-const LOCAL_BASE = `http://localhost:${(server.address() as AddressInfo).port}`;
+await new Promise<void>(done => server.listen(0, '127.0.0.1', done));
+const LOCAL_BASE = `http://127.0.0.1:${(server.address() as AddressInfo).port}`;
 
 const checker = new LinkChecker();
 const result = await checker.check({
