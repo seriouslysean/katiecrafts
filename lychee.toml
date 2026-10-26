@@ -1,0 +1,13 @@
+# Link audit for the built site: npm run audit:links (also run in CI before deploy).
+# Offline: only local files are checked. External hosts are never requested, so
+# link rot on someone else's site can't block a deploy, and no network call is made.
+offline = true
+no_progress = true
+# Resolve root-relative links (/blog/...) against the build output.
+root_dir = "dist"
+# Absolute katiecrafts.com URLs are the same as root-relative ones: check them
+# against the built pages. That needs an absolute file URL, so the audit:links
+# script passes it as --remap.
+# 404.html is served for unknown URLs and is not linked from any page; its
+# canonical points at /404/, which has no page of its own.
+exclude_path = ['dist/404\.html$']

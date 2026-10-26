@@ -20,7 +20,8 @@ Quality gates (also run in CI before deploy):
 - `npm run audit` — full pipeline: `audit:content` → `build` → `audit:html` → `audit:links`.
 - `npm run audit:content` — `tools/audit-content.ts`. Per-post structural checks (required frontmatter, image refs that don't resolve, etc.).
 - `npm run audit:html` — html-validate over `dist/**/*.html` after build.
-- `npm run audit:links` — `tools/audit-links.ts`. Builds `dist/`, serves it on `localhost:5318` via linkinator, and resolves every internal link plus any absolute `katiecrafts.com` URL (rewritten to the local server). External hosts are skipped — link rot on someone else's site can't block deploys.
+- `npm run audit:links` — `lychee --offline` over built `dist/` (config in `lychee.toml`; install with `brew install lychee`, CI pins v0.24.2). Resolves every internal link and asset plus any absolute `katiecrafts.com` URL (remapped to `dist/`). No server and no network. External hosts are skipped — link rot on someone else's site can't block deploys. `404.html` is excluded: nothing links to it and its canonical points at `/404/`.
+  - Fallback: if lychee is dropped, the linkinator audit (own `dist/` server, header and request timeouts off to avoid random 408s) is `git show b8b403b:tools/audit-links.ts` (seriouslysean/katiecrafts#38, #39); it needs `linkinator@^7.6.1` back in devDependencies.
 
 WordPress migration pipeline (one-shot tooling, retained for re-imports):
 - `npm run tool:import-wordpress` — fetches `/wp-json/wp/v2/posts?_embed` from `www.katiecrafts.com`, writes `data/posts/<slug>/{post.json,wordpress.json,images/}` and updates `data/import-manifest.json`. Flags: `--dry-run`, `--start-page=N`, `--max-pages=N`.
