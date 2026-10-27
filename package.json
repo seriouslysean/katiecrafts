@@ -29,7 +29,7 @@
     "lint:fix": "oxlint . --fix --ignore-path .oxlintignore",
     "typecheck": "astro sync && tsc --noEmit",
     "audit:content": "tsx tools/audit-content.ts",
-    "audit:links": "tsx tools/audit-links.ts",
+    "audit:links": "lychee --config lychee.toml --remap \"https?://(www[.])?katiecrafts[.]com file://$PWD/dist\" dist",
     "audit:html": "html-validate \"dist/**/*.html\"",
     "audit": "npm run audit:content && npm run build && npm run audit:html && npm run audit:links"
   },
@@ -47,7 +47,6 @@
     "axios": "^1.20.0",
     "dotenv": "^17.4.2",
     "html-validate": "^11.17.0",
-    "linkinator": "^7.6.1",
     "node-html-parser": "^9.0.5",
     "oxlint": "^1.89.0",
     "rehype-parse": "^9.0.1",

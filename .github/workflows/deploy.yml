@@ -28,7 +28,10 @@ jobs:
       - run: npm run audit:content
       - run: npm run build
       - run: npm run audit:html
-      - run: npm run audit:links
+      - uses: lycheeverse/lychee-action@e7477775783ea5526144ba13e8db5eec57747ce8 # v2.9.0
+        with:
+          lycheeVersion: v0.24.2
+          args: --config lychee.toml --remap 'https?://(www[.])?katiecrafts[.]com file://${{ github.workspace }}/dist' dist
       - run: cp CNAME dist/CNAME
       - uses: actions/configure-pages@45bfe0192ca1faeb007ade9deae92b16b8254a0d # v6
       - uses: actions/upload-pages-artifact@fc324d3547104276b827a68afc52ff2a11cc49c9 # v5.0.0
