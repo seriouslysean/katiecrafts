@@ -14,7 +14,7 @@
   "license": "MIT",
   "author": "Sean Kennedy <sean@codeserious.com>",
   "engines": {
-    "node": ">=22.23.4"
+    "node": ">=24"
   },
   "scripts": {
     "dev": "astro dev",
