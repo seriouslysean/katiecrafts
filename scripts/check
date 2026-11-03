@@ -1,0 +1,17 @@
+#!/bin/sh
+# Runs what CI runs; prints one line per step and exits nonzero if any step failed.
+status=0
+if ! command -v lychee >/dev/null 2>&1; then
+  echo "FAIL lychee: not on PATH (brew install lychee; CI pins v0.24.2)"
+  exit 1
+fi
+for step in lint typecheck audit:content build audit:html audit:links; do
+  if out=$(npm run --silent "$step" 2>&1); then
+    echo "ok   $step"
+  else
+    echo "FAIL $step"
+    echo "$out"
+    status=1
+  fi
+done
+exit $status
