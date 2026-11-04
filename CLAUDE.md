@@ -16,7 +16,7 @@ Static site for katiecrafts.com on Astro 6, content imported from a legacy WordP
 - `npm run lint` / `npm run lint:fix` — oxlint (ignores in `.oxlintignore`).
 - `npm run typecheck` — `tsc --noEmit` against `astro/tsconfigs/strict`.
 
-Pre-push hook: `lefthook.yml` runs what CI runs on a pull request (lint, typecheck, `audit:content`, build, `audit:html`). Enable it once per clone with `lefthook install` (lefthook is not an npm dependency here; `brew install lefthook`). A failing check blocks the push; do not skip it.
+Pre-push hook: `.githooks/pre-push` runs `scripts/check`, what CI runs on a pull request (lint, typecheck, `audit:content`, build, `audit:html`, `audit:links`). Enable it once per clone with `git config core.hooksPath .githooks`; it needs `lychee` (`brew install lychee`) and fails without it. A failing check blocks the push; do not skip it.
 
 Quality gates (also run in CI before deploy):
 - `npm run audit` — full pipeline: `audit:content` → `build` → `audit:html` → `audit:links`.
