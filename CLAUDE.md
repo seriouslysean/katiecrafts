@@ -92,3 +92,4 @@ Defined in both `tsconfig.json` (for TS) and `astro.config.mjs` `vite.resolve.al
 ## Deploy
 
 Pushes to `main` trigger `.github/workflows/deploy.yml`, which builds the site and publishes to GitHub Pages via `actions/deploy-pages@v5` (OIDC, no `gh-pages` branch). The repo's Pages source must be set to "GitHub Actions" once in repo settings; `CNAME` is committed at the repo root and copied into `dist/` during the workflow.
+CI's `deploy-merged` job also starts `deploy.yml` after it auto-merges a Dependabot pull request, since a merge made by CI triggers no push run.
