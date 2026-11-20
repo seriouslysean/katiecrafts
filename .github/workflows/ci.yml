@@ -83,3 +83,29 @@ jobs:
           tar -xzf "$RUNNER_TEMP/lychee.tar.gz" -C "$RUNNER_TEMP" --strip-components 1 lychee-x86_64-unknown-linux-gnu/lychee
           echo "$RUNNER_TEMP" >> "$GITHUB_PATH"
       - run: npm run audit:links
+
+  # Squash-merges a Dependabot PR once the jobs above pass, if the update is a
+  # patch or minor; the steps live in splitleafhq/.github. A new PR job goes in
+  # needs: too, or this merges before it finishes.
+  automerge:
+    needs: [lint, typecheck, test, build]
+    if: github.event.pull_request.user.login == 'dependabot[bot]'
+    permissions:
+      contents: write
+      pull-requests: write
+    uses: splitleafhq/.github/.github/workflows/dependabot-auto-merge.yml@2ff5d9c790d0f53d8501f3cceb1ad20de5261565 # main at #22
+
+  # A merge made with GITHUB_TOKEN starts no workflows, so the push-to-main
+  # deploy would not run. workflow_dispatch is exempt.
+  deploy-merged:
+    needs: automerge
+    if: needs.automerge.outputs.merged == 'true'
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      actions: write
+    steps:
+      - env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+        run: gh workflow run deploy.yml --ref main
