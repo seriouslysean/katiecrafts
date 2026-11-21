@@ -37,7 +37,7 @@
     "@astrojs/rss": "^4.0.19",
     "@astrojs/sitemap": "3.7.5",
     "astro": "^7.4.12",
-    "entities": "^8.1.0",
+    "entities": "^9.0.0",
     "minisearch": "^7.2.0",
     "sharp": "^0.35.5"
   },
